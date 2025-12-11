@@ -397,6 +397,7 @@ http://mijn.opsterland.nl
 http://mijn.veere.nl
 http://mijn.voorschoten.nl
 http://mijn.wassenaar.nl
+http://mijn.zoetermeer.nl
 http://mijnafspraak.scherpenzeel.nl
 http://mijngeldzaken.denhaag.nl
 http://mijntomindebuurt.nieuwkoop.nl
@@ -424,7 +425,6 @@ http://open.sonenbreugel.nl
 http://open.staphorst.nl
 http://open.wierden.nl
 http://open.zuidplas.nl
-http://opendata-contrast.zoetermeer.nl
 http://openformulieren-zgw.acc.denhaag.nl
 http://openklant-zgw.test.denhaag.nl
 http://opennotificaties-zgw.acc.denhaag.nl
@@ -491,7 +491,6 @@ http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
 http://simcms-open.oirschot.nl
 http://simcms-open.wierden.nl
-http://simcms-raad.zoetermeer.nl
 http://simcms-werkenbij.t-diel.nl
 http://simcms-werkenvoor.westerkwartier.nl
 http://simcms.bronckhorst.nl
@@ -523,7 +522,6 @@ http://simsite.mookenmiddelaar.nl
 http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.twenterand.nl
-http://simsite.zoetermeer.nl
 http://simsite.zwartewaterland.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
@@ -678,7 +676,6 @@ http://www.weststellingwerf.nl
 http://www.wij.groningen.nl
 http://www.woz-portaal-eemnes.baarn.nl
 http://www.woz-portaal.baarn.nl
-http://www.zoetermeer.nl
 http://www.zorgloket.druten.nl
 http://www.zuidplas.nl
 http://zaak-acc.leeuwarden.nl
@@ -1931,6 +1928,7 @@ https://berichten.ommen.nl
 https://berichten.soest.nl
 https://berichten.uitgeest.nl
 https://berichten.valkenswaard.nl
+https://berichten.zoetermeer.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -3289,6 +3287,7 @@ https://felix.voorschoten.nl
 https://felix.wassenaar.nl
 https://felix.weststellingwerf.nl
 https://felix.wierden.nl
+https://felix.zoetermeer.nl
 https://felix.zundert.nl
 https://felixburgerzaken.nissewaard.nl
 https://felixpdc.doesburg.nl
@@ -4058,6 +4057,7 @@ https://iburgerzaken.wijdemeren.nl
 https://iburgerzaken.woensdrecht.nl
 https://iburgerzaken.zaltbommel.nl
 https://iburgerzaken.zeist.nl
+https://iburgerzaken.zoetermeer.nl
 https://iburgerzaken.zundert.nl
 https://iburgerzaken.zutphen.nl
 https://iburgerzaken.zwartewaterland.nl
@@ -4211,6 +4211,7 @@ https://ibzpink.wijdemeren.nl
 https://ibzpink.woensdrecht.nl
 https://ibzpink.zaltbommel.nl
 https://ibzpink.zeist.nl
+https://ibzpink.zoetermeer.nl
 https://ica.winterswijk.nl
 https://ict.gemeentesluis.nl
 https://id-erfpacht-tst.amsterdam.nl
@@ -4440,6 +4441,8 @@ https://introcms.roermond.nl
 https://intunevpn.meppel.nl
 https://inwonerportaal-test.zoetermeer.nl
 https://inwonerportaal.zoetermeer.nl
+https://inwonersportaal-preprod.zoetermeer.nl
+https://inwonersportaal.zoetermeer.nl
 https://inzagecleopatra.rotterdam.nl
 https://ipp.haarlem.nl
 https://iris.denhaag.nl
@@ -5751,6 +5754,7 @@ https://open.zoetermeer.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
+https://opendata-contrast.zoetermeer.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
@@ -6285,6 +6289,7 @@ https://preproductie.valkenswaard.nl
 https://preproductie.westerkwartier.nl
 https://preproductie.wierden.nl
 https://preproductie.woensdrecht.nl
+https://preproductie.zoetermeer.nl
 https://preproductie.zuidplas.nl
 https://preproductie.zwartewaterland.nl
 https://preproductiebroker.gemeentewesterveld.nl
@@ -6437,6 +6442,7 @@ https://raad.tiel.nl
 https://raad.tynaarlo.nl
 https://raad.velsen.nl
 https://raad.wijkbijduurstede.nl
+https://raad.zoetermeer.nl
 https://raad.zutphen.nl
 https://raad.zwijndrecht.nl
 https://raadplegen.denhaag.nl
@@ -6488,6 +6494,7 @@ https://remote.waalwijk.nl
 https://remote.westmaasenwaal.nl
 https://remote.westvoorne.nl
 https://remote.zaanstad.nl
+https://remote.zoetermeer.nl
 https://remote.zutphen.nl
 https://renkum.nl
 https://reserveren.vijfheerenlanden.nl
@@ -6681,11 +6688,13 @@ https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.gemeentebeek.nl
 https://simcms-open.staphorst.nl
+https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-preproductie.bladel.nl
 https://simcms-preproductie.winterswijk.nl
 https://simcms-preproductie.woensdrecht.nl
+https://simcms-raad.zoetermeer.nl
 https://simcms-samenindebuurt.heerlen.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
@@ -6717,6 +6726,7 @@ https://simcms.wassenaar.nl
 https://simcms.westmaasenwaal.nl
 https://simcms.weststellingwerf.nl
 https://simcms.winterswijk.nl
+https://simcms.zoetermeer.nl
 https://simcms.zuidplas.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.vlaardingen.nl
@@ -6754,6 +6764,7 @@ https://simsite.veere.nl
 https://simsite.westerkwartier.nl
 https://simsite.weststellingwerf.nl
 https://simsite.wierden.nl
+https://simsite.zoetermeer.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sint-michielsgestel.nl
@@ -7309,7 +7320,6 @@ https://top.geertruidenberg.nl
 https://topdesk.houten.nl
 https://topdesk.sittard-geleen.nl
 https://topdesk.venlo.nl
-https://topdesk.zoetermeer.nl
 https://topvorm.apeldoorn.nl
 https://tportal.noordoostpolder.nl
 https://tr.barneveld.nl
