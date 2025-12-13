@@ -1,6 +1,5 @@
 http://autodiscover.zuidplas.nl
-http://open.zuidplas.nl
-http://www.zuidplas.nl
+http://felix.zuidplas.nl
 http://zuidplas.nl
 https://apps.zuidplas.nl
 https://klantcontact.zuidplas.nl
@@ -12,3 +11,5 @@ https://mobielapp.zuidplas.nl
 https://preproductie.zuidplas.nl
 https://simcms-open.zuidplas.nl
 https://simcms.zuidplas.nl
+https://simsite.zuidplas.nl
+https://werkenbij.zuidplas.nl
