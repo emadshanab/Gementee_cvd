@@ -154,6 +154,7 @@ aauth.gouda.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
+abc.zwolle.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
 ac00089.delft.nl
@@ -329,6 +330,7 @@ acc-objecttypen.oostgelre.nl
 acc-objecttypen.roermond.nl
 acc-objecttypen.rotterdam.nl
 acc-objecttypen.zwolle.nl
+acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
 acc-openformulieren.gemert-bakel.nl
@@ -7173,6 +7175,7 @@ keycloak-admin.laarbeek.nl
 keycloak-admin.oldenzaal.nl
 keycloak-admin.oostgelre.nl
 keycloak-admin.roermond.nl
+keycloak-admin.zwolle.nl
 keycloak-zgw.acc.denhaag.nl
 keycloak-zgw.test.denhaag.nl
 keycloak.acc.denhaag.nl
@@ -14884,6 +14887,7 @@ zac.laarbeek.nl
 zac.oldenzaal.nl
 zac.oostgelre.nl
 zac.roermond.nl
+zac.zwolle.nl
 zaken.acceptatie.coevorden.nl
 zaken.acceptatie.dantumadiel.frl
 zaken.acceptatie.drechterland.nl

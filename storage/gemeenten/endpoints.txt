@@ -248,6 +248,7 @@ http://bergen.nl
 http://bergenopzoom.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://bewonersbrieven.amsterdam.nl
+http://bezoekersparkeren.zwolle.nl
 http://bi-sociaal.fa.amsterdam.nl
 http://bi-sociaal.ft.amsterdam.nl
 http://bladel.nl
@@ -438,8 +439,6 @@ http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
 http://ows-dmnsapi.groningen.nl
 http://ows-websrvc-test.groningen.nl
-http://p8-test.zwolle.nl
-http://p8.zwolle.nl
 http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
 http://parkerendenhaag.ot.denhaag.nl
@@ -730,6 +729,7 @@ https://aardgasvrij.nijmegen.nl
 https://abc.oldenzaal.nl
 https://abc.oostgelre.nl
 https://abc.roermond.nl
+https://abc.zwolle.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
 https://academie.landgraaf.nl
@@ -894,6 +894,7 @@ https://acc-objecttypen.oostgelre.nl
 https://acc-objecttypen.roermond.nl
 https://acc-objecttypen.rotterdam.nl
 https://acc-objecttypen.zwolle.nl
+https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
 https://acc-openklant.dev.assen.nl
@@ -2021,7 +2022,6 @@ https://bezoekersparkeren.hoorn.nl
 https://bezoekersparkeren.roermond.nl
 https://bezoekersparkeren.sittard-geleen.nl
 https://bezoekersparkeren.waalwijk.nl
-https://bezoekersparkeren.zwolle.nl
 https://bezwaar.acc.denhaag.nl
 https://bezwaar.denhaag.nl
 https://bgtt.bergenopzoom.nl
@@ -4213,6 +4213,7 @@ https://ibzpink.zoetermeer.nl
 https://ibzpink.zundert.nl
 https://ibzpink.zutphen.nl
 https://ibzpink.zwartewaterland.nl
+https://ibzpink.zwolle.nl
 https://ica.winterswijk.nl
 https://ict.gemeentesluis.nl
 https://id-erfpacht-tst.amsterdam.nl
@@ -4623,6 +4624,7 @@ https://keycloak-admin.laarbeek.nl
 https://keycloak-admin.oldenzaal.nl
 https://keycloak-admin.oostgelre.nl
 https://keycloak-admin.roermond.nl
+https://keycloak-admin.zwolle.nl
 https://keycloak-zgw.acc.denhaag.nl
 https://keycloak-zgw.test.denhaag.nl
 https://keycloak.acc.denhaag.nl
@@ -5690,7 +5692,6 @@ https://onlinestadsgesprek.harderwijk.nl
 https://ons.halderberge.nl
 https://ons.landvancuijk.nl
 https://ons.valkenswaard.nl
-https://onsovermorgen.zwolle.nl
 https://ontdek.tynaarlo.nl
 https://ontheffingen.wijdemeren.nl
 https://ontheffingmilieuzone.utrecht.nl
@@ -5881,7 +5882,6 @@ https://openzaakbrug-zgw.acc.denhaag.nl
 https://oploo.landvancuijk.nl
 https://opname.eindhoven.nl
 https://opsterland.nl
-https://opvang.zwolle.nl
 https://or.delft.nl
 https://oranjekwartier.deventer.nl
 https://oranjeplein.goirle.nl
@@ -6897,7 +6897,6 @@ https://stadsarchief.breda.nl
 https://stadsarchief.rotterdam.nl
 https://stadsatlas-contrast.zoetermeer.nl
 https://stadsatlas.zoetermeer.nl
-https://stadsbroekenijsselvizier.zwolle.nl
 https://stadsgesprekken.almere.nl
 https://stadshavens.groningen.nl
 https://stadskanaal.nl
@@ -7101,7 +7100,6 @@ https://test-eloket.nunspeet.nl
 https://test-formulier.assen.nl
 https://test-formulier.enschede.nl
 https://test-formulier.gemert-bakel.nl
-https://test-formulier.zwolle.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-intranet.gemeentestein.nl
@@ -8256,7 +8254,6 @@ https://www.ommen.nl
 https://www.ondernemen.ede.nl
 https://www.ondersteuning.olst-wijhe.nl
 https://www.onderwijssubsidies.amsterdam.nl
-https://www.onsovermorgen.zwolle.nl
 https://www.onzestad.nijmegen.nl
 https://www.oorlogenvrede.landvancuijk.nl
 https://www.oosterhout.nl
@@ -8267,7 +8264,6 @@ https://www.openstad.deventer.nl
 https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
 https://www.openstad.nijmegen.nl
-https://www.opvang.zwolle.nl
 https://www.oracbloemenbuurt.denhaag.nl
 https://www.oss.nl
 https://www.oude-ijsselstreek.nl
@@ -8338,7 +8334,6 @@ https://www.sportloket.landvancuijk.nl
 https://www.stad.kampen.nl
 https://www.stadsarchief.breda.nl
 https://www.stadsarchief.rotterdam.nl
-https://www.stadsbroekenijsselvizier.zwolle.nl
 https://www.stadskanaal.nl
 https://www.stadskrant-acc.denhaag.nl
 https://www.stadspas.venlo.nl
@@ -8542,6 +8537,7 @@ https://zac.laarbeek.nl
 https://zac.oldenzaal.nl
 https://zac.oostgelre.nl
 https://zac.roermond.nl
+https://zac.zwolle.nl
 https://zaken.acceptatie.winterswijk.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl

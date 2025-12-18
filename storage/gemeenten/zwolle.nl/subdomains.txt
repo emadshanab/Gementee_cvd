@@ -1,3 +1,4 @@
+abc.zwolle.nl
 acc-broker.zwolle.nl
 acc-contact.zwolle.nl
 acc-formulier.zwolle.nl
@@ -7,6 +8,7 @@ acc-mijn.zwolle.nl
 acc-notificaties.zwolle.nl
 acc-objecten.zwolle.nl
 acc-objecttypen.zwolle.nl
+acc-office-addin.zwolle.nl
 acc-openklant.zwolle.nl
 acc-openzaak.zwolle.nl
 acc-podiumd-logs.zwolle.nl
@@ -61,6 +63,7 @@ inc-ons.zwolle.nl
 initiatiefrijk.zwolle.nl
 jouwstukje.zwolle.nl
 kcc.zwolle.nl
+keycloak-admin.zwolle.nl
 keycloak.zwolle.nl
 koningsdag.zwolle.nl
 link.pr.zwolle.nl
@@ -150,4 +153,5 @@ www.opvang.zwolle.nl
 www.stadsbroekenijsselvizier.zwolle.nl
 www.webvpn.zwolle.nl
 www.zwolle.nl
+zac.zwolle.nl
 zwolle.nl
