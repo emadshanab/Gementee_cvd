@@ -16,6 +16,7 @@ http://acc.aip.amsterdam.nl
 http://acc.hior.amsterdam.nl
 http://acc.schoolwijzer.amsterdam.nl
 http://acceptatie-vaarvergunningen.amsterdam.nl
+http://achtkarspelen.nl
 http://activiteiten.amsterdam.nl
 http://afspraak.bergendal.nl
 http://afspraken.huizen.nl
@@ -4064,6 +4065,7 @@ https://iburgerzaken.zutphen.nl
 https://iburgerzaken.zwartewaterland.nl
 https://iburgerzaken.zwolle.nl
 https://ibzpink.aaenhunze.nl
+https://ibzpink.achtkarspelen.nl
 https://ibzpink.almelo.nl
 https://ibzpink.alphen-chaam.nl
 https://ibzpink.amersfoort.nl
@@ -6704,6 +6706,7 @@ https://simcms-samenindebuurt.heerlen.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
+https://simcms.achtkarspelen.nl
 https://simcms.baarn.nl
 https://simcms.bergendal.nl
 https://simcms.bladel.nl
