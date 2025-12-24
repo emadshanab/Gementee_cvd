@@ -10,6 +10,7 @@ https://edienstverlening-preprod.albrandswaard.nl
 https://edienstverlening.albrandswaard.nl
 https://loket.acceptatie.albrandswaard.nl
 https://loket.albrandswaard.nl
+https://mijn.albrandswaard.nl
 https://openpdc.albrandswaard.nl
 https://openpub.albrandswaard.nl
 https://preprod-mijn.albrandswaard.nl

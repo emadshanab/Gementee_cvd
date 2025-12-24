@@ -80,6 +80,7 @@ WOZ-loket.heeze-leende.nl
 WOZ-loket.valkenswaard.nl
 Www.lochem.nl
 _autodiscover._tcp.aalten.nl
+_autodiscover._tcp.albrandswaard.nl
 _autodiscover._tcp.ameland.nl
 _autodiscover._tcp.barendrecht.nl
 _autodiscover._tcp.bergeijk.nl
@@ -8125,6 +8126,7 @@ mijn-test.veenendaal.nl
 mijn-test.westerkwartier.nl
 mijn.aalten.nl
 mijn.accp.nijmegen.nl
+mijn.albrandswaard.nl
 mijn.alkmaar.nl
 mijn.almere.nl
 mijn.amersfoort.nl

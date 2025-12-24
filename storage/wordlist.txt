@@ -79,8 +79,8 @@ hybrid
 doemee
 cloudadapter
 kaarten
-klantcontact
 _autodiscover._tcp
+klantcontact
 digikoppeling.test
 parkeren-acc
 acc-broker
