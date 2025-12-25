@@ -410,8 +410,6 @@ huisstijl
 mijndesktop
 www2
 de
-pdc
-testafspraken
 veiligmailen
 secure-test
 sociaaldomein
@@ -588,6 +586,7 @@ suite4burgerzaken
 test-eloket
 uitwijk
 mbg
+pdc
 clicksfm
 servicebus
 webcon
@@ -670,6 +669,7 @@ ketenportaal.acceptatie
 secudoc
 www.login
 www.parkeren
+testafspraken
 prtg
 wmoloket
 berichtenverkeer
@@ -1231,8 +1231,6 @@ lvwoz
 sophos01
 a2b-rtr
 agwp01.azweu
-alk-fw01
-alk-fw02
 alkbip
 alkbip01
 alkbip02
@@ -1266,17 +1264,14 @@ nsx02
 pix-ia-sth
 pix-ia-stk
 portal.data
-pub
 rdw-test.authenticatie
 rdw.authenticatie
-redirector
 rom.authenticatie
 rtr-fw
 spyke-stw
 sthbcp02
 stkbcp01
 sw01
-werkplek.gslb
 wifi-sport
 almelo-centraal
 brandweer

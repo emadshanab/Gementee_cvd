@@ -1137,8 +1137,6 @@ alg-zgw.test.denhaag.nl
 algemenediensten.sudwestfryslan.nl
 algoritmeregister.amsterdam.nl
 algoritmeregister.rotterdam.nl
-alk-fw01.alkmaar.nl
-alk-fw02.alkmaar.nl
 alkbip.alkmaar.nl
 alkbip01.alkmaar.nl
 alkbip02.alkmaar.nl
@@ -9612,7 +9610,6 @@ pda.zaanstad.nl
 pdc-api.cg-intern.acc.utrecht.nl
 pdc-api.cg-intern.ont.utrecht.nl
 pdc-api.cg-intern.utrecht.nl
-pdc.alkmaar.nl
 pdc.buren.nl
 pdc.sittard-geleen.nl
 pdc.sudwestfryslan.nl
@@ -10264,7 +10261,6 @@ psmartdoc.heerlen.nl
 psn.ise.rotterdam.nl
 psquit2020.landgraaf.nl
 ptr.cranendonck.nl
-pub.alkmaar.nl
 pubgov.heerenveen.nl
 publicatie-test.castricum.nl
 publicatie.castricum.nl
@@ -10480,7 +10476,6 @@ redactiemijn-t.ot.denhaag.nl
 redi.denhaag.nl
 redirect.ede.nl
 redirect.leeuwarden.nl
-redirector.alkmaar.nl
 reflex.s-hertogenbosch.nl
 regelen-acc.haarlem.nl
 regelen.haarlem.nl
@@ -12250,7 +12245,6 @@ test.waalwijk.nl
 test.waddinxveen.nl
 test.website.westland.gemeentewestland.nl
 test.zaltbommel.nl
-testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
 testafspraken.peelenmaas.nl
@@ -13359,7 +13353,6 @@ werkplek.gemeentehw.nl
 werkplek.gemeentemaasgouw.nl
 werkplek.gooisemeren.nl
 werkplek.groningen.nl
-werkplek.gslb.alkmaar.nl
 werkplek.haarlemmermeer.nl
 werkplek.halderberge.nl
 werkplek.hilversum.nl

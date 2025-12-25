@@ -464,7 +464,6 @@ http://preproductie.leudal.nl
 http://preproductie.voorschoten.nl
 http://preproductie.winterswijk.nl
 http://raadsagenda.oirschot.nl
-http://redirector.alkmaar.nl
 http://regentesseplein.denhaag.nl
 http://renswoude.nl
 http://reuseldemierden.nl
@@ -6028,7 +6027,6 @@ https://payt.nieuwegein.nl
 https://pcmonitor.leudal.nl
 https://pcportal.nijmegen.nl
 https://pdc-api.cg-intern.utrecht.nl
-https://pdc.alkmaar.nl
 https://pdc.buren.nl
 https://pdc.sittard-geleen.nl
 https://pdc.sudwestfryslan.nl
@@ -6335,7 +6333,6 @@ https://prp.tiel.nl
 https://prtg.gemeentemaashorst.nl
 https://psiam.oostzaan.nl
 https://psiam.wormerland.nl
-https://pub.alkmaar.nl
 https://pubgov.heerenveen.nl
 https://publicaties.barneveld.nl
 https://publicaties.delft.nl
@@ -7195,7 +7192,6 @@ https://test.open-formulieren.vught.nl
 https://test.schiedam.nl
 https://test.subsites.leiden.nl
 https://test.utrecht.nl
-https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
 https://testbelastingbalie.hoorn.nl
 https://testbelastingen.zaanstad.nl
