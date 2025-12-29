@@ -538,7 +538,6 @@ stadsarchief
 digitaalnachtregister
 css.openstad
 rpl3
-ssp
 activesync
 crl
 acc.meldingen
@@ -1094,6 +1093,7 @@ test-kaartviewer
 my-lex
 veilig
 spf
+ssp
 www.cryptshare
 brk
 servicegatewayt

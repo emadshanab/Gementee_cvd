@@ -11619,7 +11619,6 @@ sso.staphorst.nl
 sso.utrecht.nl
 ssorad.rotterdam.nl
 ssp-acc.purmerend.nl
-ssp.alphenaandenrijn.nl
 ssp.kaagenbraassem.nl
 ssp.purmerend.nl
 ssrpm.rotterdam.nl
