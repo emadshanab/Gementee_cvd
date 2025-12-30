@@ -1341,6 +1341,7 @@ https://alwayson.lopik.nl
 https://alwayson.stichtsevecht.nl
 https://am-preprod.rotterdam.nl
 https://am.rotterdam.nl
+https://ameland.nl
 https://amersfoort.nl
 https://amstelveen.nl
 https://amsterdaminbeeld.acc.amsterdam.nl
@@ -6709,6 +6710,7 @@ https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
 https://simcms.achtkarspelen.nl
+https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergendal.nl
 https://simcms.bladel.nl
