@@ -56,8 +56,8 @@ api.meldingen-acc
 meldingen-acc
 data
 openpdc
-belastingbalie
 enterpriseregistration
+belastingbalie
 remote
 cmsoo
 loket.acceptatie
@@ -264,7 +264,6 @@ evenementen
 cms
 exchange
 mozardtest
-m
 www.test
 werkenvoor
 auth.openstad
@@ -299,8 +298,6 @@ academie
 belastingen-acc
 ro-online
 mozard
-bewustwording
-magazine
 wion
 img.openstad
 ns1
@@ -329,6 +326,7 @@ liquit
 radius
 beeldbankbeheer
 sbc01
+m
 bezoekersparkeren
 mijn-preproductie
 www.afspraken
@@ -373,6 +371,7 @@ cloud
 extern
 gp
 mam
+bewustwording
 programmabegroting
 autorisatiebeheer
 carel
@@ -391,6 +390,7 @@ subsidies-login
 sport
 mijnzaken
 openformulieren-test
+magazine
 webservices
 testbelastingloket
 raadsinformatie
@@ -539,6 +539,7 @@ digitaalnachtregister
 css.openstad
 rpl3
 activesync
+aovpn
 crl
 acc.meldingen
 api.acc.meldingen
@@ -765,7 +766,6 @@ qr.testdigitaalgemeenteloket
 samenveiligwerken
 testdigitaalgemeenteloket
 huishoudboekje
-redactie
 email.mail.denkmee
 aanmeldenparkeren
 acc-nieuwsbrief
@@ -832,7 +832,6 @@ zaak
 gisibonline
 werkomgeving
 koppelvlak
-aovpn
 data.gemnet
 testberichten
 helloid
@@ -1365,10 +1364,10 @@ www.uwdorpofwijk
 www.zwammerdamdorpskern
 zwammerdamdorpskern
 a-digikoppeling
-amersfoortinbeeld
 bestandversturen
 debelastingbalie
 deurwaardersloket
+e-dienstaanvragen
 email.wijkteam-bewustwording
 gbav1
 hybridmail
@@ -1379,7 +1378,6 @@ m2m
 p-2secure
 redactie.test
 ro-online1
-tracking
 vdi8
 wcs
 documenten.acceptatie
@@ -4495,6 +4493,7 @@ planontest
 preproddigidmachtigen
 prodsuitewiz
 prodwizraapl
+redactie
 telgids
 test-redactie
 testsuitewiz

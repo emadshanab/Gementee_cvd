@@ -1187,7 +1187,6 @@ am.rotterdam.nl
 ambacht.westervoort.nl
 ameland.nl
 amersfoort.nl
-amersfoortinbeeld.amersfoort.nl
 ami-acc.amsterdam.nl
 ami-dev.amsterdam.nl
 ami-tst.amsterdam.nl
@@ -1233,6 +1232,7 @@ aov.beverwijk.nl
 aov.groningen.nl
 aov.helmond.nl
 aov.smallingerland.nl
+aovpn.amersfoort.nl
 aovpn.bergen.nl
 aovpn.gulpen-wittem.nl
 ap01.alkmaar.nl
@@ -2164,7 +2164,6 @@ belastingbalie.acc.amsterdam.nl
 belastingbalie.acc.nissewaard.nl
 belastingbalie.acc.rhenen.nl
 belastingbalie.almere.nl
-belastingbalie.amersfoort.nl
 belastingbalie.amsterdam.nl
 belastingbalie.capelleaandenijssel.nl
 belastingbalie.doetinchem.nl
@@ -2428,7 +2427,6 @@ beveiligd.geertruidenberg.nl
 beverwijk.nl
 bewegen.apeldoorn.nl
 bewonersbrieven.amsterdam.nl
-bewustwording.amersfoort.nl
 bewustwording.brielle.nl
 bewustwording.gemeentestein.nl
 bewustwording.waalre.nl
@@ -4153,6 +4151,7 @@ dvlm.3d.utrecht.nl
 dwh-test.groningen.nl
 dwh.groningen.nl
 e-depot.rotterdam.nl
+e-dienstaanvragen.amersfoort.nl
 e-diensten.haarlem.nl
 e-diensten001.haarlem.nl
 e-facturen-prod.gemert-bakel.nl
@@ -7639,7 +7638,6 @@ lyncweb.haarlemmermeer.nl
 lyncweb.houten.nl
 lyncweb.peelenmaas.nl
 lyncweb.zwolle.nl
-m.amersfoort.nl
 m.groningen.nl
 m.hillegom.nl
 m.leiden.nl
@@ -7664,7 +7662,6 @@ maashees.landvancuijk.nl
 maasheggen.landvancuijk.nl
 maassluis.nl
 maatwerkacc.apeldoorn.nl
-magazine.amersfoort.nl
 magazine.dongen.nl
 magazine.goes.nl
 magazine.kampen.nl
@@ -10471,7 +10468,6 @@ rdwproxy.bergen-nh.nl
 recast-citrixapps.tilburg.nl
 reclame.nijmegen.nl
 redactie-extern.denhaag.nl
-redactie.amersfoort.nl
 redactie.nissewaard.nl
 redactie.test.amersfoort.nl
 redactiemijn-o.ot.denhaag.nl
@@ -12493,7 +12489,6 @@ topvorm.apeldoorn.nl
 tportal.noordoostpolder.nl
 tr.barneveld.nl
 tra.hengelo.nl
-tracking.amersfoort.nl
 tradities.doemee.bloemendaal.nl
 tradities.heemstede.nl
 trainersportaal.huizen.nl
