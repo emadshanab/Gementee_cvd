@@ -33,8 +33,8 @@ meldingen
 raad
 betalen
 broker
-geo
 parkeren
+geo
 api.meldingen
 adfs
 vpn
@@ -207,7 +207,6 @@ melddesk
 api.openstad
 mail2
 onderzoek
-jcc
 sharefile
 desktop
 intranet-acc
@@ -221,6 +220,7 @@ testloket
 telewerken
 zaaksysteem
 www.portal
+socialekaart
 kennisbank
 simform-preproductie
 wachtwoord
@@ -239,6 +239,7 @@ publicroam
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
+jcc
 fs
 www.gemeenteraad
 iarchief
@@ -256,7 +257,6 @@ cloudadapter-prod
 handhaving
 www.denkmee
 mijnzorg-acc
-socialekaart
 vergunningintaker-preprod
 praatmee
 subsidie
@@ -541,6 +541,7 @@ rpl3
 activesync
 aovpn
 crl
+energieloket
 acc.meldingen
 api.acc.meldingen
 app
@@ -767,6 +768,7 @@ samenveiligwerken
 testdigitaalgemeenteloket
 huishoudboekje
 email.mail.denkmee
+smartaim
 aanmeldenparkeren
 acc-nieuwsbrief
 afs
@@ -1078,7 +1080,6 @@ geoloket
 coda
 return
 www.thuiswerken
-energieloket
 gvonline
 testwerkplek
 Cloudadapter-test
@@ -3564,7 +3565,6 @@ sbc-aw365
 sbc-ha
 sfaccounts
 smartaim-test
-smartaim
 spinajaar
 spivoorjaar
 storefrontcb
