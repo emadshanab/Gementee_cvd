@@ -100,6 +100,7 @@ financien
 bgt
 simcms-open
 pki
+e
 osbacc
 snelbalie
 duurzaam
@@ -112,8 +113,8 @@ govroam
 samen
 test-cmsintranet
 mijnzorg
-e
 verkiezingen
+afvalkalender
 acc-contact
 acc-mijn
 acc-notificaties
@@ -133,7 +134,6 @@ dtestmidoffice
 squit2go
 vergunningintaker
 mijninkomen
-afvalkalender
 dali
 preprod
 qr
@@ -352,6 +352,7 @@ beheer
 parkeervergunning
 mijngeldzaken
 www.openstad
+aanmelden
 rooster
 admin.doemee
 api.doemee
@@ -424,11 +425,9 @@ applicaties
 belastingbalie-acc
 cms.openstad
 gbi
-geotest
 moh-acc
 moh
 werk
-www.raad
 media
 test-keycloak-admin
 test-keycloak
@@ -454,7 +453,6 @@ belastingportaal-test
 projecten
 matomo
 nieuws
-aanmelden
 autorisatiebeheer-test
 djumaproxy
 sync
@@ -561,7 +559,6 @@ parkeerapp
 smartdoc
 stadspas
 digid
-www.mijn
 bedrijfsafval
 vastgoed
 loket-acc
@@ -572,6 +569,7 @@ sentry
 acceptatieloket
 webserver
 intranetcms-acc
+www.raad
 identity
 zorgmail
 intranet-stats
@@ -666,6 +664,7 @@ www.belastingbalie
 burgerportaal
 mijnsubsidie
 flex
+geotest
 pip-test
 www.gemeente
 www.mobile
@@ -810,14 +809,13 @@ octobox
 tijdschrijven
 uitvaartagenda
 www.stadspas
+afvalwijzer
 digikoppelingtst
 leerplein
 nieuwkomers
-old
 testdigid
 wob
 www.geo
-www.old
 acc-contact.dev
 acc-formulier.dev
 acc-keycloak.dev
@@ -1036,6 +1034,7 @@ sso-test
 toerisme
 www.begroting
 www.govroam
+www.mijn
 www.stemvan
 www.toerisme
 corsanxt
@@ -2086,15 +2085,16 @@ edienstenweni
 geo1
 inkomen-test.mijn
 inkomen.mijn
+inzamelkalender
+inzamelwijzer
 jaarrekening
 jaarverslag
 loketacc
 meedenken
 mfa-rooster
 preprod-mijngeldzaken
-vastgoedbedrijf
+wWW
 www.meedenken
-www.vastgoedbedrijf
 acc-podiumd.sschosting.nl
 assengast1
 assengast2
@@ -4304,6 +4304,7 @@ maasheggen
 meldingen-test
 mill
 oeffelt
+old
 ontmoetingskaart
 oorlogenvrede
 oploo
@@ -4343,6 +4344,7 @@ www.agrifoodtech
 www.arrangementen
 www.beeldbank
 www.fietsroutes
+www.old
 www.oorlogenvrede
 www.rondleidingen
 www.shops
@@ -4442,7 +4444,6 @@ wionklic
 acceptatie.eloket
 leusden-checker-preprod
 leusden-checker
-afvalwijzer
 iris-acc
 klimaatbestendig
 nat
