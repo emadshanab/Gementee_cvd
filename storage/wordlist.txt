@@ -67,11 +67,11 @@ login
 cloudadapter-test
 osb
 kaart
+berichten
 digikoppeling-test
 beeldbank
 woningbouwkaart
 flowmailer-tracking
-berichten
 formulier
 denkmee
 doemee
@@ -354,6 +354,8 @@ mijngeldzaken
 www.openstad
 aanmelden
 rooster
+abc
+acc-abc
 admin.doemee
 api.doemee
 auth.doemee
@@ -429,6 +431,7 @@ moh-acc
 moh
 werk
 media
+test-contact
 test-keycloak-admin
 test-keycloak
 test-openklant
@@ -512,10 +515,8 @@ access
 bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
-acc-abc
 wonen
 awtunnel
-abc
 service
 belastingportaal.acc
 inloggen.belastingportaal
@@ -670,7 +671,6 @@ www.gemeente
 www.mobile
 gbionlinetest
 squit2gotest
-test-contact
 geo-secure
 ketenportaal.acceptatie
 secudoc
@@ -823,10 +823,12 @@ acc-mijn.dev
 acc-notificaties.dev
 acc-objecten.dev
 acc-objecttypen.dev
+acc-office-addin
 acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
+test-abc
 werknemersportaal
 www.evenementen
 www.vastgoed
@@ -2095,7 +2097,13 @@ mfa-rooster
 preprod-mijngeldzaken
 wWW
 www.meedenken
+acc-gpp-app
+acc-gpp-burgerportaal
+acc-gpp-publicatiebank
+acc-gpp-zoeken
+acc-ita
 acc-podiumd.sschosting.nl
+ananke
 assengast1
 assengast2
 conference
@@ -2104,11 +2112,15 @@ dcagast2
 digikoppeling-mks-test
 digikoppeling-mks
 geohr
+ita
 mijnplein
+office-addin
 organisatieontwikkeling
 point
 scorpio
 slimbereikbaar
+test-ita
+test-office-addin
 wbs003
 wbs004
 web2print
@@ -5350,7 +5362,6 @@ sts-azdev
 sts2
 taxivergunning
 teamurenplanninggezondheidmilieu
-test-abc
 this010
 thomas100
 thomas111
@@ -6495,7 +6506,6 @@ www.leestenschouwbroek
 digik
 zwijndrecht-checker-preprod
 zwijndrecht-checker
-acc-office-addin
 avedge
 beelden
 bezoekerspas
