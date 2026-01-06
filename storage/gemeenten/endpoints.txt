@@ -4249,6 +4249,7 @@ https://ibzpink.alphen-chaam.nl
 https://ibzpink.amersfoort.nl
 https://ibzpink.apeldoorn.nl
 https://ibzpink.assen.nl
+https://ibzpink.asten.nl
 https://ibzpink.bergendal.nl
 https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
@@ -5768,7 +5769,6 @@ https://objecttypen.rotterdam.nl
 https://objecttypen.zwolle.nl
 https://obsurv-acc.rotterdam.nl
 https://obsurv-t.sittard-geleen.nl
-https://obsurv.asten.nl
 https://obsurv.heerde.nl
 https://obsurv.loonopzand.nl
 https://obsurv.middendrenthe.nl

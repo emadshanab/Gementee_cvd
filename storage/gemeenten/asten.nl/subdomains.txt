@@ -15,7 +15,6 @@ ibzpink.asten.nl
 icm-ast.asten.nl
 loket-acc.asten.nl
 loket.asten.nl
-mail.asten.nl
 meldingen.asten.nl
 obsurv.asten.nl
 plannen.asten.nl

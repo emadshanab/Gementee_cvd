@@ -7918,7 +7918,6 @@ mail.almelo.nl
 mail.amersfoort.nl
 mail.apeldoorn.nl
 mail.arnhem.nl
-mail.asten.nl
 mail.barneveld.nl
 mail.bergen.nl
 mail.bergenopzoom.nl

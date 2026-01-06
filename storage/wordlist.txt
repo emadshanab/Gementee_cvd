@@ -9,8 +9,8 @@ intranet
 mijn
 webmail
 simsite
-mail
 digikoppeling
+mail
 afspraken
 preproductie
 simcms
