@@ -4250,6 +4250,7 @@ https://ibzpink.amersfoort.nl
 https://ibzpink.apeldoorn.nl
 https://ibzpink.assen.nl
 https://ibzpink.asten.nl
+https://ibzpink.baarle-nassau.nl
 https://ibzpink.bergendal.nl
 https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
