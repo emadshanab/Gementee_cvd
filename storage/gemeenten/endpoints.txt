@@ -711,7 +711,6 @@ http://www.overbetuwe.nl
 http://www.positioneringshuis.denhaag.nl
 http://www.praatmee.borsele.nl
 http://www.praatmee.goeree-overflakkee.nl
-http://www.preprod-woz-portaal-eemnes.baarn.nl
 http://www.projecten.denhaag.nl
 http://www.regiocheckervth.denhaag.nl
 http://www.remote.westvoorne.nl
@@ -738,8 +737,6 @@ http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.weststellingwerf.nl
 http://www.wij.groningen.nl
-http://www.woz-portaal-eemnes.baarn.nl
-http://www.woz-portaal.baarn.nl
 http://www.zorgloket.druten.nl
 http://yutpa.dev.rnd.amsterdam.nl
 http://zaak-acc.leeuwarden.nl
@@ -5917,6 +5914,7 @@ https://open-hub-acceptatie.tilburg.nl
 https://open-hub.tilburg.nl
 https://open-test.nijmegen.nl
 https://open.arnhem.nl
+https://open.baarn.nl
 https://open.barneveld.nl
 https://open.beverwijk.nl
 https://open.boxtel.nl
@@ -8495,6 +8493,7 @@ https://www.platform.culemborg.nl
 https://www.portal.olst-wijhe.nl
 https://www.positionering.denhaag.nl
 https://www.praatmee.alblasserdam.nl
+https://www.preprod-woz-portaal-eemnes.baarn.nl
 https://www.publicaties.s-hertogenbosch.nl
 https://www.purmerend.nl
 https://www.putten.nl
@@ -8643,6 +8642,8 @@ https://www.woerden.nl
 https://www.wormerland.nl
 https://www.woudenberg.nl
 https://www.woz-loket.coevorden.nl
+https://www.woz-portaal-eemnes.baarn.nl
+https://www.woz-portaal.baarn.nl
 https://www.xentialtest.veendam.nl
 https://www.zaanstad.nl
 https://www.zaltbommel.nl

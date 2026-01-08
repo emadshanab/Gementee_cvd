@@ -20,11 +20,13 @@ meedoen.baarn.nl
 mijn.baarn.nl
 neuron.prod.baarn.nl
 neuron.test.baarn.nl
+open.baarn.nl
 preprod-woz-portaal-eemnes.baarn.nl
 probeer.baarn.nl
 simcms.baarn.nl
 simsite.baarn.nl
 woz-portaal-eemnes.baarn.nl
+woz-portaal.baarn.nl
 www.baarn.nl
 www.preprod-woz-portaal-eemnes.baarn.nl
 www.woz-portaal-eemnes.baarn.nl

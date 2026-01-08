@@ -9356,6 +9356,7 @@ open-zaak.cg-intern.acc.utrecht.nl
 open-zaak.cg-intern.ont.utrecht.nl
 open-zaak.ot.denhaag.nl
 open.arnhem.nl
+open.baarn.nl
 open.barneveld.nl
 open.beverwijk.nl
 open.boxtel.nl
@@ -13893,6 +13894,7 @@ woz-loket.uitgeest.nl
 woz-loket.valkenswaard.nl
 woz-portaal-eemnes.baarn.nl
 woz-portaal-test.gemeente-steenbergen.nl
+woz-portaal.baarn.nl
 woz-portaal.drimmelen.nl
 woz-portaal.gemeente-steenbergen.nl
 woz-portaal.huizen.nl

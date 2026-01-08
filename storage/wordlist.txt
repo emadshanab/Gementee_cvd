@@ -233,6 +233,7 @@ afval
 opendata
 woo
 meet
+woz-portaal
 byod
 guest
 publicroam
@@ -281,7 +282,6 @@ key2gbav
 bestanden
 squit2020.acceptatie
 www.samen
-woz-portaal
 www.intranet
 midoffice
 documenten
