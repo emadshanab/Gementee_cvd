@@ -11,6 +11,7 @@ edienstverlening.barendrecht.nl
 intranet.barendrecht.nl
 loket.acceptatie.barendrecht.nl
 loket.barendrecht.nl
+mijn.barendrecht.nl
 openpdc.barendrecht.nl
 openpub.barendrecht.nl
 preprod-mijn.barendrecht.nl

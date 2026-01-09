@@ -8377,6 +8377,7 @@ mijn.amersfoort.nl
 mijn.arnhem.nl
 mijn.assen.nl
 mijn.baarn.nl
+mijn.barendrecht.nl
 mijn.beekdaelen.nl
 mijn.beuningen.nl
 mijn.borger-odoorn.nl

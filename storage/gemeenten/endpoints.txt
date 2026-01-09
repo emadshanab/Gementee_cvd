@@ -3175,6 +3175,7 @@ https://edienstenburgerzaken.zevenaar.nl
 https://edienstenburgerzaken.zoeterwoude.nl
 https://edienstenburgerzaken.zwijndrecht.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
+https://edienstenmijninkomen-acceptatie.barendrecht.nl
 https://edienstenmijninkomen-acceptatie.ridderkerk.nl
 https://edienstenmijninkomen.albrandswaard.nl
 https://edienstenmijninkomen.barendrecht.nl
@@ -5309,6 +5310,7 @@ https://mijn.almelo.nl
 https://mijn.amersfoort.nl
 https://mijn.assen.nl
 https://mijn.baarn.nl
+https://mijn.barendrecht.nl
 https://mijn.beuningen.nl
 https://mijn.borger-odoorn.nl
 https://mijn.buren.nl
