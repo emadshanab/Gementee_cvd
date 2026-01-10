@@ -29,9 +29,9 @@ portal
 acc
 waarmerk
 afspraak
+betalen
 meldingen
 raad
-betalen
 broker
 parkeren
 geo
@@ -112,7 +112,6 @@ extranet
 govroam
 samen
 test-cmsintranet
-mijnzorg
 verkiezingen
 afvalkalender
 acc-contact
@@ -132,6 +131,7 @@ www.webmail
 filecap
 dtestmidoffice
 squit2go
+mijnzorg
 vergunningintaker
 mijninkomen
 dali
@@ -258,7 +258,6 @@ mijnsociaaldomein
 cloudadapter-prod
 handhaving
 www.denkmee
-mijnzorg-acc
 vergunningintaker-preprod
 praatmee
 subsidie
@@ -272,7 +271,6 @@ auth.openstad
 e-loket
 openstad
 sslvpn
-publicaties
 support
 data-test
 xential
@@ -284,6 +282,7 @@ squit2020.acceptatie
 www.samen
 www.intranet
 midoffice
+mijnzorg-acc
 documenten
 geovisia
 gisib-test
@@ -317,6 +316,7 @@ cognos
 dkdtest
 test-secure
 woz-loket
+publicaties
 burgerloket
 ondernemersloket
 filetransfer
@@ -565,6 +565,7 @@ vastgoed
 loket-acc
 bestemmingsplannen
 accdrop
+id
 eforms
 sentry
 acceptatieloket
@@ -901,7 +902,6 @@ publicatie
 squit2go-backoffice
 reserveren
 wijzer
-id
 idtst
 joinconnect
 bor-acc
@@ -2151,9 +2151,12 @@ cis
 dkp
 dkt
 ggi
+id-acc
 jongerenraad
+mijnondersteuning-acc
+mijnondersteuning
 patternlab
-tr
+zaak-dev
 alarm
 baglevering
 simcms2

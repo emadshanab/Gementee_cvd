@@ -2491,6 +2491,7 @@ betaaltoolsorga-acc.rotterdam.nl
 betaaltoolsorga.rotterdam.nl
 betalen.almere.nl
 betalen.amsterdam.nl
+betalen.barneveld.nl
 betalen.belastingloket.s-hertogenbosch.nl
 betalen.bergen-nh.nl
 betalen.beverwijk.nl
@@ -6630,8 +6631,10 @@ icontroler.zwolle.nl
 icontrolertest-api.zwolle.nl
 icontrolertest.zwolle.nl
 ict.gemeentesluis.nl
+id-acc.barneveld.nl
 id-subsidies-login.acceptatie.ede.nl
 id-subsidies-login.ede.nl
+id.barneveld.nl
 id.dalfsen.nl
 id.krimpenerwaard.nl
 id.trouwen.tilburg.nl
@@ -8567,6 +8570,8 @@ mijnmobiel.hillegom.nl
 mijnmobiel.ovh.gemeentebeek.nl
 mijnmobiel.renkum.nl
 mijnmobiel.zaanstad.nl
+mijnondersteuning-acc.barneveld.nl
+mijnondersteuning.barneveld.nl
 mijnoverheid-test.oldenzaal.nl
 mijnoverheid.oldenzaal.nl
 mijnoverzicht.alphenaandenrijn.nl
@@ -8659,7 +8664,6 @@ mijnzi.beuningen.nl
 mijnzorg-acc.aalsmeer.nl
 mijnzorg-acc.alkmaar.nl
 mijnzorg-acc.amstelveen.nl
-mijnzorg-acc.barneveld.nl
 mijnzorg-acc.beesel.nl
 mijnzorg-acc.gennep.nl
 mijnzorg-acc.roosendaal.nl
@@ -8670,7 +8674,6 @@ mijnzorg.acc.utrecht.nl
 mijnzorg.accp.s-hertogenbosch.nl
 mijnzorg.alkmaar.nl
 mijnzorg.amstelveen.nl
-mijnzorg.barneveld.nl
 mijnzorg.beekdaelen.nl
 mijnzorg.beesel.nl
 mijnzorg.borne.nl
@@ -10540,7 +10543,6 @@ pubgov.heerenveen.nl
 publicatie-test.castricum.nl
 publicatie.castricum.nl
 publicatie.heiloo.nl
-publicaties.barneveld.nl
 publicaties.delft.nl
 publicaties.eindhoven.nl
 publicaties.nissewaard.nl
@@ -12783,7 +12785,6 @@ topdesktest.sudwestfryslan.nl
 topicus.sudwestfryslan.nl
 topvorm.apeldoorn.nl
 tportal.noordoostpolder.nl
-tr.barneveld.nl
 tra.hengelo.nl
 tradities.doemee.bloemendaal.nl
 tradities.heemstede.nl
@@ -15118,6 +15119,7 @@ yutpa.dev.rnd.amsterdam.nl
 yutpaworkshop.dev.rnd.amsterdam.nl
 zaak-acc.barneveld.nl
 zaak-acc.leeuwarden.nl
+zaak-dev.barneveld.nl
 zaak.barneveld.nl
 zaak.tynaarlo.nl
 zaakloket.ameland.nl

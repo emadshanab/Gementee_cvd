@@ -2079,6 +2079,7 @@ https://betaaltoolsorga-acc.rotterdam.nl
 https://betaaltoolsorga.rotterdam.nl
 https://betalen.almere.nl
 https://betalen.amsterdam.nl
+https://betalen.barneveld.nl
 https://betalen.belastingloket.s-hertogenbosch.nl
 https://betalen.bergen-nh.nl
 https://betalen.beverwijk.nl
@@ -4402,7 +4403,9 @@ https://ibzpink.zwartewaterland.nl
 https://ibzpink.zwolle.nl
 https://ica.winterswijk.nl
 https://ict.gemeentesluis.nl
+https://id-acc.barneveld.nl
 https://id-subsidies-login.ede.nl
+https://id.barneveld.nl
 https://id.dalfsen.nl
 https://id.krimpenerwaard.nl
 https://id.trouwen.tilburg.nl
@@ -5458,6 +5461,8 @@ https://mijnloonkostensubsidie-acc.utrecht.nl
 https://mijnloonkostensubsidie.utrecht.nl
 https://mijnmail.zaanstad.nl
 https://mijnmobiel.zaanstad.nl
+https://mijnondersteuning-acc.barneveld.nl
+https://mijnondersteuning.barneveld.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnoverzicht.purmerend.nl
@@ -5538,7 +5543,6 @@ https://mijnzi.beuningen.nl
 https://mijnzorg-acc.aalsmeer.nl
 https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
-https://mijnzorg-acc.barneveld.nl
 https://mijnzorg-acc.beesel.nl
 https://mijnzorg-acc.gennep.nl
 https://mijnzorg-acc.roosendaal.nl
@@ -5549,7 +5553,6 @@ https://mijnzorg.acc.utrecht.nl
 https://mijnzorg.accp.s-hertogenbosch.nl
 https://mijnzorg.alkmaar.nl
 https://mijnzorg.amstelveen.nl
-https://mijnzorg.barneveld.nl
 https://mijnzorg.beekdaelen.nl
 https://mijnzorg.beesel.nl
 https://mijnzorg.borne.nl
@@ -6536,7 +6539,6 @@ https://prtg.gemeentemaashorst.nl
 https://psiam.oostzaan.nl
 https://psiam.wormerland.nl
 https://pubgov.heerenveen.nl
-https://publicaties.barneveld.nl
 https://publicaties.delft.nl
 https://publicaties.eindhoven.nl
 https://publicaties.nissewaard.nl
@@ -7534,7 +7536,6 @@ https://topdesk.sittard-geleen.nl
 https://topdesk.venlo.nl
 https://topvorm.apeldoorn.nl
 https://tportal.noordoostpolder.nl
-https://tr.barneveld.nl
 https://tra.hengelo.nl
 https://tradities.doemee.bloemendaal.nl
 https://tradities.heemstede.nl
@@ -8680,6 +8681,7 @@ https://yivi.accp.nijmegen.nl
 https://yivi.nijmegen.nl
 https://youpp.westerwolde.nl
 https://zaak-acc.barneveld.nl
+https://zaak-dev.barneveld.nl
 https://zaak.barneveld.nl
 https://zaak.tynaarlo.nl
 https://zaakloket.ameland.nl
