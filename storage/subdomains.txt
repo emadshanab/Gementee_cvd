@@ -5358,7 +5358,6 @@ formulieren-intern.hoorn.nl
 formulieren-preprod.veere.nl
 formulieren-preproductie.vlaardingen.nl
 formulieren-test.almelo.nl
-formulieren-test.beesel.nl
 formulieren-test.bronckhorst.nl
 formulieren-test.culemborg.nl
 formulieren-test.duiven.nl
@@ -10141,7 +10140,6 @@ postbus1.huizen.nl
 postcodezoektool.rotterdam.nl
 postionering.denhaag.nl
 potjeswijzer.westerkwartier.nl
-powerbi.beesel.nl
 powerbrowser-esb.gorinchem.nl
 powerbrowsertest-esb.gorinchem.nl
 powerbrowsertest.gorinchem.nl

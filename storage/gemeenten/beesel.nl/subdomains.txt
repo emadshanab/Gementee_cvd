@@ -10,14 +10,12 @@ edienstenburgerzaken-test.beesel.nl
 edienstenburgerzaken.beesel.nl
 eforms.beesel.nl
 eloket.beesel.nl
-formulieren-test.beesel.nl
 formulieren.beesel.nl
 fs2016.beesel.nl
 gisibonline.beesel.nl
 iparticipatie.beesel.nl
 mijnzorg-acc.beesel.nl
 mijnzorg.beesel.nl
-powerbi.beesel.nl
 pv.beesel.nl
 samenmet.beesel.nl
 sentry.beesel.nl

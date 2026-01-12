@@ -159,7 +159,6 @@ connect.acceptatie
 contentbeheer
 ftp
 izaaksuite
-formulieren-test
 snelbaliepp
 vdi
 zac
@@ -170,6 +169,7 @@ belastingportaal
 en
 gisib
 bis
+formulieren-test
 bag
 sip
 gasten
@@ -2163,7 +2163,6 @@ simcms2
 test.mijnzorg
 bestuursinformatie
 fs2016
-powerbi
 samenmet
 www.samenmet
 drupalintranet
