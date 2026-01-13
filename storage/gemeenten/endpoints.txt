@@ -515,7 +515,6 @@ http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://preproductie.beekdaelen.nl
-http://preproductie.bergeijk.nl
 http://preproductie.cranendonck.nl
 http://preproductie.dalfsen.nl
 http://preproductie.deurne.nl
@@ -556,6 +555,7 @@ http://simcms-open.wierden.nl
 http://simcms-werkenbij.t-diel.nl
 http://simcms-werkenvoor.westerkwartier.nl
 http://simcms.beekdaelen.nl
+http://simcms.bergeijk.nl
 http://simcms.bronckhorst.nl
 http://simcms.doetinchem.nl
 http://simcms.halderberge.nl
@@ -4254,6 +4254,7 @@ https://ibzpink.assen.nl
 https://ibzpink.asten.nl
 https://ibzpink.baarle-nassau.nl
 https://ibzpink.beekdaelen.nl
+https://ibzpink.bergeijk.nl
 https://ibzpink.bergendal.nl
 https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
@@ -6481,6 +6482,7 @@ https://preprodidbroker.stedebroec.nl
 https://preprodscbroker.diemen.nl
 https://preprodscbroker.ouder-amstel.nl
 https://preprodscbroker.uithoorn.nl
+https://preproductie.bergeijk.nl
 https://preproductie.beuningen.nl
 https://preproductie.bronckhorst.nl
 https://preproductie.eersel.nl
@@ -6954,6 +6956,7 @@ https://simform.vlaardingen.nl
 https://simform.vlissingen.nl
 https://simform.voorschoten.nl
 https://simsite.beekdaelen.nl
+https://simsite.bergeijk.nl
 https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
