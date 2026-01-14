@@ -2412,6 +2412,7 @@ berichten-test.rijswijk.nl
 berichten.alphen-chaam.nl
 berichten.assen.nl
 berichten.baarle-nassau.nl
+berichten.bergen-nh.nl
 berichten.bergendal.nl
 berichten.cranendonck.nl
 berichten.dordrecht.nl
@@ -9361,6 +9362,7 @@ open-zaak.ot.denhaag.nl
 open.arnhem.nl
 open.baarn.nl
 open.barneveld.nl
+open.bergen-nh.nl
 open.beverwijk.nl
 open.boxtel.nl
 open.breda.nl

@@ -3,6 +3,7 @@ adfs.bergen-nh.nl
 autodiscover.bergen-nh.nl
 backup.bergen-nh.nl
 bergen-nh.nl
+berichten.bergen-nh.nl
 betalen.bergen-nh.nl
 dell1.servers1.bergen-nh.nl
 dell2.bergen-nh.nl
@@ -20,6 +21,7 @@ lrdstufxml.bergen-nh.nl
 mijnsociaalplein.bergen-nh.nl
 mijnsociaalportaal-acc.bergen-nh.nl
 mijnsociaalportaal.bergen-nh.nl
+open.bergen-nh.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 pv.bergen-nh.nl
 rdwproxy.bergen-nh.nl

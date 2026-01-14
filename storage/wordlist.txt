@@ -22,8 +22,8 @@ loket
 formulieren
 test
 eloket
-dkd
 open
+dkd
 werkplek
 portal
 acc
@@ -66,8 +66,8 @@ omgevingsvisie
 login
 cloudadapter-test
 osb
-kaart
 berichten
+kaart
 digikoppeling-test
 beeldbank
 woningbouwkaart

@@ -1,6 +1,7 @@
 http://autodiscover.bergen-nh.nl
 http://wij.bergen-nh.nl
 https://bergen-nh.nl
+https://berichten.bergen-nh.nl
 https://betalen.bergen-nh.nl
 https://edienstenburgerzaken-test.bergen-nh.nl
 https://edienstenburgerzaken.bergen-nh.nl
@@ -9,6 +10,7 @@ https://live.bergen-nh.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalportaal-acc.bergen-nh.nl
 https://mijnsociaalportaal.bergen-nh.nl
+https://open.bergen-nh.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://pv.bergen-nh.nl
 https://support.bergen-nh.nl
