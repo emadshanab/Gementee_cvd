@@ -63,10 +63,10 @@ cmsoo
 loket.acceptatie
 openpub
 omgevingsvisie
-login
 cloudadapter-test
 osb
 berichten
+login
 kaart
 digikoppeling-test
 beeldbank
@@ -2178,9 +2178,6 @@ lrdstufxml
 rdwproxy
 tabsign-koppelvlak
 tabsign
-BGNVSV002
-bgnvsv002
-bgnvsv003
 binnenshuis
 cms-binnenshuis
 e-loketstaging

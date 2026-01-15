@@ -34,7 +34,6 @@ AutoDiscover.uitwijk.denhaag.nl
 AutoDiscover.westvoorne.nl
 Autodiscover.hilversum.nl
 BAG.haarlemmermeer.nl
-BGNVSV002.bergen.nl
 BRK.meerssen.nl
 Belastingbalie-test.meppel.nl
 Belastingportaal-test.boxtel.nl
@@ -851,7 +850,6 @@ adeptiaconnect.acc.denhaag.nl
 adeptiaconnect.ot.denhaag.nl
 adfs.beekdaelen.nl
 adfs.bergen-nh.nl
-adfs.bergen.nl
 adfs.bernheze.org
 adfs.beverwijk.nl
 adfs.bodegraven-reeuwijk.nl
@@ -1036,7 +1034,6 @@ afspraken.asten.nl
 afspraken.baarle-nassau.nl
 afspraken.beekdaelen.nl
 afspraken.bergeijk.nl
-afspraken.bergen.nl
 afspraken.bergenopzoom.nl
 afspraken.bernheze.org
 afspraken.beverwijk.nl
@@ -2567,8 +2564,6 @@ bezoekerspas.zwolle.nl
 bezoekv2.rotterdam.nl
 bezwaar.acc.denhaag.nl
 bezwaar.denhaag.nl
-bgnvsv002.bergen.nl
-bgnvsv003.bergen.nl
 bgt.assen.nl
 bgt.baarn.nl
 bgt.brummen.nl
@@ -7693,7 +7688,6 @@ login-pre.mookenmiddelaar.nl
 login-pre.nijkerk.eu
 login.acc.denhaag.nl
 login.alphenaandenrijn.nl
-login.bergen.nl
 login.bernheze.org
 login.boekel.nl
 login.castricum.nl
@@ -7922,7 +7916,6 @@ mail.amersfoort.nl
 mail.apeldoorn.nl
 mail.arnhem.nl
 mail.barneveld.nl
-mail.bergen.nl
 mail.bergenopzoom.nl
 mail.bernheze.org
 mail.bloemendaal.nl
@@ -13406,7 +13399,6 @@ webmail-test.haarlem.nl
 webmail.alkmaar.nl
 webmail.amersfoort.nl
 webmail.bergen-nh.nl
-webmail.bergen.nl
 webmail.bernheze.org
 webmail.beverwijk.nl
 webmail.bloemendaal.nl
