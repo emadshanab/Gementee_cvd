@@ -361,6 +361,7 @@ http://extranet-acc.eemsdelta.nl
 http://extranetcms-acc.eemsdelta.nl
 http://fd-zgw.test.denhaag.nl
 http://felix.beekdaelen.nl
+http://felix.bergendal.nl
 http://felix.beverwijk.nl
 http://felix.bronckhorst.nl
 http://felix.dalfsen.nl
@@ -415,7 +416,6 @@ http://iga.denhaag.nl
 http://ikbouwin.denhaag.nl
 http://im.opmeer.nl
 http://internoss-test.oss.nl
-http://intranet-acc.bergendal.nl
 http://intranet-acc.landvancuijk.nl
 http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
@@ -4539,6 +4539,7 @@ https://internwifi.hellevoetsluis.nl
 https://intra.deventer.nl
 https://intra.dordrecht.nl
 https://intra.gooisemeren.nl
+https://intranet-acc.bergendal.nl
 https://intranet-acc.borne.nl
 https://intranet-acc.delft.nl
 https://intranet-acc.hoorn.nl
@@ -6919,7 +6920,6 @@ https://simcms.achtkarspelen.nl
 https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergen.nl
-https://simcms.bergendal.nl
 https://simcms.bladel.nl
 https://simcms.bunschoten.nl
 https://simcms.doesburg.nl
