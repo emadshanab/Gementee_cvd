@@ -38,16 +38,16 @@ geo
 api.meldingen
 adfs
 vpn
+iparticipatie
 ruimtelijkeplannen
 werkenbij
 belastingen
 gemeenteraad
 enterpriseenrollment
 testeloket
-iparticipatie
 pv
-zaaksysteem-accept
 test-ipa
+zaaksysteem-accept
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -774,6 +774,7 @@ samenveiligwerken
 testdigitaalgemeenteloket
 huishoudboekje
 email.mail.denkmee
+ems
 smartaim
 aanmeldenparkeren
 acc-nieuwsbrief
@@ -1394,7 +1395,6 @@ ro-online1
 vdi8
 wcs
 documenten.acceptatie
-ems
 fgt
 mail.denkmee
 webmailpost

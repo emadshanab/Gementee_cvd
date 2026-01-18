@@ -4865,6 +4865,7 @@ emm.groningen.nl
 emma.eijsden-margraten.nl
 emmen.nl
 ems.amstelveen.nl
+ems.bernheze.org
 en.aalten.nl
 en.cmsoo.gemert-bakel.nl
 en.geldrop-mierlo.nl
@@ -7050,6 +7051,7 @@ ip1060.kerkrade.nl
 iparticipatie.accp.s-hertogenbosch.nl
 iparticipatie.achtkarspelen.nl
 iparticipatie.beesel.nl
+iparticipatie.bernheze.org
 iparticipatie.bronckhorst.nl
 iparticipatie.coevorden.nl
 iparticipatie.derondevenen.nl
@@ -12330,6 +12332,7 @@ test-intranet.wageningen.nl
 test-intranet.zeist.nl
 test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
+test-ipa.bernheze.org
 test-ipa.coevorden.nl
 test-ipa.derondevenen.nl
 test-ipa.deventer.nl
