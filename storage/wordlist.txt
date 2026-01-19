@@ -851,7 +851,6 @@ zaak
 gisibonline
 werkomgeving
 koppelvlak
-data.gemnet
 testberichten
 helloid
 simcms-werkenbij
@@ -2184,6 +2183,7 @@ cms-binnenshuis
 e-loketstaging
 test-binnenshuis
 testcms-binnenshuis
+data.gemnet
 k1._domainkey
 privacybewustzijn
 programmavan
@@ -2205,11 +2205,8 @@ quarantine
 voip
 wooloket
 cms-joost
-data-test.gemnet
 energiek
-mijnaanvraagzi
 mijnzi
-preprod.mijnaanvraagzi
 probeer-energiek
 simcms-energiek
 test-mijnzi

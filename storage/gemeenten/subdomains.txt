@@ -3498,7 +3498,6 @@ data-acc.hilversum.nl
 data-test.bergendal.nl
 data-test.beuningen.nl
 data-test.druten.nl
-data-test.gemnet.beuningen.nl
 data-test.heumen.nl
 data-test.mookenmiddelaar.nl
 data-test.nijmegen.nl
@@ -3517,7 +3516,6 @@ data.delft.nl
 data.druten.nl
 data.eindhoven.nl
 data.gemnet.bergendal.nl
-data.gemnet.beuningen.nl
 data.groningen.nl
 data.haarlem.nl
 data.heumen.nl
@@ -8489,7 +8487,6 @@ mijn.zwartewaterland.nl
 mijn.zwolle.nl
 mijnaanvraag-test.zutphen.nl
 mijnaanvraag.zutphen.nl
-mijnaanvraagzi.beuningen.nl
 mijnaanvragen.purmerend.nl
 mijnaanvragensociaaldomein.venlo.nl
 mijnacc.montfoort.nl
@@ -10274,7 +10271,6 @@ preprod.heerde.nl
 preprod.heuvelrug.nl
 preprod.inloggen.meierijstad.nl
 preprod.kaagenbraassem.nl
-preprod.mijnaanvraagzi.beuningen.nl
 preprod.noordwijk.nl
 preprod.oldebroek.nl
 preprod.overbetuwe.nl
