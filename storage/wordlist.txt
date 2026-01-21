@@ -67,10 +67,10 @@ cloudadapter-test
 osb
 berichten
 login
+woningbouwkaart
 kaart
 digikoppeling-test
 beeldbank
-woningbouwkaart
 flowmailer-tracking
 formulier
 denkmee

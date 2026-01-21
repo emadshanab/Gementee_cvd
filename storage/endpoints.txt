@@ -363,6 +363,7 @@ http://extranetcms-acc.eemsdelta.nl
 http://fd-zgw.test.denhaag.nl
 http://felix.beekdaelen.nl
 http://felix.bergendal.nl
+http://felix.bladel.nl
 http://felix.bronckhorst.nl
 http://felix.dalfsen.nl
 http://felix.gemeentebeek.nl
@@ -3452,7 +3453,6 @@ https://felix.achtkarspelen.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beuningen.nl
-https://felix.bladel.nl
 https://felix.bunschoten.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
@@ -8092,6 +8092,7 @@ https://wonenin.deventer.nl
 https://wonenwelzijnenzorg.tiel.nl
 https://woningbouwkaart.aaenhunze.nl
 https://woningbouwkaart.assen.nl
+https://woningbouwkaart.bladel.nl
 https://woningbouwkaart.borger-odoorn.nl
 https://woningbouwkaart.coevorden.nl
 https://woningbouwkaart.dewolden.nl
@@ -8215,7 +8216,6 @@ https://www.bergenopzoom.nl
 https://www.bernheze.org
 https://www.beuningen.nl
 https://www.bibliotheek.rotterdam.nl
-https://www.bladel.nl
 https://www.blaricum.nl
 https://www.bloemendaal.nl
 https://www.bodegraven-reeuwijk.nl

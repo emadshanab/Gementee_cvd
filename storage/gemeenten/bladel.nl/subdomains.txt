@@ -12,4 +12,5 @@ probeer.bladel.nl
 simcms-preproductie.bladel.nl
 simcms.bladel.nl
 simsite.bladel.nl
+woningbouwkaart.bladel.nl
 www.bladel.nl

@@ -13838,6 +13838,7 @@ wonenwelzijnenzorg.tiel.nl
 woningbouw.buren.nl
 woningbouwkaart.aaenhunze.nl
 woningbouwkaart.assen.nl
+woningbouwkaart.bladel.nl
 woningbouwkaart.borger-odoorn.nl
 woningbouwkaart.coevorden.nl
 woningbouwkaart.dewolden.nl
