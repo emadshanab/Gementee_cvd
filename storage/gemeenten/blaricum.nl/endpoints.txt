@@ -1,4 +1,5 @@
+http://felix.blaricum.nl
+https://betalen.blaricum.nl
 https://blaricum.nl
 https://iburgerzaken.blaricum.nl
-https://ibzpink.blaricum.nl
-https://www.blaricum.nl
+https://simcms.blaricum.nl

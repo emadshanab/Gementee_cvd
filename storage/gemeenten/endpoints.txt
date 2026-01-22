@@ -364,6 +364,7 @@ http://fd-zgw.test.denhaag.nl
 http://felix.beekdaelen.nl
 http://felix.bergendal.nl
 http://felix.bladel.nl
+http://felix.blaricum.nl
 http://felix.bronckhorst.nl
 http://felix.dalfsen.nl
 http://felix.gemeentebeek.nl
@@ -2087,6 +2088,7 @@ https://betalen.barneveld.nl
 https://betalen.belastingloket.s-hertogenbosch.nl
 https://betalen.bergen-nh.nl
 https://betalen.beverwijk.nl
+https://betalen.blaricum.nl
 https://betalen.breda.nl
 https://betalen.castricum.nl
 https://betalen.denhelder.nl
@@ -4264,7 +4266,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.blaricum.nl
 https://ibzpink.bloemendaal.nl
 https://ibzpink.bodegraven-reeuwijk.nl
 https://ibzpink.boekel.nl
@@ -6929,6 +6930,7 @@ https://simcms.bergen.nl
 https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
 https://simcms.bladel.nl
+https://simcms.blaricum.nl
 https://simcms.bunschoten.nl
 https://simcms.doesburg.nl
 https://simcms.echt-susteren.nl
@@ -8216,7 +8218,6 @@ https://www.bergenopzoom.nl
 https://www.bernheze.org
 https://www.beuningen.nl
 https://www.bibliotheek.rotterdam.nl
-https://www.blaricum.nl
 https://www.bloemendaal.nl
 https://www.bodegraven-reeuwijk.nl
 https://www.boekel.nl

@@ -28,8 +28,8 @@ werkplek
 portal
 acc
 waarmerk
-afspraak
 betalen
+afspraak
 meldingen
 raad
 broker
