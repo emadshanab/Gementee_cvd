@@ -14,6 +14,8 @@ flowmailer-tracking.bloemendaal.nl
 gemeenteraad.bloemendaal.nl
 iburgerzaken.bloemendaal.nl
 ibzpink.bloemendaal.nl
+idselect-preprod.bloemendaal.nl
+idselect.bloemendaal.nl
 img.doemee.bloemendaal.nl
 mail.bloemendaal.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl

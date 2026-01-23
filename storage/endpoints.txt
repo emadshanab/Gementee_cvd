@@ -4266,7 +4266,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.bloemendaal.nl
 https://ibzpink.bodegraven-reeuwijk.nl
 https://ibzpink.boekel.nl
 https://ibzpink.coevorden.nl
@@ -4431,8 +4430,10 @@ https://idinloggen.oosterhout.nl
 https://idinloggenpre.oosterhout.nl
 https://ids-test.smallingerland.nl
 https://ids.smallingerland.nl
+https://idselect-preprod.bloemendaal.nl
 https://idselect-test.veenendaal.nl
 https://idselect.accp.s-hertogenbosch.nl
+https://idselect.bloemendaal.nl
 https://idselect.hollandskroon.nl
 https://idselect.s-hertogenbosch.nl
 https://idselect.veenendaal.nl
