@@ -172,6 +172,7 @@ bis
 formulieren-test
 bag
 sip
+fmreturn
 gasten
 mdm
 smtp
@@ -190,7 +191,6 @@ owa
 test-digikoppeling
 meedoen
 localhost
-fmreturn
 uc
 contentbeheer.acceptatie
 zaken.acceptatie
