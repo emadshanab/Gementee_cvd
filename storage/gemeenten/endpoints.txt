@@ -4267,7 +4267,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.boekel.nl
 https://ibzpink.coevorden.nl
 https://ibzpink.cranendonck.nl
 https://ibzpink.culemborg.nl
@@ -4559,6 +4558,7 @@ https://intranet-test.nissewaard.nl
 https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
 https://intranet.bernheze.org
+https://intranet.boekel.nl
 https://intranet.debilt.nl
 https://intranet.delft.nl
 https://intranet.deventer.nl
