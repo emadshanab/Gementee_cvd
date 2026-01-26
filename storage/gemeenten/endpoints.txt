@@ -794,6 +794,7 @@ https://aanvragenprod.teylingen.nl
 https://aardgasvrij.acc.nijmegen.nl
 https://aardgasvrij.nijmegen.nl
 https://abc.assen.nl
+https://abc.borger-odoorn.nl
 https://abc.oldenzaal.nl
 https://abc.oostgelre.nl
 https://abc.roermond.nl
@@ -804,6 +805,7 @@ https://academie.almere.nl
 https://academie.landgraaf.nl
 https://academie.smallingerland.nl
 https://acc-abc.assen.nl
+https://acc-abc.borger-odoorn.nl
 https://acc-abc.laarbeek.nl
 https://acc-abc.oldenzaal.nl
 https://acc-abc.oostgelre.nl
@@ -869,6 +871,7 @@ https://acc-gpp-publicatiebank.assen.nl
 https://acc-gpp-zoeken.assen.nl
 https://acc-idbroker.tynaarlo.nl
 https://acc-ita.assen.nl
+https://acc-ita.borger-odoorn.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
 https://acc-keycloak-admin.emmen.nl
@@ -963,6 +966,7 @@ https://acc-objecttypen.roermond.nl
 https://acc-objecttypen.rotterdam.nl
 https://acc-objecttypen.zwolle.nl
 https://acc-office-addin.assen.nl
+https://acc-office-addin.borger-odoorn.nl
 https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
@@ -3560,6 +3564,7 @@ https://fm.krimpenerwaard.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
 https://fmreturn.bodegraven-reeuwijk.nl
+https://fmreturn.borger-odoorn.nl
 https://fmreturn.dienstverlening.utrecht.nl
 https://fmreturn.echt-susteren.nl
 https://fmreturn.hoorn.nl
@@ -4658,6 +4663,7 @@ https://ironport.valkenburg.nl
 https://isms-acc.denhaag.nl
 https://isms.denhaag.nl
 https://ita.assen.nl
+https://ita.borger-odoorn.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -5817,6 +5823,7 @@ https://oegstgeest.nl
 https://oekraine.zaanstad.nl
 https://oens.almere.nl
 https://office-addin.assen.nl
+https://office-addin.borger-odoorn.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
 https://ogt.rotterdam.nl
@@ -8150,7 +8157,6 @@ https://wozbalie.pijnacker-nootdorp.nl
 https://wozbezwaar.westerkwartier.nl
 https://wozinventarisatie-acc.nijmegen.nl
 https://wozinventarisatie.nijmegen.nl
-https://wozloket-acc.borger-odoorn.nl
 https://wozloket-acc.coevorden.nl
 https://wozloket.borger-odoorn.nl
 https://wozloket.coevorden.nl

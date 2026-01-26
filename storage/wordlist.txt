@@ -25,9 +25,9 @@ eloket
 open
 dkd
 werkplek
+waarmerk
 portal
 acc
-waarmerk
 betalen
 afspraak
 meldingen
@@ -162,6 +162,7 @@ izaaksuite
 snelbaliepp
 vdi
 zac
+fmreturn
 jaarstukken
 inproces
 cryptshare
@@ -172,7 +173,6 @@ bis
 formulieren-test
 bag
 sip
-fmreturn
 gasten
 mdm
 smtp
@@ -300,6 +300,8 @@ mozard
 wion
 img.openstad
 ns1
+abc
+acc-abc
 dialin
 openformulieren
 test-mijn
@@ -354,8 +356,6 @@ mijngeldzaken
 www.openstad
 aanmelden
 rooster
-abc
-acc-abc
 admin.doemee
 api.doemee
 auth.doemee
@@ -561,6 +561,7 @@ parkeerapp
 smartdoc
 stadspas
 digid
+acc-office-addin
 bedrijfsafval
 vastgoed
 loket-acc
@@ -820,16 +821,18 @@ wob
 www.geo
 acc-contact.dev
 acc-formulier.dev
+acc-ita
 acc-keycloak.dev
 acc-mijn.dev
 acc-notificaties.dev
 acc-objecten.dev
 acc-objecttypen.dev
-acc-office-addin
 acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
+ita
+office-addin
 test-abc
 werknemersportaal
 www.evenementen
@@ -867,7 +870,6 @@ zonneparking.doemee
 oud
 gms
 typo3
-wozloket-acc
 mijnzorg-test
 testportal
 voormeldingen
@@ -2101,7 +2103,6 @@ acc-gpp-app
 acc-gpp-burgerportaal
 acc-gpp-publicatiebank
 acc-gpp-zoeken
-acc-ita
 acc-podiumd.sschosting.nl
 ananke
 assengast1
@@ -2112,9 +2113,7 @@ dcagast2
 digikoppeling-mks-test
 digikoppeling-mks
 geohr
-ita
 mijnplein
-office-addin
 organisatieontwikkeling
 point
 scorpio
@@ -2357,6 +2356,7 @@ test-cmshofnet
 test-hofnet
 wijzer.acceptatie
 wijzer.test
+wozloket-acc
 www.doe-mee
 www.woz-loket
 VRiSeLoket

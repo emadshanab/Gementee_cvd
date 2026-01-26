@@ -161,6 +161,7 @@ aauth.gouda.nl
 aba-acc.amsterdam.nl
 aba.amsterdam.nl
 abc.assen.nl
+abc.borger-odoorn.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -176,6 +177,7 @@ academie.landgraaf.nl
 academie.nederbetuwe.nl
 academie.smallingerland.nl
 acc-abc.assen.nl
+acc-abc.borger-odoorn.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -243,6 +245,7 @@ acc-gpp-publicatiebank.assen.nl
 acc-gpp-zoeken.assen.nl
 acc-idbroker.tynaarlo.nl
 acc-ita.assen.nl
+acc-ita.borger-odoorn.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -348,6 +351,7 @@ acc-objecttypen.roermond.nl
 acc-objecttypen.rotterdam.nl
 acc-objecttypen.zwolle.nl
 acc-office-addin.assen.nl
+acc-office-addin.borger-odoorn.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -5290,6 +5294,7 @@ fmiskoppeling-test.veldhoven.nl
 fmreturn.beekdaelen.nl
 fmreturn.beverwijk.nl
 fmreturn.bodegraven-reeuwijk.nl
+fmreturn.borger-odoorn.nl
 fmreturn.dienstverlening.utrecht.nl
 fmreturn.echt-susteren.nl
 fmreturn.hoorn.nl
@@ -7103,6 +7108,7 @@ isis.rotterdam.nl
 isms-acc.denhaag.nl
 isms.denhaag.nl
 ita.assen.nl
+ita.borger-odoorn.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -7924,6 +7930,7 @@ mail.barneveld.nl
 mail.bergenopzoom.nl
 mail.bernheze.org
 mail.bloemendaal.nl
+mail.borger-odoorn.nl
 mail.borne.nl
 mail.delft.nl
 mail.denhelder.nl
@@ -9192,6 +9199,7 @@ oegstgeest.nl
 oekraine.zaanstad.nl
 oens.almere.nl
 office-addin.assen.nl
+office-addin.borger-odoorn.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -13259,6 +13267,7 @@ waarmerk.assen.nl
 waarmerk.baarle-nassau.nl
 waarmerk.beuningen.nl
 waarmerk.blaricum.nl
+waarmerk.borger-odoorn.nl
 waarmerk.brielle.nl
 waarmerk.brunssum.nl
 waarmerk.castricum.nl
@@ -13920,7 +13929,6 @@ wozbalie.pijnacker-nootdorp.nl
 wozbezwaar.westerkwartier.nl
 wozinventarisatie-acc.nijmegen.nl
 wozinventarisatie.nijmegen.nl
-wozloket-acc.borger-odoorn.nl
 wozloket-acc.coevorden.nl
 wozloket.borger-odoorn.nl
 wozloket.coevorden.nl
