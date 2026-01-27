@@ -724,6 +724,7 @@ acceptatie.alphen-chaam.nl
 acceptatie.amstelveen.nl
 acceptatie.asten.nl
 acceptatie.baarle-nassau.nl
+acceptatie.borne.nl
 acceptatie.boxtel.nl
 acceptatie.culemborg.nl
 acceptatie.dantumadiel.frl

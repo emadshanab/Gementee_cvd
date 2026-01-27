@@ -1,3 +1,4 @@
+acceptatie.borne.nl
 acceptatieloket.borne.nl
 afspraken.borne.nl
 autodiscover.borne.nl

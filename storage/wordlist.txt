@@ -14,8 +14,8 @@ mail
 afspraken
 preproductie
 simcms
-secure
 acceptatie
+secure
 felix
 probeer
 loket
