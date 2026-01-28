@@ -1,7 +1,7 @@
 http://www.praatmee.borsele.nl
 https://acc.borsele.nl
-https://afspraak.borsele.nl
 https://afvalkalender.borsele.nl
+https://betalen.borsele.nl
 https://borsele.nl
 https://iburgerzaken.borsele.nl
 https://jcccloud.borsele.nl

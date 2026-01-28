@@ -1,6 +1,7 @@
 acc.borsele.nl
 afspraak.borsele.nl
 afvalkalender.borsele.nl
+betalen.borsele.nl
 borsele.nl
 brsoribi01.borsele.nl
 brsoribi02.borsele.nl
@@ -12,6 +13,7 @@ jongin.borsele.nl
 mailing.borsele.nl
 omgevingsvisie.borsele.nl
 praatmee.borsele.nl
+waarmerk.borsele.nl
 www.borsele.nl
 www.jongin.borsele.nl
 www.praatmee.borsele.nl

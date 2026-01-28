@@ -2498,6 +2498,7 @@ betalen.belastingloket.s-hertogenbosch.nl
 betalen.bergen-nh.nl
 betalen.beverwijk.nl
 betalen.blaricum.nl
+betalen.borsele.nl
 betalen.breda.nl
 betalen.castricum.nl
 betalen.denhelder.nl
@@ -13269,6 +13270,7 @@ waarmerk.baarle-nassau.nl
 waarmerk.beuningen.nl
 waarmerk.blaricum.nl
 waarmerk.borger-odoorn.nl
+waarmerk.borsele.nl
 waarmerk.brielle.nl
 waarmerk.brunssum.nl
 waarmerk.castricum.nl

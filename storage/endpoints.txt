@@ -1298,7 +1298,6 @@ https://afs.tst.amsterdam.nl
 https://afspraak-test.rijswijk.nl
 https://afspraak.arnhem.nl
 https://afspraak.barneveld.nl
-https://afspraak.borsele.nl
 https://afspraak.defryskemarren.nl
 https://afspraak.dijkenwaard.nl
 https://afspraak.eijsden-margraten.nl
@@ -2093,6 +2092,7 @@ https://betalen.belastingloket.s-hertogenbosch.nl
 https://betalen.bergen-nh.nl
 https://betalen.beverwijk.nl
 https://betalen.blaricum.nl
+https://betalen.borsele.nl
 https://betalen.breda.nl
 https://betalen.castricum.nl
 https://betalen.denhelder.nl
