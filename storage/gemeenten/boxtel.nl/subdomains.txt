@@ -17,8 +17,8 @@ netwerk.boxtel.nl
 open.boxtel.nl
 praatmee.boxtel.nl
 preprod-mijnoverzicht.boxtel.nl
-projecten.boxtel.nl
 test.boxtel.nl
 webmail.boxtel.nl
+woningbouwkaart.boxtel.nl
 woww.boxtel.nl
 www.boxtel.nl

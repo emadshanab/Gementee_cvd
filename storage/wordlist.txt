@@ -64,10 +64,10 @@ loket.acceptatie
 openpub
 omgevingsvisie
 cloudadapter-test
+woningbouwkaart
 osb
 berichten
 login
-woningbouwkaart
 kaart
 digikoppeling-test
 beeldbank
@@ -455,7 +455,6 @@ idselect
 wozloket
 jcccloud
 belastingportaal-test
-projecten
 matomo
 nieuws
 autorisatiebeheer-test
@@ -613,6 +612,7 @@ lvs
 ns2
 octopus-acc
 octopus
+projecten
 smartdocuments
 www.cjg
 cloudadapter-t

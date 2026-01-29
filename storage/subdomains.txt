@@ -10530,7 +10530,6 @@ programmabegroting2024.bronckhorst.nl
 programmabegroting2024.financielestukken.diemen.nl
 programmabegroting2024.financielestukken.ouder-amstel.nl
 programmavan.bergendal.nl
-projecten.boxtel.nl
 projecten.denhaag.nl
 projecten.lansingerland.nl
 projecten.nederbetuwe.nl
@@ -13860,6 +13859,7 @@ woningbouwkaart.aaenhunze.nl
 woningbouwkaart.assen.nl
 woningbouwkaart.bladel.nl
 woningbouwkaart.borger-odoorn.nl
+woningbouwkaart.boxtel.nl
 woningbouwkaart.coevorden.nl
 woningbouwkaart.dewolden.nl
 woningbouwkaart.eersel.nl

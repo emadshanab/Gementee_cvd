@@ -6434,7 +6434,6 @@ https://preprod-mijninkomen.doesburg.nl
 https://preprod-mijninkomen.dronten.nl
 https://preprod-mijninkomen.gouda.nl
 https://preprod-mijninkomen.terneuzen.nl
-https://preprod-mijnoverzicht.boxtel.nl
 https://preprod-mijnoverzicht.purmerend.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
 https://preprod-mijnplan.gemeenteberkelland.nl
@@ -8103,6 +8102,7 @@ https://woningbouwkaart.aaenhunze.nl
 https://woningbouwkaart.assen.nl
 https://woningbouwkaart.bladel.nl
 https://woningbouwkaart.borger-odoorn.nl
+https://woningbouwkaart.boxtel.nl
 https://woningbouwkaart.coevorden.nl
 https://woningbouwkaart.dewolden.nl
 https://woningbouwkaart.eersel.nl
