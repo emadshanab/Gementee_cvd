@@ -134,6 +134,7 @@ squit2go
 mijnzorg
 vergunningintaker
 mijninkomen
+subsidies
 dali
 preprod
 qr
@@ -146,7 +147,6 @@ gemeente
 begroting
 simform
 web
-subsidies
 preprod-mijninkomen
 auth
 acc-keycloak-admin
@@ -261,7 +261,6 @@ www.denkmee
 vergunningintaker-preprod
 praatmee
 subsidie
-evenementen
 cms
 exchange
 mozardtest
@@ -295,6 +294,7 @@ makelaar
 servicedesk
 academie
 belastingen-acc
+evenementen
 ro-online
 mozard
 wion
@@ -309,6 +309,7 @@ awmag
 beeldbank-bo
 simcms-preproductie
 intranetcms
+rap
 digikoppelingtest
 parkeervergunningen
 acc.piwik
@@ -370,7 +371,6 @@ geoserver
 nhr
 uca
 esb
-rap
 wifi
 cloud
 extern
@@ -758,6 +758,7 @@ leef
 regio
 snelbalietest
 sportencultuur
+subsidies-acc
 test.formulieren
 wijkteams
 centrumbegroot
@@ -876,11 +877,11 @@ voormeldingen
 wim2-acc
 Belastingportaal-test
 netwerk
-api-dev
 beheerbeeldbank
 ig
 inkomensondersteuning
 www.stadsarchief
+ztna
 esuitenotubiz-test
 ironport
 g-rooster
@@ -1353,7 +1354,6 @@ pv.diensten
 smap
 sportsupport
 stadsgesprekken
-subsidies-acc
 svs-acc
 svs
 talentcenter
@@ -2263,7 +2263,7 @@ woww
 2secureacc
 2securecloud
 2securecloudacc
-api-acc
+amalogcollector
 archieven.stadsarchief
 bouwdossiers.stadsarchief
 comoverheidacc
@@ -2278,12 +2278,16 @@ inkomensondersteuningpp
 knp
 kredietbankwestbrabant
 lavueltaholanda
+loonkostensubsidies-acc
+loonkostensubsidies
+mijnloonkostensubsidies-acc
+mijnloonkostensubsidies
+mijnsubsidies-acc
+mijnsubsidies
 mksacc
 parkeerabonnementen
 persoonlijk
 piwikacc
-webcamslingerweg
-webcamspinveld
 websiteacc
 webtoegang
 brlcmg
@@ -5193,6 +5197,7 @@ allegrodicos
 am-dev
 am-preprod
 am
+api-dev
 api-mtls
 appl.gw
 arbo-kwaliteit
@@ -6280,7 +6285,6 @@ www.ansvwl2016
 www.ansvwl2903
 www.anwebintwl2008
 www.mis
-ztna
 adproxy
 geoportal
 klicwion

@@ -323,7 +323,6 @@ http://contactregistratie.amsterdam.nl
 http://contactregistratie.tst.amsterdam.nl
 http://crl.denhaag.nl
 http://dashboard.makkelijkemarkt.mrkt-a.azure.amsterdam.nl
-http://data.breda.nl
 http://data.eindhoven.nl
 http://datatest.delft.nl
 http://decosafs.amsterdam.nl
@@ -1469,9 +1468,7 @@ https://aphrodite-am-balie.it4d.azure.amsterdam.nl
 https://aphrodite-am-oproepscherm.it4d.azure.amsterdam.nl
 https://aphrodite-am-toilet.it4d.azure.amsterdam.nl
 https://aphrodite-am.it4d.azure.amsterdam.nl
-https://api-acc.breda.nl
 https://api-acceptatie.tilburg.nl
-https://api-dev.breda.nl
 https://api-dev.rotterdam.nl
 https://api-hetravijn.hellendoorn.nl
 https://api-meldingen.acc.almelo.nl
@@ -2622,6 +2619,7 @@ https://data.amstelveen.nl
 https://data.bergendal.nl
 https://data.bergenopzoom.nl
 https://data.beuningen.nl
+https://data.breda.nl
 https://data.delft.nl
 https://data.groningen.nl
 https://data.haarlem.nl
@@ -3437,7 +3435,6 @@ https://esuitenotubiz-test.westvoorne.nl
 https://etl.haarlemmermeer.nl
 https://etten-leur.nl
 https://evenementen.almere.nl
-https://evenementen.breda.nl
 https://evenementen.landvancuijk.nl
 https://evenementen.rotterdam.nl
 https://evenementenvergunning.rotterdam.nl
@@ -5077,6 +5074,8 @@ https://loket.zwijndrecht.nl
 https://lokettest.texel.nl
 https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
+https://loonkostensubsidies-acc.breda.nl
+https://loonkostensubsidies.breda.nl
 https://loonopzand.nl
 https://losser.nl
 https://luchen.geldrop-mierlo.nl
@@ -5478,6 +5477,8 @@ https://mijnloket.ir.rotterdam.nl
 https://mijnloket.nieuwkoop.nl
 https://mijnloonkostensubsidie-acc.utrecht.nl
 https://mijnloonkostensubsidie.utrecht.nl
+https://mijnloonkostensubsidies-acc.breda.nl
+https://mijnloonkostensubsidies.breda.nl
 https://mijnmail.zaanstad.nl
 https://mijnmobiel.zaanstad.nl
 https://mijnondersteuning-acc.barneveld.nl
@@ -5536,6 +5537,8 @@ https://mijnsubsidie.eindhoven.nl
 https://mijnsubsidie.haarlemmermeer.nl
 https://mijnsubsidie.test.eindhoven.nl
 https://mijnsubsidie.utrecht.nl
+https://mijnsubsidies-acc.breda.nl
+https://mijnsubsidies.breda.nl
 https://mijntalent-acc.gennep.nl
 https://mijntalent.gennep.nl
 https://mijntalentcenter.gemeentehulst.nl
@@ -7232,6 +7235,7 @@ https://subsidieloket.alkmaar.nl
 https://subsidieloket.midden-groningen.nl
 https://subsidieloket.zwolle.nl
 https://subsidies-acc.almere.nl
+https://subsidies-acc.breda.nl
 https://subsidies-acceptatie.gemeentewestland.nl
 https://subsidies-backend-acceptatie.gemeentewestland.nl
 https://subsidies-backend-test.heerenveen.nl
@@ -7269,6 +7273,7 @@ https://subsidies.acceptatie.maassluis.nl
 https://subsidies.almelo.nl
 https://subsidies.almere.nl
 https://subsidies.backoffice.nijmegen.nl
+https://subsidies.breda.nl
 https://subsidies.debilt.nl
 https://subsidies.ede.nl
 https://subsidies.gemeentemaastricht.nl
@@ -7868,8 +7873,6 @@ https://web001.waterland.nl
 https://web01.deventer.nl
 https://web02.deventer.nl
 https://webcams.gouda.nl
-https://webcamslingerweg.breda.nl
-https://webcamspinveld.breda.nl
 https://webdav.goeree-overflakkee.nl
 https://webdiensten.rotterdam.nl
 https://webformulieren-acc.hoorn.nl
@@ -8829,6 +8832,7 @@ https://zs-accept.zeist.nl
 https://zs.noordoostpolder.nl
 https://zsaccept.heusden.nl
 https://zsnl-acceptatie.hilversum.nl
+https://ztna.breda.nl
 https://zuil.gemeentehw.nl
 https://zutphen.nl
 https://zwammerdamdorpskern.alphenaandenrijn.nl

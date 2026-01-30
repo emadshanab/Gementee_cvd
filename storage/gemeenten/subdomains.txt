@@ -1252,6 +1252,7 @@ alwaysonvpn.veere.nl
 am-dev.rotterdam.nl
 am-preprod.rotterdam.nl
 am.rotterdam.nl
+amalogcollector.breda.nl
 amaps.amsterdam.nl
 ambacht.westervoort.nl
 ameland.nl
@@ -1326,9 +1327,7 @@ aphrodite-am-oproepscherm.it4d.azure.amsterdam.nl
 aphrodite-am-toilet.it4d.azure.amsterdam.nl
 aphrodite-am-uitslag.it4d.azure.amsterdam.nl
 aphrodite-am.it4d.azure.amsterdam.nl
-api-acc.breda.nl
 api-acceptatie.tilburg.nl
-api-dev.breda.nl
 api-dev.data.leiden.nl
 api-dev.rotterdam.nl
 api-gateway-ot.tilburg.nl
@@ -5029,7 +5028,6 @@ ev-edienstenburgerzaken.echt-susteren.nl
 evenementen-acc.denhaag.nl
 evenementen.almere.nl
 evenementen.assen.nl
-evenementen.breda.nl
 evenementen.denhaag.nl
 evenementen.landvancuijk.nl
 evenementen.nijmegen.nl
@@ -7843,6 +7841,8 @@ lokettest.texel.nl
 loo-tv.brunssum.nl
 loonkostensubsidie-acc.utrecht.nl
 loonkostensubsidie.utrecht.nl
+loonkostensubsidies-acc.breda.nl
+loonkostensubsidies.breda.nl
 loonopzand.nl
 lopik.nl
 losser.nl
@@ -8571,6 +8571,8 @@ mijnloket.nieuwkoop.nl
 mijnloket.vlaardingen.nl
 mijnloonkostensubsidie-acc.utrecht.nl
 mijnloonkostensubsidie.utrecht.nl
+mijnloonkostensubsidies-acc.breda.nl
+mijnloonkostensubsidies.breda.nl
 mijnmail.zaanstad.nl
 mijnmobiel.gemeentebeek.nl
 mijnmobiel.hillegom.nl
@@ -8639,6 +8641,8 @@ mijnsubsidie.eindhoven.nl
 mijnsubsidie.haarlemmermeer.nl
 mijnsubsidie.test.eindhoven.nl
 mijnsubsidie.utrecht.nl
+mijnsubsidies-acc.breda.nl
+mijnsubsidies.breda.nl
 mijnswf.sudwestfryslan.nl
 mijntalent-acc.gennep.nl
 mijntalent.gennep.nl
@@ -10736,6 +10740,7 @@ radius.woerden.nl
 radius.zwolle.nl
 rads.rotterdam.nl
 rap.bergenopzoom.nl
+rap.breda.nl
 rap.echt-susteren.nl
 rap.gemeentesluis.nl
 rap.haarlemmermeer.nl
@@ -12070,6 +12075,7 @@ subsidieloket.midden-groningen.nl
 subsidieloket.zwolle.nl
 subsidieregister.denhaag.nl
 subsidies-acc.almere.nl
+subsidies-acc.breda.nl
 subsidies-acceptatie.gemeentewestland.nl
 subsidies-backend-acceptatie.gemeentewestland.nl
 subsidies-backend-test.heerenveen.nl
@@ -12110,6 +12116,7 @@ subsidies.acceptatie.maassluis.nl
 subsidies.almelo.nl
 subsidies.almere.nl
 subsidies.backoffice.nijmegen.nl
+subsidies.breda.nl
 subsidies.debilt.nl
 subsidies.ede.nl
 subsidies.gemeentemaastricht.nl
@@ -13270,6 +13277,7 @@ waarmerk.beuningen.nl
 waarmerk.blaricum.nl
 waarmerk.borger-odoorn.nl
 waarmerk.borsele.nl
+waarmerk.breda.nl
 waarmerk.brielle.nl
 waarmerk.brunssum.nl
 waarmerk.castricum.nl
@@ -13392,8 +13400,6 @@ webapps.aaenhunze.nl
 webarchief.nijmegen.nl
 webcam.enschede.nl
 webcams.gouda.nl
-webcamslingerweg.breda.nl
-webcamspinveld.breda.nl
 webcon.castricum.nl
 webcon.hoorn.nl
 webcon.peelenmaas.nl
@@ -15309,6 +15315,7 @@ zsaccept.heusden.nl
 zsnl-acceptatie.hilversum.nl
 zsnl.voorst.nl
 zst.noordoostpolder.nl
+ztna.breda.nl
 ztna.waterland.nl
 zuidplas.nl
 zuil.gemeentehw.nl
