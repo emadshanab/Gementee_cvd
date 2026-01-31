@@ -1,10 +1,10 @@
 http://AutoDiscover.brielle.nl
 http://autodiscover.brielle.nl
+http://dali.brielle.nl
 https://bewustwording.brielle.nl
 https://brielle.nl
 https://brlcmg.brielle.nl
 https://citrix.brielle.nl
-https://dali.brielle.nl
 https://digikoppeling.brielle.nl
 https://iburgerzaken.brielle.nl
 https://ironport.brielle.nl
@@ -15,6 +15,7 @@ https://smartdoc-brl.brielle.nl
 https://smartdoc-brlacc.brielle.nl
 https://smartdocbrl.brielle.nl
 https://smartdocbrlacc.brielle.nl
+https://sp.brielle.nl
 https://test-digikoppeling.brielle.nl
 https://waarmerk.brielle.nl
 https://webmail.brielle.nl

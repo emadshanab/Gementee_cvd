@@ -322,6 +322,7 @@ http://contactregistratie.acc.amsterdam.nl
 http://contactregistratie.amsterdam.nl
 http://contactregistratie.tst.amsterdam.nl
 http://crl.denhaag.nl
+http://dali.brielle.nl
 http://dashboard.makkelijkemarkt.mrkt-a.azure.amsterdam.nl
 http://data.eindhoven.nl
 http://datatest.delft.nl
@@ -2585,7 +2586,6 @@ https://dacceptatieloket.zwolle.nl
 https://dagbesteding.apeldoorn.nl
 https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
-https://dali.brielle.nl
 https://dali.hillegom.nl
 https://dali.katwijk.nl
 https://dali.leiderdorp.nl
@@ -7096,6 +7096,7 @@ https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
 https://solliciterenbij.maassluis.nl
 https://someren.nl
+https://sp.brielle.nl
 https://spa4.tst.amsterdam.nl
 https://spa4dweb.amsterdam.nl
 https://speciaal.meppel.nl
