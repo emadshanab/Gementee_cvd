@@ -71,9 +71,9 @@ login
 kaart
 digikoppeling-test
 beeldbank
+denkmee
 flowmailer-tracking
 formulier
-denkmee
 doemee
 zaken
 hybrid
@@ -887,6 +887,7 @@ ironport
 g-rooster
 jaarstukken2020
 jaarstukken2021
+api.denkmee
 afspraken-test
 edienstenburgerzaken-prod
 ggk
@@ -2310,6 +2311,10 @@ simcms-omgevingswet
 taakveldenbegroting2023
 taakveldenrekening2022
 thuiswerken2
+admin.denkmee
+auth.denkmee
+binnenplein
+img.denkmee
 nip
 niptest
 tve-acc
@@ -5771,7 +5776,6 @@ api-gateway-ot
 api-gateway
 api-pkio-acceptatie
 api.darwin
-api.denkmee
 apim.schrijfkader.extranet
 auth.darwin
 authenticatie-preprod

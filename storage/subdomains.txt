@@ -903,6 +903,7 @@ admin-acc.datapunt.amsterdam.nl
 admin.acc.v2.meldingen.amsterdam.nl
 admin.bereikbaarheid.amsterdam.nl
 admin.data.amsterdam.nl
+admin.denkmee.brummen.nl
 admin.doemee.assen.nl
 admin.doemee.bloemendaal.nl
 admin.doemee.gemeentewestland.nl
@@ -1376,6 +1377,7 @@ api.data.amsterdam.nl
 api.data.leiden.nl
 api.dataportaal.amsterdam.nl
 api.denhaag.nl
+api.denkmee.brummen.nl
 api.denkmee.tilburg.nl
 api.design.hoorn.nl
 api.doemee.assen.nl
@@ -1636,6 +1638,7 @@ aut.topdesk.denhaag.nl
 auth.apeldoorn.nl
 auth.darwin.tilburg.nl
 auth.denhaag.nl
+auth.denkmee.brummen.nl
 auth.doemee.assen.nl
 auth.doemee.bloemendaal.nl
 auth.doemee.gemeentewestland.nl
@@ -2615,6 +2618,7 @@ bijveencms-acc.veenendaal.nl
 bijveencms.veenendaal.nl
 bikecity.amsterdam.nl
 bink.beverwijk.nl
+binnenplein.brummen.nl
 binnenshuis.bergen.nl
 binnenstad.deventer.nl
 binnenstad.leiden.nl
@@ -3644,6 +3648,7 @@ denkmee.amstelveen.nl
 denkmee.amsterdam.nl
 denkmee.beverwijk.nl
 denkmee.bodegraven-reeuwijk.nl
+denkmee.brummen.nl
 denkmee.hollandskroon.nl
 denkmee.kaagenbraassem.nl
 denkmee.maassluis.nl
@@ -6723,6 +6728,7 @@ images.data.amsterdam.nl
 images.openstad.alphenaandenrijn.nl
 images.openstad.utrecht.nl
 imarkt.utrecht.nl
+img.denkmee.brummen.nl
 img.doemee.assen.nl
 img.doemee.bloemendaal.nl
 img.doemee.gemeentewestland.nl

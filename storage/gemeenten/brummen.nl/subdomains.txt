@@ -1,7 +1,13 @@
 adfs.brummen.nl
+admin.denkmee.brummen.nl
+api.denkmee.brummen.nl
+auth.denkmee.brummen.nl
 autodiscover.brummen.nl
 bgt.brummen.nl
+binnenplein.brummen.nl
 brummen.nl
+denkmee.brummen.nl
+img.denkmee.brummen.nl
 nip.brummen.nl
 niptest.brummen.nl
 portal.brummen.nl
