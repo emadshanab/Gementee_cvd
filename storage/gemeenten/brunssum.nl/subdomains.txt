@@ -12,6 +12,7 @@ bsmpki.brunssum.nl
 bsmpkitest.brunssum.nl
 byod.brunssum.nl
 carel.brunssum.nl
+certauth.adfs.brunssum.nl
 cloudadapter-test.brunssum.nl
 cloudadapter.brunssum.nl
 cognos-test.brunssum.nl
@@ -41,6 +42,7 @@ key2gbav.brunssum.nl
 key2gbavtest.brunssum.nl
 logilink.brunssum.nl
 loo-tv.brunssum.nl
+lyncdiscover.brunssum.nl
 mor.brunssum.nl
 navigus.brunssum.nl
 nedbrk.brunssum.nl
@@ -53,6 +55,7 @@ publicroam.brunssum.nl
 ro.brunssum.nl
 scan.brunssum.nl
 secure.brunssum.nl
+sip.brunssum.nl
 ssd.brunssum.nl
 ssdtest.brunssum.nl
 suite4burgerzaken-test.brunssum.nl

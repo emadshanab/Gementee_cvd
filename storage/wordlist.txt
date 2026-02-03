@@ -161,6 +161,7 @@ ftp
 izaaksuite
 snelbaliepp
 vdi
+sip
 zac
 fmreturn
 jaarstukken
@@ -172,7 +173,7 @@ gisib
 bis
 formulieren-test
 bag
-sip
+lyncdiscover
 gasten
 mdm
 smtp
@@ -186,7 +187,6 @@ maps
 mailing
 gis
 nieuwsbrief
-lyncdiscover
 owa
 test-digikoppeling
 meedoen
@@ -2324,6 +2324,7 @@ bb523
 bb524
 bsmpki
 bsmpkitest
+certauth.adfs
 cognos-test
 databridge-tst
 databridge

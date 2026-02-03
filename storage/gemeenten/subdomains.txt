@@ -2949,6 +2949,7 @@ centrumbegroot.alphenaandenrijn.nl
 centrumbegroot.amsterdam.nl
 centrumimpuls.geldrop-mierlo.nl
 ceo.zaltbommel.nl
+certauth.adfs.brunssum.nl
 certauth.sudwestfryslan.nl
 certificates.dongen.nl
 cg-intern.acc.utrecht.nl
@@ -7881,6 +7882,7 @@ lynccon.haarlem.nl
 lynccon.haarlemmermeer.nl
 lyncdir.haarlem.nl
 lyncdiscover.assen.nl
+lyncdiscover.brunssum.nl
 lyncdiscover.diemen.nl
 lyncdiscover.haarlem.nl
 lyncdiscover.hellevoetsluis.nl
@@ -11604,6 +11606,7 @@ sint-michielsgestel.nl
 sintanthonis.landvancuijk.nl
 sinterklaas.groningen.nl
 sip.assen.nl
+sip.brunssum.nl
 sip.castricum.nl
 sip.diemen.nl
 sip.haarlem.nl
