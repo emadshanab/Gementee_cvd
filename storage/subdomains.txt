@@ -11216,7 +11216,6 @@ secure1ev.weert.nl
 secure1t.weert.nl
 secure2.westmaasenwaal.nl
 securegemnet.roermond.nl
-securegw.bunschoten.nl
 securemail.borne.nl
 securenetwork.nijkerk.eu
 securetest.roermond.nl
@@ -14667,6 +14666,7 @@ www.oldenzaal.nl
 www.olst-wijhe.nl
 www.ombudsman.denhaag.nl
 www.ombudsman.nijmegen.nl
+www.omgevingsvisie.bunschoten.nl
 www.omgevingsvisie.denhaag.nl
 www.omgevingsvisie.hilversum.nl
 www.ommen.nl

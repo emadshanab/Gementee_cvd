@@ -594,6 +594,7 @@ ssd
 suite4burgerzaken
 test-eloket
 uitwijk
+www.omgevingsvisie
 mbg
 pdc
 clicksfm
@@ -938,7 +939,6 @@ ombudsman
 parkeerapp.acc
 uitslagen
 www.ombudsman
-www.omgevingsvisie
 accept-zaaksysteem
 cloudadapter-p
 alwaysonvpn
@@ -2341,7 +2341,6 @@ scan
 webmeeting
 zwembaddebronspot
 mzdtest
-securegw
 nlx
 preprod-broker
 srvmksbur
