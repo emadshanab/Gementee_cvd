@@ -1,4 +1,6 @@
 afspraken.buren.nl
+begraafplaatsenagenda.buren.nl
+betalen.buren.nl
 broker.buren.nl
 buren.nl
 cloud.buren.nl
@@ -21,5 +23,6 @@ werkenbij.buren.nl
 werkplek.buren.nl
 wmoservice.buren.nl
 woningbouw.buren.nl
+woo-publicaties.buren.nl
 www.buren.nl
 www.jongin.buren.nl

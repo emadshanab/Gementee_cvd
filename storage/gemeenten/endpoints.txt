@@ -298,6 +298,7 @@ http://blaise.amsterdam.nl
 http://bounces-eps.amsterdam.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://brediusbad.amsterdam.nl
+http://broker.buren.nl
 http://buurtbudget.amsterdam.nl
 http://buurtbudgetzuid.amsterdam.nl
 http://buurthuisvandetoekomst.denhaag.nl
@@ -514,6 +515,7 @@ http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
+http://preprod-broker.buren.nl
 http://preproductie.beekdaelen.nl
 http://preproductie.beuningen.nl
 http://preproductie.cranendonck.nl
@@ -671,6 +673,7 @@ http://wijkbudgetleidschenveen.denhaag.nl
 http://wijkbudgetypenburg.denhaag.nl
 http://wijsamen.groningen.nl
 http://wion.gemeentestein.nl
+http://wmoservice.buren.nl
 http://woo.denhaag.nl
 http://www.aanvraagparkeren.groningen.nl
 http://www.achtkarspelen.nl
@@ -2093,6 +2096,7 @@ https://betalen.beverwijk.nl
 https://betalen.blaricum.nl
 https://betalen.borsele.nl
 https://betalen.breda.nl
+https://betalen.buren.nl
 https://betalen.castricum.nl
 https://betalen.denhelder.nl
 https://betalen.diemen.nl
@@ -2239,7 +2243,6 @@ https://broker.aalten.nl
 https://broker.assen.nl
 https://broker.bernheze.org
 https://broker.borger-odoorn.nl
-https://broker.buren.nl
 https://broker.coevorden.nl
 https://broker.deventer.nl
 https://broker.duiven.nl
@@ -6418,7 +6421,6 @@ https://preprod-belastingen.soest.nl
 https://preprod-belastingportaal.goirle.nl
 https://preprod-belastingportaal.hilvarenbeek.nl
 https://preprod-belastingportaal.oisterwijk.nl
-https://preprod-broker.buren.nl
 https://preprod-burgerportaal.hardenberg.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-ediensten-sociaaldomein.denhelder.nl
@@ -8099,7 +8101,6 @@ https://wiz.zaanstad.nl
 https://wlc01.waterland.nl
 https://wmo.middendrenthe.nl
 https://wmoloket.olst-wijhe.nl
-https://wmoservice.buren.nl
 https://woa.geertruidenberg.nl
 https://woa2.geertruidenberg.nl
 https://wob.arnhem.nl
@@ -8139,6 +8140,7 @@ https://woningbouwkaart.vught.nl
 https://woningbouwkaart.waalre.nl
 https://woningbouwkaart.weert.nl
 https://woningdossier.assen.nl
+https://woo-publicaties.buren.nl
 https://woo.arnhem.nl
 https://woo.doesburg.nl
 https://woo.helmond.nl

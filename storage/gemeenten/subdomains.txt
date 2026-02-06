@@ -2205,6 +2205,7 @@ begraafplaats.twenterand.nl
 begraafplaatsduinrust.beverwijk.nl
 begraafplaatsen.bloemendaal.nl
 begraafplaatsen.gooisemeren.nl
+begraafplaatsenagenda.buren.nl
 begraaftijd.ede.nl
 begraven.dewolden.nl
 begraven.hoogeveen.nl
@@ -2502,6 +2503,7 @@ betalen.beverwijk.nl
 betalen.blaricum.nl
 betalen.borsele.nl
 betalen.breda.nl
+betalen.buren.nl
 betalen.castricum.nl
 betalen.denhelder.nl
 betalen.diemen.nl
@@ -13902,6 +13904,7 @@ woningbouwkaart.weert.nl
 woningdossier.assen.nl
 woningzoeken.vlaardingen.nl
 woo-acc.denhaag.nl
+woo-publicaties.buren.nl
 woo.arnhem.nl
 woo.denhaag.nl
 woo.doesburg.nl
