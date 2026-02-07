@@ -303,7 +303,6 @@ http://buurtbudget.amsterdam.nl
 http://buurtbudgetzuid.amsterdam.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://bw.rnd.amsterdam.nl
-http://capelleaandenijssel.nl
 http://cardaccess.tst.intra.amsterdam.nl
 http://cardsonline.acc.intra.amsterdam.nl
 http://cardsonline.intra.amsterdam.nl
@@ -2336,6 +2335,7 @@ https://canonmatiging-acc.amsterdam.nl
 https://canonmatiging-dev.amsterdam.nl
 https://canonmatiging-ont.amsterdam.nl
 https://canonmatiging.amsterdam.nl
+https://capelleaandenijssel.nl
 https://cardaccess.acc.intra.amsterdam.nl
 https://cardaccess.intra.amsterdam.nl
 https://cardsonline.tst.intra.amsterdam.nl
@@ -2773,6 +2773,7 @@ https://dkdtest.deventer.nl
 https://dloket-s2s.olst-wijhe.nl
 https://dloket.assen.nl
 https://dloket.borger-odoorn.nl
+https://dloket.capelleaandenijssel.nl
 https://dloket.coevorden.nl
 https://dloket.deventer.nl
 https://dloket.emmen.nl
@@ -2793,6 +2794,7 @@ https://dloket.rotterdam.nl
 https://dloket.veendam.nl
 https://dloket.waterland.nl
 https://dloket.zwolle.nl
+https://dlokettest.capelleaandenijssel.nl
 https://dmafunc002.amsterdam.nl
 https://dmpfunc002.amsterdam.nl
 https://dmzsvr02.winterswijk.nl
@@ -5349,6 +5351,7 @@ https://mijn.beuningen.nl
 https://mijn.borger-odoorn.nl
 https://mijn.bronckhorst.nl
 https://mijn.buren.nl
+https://mijn.capelleaandenijssel.nl
 https://mijn.debilt.nl
 https://mijn.defryskemarren.nl
 https://mijn.denhaag.nl
@@ -6953,6 +6956,7 @@ https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
 https://simcms.bladel.nl
 https://simcms.blaricum.nl
+https://simcms.capelleaandenijssel.nl
 https://simcms.doesburg.nl
 https://simcms.echt-susteren.nl
 https://simcms.gemeentebeek.nl
@@ -7511,6 +7515,7 @@ https://testloket.middelburg.nl
 https://testloket.nieuwkoop.nl
 https://testloket.oldebroek.nl
 https://testmeldingen.asten.nl
+https://testmijn.capelleaandenijssel.nl
 https://testmijn.lochem.nl
 https://testmijngemeente.waddinxveen.nl
 https://testmijnzaken.derondevenen.nl
@@ -8259,6 +8264,7 @@ https://www.buurtbudget-oostzuid.venlo.nl
 https://www.buurtbudget-opdeheide.venlo.nl
 https://www.buurtbudget-vastenavondkamp.venlo.nl
 https://www.campus.groningen.nl
+https://www.capelleaandenijssel.nl
 https://www.castricum.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.cjg.olst-wijhe.nl

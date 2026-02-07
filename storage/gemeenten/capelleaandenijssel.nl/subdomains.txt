@@ -3,12 +3,15 @@ belastingbalietest.capelleaandenijssel.nl
 bgt.capelleaandenijssel.nl
 capelleaandenijssel.nl
 clicksfm.capelleaandenijssel.nl
+dloket.capelleaandenijssel.nl
+dlokettest.capelleaandenijssel.nl
 email.capelleaandenijssel.nl
 felix.capelleaandenijssel.nl
 geo.capelleaandenijssel.nl
 link.capelleaandenijssel.nl
 lvgeo.acc.capelleaandenijssel.nl
 lvgeo.capelleaandenijssel.nl
+mijn.capelleaandenijssel.nl
 nieuwsbrief.capelleaandenijssel.nl
 osb.capelleaandenijssel.nl
 osbtest.capelleaandenijssel.nl
@@ -17,4 +20,6 @@ qr.capelleaandenijssel.nl
 secure.capelleaandenijssel.nl
 servicebus.capelleaandenijssel.nl
 simcms.capelleaandenijssel.nl
+testmijn.capelleaandenijssel.nl
+waarmerk.capelleaandenijssel.nl
 www.capelleaandenijssel.nl

@@ -5,8 +5,8 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-intranet
 mijn
+intranet
 webmail
 simsite
 digikoppeling
@@ -22,9 +22,9 @@ loket
 formulieren
 test
 eloket
+waarmerk
 open
 dkd
-waarmerk
 werkplek
 portal
 acc
@@ -599,6 +599,7 @@ mbg
 pdc
 clicksfm
 servicebus
+testmijn
 webcon
 pkio1
 dvg
@@ -1062,7 +1063,6 @@ gisservicestest
 jccbetalen
 link.pr
 officewebapps
-testmijn
 testzaken
 www.gisib
 www.gisibtest
@@ -2349,6 +2349,7 @@ wmoservice
 woningbouw
 woo-publicaties
 belastingbalietest
+dlokettest
 lvgeo.acc
 lvgeo
 esp

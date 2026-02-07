@@ -4111,6 +4111,7 @@ dloket.assen.nl
 dloket.borger-odoorn.nl
 dloket.borne.nl
 dloket.brielle.nl
+dloket.capelleaandenijssel.nl
 dloket.coevorden.nl
 dloket.deventer.nl
 dloket.emmen.nl
@@ -4137,6 +4138,7 @@ dloket.velsen.nl
 dloket.waterland.nl
 dloket.westvoorne.nl
 dloket.zwolle.nl
+dlokettest.capelleaandenijssel.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -8406,6 +8408,7 @@ mijn.beuningen.nl
 mijn.borger-odoorn.nl
 mijn.bronckhorst.nl
 mijn.buren.nl
+mijn.capelleaandenijssel.nl
 mijn.debilt.nl
 mijn.defryskemarren.nl
 mijn.denhaag.nl
@@ -12666,6 +12669,7 @@ testloket.nieuwkoop.nl
 testloket.oldebroek.nl
 testmarkt1.nunspeet.nl
 testmeldingen.asten.nl
+testmijn.capelleaandenijssel.nl
 testmijn.haarlemmermeer.nl
 testmijn.lochem.nl
 testmijngemeente.waddinxveen.nl
@@ -13294,6 +13298,7 @@ waarmerk.borsele.nl
 waarmerk.breda.nl
 waarmerk.brielle.nl
 waarmerk.brunssum.nl
+waarmerk.capelleaandenijssel.nl
 waarmerk.castricum.nl
 waarmerk.drechterland.nl
 waarmerk.emmen.nl
