@@ -22,8 +22,8 @@ loket
 formulieren
 test
 eloket
-waarmerk
 open
+waarmerk
 dkd
 werkplek
 portal
@@ -63,10 +63,10 @@ cmsoo
 loket.acceptatie
 openpub
 omgevingsvisie
+berichten
 cloudadapter-test
 woningbouwkaart
 osb
-berichten
 login
 kaart
 digikoppeling-test
@@ -2356,6 +2356,7 @@ esp
 makelaar-01
 nlgemctc
 publicatie-test
+telewerker
 www.squit2go-backoffice
 acceptatiemidoffice
 accschuldhulp

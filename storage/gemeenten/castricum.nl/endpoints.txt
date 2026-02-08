@@ -1,3 +1,4 @@
+https://berichten.castricum.nl
 https://betalen.castricum.nl
 https://castricum.nl
 https://edienstenburgerzaken-test.castricum.nl
@@ -7,6 +8,7 @@ https://klimaatplein.castricum.nl
 https://mijnsociaalplein.castricum.nl
 https://mijnsociaalportaal-acc.castricum.nl
 https://mijnsociaalportaal.castricum.nl
+https://open.castricum.nl
 https://preprod-mijnsociaalplein.castricum.nl
 https://pv.castricum.nl
 https://www.castricum.nl

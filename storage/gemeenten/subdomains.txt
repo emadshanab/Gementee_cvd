@@ -2418,6 +2418,7 @@ berichten.assen.nl
 berichten.baarle-nassau.nl
 berichten.bergen-nh.nl
 berichten.bergendal.nl
+berichten.castricum.nl
 berichten.cranendonck.nl
 berichten.dordrecht.nl
 berichten.gemeente-oldambt.nl
@@ -9396,6 +9397,7 @@ open.beverwijk.nl
 open.boxtel.nl
 open.breda.nl
 open.bronckhorst.nl
+open.castricum.nl
 open.dinkelland.nl
 open.doetinchem.nl
 open.ede.nl
@@ -12268,6 +12270,7 @@ telewerken.peelenmaas.nl
 telewerken.stichtsevecht.nl
 telewerken.zaanstad.nl
 telewerkentest.nederbetuwe.nl
+telewerker.castricum.nl
 telgids.nissewaard.nl
 teradek.roermond.nl
 terneuzen.nl

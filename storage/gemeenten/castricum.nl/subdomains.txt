@@ -1,4 +1,5 @@
 afspraak.castricum.nl
+berichten.castricum.nl
 betalen.castricum.nl
 castricum.nl
 download.castricum.nl
@@ -15,6 +16,7 @@ mijnsociaalplein.castricum.nl
 mijnsociaalportaal-acc.castricum.nl
 mijnsociaalportaal.castricum.nl
 nlgemctc.castricum.nl
+open.castricum.nl
 preprod-mijnsociaalplein.castricum.nl
 preproductie.castricum.nl
 publicatie-test.castricum.nl
@@ -27,6 +29,7 @@ snelbalie.castricum.nl
 snelbaliepp.castricum.nl
 squit2go-backoffice.castricum.nl
 squit2go.castricum.nl
+telewerker.castricum.nl
 thuiswerken.castricum.nl
 waarmerk.castricum.nl
 webcon.castricum.nl

@@ -2040,6 +2040,7 @@ https://berichten.assen.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergen-nh.nl
 https://berichten.bergendal.nl
+https://berichten.castricum.nl
 https://berichten.cranendonck.nl
 https://berichten.dordrecht.nl
 https://berichten.gemeente-oldambt.nl
@@ -5966,6 +5967,7 @@ https://open.beverwijk.nl
 https://open.boxtel.nl
 https://open.breda.nl
 https://open.bronckhorst.nl
+https://open.castricum.nl
 https://open.dinkelland.nl
 https://open.doetinchem.nl
 https://open.ede.nl
