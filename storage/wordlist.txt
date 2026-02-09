@@ -908,7 +908,6 @@ osbtest
 qr-acc
 publicatie
 squit2go-backoffice
-reserveren
 wijzer
 idtst
 joinconnect
@@ -2358,6 +2357,7 @@ nlgemctc
 publicatie-test
 telewerker
 www.squit2go-backoffice
+acceptatie.mijn
 acceptatiemidoffice
 accschuldhulp
 bedrijfslocaties
@@ -6186,6 +6186,7 @@ berichtverkeer.test
 cpanel
 pki-test
 reject.dmarc
+reserveren
 test-cmsjip
 zaaksysteem-ontwikkeling
 authmfa

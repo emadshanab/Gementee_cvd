@@ -774,6 +774,7 @@ acceptatie.loonopzand.nl
 acceptatie.medemblik.nl
 acceptatie.midden-groningen.nl
 acceptatie.middendrenthe.nl
+acceptatie.mijn.coevorden.nl
 acceptatie.mijnkbr.rotterdam.nl
 acceptatie.molenlanden.nl
 acceptatie.nederbetuwe.nl
@@ -8410,6 +8411,7 @@ mijn.borger-odoorn.nl
 mijn.bronckhorst.nl
 mijn.buren.nl
 mijn.capelleaandenijssel.nl
+mijn.coevorden.nl
 mijn.debilt.nl
 mijn.defryskemarren.nl
 mijn.denhaag.nl
@@ -10852,7 +10854,6 @@ renkum.nl
 renswoude.nl
 rep.bronckhorst.nl
 reports.sudwestfryslan.nl
-reserveren.coevorden.nl
 reserveren.vijfheerenlanden.nl
 reservering.oldenzaal.nl
 reserveringen.geertruidenberg.nl

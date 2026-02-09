@@ -1208,6 +1208,7 @@ https://acceptatie.lochem.nl
 https://acceptatie.loonopzand.nl
 https://acceptatie.midden-groningen.nl
 https://acceptatie.middendrenthe.nl
+https://acceptatie.mijn.coevorden.nl
 https://acceptatie.nederbetuwe.nl
 https://acceptatie.notarisportaal.westerkwartier.nl
 https://acceptatie.nunspeet.nl
@@ -4283,7 +4284,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.coevorden.nl
 https://ibzpink.cranendonck.nl
 https://ibzpink.culemborg.nl
 https://ibzpink.dalfsen.nl
@@ -5353,6 +5353,7 @@ https://mijn.borger-odoorn.nl
 https://mijn.bronckhorst.nl
 https://mijn.buren.nl
 https://mijn.capelleaandenijssel.nl
+https://mijn.coevorden.nl
 https://mijn.debilt.nl
 https://mijn.defryskemarren.nl
 https://mijn.denhaag.nl
