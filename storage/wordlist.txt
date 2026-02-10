@@ -9,8 +9,8 @@ mijn
 intranet
 webmail
 simsite
-digikoppeling
 mail
+digikoppeling
 afspraken
 preproductie
 simcms
@@ -191,6 +191,7 @@ owa
 test-digikoppeling
 meedoen
 localhost
+email
 uc
 contentbeheer.acceptatie
 zaken.acceptatie
@@ -209,7 +210,6 @@ mail2
 onderzoek
 desktop
 intranet-acc
-email
 legacy
 mobile
 outlook

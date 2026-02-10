@@ -6,11 +6,13 @@ berichten.cranendonck.nl
 cranendonck.nl
 digikoppeling-test.cranendonck.nl
 digikoppeling.cranendonck.nl
+email.cranendonck.nl
 felix.cranendonck.nl
 iburgerzaken.cranendonck.nl
 ibzpink.cranendonck.nl
 intranet.cranendonck.nl
 klantcontact.cranendonck.nl
+mail.cranendonck.nl
 pkio1.cranendonck.nl
 preproductie.cranendonck.nl
 probeer.cranendonck.nl
