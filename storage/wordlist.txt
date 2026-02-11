@@ -32,8 +32,8 @@ betalen
 afspraak
 meldingen
 raad
-broker
 parkeren
+broker
 geo
 api.meldingen
 adfs
@@ -82,13 +82,13 @@ kaarten
 _autodiscover._tcp
 connect
 klantcontact
+parkeren-test
 digikoppeling.test
 mks
 parkeren-acc
 acc-broker
 preprodbroker
 portaal
-parkeren-test
 piwik
 acc-podiumd-logs
 belastingloket
@@ -390,6 +390,7 @@ www.afspraak
 connect.test
 contentbeheer.test
 zaken.test
+parkeren-siam
 ris
 subsidies-login
 sport
@@ -461,6 +462,7 @@ autorisatiebeheer-test
 djumaproxy
 sync
 download
+parkeren-siam-test
 grooster
 collecties
 inproces.test
@@ -475,7 +477,6 @@ filr
 intra
 mijnloket
 parkeeracties
-parkeren-siam
 relay
 router
 digitalebalie
@@ -646,7 +647,6 @@ www.financielestukken
 geodata-acc
 micc
 parkeeracties-test
-parkeren-siam-test
 preprod-sociaalportaal
 sociaalportaal
 efactuur
@@ -2377,6 +2377,8 @@ www.woz-loket
 VRiSeLoket
 ptr
 vriseloket
+bezoekregeling-test
+bezoekregeling
 platform
 www.platform
 kindregeling
