@@ -4803,6 +4803,7 @@ eloket.bergendal.nl
 eloket.bloemendaal.nl
 eloket.brunssum.nl
 eloket.culemborg.nl
+eloket.dalfsen.nl
 eloket.deurne.nl
 eloket.dronten.nl
 eloket.elburg.nl
@@ -9404,6 +9405,7 @@ open.boxtel.nl
 open.breda.nl
 open.bronckhorst.nl
 open.castricum.nl
+open.dalfsen.nl
 open.dinkelland.nl
 open.doetinchem.nl
 open.ede.nl
@@ -11368,6 +11370,7 @@ simcms-omgevingswet.bronckhorst.nl
 simcms-ontmoetingscentra.opmeer.nl
 simcms-open.beverwijk.nl
 simcms-open.bronckhorst.nl
+simcms-open.dalfsen.nl
 simcms-open.doetinchem.nl
 simcms-open.geldrop-mierlo.nl
 simcms-open.gemeentebeek.nl
@@ -12629,6 +12632,7 @@ testeloket.asten.nl
 testeloket.beesel.nl
 testeloket.bergendal.nl
 testeloket.culemborg.nl
+testeloket.dalfsen.nl
 testeloket.deurne.nl
 testeloket.dronten.nl
 testeloket.elburg.nl

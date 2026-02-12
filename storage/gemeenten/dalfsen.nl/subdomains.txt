@@ -2,6 +2,7 @@ afspraken.dalfsen.nl
 autodiscover.dalfsen.nl
 dalfsen.nl
 dkd.dalfsen.nl
+eloket.dalfsen.nl
 enterpriseenrollment.dalfsen.nl
 felix.dalfsen.nl
 financien.dalfsen.nl
@@ -17,6 +18,7 @@ joinconnect.dalfsen.nl
 kindregeling.dalfsen.nl
 online-aanvraag-test.dalfsen.nl
 online-aanvraag.dalfsen.nl
+open.dalfsen.nl
 portal.dalfsen.nl
 preproductie.dalfsen.nl
 probeer.dalfsen.nl
@@ -24,7 +26,9 @@ pv.dalfsen.nl
 ris.dalfsen.nl
 secure.dalfsen.nl
 sharepoint.dalfsen.nl
+simcms-open.dalfsen.nl
 simcms.dalfsen.nl
+testeloket.dalfsen.nl
 verkiezingen.dalfsen.nl
 wozloket.dalfsen.nl
 www.dalfsen.nl

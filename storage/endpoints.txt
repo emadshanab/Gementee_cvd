@@ -41,6 +41,7 @@ http://afs.acc.amsterdam.nl
 http://afspraak.bergendal.nl
 http://afspraken.beverwijk.nl
 http://afspraken.brunssum.nl
+http://afspraken.dalfsen.nl
 http://afspraken.huizen.nl
 http://afspraken.rijssen-holten.nl
 http://afspraken.vaals.nl
@@ -323,6 +324,7 @@ http://contactregistratie.acc.amsterdam.nl
 http://contactregistratie.amsterdam.nl
 http://contactregistratie.tst.amsterdam.nl
 http://crl.denhaag.nl
+http://dalfsen.nl
 http://dali.brielle.nl
 http://dashboard.makkelijkemarkt.mrkt-a.azure.amsterdam.nl
 http://data.eindhoven.nl
@@ -481,6 +483,7 @@ http://onboardingambulancezorg.denhaag.nl
 http://ontheffingen-acc.amsterdam.nl
 http://ontheffingen-mz.denhaag.nl
 http://ooststellingwerf.nl
+http://open.dalfsen.nl
 http://open.gemeentebeek.nl
 http://open.halderberge.nl
 http://open.nuenen.nl
@@ -536,6 +539,7 @@ http://rosmolen.westervoort.nl
 http://rp.beverwijk.nl
 http://saaedepot-storage.amsterdam.nl
 http://secure.acc.denhaag.nl
+http://secure.dalfsen.nl
 http://secure.denhaag.nl
 http://secure.gemeentestein.nl
 http://sem.kampen.nl
@@ -681,6 +685,7 @@ http://www.binnenstadsplan2030.denhaag.nl
 http://www.bronckhorst.nl
 http://www.cjg.denhaag.nl
 http://www.cranendonck.nl
+http://www.dalfsen.nl
 http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
@@ -1338,7 +1343,6 @@ https://afspraken.apeldoorn.nl
 https://afspraken.assen.nl
 https://afspraken.baarle-nassau.nl
 https://afspraken.bronckhorst.nl
-https://afspraken.dalfsen.nl
 https://afspraken.deventer.nl
 https://afspraken.dijkenwaard.nl
 https://afspraken.dongen.nl
@@ -2597,7 +2601,6 @@ https://dacceptatieloket.veendam.nl
 https://dacceptatieloket.waterland.nl
 https://dacceptatieloket.zwolle.nl
 https://dagbesteding.apeldoorn.nl
-https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
 https://dali.hillegom.nl
 https://dali.katwijk.nl
@@ -3262,6 +3265,7 @@ https://eloket.bergendal.nl
 https://eloket.bloemendaal.nl
 https://eloket.brunssum.nl
 https://eloket.culemborg.nl
+https://eloket.dalfsen.nl
 https://eloket.deurne.nl
 https://eloket.dronten.nl
 https://eloket.elburg.nl
@@ -3977,7 +3981,6 @@ https://grondwater.dronten.nl
 https://grondwater.krimpenerwaard.nl
 https://grondwater.noordoostpolder.nl
 https://groningen.nl
-https://grooster.dalfsen.nl
 https://grooster.reimerswaal.nl
 https://grootklooster.doemee.heemstede.nl
 https://growinggreencities.almere.nl
@@ -4289,7 +4292,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.dalfsen.nl
 https://ibzpink.derondevenen.nl
 https://ibzpink.deurne.nl
 https://ibzpink.deventer.nl
@@ -6882,7 +6884,6 @@ https://secudoc.texel.nl
 https://secure-t.sittard-geleen.nl
 https://secure-test.almere.nl
 https://secure.almere.nl
-https://secure.dalfsen.nl
 https://secure.pekela.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
@@ -6942,6 +6943,7 @@ https://simcms-duurzaam.waalwijk.nl
 https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-open.beverwijk.nl
 https://simcms-open.bronckhorst.nl
+https://simcms-open.dalfsen.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.gemeentebeek.nl
 https://simcms-open.staphorst.nl
@@ -6968,6 +6970,7 @@ https://simcms.bladel.nl
 https://simcms.blaricum.nl
 https://simcms.capelleaandenijssel.nl
 https://simcms.cranendonck.nl
+https://simcms.dalfsen.nl
 https://simcms.doesburg.nl
 https://simcms.echt-susteren.nl
 https://simcms.gemeentebeek.nl
@@ -7484,6 +7487,7 @@ https://testeloket.asten.nl
 https://testeloket.beesel.nl
 https://testeloket.bergendal.nl
 https://testeloket.culemborg.nl
+https://testeloket.dalfsen.nl
 https://testeloket.deurne.nl
 https://testeloket.dronten.nl
 https://testeloket.elburg.nl
@@ -7755,7 +7759,6 @@ https://verhalenroute.hollandskroon.nl
 https://verhuur.gemeente-oldambt.nl
 https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
-https://verkiezingen.dalfsen.nl
 https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
 https://verkiezingen.sudwestfryslan.nl
