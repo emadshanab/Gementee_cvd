@@ -1,5 +1,5 @@
 http://autodiscover.dantumadiel.frl
-https://collecties.dantumadiel.frl
+http://collecties.dantumadiel.frl
 https://csc.dantumadiel.frl
 https://dantumadiel.frl
 https://edienstenburgerzaken-test.dantumadiel.frl
@@ -10,4 +10,5 @@ https://loket.dantumadiel.frl
 https://mbg1.dantumadiel.frl
 https://mbg2.dantumadiel.frl
 https://uc.dantumadiel.frl
+https://werkenbij.dantumadiel.frl
 https://www.dantumadiel.frl

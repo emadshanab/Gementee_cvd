@@ -319,6 +319,7 @@ http://cmsintranet.etten-leur.nl
 http://cmsintranet.lansingerland.nl
 http://cmsjip.vijfheerenlanden.nl
 http://cmssocialintranet.middendelfland.nl
+http://collecties.dantumadiel.frl
 http://connect.acceptatie.goirle.nl
 http://contactregistratie.acc.amsterdam.nl
 http://contactregistratie.amsterdam.nl
@@ -2478,7 +2479,6 @@ https://cognosweb.apeldoorn.nl
 https://cognoswebacc.apeldoorn.nl
 https://cognoswebbi.apeldoorn.nl
 https://cok.amsterdam.nl
-https://collecties.dantumadiel.frl
 https://collecties.losser.nl
 https://collecties.schiedam.nl
 https://collecties.venlo.nl
@@ -7990,6 +7990,7 @@ https://werkenbij.alkmaar.nl
 https://werkenbij.ameland.nl
 https://werkenbij.barneveld.nl
 https://werkenbij.buren.nl
+https://werkenbij.dantumadiel.frl
 https://werkenbij.defryskemarren.nl
 https://werkenbij.edam-volendam.nl
 https://werkenbij.enschede.nl
