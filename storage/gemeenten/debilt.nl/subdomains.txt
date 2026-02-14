@@ -7,6 +7,8 @@ ddsp.services.debilt.nl
 ddst.services.debilt.nl
 debilt.nl
 digikoppeling.debilt.nl
+edienstenburgerzaken-test.debilt.nl
+edienstenburgerzaken.debilt.nl
 efacturen.debilt.nl
 geokoppeling-t.debilt.nl
 geokoppeling.debilt.nl
