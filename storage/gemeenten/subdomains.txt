@@ -8863,6 +8863,7 @@ mstat.meerssen.nl
 mstat.valkenburg.nl
 msteamsbellen.soest.nl
 mt.peelenmaas.nl
+mta-sts.defryskemarren.nl
 mta-sts.duiven.nl
 mta-sts.gennep.nl
 mta-sts.peelenmaas.nl

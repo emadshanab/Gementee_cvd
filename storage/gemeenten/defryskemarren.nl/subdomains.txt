@@ -18,6 +18,7 @@ medewerkers.defryskemarren.nl
 mijn.defryskemarren.nl
 mijninkomen.defryskemarren.nl
 mijnportaal.defryskemarren.nl
+mta-sts.defryskemarren.nl
 openpdc.defryskemarren.nl
 openpub.defryskemarren.nl
 preprod-edienstaanvragensd.defryskemarren.nl

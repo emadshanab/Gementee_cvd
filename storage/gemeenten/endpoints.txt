@@ -620,6 +620,7 @@ http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
+http://test-dieuwke.defryskemarren.nl
 http://test-dok.dronten.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
@@ -3239,7 +3240,6 @@ https://eemsdelta.groningen.nl
 https://eemsdelta.nl
 https://eersel.nl
 https://efacturen.eijsden-margraten.nl
-https://eformaccept.defryskemarren.nl
 https://eforms.peelenmaas.nl
 https://eformulier.heerlen.nl
 https://eformulieren-test.stichtsevecht.nl
@@ -3654,7 +3654,6 @@ https://formulieren.bodegraven-reeuwijk.nl
 https://formulieren.bronckhorst.nl
 https://formulieren.buren.nl
 https://formulieren.culemborg.nl
-https://formulieren.defryskemarren.nl
 https://formulieren.denhaag.nl
 https://formulieren.digitaal.utrecht.nl
 https://formulieren.duiven.nl
@@ -5668,6 +5667,7 @@ https://msoid.nijkerk.eu
 https://msoid.tilburg.nl
 https://mstat.meerssen.nl
 https://mstat.valkenburg.nl
+https://mta-sts.defryskemarren.nl
 https://mta-sts.duiven.nl
 https://mta-sts.gennep.nl
 https://mta-sts.peelenmaas.nl
@@ -6462,6 +6462,7 @@ https://preprod-mijn.zwolle.nl
 https://preprod-mijnaanvragen.purmerend.nl
 https://preprod-mijnaanvragensociaaldomein.venlo.nl
 https://preprod-mijninkomen.beverwijk.nl
+https://preprod-mijninkomen.defryskemarren.nl
 https://preprod-mijninkomen.doesburg.nl
 https://preprod-mijninkomen.dronten.nl
 https://preprod-mijninkomen.gouda.nl
@@ -7382,7 +7383,6 @@ https://test-cmssocial.montferland.info
 https://test-cmszaanzoeker.zaanstad.nl
 https://test-contact.enschede.nl
 https://test-contact.gemert-bakel.nl
-https://test-dieuwke.defryskemarren.nl
 https://test-digikoppeling.brielle.nl
 https://test-digikoppeling.westvoorne.nl
 https://test-e-loket.apeldoorn.nl

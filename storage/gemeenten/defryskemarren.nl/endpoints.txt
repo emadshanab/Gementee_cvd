@@ -1,3 +1,4 @@
+http://test-dieuwke.defryskemarren.nl
 https://adfslogin.defryskemarren.nl
 https://afspraak.defryskemarren.nl
 https://afvalkalender.defryskemarren.nl
@@ -9,20 +10,19 @@ https://dieuwke.defryskemarren.nl
 https://edienstaanvragensd.defryskemarren.nl
 https://edienstenburgerzaken-test.defryskemarren.nl
 https://edienstenburgerzaken.defryskemarren.nl
-https://eformaccept.defryskemarren.nl
 https://exchange.defryskemarren.nl
-https://formulieren.defryskemarren.nl
 https://mailing.defryskemarren.nl
 https://medewerkers.defryskemarren.nl
 https://mijn.defryskemarren.nl
 https://mijninkomen.defryskemarren.nl
 https://mijnportaal.defryskemarren.nl
+https://mta-sts.defryskemarren.nl
 https://openpdc.defryskemarren.nl
 https://openpub.defryskemarren.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-mijn.defryskemarren.nl
+https://preprod-mijninkomen.defryskemarren.nl
 https://preprod-mijnportaal.defryskemarren.nl
 https://test-cmsdieuwke.defryskemarren.nl
-https://test-dieuwke.defryskemarren.nl
 https://werkenbij.defryskemarren.nl
 https://www.defryskemarren.nl

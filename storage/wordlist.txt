@@ -180,6 +180,7 @@ smtp
 AutoDiscover
 ro
 bor
+mta-sts
 transfer
 college
 veiligdelen
@@ -199,7 +200,6 @@ inproces.acceptatie
 internetafspraken
 bestuur
 squit2020
-mta-sts
 geoportaal
 preprod-mijn
 geodata
