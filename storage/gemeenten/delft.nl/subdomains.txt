@@ -10,7 +10,6 @@ acceptatie.delft.nl
 archief.delft.nl
 autodiscover.delft.nl
 axians.lev.delft.nl
-begroting.delft.nl
 cloudadapter-test.delft.nl
 cloudadapter.delft.nl
 cppm.delft.nl
@@ -22,13 +21,11 @@ delft.nl
 dkd-test.delft.nl
 dkd.delft.nl
 feedback.delft.nl
-financieel.delft.nl
-hnw.delft.nl
+historischgis.delft.nl
 ibor.delft.nl
 ife.delft.nl
 intranet-acc.delft.nl
 intranet.delft.nl
-jaarstukken.delft.nl
 jacot.lev.delft.nl
 kaart.delft.nl
 kenneth.delft.nl
@@ -42,7 +39,6 @@ nieuwsbrief.delft.nl
 ns.delft.nl
 ns1.delft.nl
 or.delft.nl
-ortest.delft.nl
 pinewood.lev.delft.nl
 private-test.delft.nl
 private.delft.nl
@@ -62,7 +58,6 @@ sngtest.delft.nl
 stats.intranet.delft.nl
 storefront.delft.nl
 storefronttest.delft.nl
-sts.delft.nl
 subsidie.delft.nl
 subsidiebeheer.delft.nl
 sv11961.delft.nl
@@ -70,6 +65,7 @@ sv12701.delft.nl
 sv18046.delft.nl
 topdesk.delft.nl
 vdi.delft.nl
+vdimfa.delft.nl
 webmail.delft.nl
 www.archief.delft.nl
 www.delft.nl

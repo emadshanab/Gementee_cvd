@@ -2214,7 +2214,6 @@ begroten.amsterdam.nl
 begroten.centrumbegroot.alphenaandenrijn.nl
 begroten.noordwestbegroot.utrecht.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
-begroting.delft.nl
 begroting.gemeentehw.nl
 begroting.gooisemeren.nl
 begroting.gorinchem.nl
@@ -5231,7 +5230,6 @@ filter.montferland.info
 financials-acc.apeldoorn.nl
 financials.apeldoorn.nl
 financialstest.derondevenen.nl
-financieel.delft.nl
 financieelportaal.etten-leur.nl
 financieelportaal.halderberge.nl
 financielestukken.diemen.nl
@@ -6158,10 +6156,10 @@ historie.venlo.nl
 historiehuis.roermond.nl
 historischarchief.midden-groningen.nl
 historischbeeldarchief.putten.nl
+historischgis.delft.nl
 hlmrvpn.haarlemmermeer.nl
 hlnpki.heerlen.nl
 hlnpkitest.heerlen.nl
-hnw.delft.nl
 hofnet.coevorden.nl
 hofvantwente.nl
 hollandskroon.nl
@@ -7149,7 +7147,6 @@ izrm.huizen.nl
 jaarrekening.arnhem.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
 jaarstukken.bronckhorst.nl
-jaarstukken.delft.nl
 jaarstukken.gemeente-steenbergen.nl
 jaarstukken.gemeentehw.nl
 jaarstukken.gorinchem.nl
@@ -9621,7 +9618,6 @@ organisatie.gemeente-steenbergen.nl
 organisatie.hoorn.nl
 organisatieontwikkeling.assen.nl
 organisatievisie2030.hollandskroon.nl
-ortest.delft.nl
 osb.alkmaar.nl
 osb.almere.nl
 osb.bergendal.nl
@@ -12060,7 +12056,6 @@ sts-acc.rotterdam.nl
 sts-acc2.rotterdam.nl
 sts-azdev.rotterdam.nl
 sts.assen.nl
-sts.delft.nl
 sts.dronten.nl
 sts.eijsden-margraten.nl
 sts.gemeentestein.nl
@@ -13056,6 +13051,7 @@ vdi.schagen.nl
 vdi.westerkwartier.nl
 vdi.westmaasenwaal.nl
 vdi8.amersfoort.nl
+vdimfa.delft.nl
 vdlpki.voerendaal.nl
 vdtm.veenendaal.nl
 veendam.nl

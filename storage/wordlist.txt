@@ -126,7 +126,6 @@ contact
 objecttypen
 openklant
 openzaak
-sts
 www.webmail
 filecap
 dtestmidoffice
@@ -142,9 +141,9 @@ acc-keycloak
 keycloak
 notificaties
 objecten
+sts
 obsurv
 gemeente
-begroting
 simform
 web
 preprod-mijninkomen
@@ -157,6 +156,7 @@ micollab
 inloggen
 connect.acceptatie
 contentbeheer
+begroting
 ftp
 izaaksuite
 snelbaliepp
@@ -164,7 +164,6 @@ vdi
 sip
 zac
 fmreturn
-jaarstukken
 inproces
 cryptshare
 belastingportaal
@@ -178,6 +177,7 @@ gasten
 mdm
 smtp
 AutoDiscover
+jaarstukken
 ro
 bor
 mta-sts
@@ -2418,15 +2418,13 @@ axians.lev
 cppm
 cryptsharetest
 feedback
-financieel
-hnw
+historischgis
 ibor
 ife
 jacot.lev
 kenneth
 media-t
 or
-ortest
 pinewood.lev
 private-test
 private
@@ -2439,6 +2437,7 @@ storefronttest
 sv11961
 sv12701
 sv18046
+vdimfa
 zgt.lev
 AutoDiscover.uitwijk
 adeptiaconnect.acc

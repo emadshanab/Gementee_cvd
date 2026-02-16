@@ -1884,7 +1884,6 @@ https://begraven.hoogeveen.nl
 https://begroten.centrumbegroot.alphenaandenrijn.nl
 https://begroten.noordwestbegroot.utrecht.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
-https://begroting.delft.nl
 https://begroting.gemeentehw.nl
 https://begroting.gooisemeren.nl
 https://begroting.gorinchem.nl
@@ -3532,7 +3531,6 @@ https://filetransfer.rijssen-holten.nl
 https://financials-acc.apeldoorn.nl
 https://financials.apeldoorn.nl
 https://financialstest.derondevenen.nl
-https://financieel.delft.nl
 https://financieelportaal.etten-leur.nl
 https://financieelportaal.halderberge.nl
 https://financielestukken.diemen.nl
@@ -4049,7 +4047,6 @@ https://hilversum.nl
 https://historiehuis.roermond.nl
 https://historischarchief.midden-groningen.nl
 https://historischbeeldarchief.putten.nl
-https://hnw.delft.nl
 https://hofnet.coevorden.nl
 https://hofvantwente.nl
 https://hollandskroon.nl
@@ -4687,7 +4684,6 @@ https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
 https://jaarrekening2021.financieelportaal.etten-leur.nl
 https://jaarstukken.bronckhorst.nl
-https://jaarstukken.delft.nl
 https://jaarstukken.gemeente-steenbergen.nl
 https://jaarstukken.gemeentehw.nl
 https://jaarstukken.gorinchem.nl
@@ -6142,7 +6138,6 @@ https://openzaakbrug-zgw.acc.denhaag.nl
 https://oploo.landvancuijk.nl
 https://opname.eindhoven.nl
 https://opsterland.nl
-https://or.delft.nl
 https://oranjekwartier.deventer.nl
 https://oranjeplein.goirle.nl
 https://orbit.montferland.info
@@ -6560,6 +6555,7 @@ https://pric.rotterdam.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://printen.tilburg.nl
 https://privacybewustzijn.bergendal.nl
+https://private-test.delft.nl
 https://private.delft.nl
 https://proapp.rotterdam.nl
 https://probeer.halderberge.nl
@@ -6887,6 +6883,7 @@ https://secudoc.texel.nl
 https://secure-t.sittard-geleen.nl
 https://secure-test.almere.nl
 https://secure.almere.nl
+https://secure.delft.nl
 https://secure.pekela.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
@@ -7229,7 +7226,6 @@ https://stroomlijntest.derondevenen.nl
 https://stroomt.deventer.nl
 https://sts-acc.rotterdam.nl
 https://sts-azdev.rotterdam.nl
-https://sts.delft.nl
 https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
 https://sts.gemeentestein.nl
@@ -7922,7 +7918,6 @@ https://webmail.boekel.nl
 https://webmail.breda.nl
 https://webmail.brielle.nl
 https://webmail.buren.nl
-https://webmail.delft.nl
 https://webmail.drimmelen.nl
 https://webmail.ede.nl
 https://webmail.eemsdelta.nl
