@@ -14,8 +14,8 @@ digikoppeling
 afspraken
 preproductie
 simcms
-acceptatie
 secure
+acceptatie
 felix
 probeer
 loket
@@ -337,7 +337,6 @@ www.afspraken
 woz
 drop
 participatie
-www.acceptatie
 raadsnet
 toegang
 zoeken
@@ -415,6 +414,7 @@ prefill
 huisstijl
 mijndesktop
 www2
+www.acceptatie
 de
 veiligmailen
 secure-test
@@ -569,7 +569,6 @@ bestemmingsplannen
 accdrop
 id
 eforms
-sentry
 acceptatieloket
 webserver
 intranetcms-acc
@@ -857,6 +856,7 @@ solliciterenbij
 zaak-acc
 zaak
 gisibonline
+sentry
 werkomgeving
 koppelvlak
 testberichten
@@ -2884,10 +2884,9 @@ zuidwestopznbest
 communication
 dhsbc01
 dhsbc02
-ediensten-sociaaldomein
-preprod-ediensten-sociaaldomein
 preprod-mijnzorg
-sentry1
+reprotransfer
+vm156
 vpn365
 www.ingesprek
 financialstest

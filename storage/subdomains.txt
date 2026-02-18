@@ -730,7 +730,6 @@ acceptatie.culemborg.nl
 acceptatie.dantumadiel.frl
 acceptatie.debilt.nl
 acceptatie.delft.nl
-acceptatie.denhelder.nl
 acceptatie.derondevenen.nl
 acceptatie.dewolden.nl
 acceptatie.diemen.nl
@@ -863,7 +862,6 @@ adfs.bronckhorst.nl
 adfs.brummen.nl
 adfs.brunssum.nl
 adfs.bunschoten.nl
-adfs.denhelder.nl
 adfs.doetinchem.nl
 adfs.edam-volendam.nl
 adfs.geertruidenberg.nl
@@ -4473,7 +4471,6 @@ edienst.helmond.nl
 edienstaanvragensd.defryskemarren.nl
 ediensten-aanvragen.leeuwarden.nl
 ediensten-preproductie.gemeentehw.nl
-ediensten-sociaaldomein.denhelder.nl
 ediensten.gemeentehw.nl
 ediensten.hillegom.nl
 edienstenaanvragensd-acceptatie.albrandswaard.nl
@@ -6965,6 +6962,7 @@ intranet.castricum.nl
 intranet.cranendonck.nl
 intranet.debilt.nl
 intranet.delft.nl
+intranet.denhelder.nl
 intranet.deurne.nl
 intranet.deventer.nl
 intranet.drimmelen.nl
@@ -10278,7 +10276,6 @@ preprod-broker.buren.nl
 preprod-burgerportaal.hardenberg.nl
 preprod-burgerportaal.ommen.nl
 preprod-edienstaanvragensd.defryskemarren.nl
-preprod-ediensten-sociaaldomein.denhelder.nl
 preprod-edienstensociaaldomein.heerenveen.nl
 preprod-edienstsociaal-mijnaanvraag.zaanstad.nl
 preprod-formulieren.buren.nl
@@ -10898,6 +10895,7 @@ renkum.nl
 renswoude.nl
 rep.bronckhorst.nl
 reports.sudwestfryslan.nl
+reprotransfer.denhelder.nl
 reserveren.vijfheerenlanden.nl
 reservering.oldenzaal.nl
 reserveringen.geertruidenberg.nl
@@ -11296,9 +11294,7 @@ sem.kampen.nl
 seniorenraad.acc.nijmegen.nl
 sensoring.rotterdam.nl
 sentry.beesel.nl
-sentry.denhelder.nl
 sentry.terneuzen.nl
-sentry1.denhelder.nl
 sera.hardenberg.nl
 sera.hellendoorn.nl
 sera.horstaandemaas.nl
@@ -13235,6 +13231,7 @@ vlspmks.velsen.nl
 vlstmks.velsen.nl
 vluchtelingen.zaanstad.nl
 vm-cs.kampen.nl
+vm156.denhelder.nl
 vmapp002.borne.nl
 vmapp006.borne.nl
 vmbg01.landgraaf.nl
@@ -14092,7 +14089,6 @@ www.acccorsa02.ovh.gemeentebeek.nl
 www.acceptatie-intranet.gemeentewestland.nl
 www.acceptatie.aalsmeer.nl
 www.acceptatie.amstelveen.nl
-www.acceptatie.denhelder.nl
 www.acceptatie.derondevenen.nl
 www.acceptatie.gemeentewestland.nl
 www.acctsjinstbus.sudwestfryslan.nl
