@@ -302,6 +302,7 @@ http://bounces-eps.amsterdam.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://brediusbad.amsterdam.nl
 http://broker.buren.nl
+http://burgerloket.acceptatie.derondevenen.nl
 http://buurtbudget.amsterdam.nl
 http://buurtbudgetzuid.amsterdam.nl
 http://buurthuisvandetoekomst.denhaag.nl
@@ -642,6 +643,7 @@ http://wijsamen.groningen.nl
 http://wion.gemeentestein.nl
 http://wmoservice.buren.nl
 http://www.aanvraagparkeren.groningen.nl
+http://www.acceptatie.derondevenen.nl
 http://www.achtkarspelen.nl
 http://www.bronckhorst.nl
 http://www.cranendonck.nl
@@ -1500,6 +1502,7 @@ https://api.meldingen-acc.almere.nl
 https://api.meldingen-acc.apeldoorn.nl
 https://api.meldingen-acc.assen.nl
 https://api.meldingen-acc.bernheze.org
+https://api.meldingen-acc.derondevenen.nl
 https://api.meldingen-acc.enschede.nl
 https://api.meldingen-acc.gemeente-oldambt.nl
 https://api.meldingen-acc.hattem.nl
@@ -1533,6 +1536,7 @@ https://api.meldingen.apeldoorn.nl
 https://api.meldingen.assen.nl
 https://api.meldingen.bergenopzoom.nl
 https://api.meldingen.bernheze.org
+https://api.meldingen.derondevenen.nl
 https://api.meldingen.eindhoven.nl
 https://api.meldingen.enschede.nl
 https://api.meldingen.gemeente-oldambt.nl
@@ -2277,9 +2281,7 @@ https://buitenoporde.pijnacker-nootdorp.nl
 https://bunnik.nl
 https://bunschoten.nl
 https://buren.nl
-https://burgerloket.acceptatie.derondevenen.nl
 https://burgerloket.acceptatie.ouder-amstel.nl
-https://burgerloket.derondevenen.nl
 https://burgerloket.diemen.nl
 https://burgerloket.ouder-amstel.nl
 https://burgerloket.uithoorn.nl
@@ -3828,9 +3830,11 @@ https://geo.zeewolde.nl
 https://geobrowser.enschede.nl
 https://geocortex.middendrenthe.nl
 https://geodata-a.utrecht.nl
+https://geodata-acc.derondevenen.nl
 https://geodata-acc.dijkenwaard.nl
 https://geodata-acc.voorst.nl
 https://geodata-acc.zutphen.nl
+https://geodata.derondevenen.nl
 https://geodata.dijkenwaard.nl
 https://geodata.hollandskroon.nl
 https://geodata.nunspeet.nl
@@ -4289,7 +4293,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.derondevenen.nl
 https://ibzpink.deurne.nl
 https://ibzpink.deventer.nl
 https://ibzpink.dewolden.nl
@@ -5231,6 +5234,7 @@ https://meldingen-acc.almere.nl
 https://meldingen-acc.apeldoorn.nl
 https://meldingen-acc.assen.nl
 https://meldingen-acc.bernheze.org
+https://meldingen-acc.derondevenen.nl
 https://meldingen-acc.enschede.nl
 https://meldingen-acc.gemeente-oldambt.nl
 https://meldingen-acc.hattem.nl
@@ -5269,6 +5273,7 @@ https://meldingen.asten.nl
 https://meldingen.bergenopzoom.nl
 https://meldingen.bernheze.org
 https://meldingen.denhaag.nl
+https://meldingen.derondevenen.nl
 https://meldingen.eindhoven.nl
 https://meldingen.enschede.nl
 https://meldingen.gemeente-oldambt.nl
@@ -5929,7 +5934,6 @@ https://ondernemen.zaanstad.nl
 https://ondernemend.leeuwarden.nl
 https://ondernemers.bloemendaal.nl
 https://ondernemers.gemeente-steenbergen.nl
-https://ondernemersloket.derondevenen.nl
 https://ondernemersloket.diemen.nl
 https://ondernemersloket.ouder-amstel.nl
 https://ondernemersloket.uithoorn.nl
@@ -6886,7 +6890,9 @@ https://samenwerkingbelastingen-test.middelburg.nl
 https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
 https://samenwijzer.oss.nl
+https://sammy-acc.derondevenen.nl
 https://sammy.derondevenen.nl
+https://sammycms-acc.derondevenen.nl
 https://sammycms.derondevenen.nl
 https://sbc01.gooisemeren.nl
 https://scbroker.diemen.nl
@@ -8254,7 +8260,6 @@ https://www.aalsmeer.nl
 https://www.acc.denhaag.nl
 https://www.acceptatie.aalsmeer.nl
 https://www.acceptatie.amstelveen.nl
-https://www.acceptatie.derondevenen.nl
 https://www.actief.landvancuijk.nl
 https://www.adviesraad.westbetuwe.nl
 https://www.afis-po.amsterdam.nl

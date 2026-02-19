@@ -1415,6 +1415,7 @@ api.meldingen-acc.almere.nl
 api.meldingen-acc.apeldoorn.nl
 api.meldingen-acc.assen.nl
 api.meldingen-acc.bernheze.org
+api.meldingen-acc.derondevenen.nl
 api.meldingen-acc.enschede.nl
 api.meldingen-acc.gemeente-oldambt.nl
 api.meldingen-acc.hattem.nl
@@ -1449,6 +1450,7 @@ api.meldingen.apeldoorn.nl
 api.meldingen.assen.nl
 api.meldingen.bergenopzoom.nl
 api.meldingen.bernheze.org
+api.meldingen.derondevenen.nl
 api.meldingen.eindhoven.nl
 api.meldingen.enschede.nl
 api.meldingen.gemeente-oldambt.nl
@@ -5769,10 +5771,12 @@ geocatalogus.haarlemmermeer.nl
 geocortex.krimpenerwaard.nl
 geocortex.middendrenthe.nl
 geodata-a.utrecht.nl
+geodata-acc.derondevenen.nl
 geodata-acc.dijkenwaard.nl
 geodata-acc.voorst.nl
 geodata-acc.zutphen.nl
 geodata.almelo.nl
+geodata.derondevenen.nl
 geodata.dijkenwaard.nl
 geodata.hollandskroon.nl
 geodata.noordoostpolder.nl
@@ -8258,6 +8262,7 @@ meldingen-acc.almere.nl
 meldingen-acc.apeldoorn.nl
 meldingen-acc.assen.nl
 meldingen-acc.bernheze.org
+meldingen-acc.derondevenen.nl
 meldingen-acc.enschede.nl
 meldingen-acc.gemeente-oldambt.nl
 meldingen-acc.hattem.nl
@@ -8299,6 +8304,7 @@ meldingen.bernheze.org
 meldingen.cg-intern.acc.utrecht.nl
 meldingen.cg-intern.ont.utrecht.nl
 meldingen.denhaag.nl
+meldingen.derondevenen.nl
 meldingen.eindhoven.nl
 meldingen.enschede.nl
 meldingen.gemeente-oldambt.nl

@@ -1,6 +1,8 @@
 AutoDiscover.derondevenen.nl
 acceptatie.derondevenen.nl
 alwaysonvpn.derondevenen.nl
+api.meldingen-acc.derondevenen.nl
+api.meldingen.derondevenen.nl
 autodiscover.derondevenen.nl
 burgerloket.acceptatie.derondevenen.nl
 burgerloket.derondevenen.nl
@@ -9,10 +11,14 @@ filr.derondevenen.nl
 financialstest.derondevenen.nl
 gasten.derondevenen.nl
 gemeente.derondevenen.nl
+geodata-acc.derondevenen.nl
+geodata.derondevenen.nl
 iburgerzaken.derondevenen.nl
 ibzpink.derondevenen.nl
 iparticipatie.derondevenen.nl
 mail.derondevenen.nl
+meldingen-acc.derondevenen.nl
+meldingen.derondevenen.nl
 mijnzaken.derondevenen.nl
 mycorsanxt.derondevenen.nl
 ondernemersloket.derondevenen.nl

@@ -34,8 +34,8 @@ meldingen
 raad
 parkeren
 broker
-geo
 api.meldingen
+geo
 adfs
 vpn
 testeloket
@@ -51,9 +51,9 @@ zaaksysteem-accept
 dacceptatieloket
 dacceptatiemidoffice
 dloket
-dmidoffice
 api.meldingen-acc
 meldingen-acc
+dmidoffice
 data
 openpdc
 enterpriseregistration
@@ -184,6 +184,7 @@ mta-sts
 transfer
 college
 veiligdelen
+geodata
 maps
 mailing
 gis
@@ -201,7 +202,6 @@ bestuur
 squit2020
 geoportaal
 preprod-mijn
-geodata
 belastingbalie-test
 melddesk
 api.openstad
@@ -476,6 +476,7 @@ smtp1
 smtp2
 test.digikoppeling
 filr
+geodata-acc
 intra
 mijnloket
 parkeeracties
@@ -645,7 +646,6 @@ preprodgdintaker
 preprodscbroker
 scbroker
 www.financielestukken
-geodata-acc
 micc
 parkeeracties-test
 preprod-sociaalportaal
