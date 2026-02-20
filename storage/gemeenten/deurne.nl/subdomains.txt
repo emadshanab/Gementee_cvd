@@ -13,6 +13,7 @@ klantcontact.deurne.nl
 micollab.deurne.nl
 mijn.deurne.nl
 mijnkaart.deurne.nl
+oig.deurne.nl
 preproductie.deurne.nl
 probeer.deurne.nl
 rdweb.deurne.nl
@@ -24,5 +25,5 @@ test-trefpunt.deurne.nl
 testeloket.deurne.nl
 trefpunt.deurne.nl
 vpn.deurne.nl
+woningbouwkaart.deurne.nl
 www.deurne.nl
-xelion.deurne.nl

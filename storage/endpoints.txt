@@ -341,7 +341,6 @@ http://decosid.fa.amsterdam.nl
 http://decosvor.acc.amsterdam.nl
 http://decosvor.fa.amsterdam.nl
 http://decoswonen.amsterdam.nl
-http://deurne.nl
 http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
 http://digid.ooststellingwerf.nl
@@ -368,6 +367,7 @@ http://felix.bergendal.nl
 http://felix.bladel.nl
 http://felix.blaricum.nl
 http://felix.dalfsen.nl
+http://felix.deurne.nl
 http://felix.gemeentebeek.nl
 http://felix.kerkrade.nl
 http://felix.landgraaf.nl
@@ -497,7 +497,6 @@ http://preproductie.beekdaelen.nl
 http://preproductie.beuningen.nl
 http://preproductie.cranendonck.nl
 http://preproductie.dalfsen.nl
-http://preproductie.deurne.nl
 http://preproductie.gorinchem.nl
 http://preproductie.leudal.nl
 http://preproductie.voorschoten.nl
@@ -654,7 +653,6 @@ http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
 http://www.destemvan.groningen.nl
-http://www.deurne.nl
 http://www.doemee.denhaag.nl
 http://www.doemee.gemeentebest.nl
 http://www.doemee.oosterhout.nl
@@ -2697,6 +2695,7 @@ https://desktop.rucphen.nl
 https://desktop.winterswijk.nl
 https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
+https://deurne.nl
 https://dev-formulieren.haarlemmermeer.nl
 https://dev.amsterdam.nl
 https://dev01.deventer.nl
@@ -3471,7 +3470,6 @@ https://felix.bronckhorst.nl
 https://felix.bunschoten.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
-https://felix.deurne.nl
 https://felix.eersel.nl
 https://felix.halderberge.nl
 https://felix.harlingen.nl
@@ -4293,7 +4291,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.deurne.nl
 https://ibzpink.deventer.nl
 https://ibzpink.dewolden.nl
 https://ibzpink.diemen.nl
@@ -5331,6 +5328,7 @@ https://mform.valkenburg.nl
 https://mh-vwes21.westerwolde.nl
 https://mheenpark.apeldoorn.nl
 https://micc.zuidplas.nl
+https://micollab.deurne.nl
 https://micollab.hellendoorn.nl
 https://micollab.huizen.nl
 https://micollab.roermond.nl
@@ -5375,7 +5373,6 @@ https://mijn.debilt.nl
 https://mijn.defryskemarren.nl
 https://mijn.denhaag.nl
 https://mijn.denhelder.nl
-https://mijn.deurne.nl
 https://mijn.dev.nijmegen.nl
 https://mijn.deventer.nl
 https://mijn.dijkenwaard.nl
@@ -5873,6 +5870,7 @@ https://office-addin.borger-odoorn.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
 https://ogt.rotterdam.nl
+https://oig.deurne.nl
 https://oirschot.nl
 https://ois.accp.s-hertogenbosch.nl
 https://ois.s-hertogenbosch.nl
@@ -6561,6 +6559,7 @@ https://preprodscbroker.ouder-amstel.nl
 https://preprodscbroker.uithoorn.nl
 https://preproductie.bergeijk.nl
 https://preproductie.bronckhorst.nl
+https://preproductie.deurne.nl
 https://preproductie.eersel.nl
 https://preproductie.gemeentebeek.nl
 https://preproductie.gemeentewesterveld.nl
@@ -7010,6 +7009,7 @@ https://simcms.blaricum.nl
 https://simcms.capelleaandenijssel.nl
 https://simcms.cranendonck.nl
 https://simcms.dalfsen.nl
+https://simcms.deurne.nl
 https://simcms.doesburg.nl
 https://simcms.echt-susteren.nl
 https://simcms.gemeentebeek.nl
@@ -7053,6 +7053,7 @@ https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.bunschoten.nl
 https://simsite.cranendonck.nl
+https://simsite.deurne.nl
 https://simsite.edam-volendam.nl
 https://simsite.eersel.nl
 https://simsite.gemeentebeek.nl
@@ -8188,6 +8189,7 @@ https://woningbouwkaart.bladel.nl
 https://woningbouwkaart.borger-odoorn.nl
 https://woningbouwkaart.boxtel.nl
 https://woningbouwkaart.coevorden.nl
+https://woningbouwkaart.deurne.nl
 https://woningbouwkaart.dewolden.nl
 https://woningbouwkaart.eersel.nl
 https://woningbouwkaart.eindhoven.nl
@@ -8349,6 +8351,7 @@ https://www.denkmee.tilburg.nl
 https://www.denkmee.veenendaal.nl
 https://www.denkmee.wormerland.nl
 https://www.derondevenen.nl
+https://www.deurne.nl
 https://www.deventer.nl
 https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
@@ -8785,7 +8788,6 @@ https://www.zwijndrecht.nl
 https://www.zwolle.nl
 https://www2.formulieren.haarlemmermeer.nl
 https://www2.testformulieren.haarlemmermeer.nl
-https://xelion.deurne.nl
 https://xencor.bergenopzoom.nl
 https://xencort.bergenopzoom.nl
 https://xential-prod.stadskanaal.nl

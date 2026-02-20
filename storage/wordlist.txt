@@ -61,11 +61,11 @@ belastingbalie
 remote
 cmsoo
 loket.acceptatie
+woningbouwkaart
 openpub
 omgevingsvisie
 berichten
 cloudadapter-test
-woningbouwkaart
 osb
 login
 kaart
@@ -623,6 +623,7 @@ www.open
 cloudadapter-t
 vsp
 burgerloket.acceptatie
+oig
 acc-podiumd-abc
 acc-podiumd-contact
 acc-podiumd-formulier
@@ -1222,7 +1223,6 @@ edison-opl
 stswigo4it-acc
 stswigo4it
 www.rekenkamer
-oig
 dis4fin
 pda
 secure-t
@@ -2905,7 +2905,6 @@ da
 mijnkaart
 test-trefpunt
 trefpunt
-xelion
 adviesraden
 brink70
 buurtkijker

@@ -9274,6 +9274,7 @@ ogdservicedesk.huizen.nl
 ogdservicedeskacceptatie.huizen.nl
 ogone-tk.denhaag.nl
 ogt.rotterdam.nl
+oig.deurne.nl
 oig.rucphen.nl
 oig.veere.nl
 oirschot.nl
@@ -13963,6 +13964,7 @@ woningbouwkaart.bladel.nl
 woningbouwkaart.borger-odoorn.nl
 woningbouwkaart.boxtel.nl
 woningbouwkaart.coevorden.nl
+woningbouwkaart.deurne.nl
 woningbouwkaart.dewolden.nl
 woningbouwkaart.eersel.nl
 woningbouwkaart.eindhoven.nl
@@ -15222,7 +15224,6 @@ www2.noordoostpolder.nl
 www2.testformulieren.haarlemmermeer.nl
 wwwt.apeldoorn.nl
 wwwtest.beuningen.nl
-xelion.deurne.nl
 xencor.bergenopzoom.nl
 xencort.bergenopzoom.nl
 xential-prod.stadskanaal.nl
