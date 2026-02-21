@@ -425,9 +425,14 @@ http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://isis-a.rotterdam.nl
 http://isis.rotterdam.nl
+http://kei.deventer.nl
 http://kennisbank.groningen.nl
+http://kennisnet.deventer.nl
+http://kennisportaal2.deventer.nl
+http://kennisquiz.deventer.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
+http://klimaatraad.deventer.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://lingewaard.nl
@@ -454,14 +459,17 @@ http://mijn.zwartewaterland.nl
 http://mijnafspraak.scherpenzeel.nl
 http://mijntomindebuurt.nieuwkoop.nl
 http://mijnwerkplek.schagen.nl
+http://mijnwoonomgeving.deventer.nl
 http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
+http://nieuweburgemeester.deventer.nl
 http://nta7516.gemeentebest.nl
 http://objecten-zgw.test.denhaag.nl
 http://octopus-webdav.amsterdam.nl
 http://octopus.denhaag.nl
 http://old-dbmanager.test.denhaag.nl
+http://omgevingswet.deventer.nl
 http://ontheffingen-acc.amsterdam.nl
 http://ooststellingwerf.nl
 http://open.dalfsen.nl
@@ -474,6 +482,7 @@ http://open.wierden.nl
 http://opennotificaties-zgw.acc.denhaag.nl
 http://openzaakbrug-zgw.test.denhaag.nl
 http://oracbloemenbuurt.denhaag.nl
+http://oranjekwartier.deventer.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -485,6 +494,7 @@ http://pip-preproductie.gemeentehw.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
 http://plannen.someren.nl
+http://pop.deventer.nl
 http://pre-formulieren.houten.nl
 http://pre-gemeenteloket.gemeentemaastricht.nl
 http://pre-ows-ahp-test.groningen.nl
@@ -503,6 +513,8 @@ http://preproductie.voorschoten.nl
 http://preproductie.winterswijk.nl
 http://prod-surveys3.ggd.amsterdam.nl
 http://publicaties.rekenkamer.amsterdam.nl
+http://pveopenbareruiomte.deventer.nl
+http://qcalendar.deventer.nl
 http://raadsagenda.oirschot.nl
 http://rekenkamer.amsterdam.nl
 http://renswoude.nl
@@ -510,6 +522,7 @@ http://reuseldemierden.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://rp.beverwijk.nl
+http://ruimtelijkerfgoed.deventer.nl
 http://saaedepot-storage.amsterdam.nl
 http://schoondoenwegewoon.acc.denhaag.nl
 http://secure.dalfsen.nl
@@ -562,6 +575,7 @@ http://simsite.mookenmiddelaar.nl
 http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.twenterand.nl
+http://sluiskwartier.deventer.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
 http://snow-license.amsterdam.nl
@@ -577,6 +591,7 @@ http://status-paginas-zgw.test.denhaag.nl
 http://stembureaus.amsterdam.nl
 http://stemvan.groningen.nl
 http://stoepvrij.groningen.nl
+http://stroomt.deventer.nl
 http://subsidies-backend.leeuwarden.nl
 http://subsidies-login.acceptatie.leeuwarden.nl
 http://surveys3.acc.amsterdam.nl
@@ -618,27 +633,36 @@ http://testeloket.meppel.nl
 http://testtomindebuurt.nieuwkoop.nl
 http://tickets.krimpenerwaard.nl
 http://topdesk.ggd.amsterdam.nl
+http://transform.deventer.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://tvm.acc.amsterdam.nl
 http://uitvaartplanner.sittard-geleen.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
 http://verkiezingen.acc.topdesk.denhaag.nl
+http://verkiezingen.deventer.nl
+http://viertfietsen.deventer.nl
+http://vitaalplatteland.deventer.nl
 http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
 http://wassenaar.nl
+http://web01.deventer.nl
 http://webmail.gooisemeren.nl
 http://webmail.meierijstad.nl
 http://webservice-decosdvl.acc.amsterdam.nl
 http://welkom.ede.nl
 http://werkenbij.t-diel.nl
 http://werkenbij.weststellingwerf.nl
+http://werkenvoor.deventer.nl
 http://westerkwartier.nl
 http://westerwolde.groningen.nl
 http://weststellingwerf.nl
 http://wij.bergen-nh.nl
+http://wij.deventer.nl
+http://wijkaanpak.deventer.nl
 http://wijkbudgetwaldeck.denhaag.nl
 http://wijsamen.groningen.nl
+http://winkelen.deventer.nl
 http://wion.gemeentestein.nl
 http://wmoservice.buren.nl
 http://www.aanvraagparkeren.groningen.nl
@@ -653,6 +677,7 @@ http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
 http://www.destemvan.groningen.nl
+http://www.devgovrs1.deventer.nl
 http://www.doemee.denhaag.nl
 http://www.doemee.gemeentebest.nl
 http://www.doemee.oosterhout.nl
@@ -706,11 +731,14 @@ http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.weststellingwerf.nl
 http://www.wij.groningen.nl
+http://www.winkelen.deventer.nl
 http://www.zomerprogramma070.denhaag.nl
 http://www.zorgloket.druten.nl
 http://www.zuidwestopznbest.denhaag.nl
 http://yutpa.dev.rnd.amsterdam.nl
 http://zaak-acc.leeuwarden.nl
+http://zandweerdstroomt.deventer.nl
+http://zandweteringpark.deventer.nl
 http://zgw.denhaag.nl
 http://zgw3.denhaag.nl
 http://zomerprogramma070.denhaag.nl
@@ -980,6 +1008,7 @@ https://acc-podiumd-contact.raalte.nl
 https://acc-podiumd-formulier.deventer.nl
 https://acc-podiumd-formulier.olst-wijhe.nl
 https://acc-podiumd-formulier.raalte.nl
+https://acc-podiumd-ita.deventer.nl
 https://acc-podiumd-keycloak-admin.deventer.nl
 https://acc-podiumd-keycloak-admin.olst-wijhe.nl
 https://acc-podiumd-keycloak-admin.raalte.nl
@@ -1017,12 +1046,14 @@ https://acc-podiumd-objecten.raalte.nl
 https://acc-podiumd-objecttypen.deventer.nl
 https://acc-podiumd-objecttypen.olst-wijhe.nl
 https://acc-podiumd-objecttypen.raalte.nl
+https://acc-podiumd-office-addin.deventer.nl
 https://acc-podiumd-openklant.deventer.nl
 https://acc-podiumd-openklant.olst-wijhe.nl
 https://acc-podiumd-openklant.raalte.nl
 https://acc-podiumd-openzaak.deventer.nl
 https://acc-podiumd-openzaak.olst-wijhe.nl
 https://acc-podiumd-openzaak.raalte.nl
+https://acc-podiumd-podiumd-logs.deventer.nl
 https://acc-podiumd-zac.deventer.nl
 https://acc-podiumd-zac.olst-wijhe.nl
 https://acc-podiumd-zac.raalte.nl
@@ -1501,6 +1532,7 @@ https://api.meldingen-acc.apeldoorn.nl
 https://api.meldingen-acc.assen.nl
 https://api.meldingen-acc.bernheze.org
 https://api.meldingen-acc.derondevenen.nl
+https://api.meldingen-acc.deventer.nl
 https://api.meldingen-acc.enschede.nl
 https://api.meldingen-acc.gemeente-oldambt.nl
 https://api.meldingen-acc.hattem.nl
@@ -1535,6 +1567,7 @@ https://api.meldingen.assen.nl
 https://api.meldingen.bergenopzoom.nl
 https://api.meldingen.bernheze.org
 https://api.meldingen.derondevenen.nl
+https://api.meldingen.deventer.nl
 https://api.meldingen.eindhoven.nl
 https://api.meldingen.enschede.nl
 https://api.meldingen.gemeente-oldambt.nl
@@ -1794,6 +1827,7 @@ https://bedrijfsafval.assen.nl
 https://bedrijfsafval.rotterdam.nl
 https://bedrijfsafval.utrecht.nl
 https://bedrijfsgrond.urk.nl
+https://bedrijfskavels.deventer.nl
 https://bedrijfslocaties.coevorden.nl
 https://bedrijven.landvancuijk.nl
 https://bedrijvengids.landvancuijk.nl
@@ -2279,6 +2313,7 @@ https://buitenoporde.pijnacker-nootdorp.nl
 https://bunnik.nl
 https://bunschoten.nl
 https://buren.nl
+https://burgerjaarverslag.deventer.nl
 https://burgerloket.acceptatie.ouder-amstel.nl
 https://burgerloket.diemen.nl
 https://burgerloket.ouder-amstel.nl
@@ -2299,7 +2334,6 @@ https://buurtbudget.opdr.azure.amsterdam.nl
 https://buurtbudgetnoord.amsterdam.nl
 https://buurtbudgetnw.amsterdam.nl
 https://buurtbudgetzuidoost.amsterdam.nl
-https://buurtkijker.deventer.nl
 https://bzg1-acc.hellevoetsluis.nl
 https://cairo.rotterdam.nl
 https://camera.sliedrecht.nl
@@ -2323,6 +2357,7 @@ https://catalogus.dataplatform.accp.s-hertogenbosch.nl
 https://catalogus.dataplatform.s-hertogenbosch.nl
 https://cdn.oude-ijsselstreek.nl
 https://cdn1.tilburg.nl
+https://centraal-wonen.deventer.nl
 https://centricbelastingen.amsterdam.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://chat.amsterdam.nl
@@ -2369,6 +2404,7 @@ https://cms.openstad.apeldoorn.nl
 https://cms.openstad.deventer.nl
 https://cms.openstad.nijmegen.nl
 https://cms.zaanstad.nl
+https://cmsarchief.deventer.nl
 https://cmsbink.beverwijk.nl
 https://cmsdieuwke.defryskemarren.nl
 https://cmsdok.dronten.nl
@@ -2647,6 +2683,7 @@ https://decosgws.amsterdam.nl
 https://decosid.ft.amsterdam.nl
 https://decosvor.amsterdam.nl
 https://decoswonen.acc.amsterdam.nl
+https://deef.deventer.nl
 https://deelscooters.doemee.bloemendaal.nl
 https://defryskemarren.nl
 https://delft.nl
@@ -2658,6 +2695,7 @@ https://denhaagfietst-acc.denhaag.nl
 https://denhaagfietst.acc.denhaag.nl
 https://denhaagfietst.denhaag.nl
 https://denhelder.nl
+https://denkendoemee.deventer.nl
 https://denkmee.aalsmeer.nl
 https://denkmee.achtkarspelen.nl
 https://denkmee.amstelveen.nl
@@ -2704,6 +2742,7 @@ https://devapps3.olst-wijhe.nl
 https://devcmgs1.deventer.nl
 https://devcmgs2.olst-wijhe.nl
 https://deventer.nl
+https://deventerstroomt2.deventer.nl
 https://deventit.breda.nl
 https://devgovrs1.deventer.nl
 https://devices.meppel.nl
@@ -2840,7 +2879,6 @@ https://duiven.nl
 https://duo.veendam.nl
 https://duoloket.westerwolde.nl
 https://dup.rnd.amsterdam.nl
-https://durplandelijkevoorziening.deventer.nl
 https://dusk-acc-openwave.beverwijk.nl
 https://dusk-openwave.beverwijk.nl
 https://duurzaam.alphenaandenrijn.nl
@@ -3729,6 +3767,7 @@ https://gemeente-steenbergen.nl
 https://gemeente.baarle-nassau.nl
 https://gemeente.bodegraven-reeuwijk.nl
 https://gemeente.derondevenen.nl
+https://gemeente.deventer.nl
 https://gemeente.emmen.nl
 https://gemeente.groningen.nl
 https://gemeente.kampen.nl
@@ -4291,7 +4330,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.deventer.nl
 https://ibzpink.dewolden.nl
 https://ibzpink.diemen.nl
 https://ibzpink.dijkenwaard.nl
@@ -4834,18 +4872,16 @@ https://kcc.pijnacker-nootdorp.nl
 https://kcc.soest.nl
 https://kcsburgerzaken.nissewaard.nl
 https://keerpunt.rijswijk.nl
-https://kei.deventer.nl
 https://kenneth.delft.nl
 https://kennisbank.barneveld.nl
 https://kennisbank.eindhoven.nl
 https://kennisbank.nijmegen.nl
 https://kennisbank.wijdemeren.nl
 https://kenniscentrum-werven.utrecht.nl
-https://kennisnet.deventer.nl
 https://kennisportaal.denhaag.nl
 https://kennisportaal.deventer.nl
-https://kennisportaal2.deventer.nl
 https://kernhem.ede.nl
+https://ket.deventer.nl
 https://key2sub.apeldoorn.nl
 https://key2subacc.apeldoorn.nl
 https://keycloak-admin.assen.nl
@@ -4986,6 +5022,7 @@ https://lifecoolsquare.groningen.nl
 https://linden.landvancuijk.nl
 https://link.burgerpanel.middendrenthe.nl
 https://link.capelleaandenijssel.nl
+https://link.mailings.deventer.nl
 https://link.pr.zwolle.nl
 https://link.schouwen-duiveland.nl
 https://link.socialewegwijzer.meierijstad.nl
@@ -5120,6 +5157,7 @@ https://maasgouw-checker-preprod.gemeentemaasgouw.nl
 https://maasgouw-checker.gemeentemaasgouw.nl
 https://maashees.landvancuijk.nl
 https://maasheggen.landvancuijk.nl
+https://maatwerk.deventer.nl
 https://maatwerkacc.apeldoorn.nl
 https://magazine.dongen.nl
 https://magazine.goes.nl
@@ -5232,6 +5270,7 @@ https://meldingen-acc.apeldoorn.nl
 https://meldingen-acc.assen.nl
 https://meldingen-acc.bernheze.org
 https://meldingen-acc.derondevenen.nl
+https://meldingen-acc.deventer.nl
 https://meldingen-acc.enschede.nl
 https://meldingen-acc.gemeente-oldambt.nl
 https://meldingen-acc.hattem.nl
@@ -5271,6 +5310,7 @@ https://meldingen.bergenopzoom.nl
 https://meldingen.bernheze.org
 https://meldingen.denhaag.nl
 https://meldingen.derondevenen.nl
+https://meldingen.deventer.nl
 https://meldingen.eindhoven.nl
 https://meldingen.enschede.nl
 https://meldingen.gemeente-oldambt.nl
@@ -5591,7 +5631,6 @@ https://mijnwerkregelingen.utrecht.nl
 https://mijnwijk.zwolle.nl
 https://mijnwijkteam.schagen.nl
 https://mijnwiz.geertruidenberg.nl
-https://mijnwoonomgeving.deventer.nl
 https://mijnzaken-test.hengelo.nl
 https://mijnzaken.derondevenen.nl
 https://mijnzaken.halderberge.nl
@@ -5736,7 +5775,6 @@ https://nicewfm.utrecht.nl
 https://nietrnaast.rotterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://nieuwbouwzwembad.rijssen-holten.nl
-https://nieuweburgemeester.deventer.nl
 https://nieuwegein.nl
 https://nieuwkomers.arnhem.nl
 https://nieuwkomers.zaanstad.nl
@@ -5919,7 +5957,6 @@ https://omgevingsvisie.veendam.nl
 https://omgevingsvisie.venray.nl
 https://omgevingsvisie.vijfheerenlanden.nl
 https://omgevingswet.bronckhorst.nl
-https://omgevingswet.deventer.nl
 https://omgevingswet.gemeentemaashorst.nl
 https://omgevingswet.zaanstad.nl
 https://ommen.nl
@@ -6166,7 +6203,6 @@ https://openzaakbrug-zgw.denhaag.nl
 https://oploo.landvancuijk.nl
 https://opname.eindhoven.nl
 https://opsterland.nl
-https://oranjekwartier.deventer.nl
 https://oranjeplein.goirle.nl
 https://orbit.montferland.info
 https://organisatie.gemeente-steenbergen.nl
@@ -6361,6 +6397,7 @@ https://podcast.landvancuijk.nl
 https://podiumd-abc.deventer.nl
 https://podiumd-contact.deventer.nl
 https://podiumd-formulier.deventer.nl
+https://podiumd-ita.deventer.nl
 https://podiumd-keycloak-admin.deventer.nl
 https://podiumd-keycloak.deventer.nl
 https://podiumd-logs.assen.nl
@@ -6383,12 +6420,14 @@ https://podiumd-mijn.deventer.nl
 https://podiumd-notificaties.deventer.nl
 https://podiumd-objecten.deventer.nl
 https://podiumd-objecttypen.deventer.nl
+https://podiumd-office-addin.deventer.nl
 https://podiumd-openklant.deventer.nl
 https://podiumd-openzaak.deventer.nl
+https://podiumd-pabc.deventer.nl
+https://podiumd-podiumd-logs.deventer.nl
 https://podiumd-zac.deventer.nl
 https://point.assen.nl
 https://pollerscs.rotterdam.nl
-https://pop.deventer.nl
 https://portaal.dronten.nl
 https://portaal.gemeentehulst.nl
 https://portaal.haarlem.nl
@@ -6675,7 +6714,6 @@ https://pvsor.gemeentewestland.nl
 https://pwa.barendrecht.nl
 https://pwa.ridderkerk.nl
 https://q4.venlo.nl
-https://qcalendar.deventer.nl
 https://qfact.hofvantwente.nl
 https://qmatic.tholen.nl
 https://qr-acc.capelleaandenijssel.nl
@@ -7267,7 +7305,6 @@ https://storing.denhaag.nl
 https://strand.hoorn.nl
 https://streaming.landvancuijk.nl
 https://stroomlijntest.derondevenen.nl
-https://stroomt.deventer.nl
 https://sts-acc.rotterdam.nl
 https://sts-azdev.rotterdam.nl
 https://sts.dronten.nl
@@ -7667,7 +7704,6 @@ https://transfer.katwijk.nl
 https://transfer.koggenland.nl
 https://transfer.medemblik.nl
 https://transfer.stedebroec.nl
-https://transform.deventer.nl
 https://trashr.rotterdam.nl
 https://trefnet.hellevoetsluis.nl
 https://trefpunt.deurne.nl
@@ -7741,6 +7777,7 @@ https://validsign.montferland.info
 https://valkenburg.nl
 https://valkenswaard.nl
 https://vamos.rotterdam.nl
+https://vandoenen.deventer.nl
 https://vastgoed.gemeentemaastricht.nl
 https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
@@ -7810,7 +7847,6 @@ https://verhuur.gemeente-oldambt.nl
 https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
 https://verkeersbesluiten.denhaag.nl
-https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
 https://verkiezingen.sudwestfryslan.nl
 https://verkiezingen.topdesk.denhaag.nl
@@ -7830,7 +7866,6 @@ https://videobellen.utrecht.nl
 https://videobellenwsd.utrecht.nl
 https://vierdaagse.landvancuijk.nl
 https://vierlingsbeek.landvancuijk.nl
-https://viertfietsen.deventer.nl
 https://viewer-acc.zaanstad.nl
 https://viewer.zaanstad.nl
 https://vijfheerenlanden.nl
@@ -7892,6 +7927,7 @@ https://vthbroker.papendrecht.nl
 https://vthbroker.sliedrecht.nl
 https://vthbroker.zwijndrecht.nl
 https://vught.nl
+https://vvv.deventer.nl
 https://w2008bag.gemeentesluis.nl
 https://w2008stuf.gemeentesluis.nl
 https://w2kmks.montferland.info
@@ -7954,7 +7990,6 @@ https://web.sliedrecht.nl
 https://web.vlaardingen.nl
 https://web.zwijndrecht.nl
 https://web001.waterland.nl
-https://web01.deventer.nl
 https://web02.deventer.nl
 https://webcams.gouda.nl
 https://webdav.goeree-overflakkee.nl
@@ -8134,12 +8169,10 @@ https://whitelabel.nijmegen.nl
 https://wie.meppel.nl
 https://wierden.nl
 https://wifiguestportal.almere.nl
-https://wij.deventer.nl
 https://wij.purmerend.nl
 https://wijchen.nl
 https://wijdemeren.hilversum.nl
 https://wijdemeren.nl
-https://wijkaanpak.deventer.nl
 https://wijkberichten.utrecht.nl
 https://wijkbijduurstede.nl
 https://wijkbudgetlaakcentraal.denhaag.nl
@@ -8160,7 +8193,6 @@ https://willkommen.groningen.nl
 https://windopland.haarlemmermeer.nl
 https://winkel.landvancuijk.nl
 https://winkel.tilburg.nl
-https://winkelen.deventer.nl
 https://winkelen.landvancuijk.nl
 https://winkelsteeg.acc.nijmegen.nl
 https://winkelsteeg.nijmegen.nl
@@ -8353,7 +8385,6 @@ https://www.denkmee.wormerland.nl
 https://www.derondevenen.nl
 https://www.deurne.nl
 https://www.deventer.nl
-https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
 https://www.diemen.nl
 https://www.digitaalfotoarchief.oegstgeest.nl
@@ -8497,6 +8528,7 @@ https://www.inkomensondersteuning.nijmegen.nl
 https://www.intranet.kampen.nl
 https://www.intranet.oegstgeest.nl
 https://www.jijmaaktdebuurt.openstad.enschede.nl
+https://www.jongerenloket.deventer.nl
 https://www.jouwgrotemarkt.groningen.nl
 https://www.kaagenbraassem.nl
 https://www.kaartlaag.rotterdam.nl

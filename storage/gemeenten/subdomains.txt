@@ -401,6 +401,7 @@ acc-podiumd-contact.raalte.nl
 acc-podiumd-formulier.deventer.nl
 acc-podiumd-formulier.olst-wijhe.nl
 acc-podiumd-formulier.raalte.nl
+acc-podiumd-ita.deventer.nl
 acc-podiumd-keycloak-admin.deventer.nl
 acc-podiumd-keycloak-admin.olst-wijhe.nl
 acc-podiumd-keycloak-admin.raalte.nl
@@ -439,12 +440,14 @@ acc-podiumd-objecten.raalte.nl
 acc-podiumd-objecttypen.deventer.nl
 acc-podiumd-objecttypen.olst-wijhe.nl
 acc-podiumd-objecttypen.raalte.nl
+acc-podiumd-office-addin.deventer.nl
 acc-podiumd-openklant.deventer.nl
 acc-podiumd-openklant.olst-wijhe.nl
 acc-podiumd-openklant.raalte.nl
 acc-podiumd-openzaak.deventer.nl
 acc-podiumd-openzaak.olst-wijhe.nl
 acc-podiumd-openzaak.raalte.nl
+acc-podiumd-podiumd-logs.deventer.nl
 acc-podiumd-zac.deventer.nl
 acc-podiumd-zac.olst-wijhe.nl
 acc-podiumd-zac.raalte.nl
@@ -1416,6 +1419,7 @@ api.meldingen-acc.apeldoorn.nl
 api.meldingen-acc.assen.nl
 api.meldingen-acc.bernheze.org
 api.meldingen-acc.derondevenen.nl
+api.meldingen-acc.deventer.nl
 api.meldingen-acc.enschede.nl
 api.meldingen-acc.gemeente-oldambt.nl
 api.meldingen-acc.hattem.nl
@@ -1451,6 +1455,7 @@ api.meldingen.assen.nl
 api.meldingen.bergenopzoom.nl
 api.meldingen.bernheze.org
 api.meldingen.derondevenen.nl
+api.meldingen.deventer.nl
 api.meldingen.eindhoven.nl
 api.meldingen.enschede.nl
 api.meldingen.gemeente-oldambt.nl
@@ -2126,6 +2131,7 @@ bedrijfsafval.assen.nl
 bedrijfsafval.rotterdam.nl
 bedrijfsafval.utrecht.nl
 bedrijfsgrond.urk.nl
+bedrijfskavels.deventer.nl
 bedrijfslocaties.coevorden.nl
 bedrijven.landvancuijk.nl
 bedrijvengids.landvancuijk.nl
@@ -2839,6 +2845,7 @@ bunnik.nl
 bunschoten.nl
 bureaubroedplaatsen.amsterdam.nl
 buren.nl
+burgerjaarverslag.deventer.nl
 burgerloket.acceptatie.derondevenen.nl
 burgerloket.acceptatie.ouder-amstel.nl
 burgerloket.acceptatie.overbetuwe.nl
@@ -2955,6 +2962,7 @@ cca.westerwolde.nl
 cctst.apeldoorn.nl
 cdn.oude-ijsselstreek.nl
 cdn1.tilburg.nl
+centraal-wonen.deventer.nl
 centric-lvo-vth-p-swf.digikoppeling.sudwestfryslan.nl
 centric-lvo-vth-t-swf.digikoppeling.sudwestfryslan.nl
 centric.doesburg.nl
@@ -3120,6 +3128,7 @@ cms.rotterdam.nl
 cms.sittard-geleen.nl
 cms.werkenbij.amsterdam.nl
 cms.zaanstad.nl
+cmsarchief.deventer.nl
 cmsbink.beverwijk.nl
 cmsdieuwke.defryskemarren.nl
 cmsdok.dronten.nl
@@ -3642,6 +3651,7 @@ decosvor.amsterdam.nl
 decosvor.fa.amsterdam.nl
 decoswonen.acc.amsterdam.nl
 decoswonen.amsterdam.nl
+deef.deventer.nl
 deelscooters.doemee.bloemendaal.nl
 defryskemarren.nl
 delft.nl
@@ -3663,6 +3673,7 @@ denhaagfietst-acc.denhaag.nl
 denhaagfietst.acc.denhaag.nl
 denhaagfietst.denhaag.nl
 denhelder.nl
+denkendoemee.deventer.nl
 denkmee.aalsmeer.nl
 denkmee.achtkarspelen.nl
 denkmee.amstelveen.nl
@@ -3727,6 +3738,7 @@ devapps3.olst-wijhe.nl
 devcmgs1.deventer.nl
 devcmgs2.olst-wijhe.nl
 deventer.nl
+deventerstroomt2.deventer.nl
 deventit.breda.nl
 devgovrs1.deventer.nl
 devices.meppel.nl
@@ -5619,6 +5631,7 @@ gemeente.baarle-nassau.nl
 gemeente.bodegraven-reeuwijk.nl
 gemeente.boxtel.nl
 gemeente.derondevenen.nl
+gemeente.deventer.nl
 gemeente.emmen.nl
 gemeente.groningen.nl
 gemeente.kampen.nl
@@ -7415,9 +7428,11 @@ kennisnet.deventer.nl
 kennisportaal.denhaag.nl
 kennisportaal.deventer.nl
 kennisportaal2.deventer.nl
+kennisquiz.deventer.nl
 kentekencheck.denhaag.nl
 kerkrade.nl
 kernhem.ede.nl
+ket.deventer.nl
 ketenportaal.acceptatie.gemeentebeek.nl
 ketenportaal.acceptatie.oldenzaal.nl
 ketenportaal.acceptatie.peelenmaas.nl
@@ -7552,6 +7567,7 @@ klimaatplein.bergen-nh.nl
 klimaatplein.castricum.nl
 klimaatplein.heiloo.nl
 klimaatplein.uitgeest.nl
+klimaatraad.deventer.nl
 klooster.nieuwegein.nl
 kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
@@ -7692,6 +7708,7 @@ linden.landvancuijk.nl
 lingewaard.nl
 link.burgerpanel.middendrenthe.nl
 link.capelleaandenijssel.nl
+link.mailings.deventer.nl
 link.pr.haarlemmermeer.nl
 link.pr.zwolle.nl
 link.schouwen-duiveland.nl
@@ -7961,6 +7978,7 @@ maasgouw-checker.gemeentemaasgouw.nl
 maashees.landvancuijk.nl
 maasheggen.landvancuijk.nl
 maassluis.nl
+maatwerk.deventer.nl
 maatwerkacc.apeldoorn.nl
 magazine.dongen.nl
 magazine.goes.nl
@@ -8263,6 +8281,7 @@ meldingen-acc.apeldoorn.nl
 meldingen-acc.assen.nl
 meldingen-acc.bernheze.org
 meldingen-acc.derondevenen.nl
+meldingen-acc.deventer.nl
 meldingen-acc.enschede.nl
 meldingen-acc.gemeente-oldambt.nl
 meldingen-acc.hattem.nl
@@ -8305,6 +8324,7 @@ meldingen.cg-intern.acc.utrecht.nl
 meldingen.cg-intern.ont.utrecht.nl
 meldingen.denhaag.nl
 meldingen.derondevenen.nl
+meldingen.deventer.nl
 meldingen.eindhoven.nl
 meldingen.enschede.nl
 meldingen.gemeente-oldambt.nl
@@ -10094,6 +10114,7 @@ podcast.landvancuijk.nl
 podiumd-abc.deventer.nl
 podiumd-contact.deventer.nl
 podiumd-formulier.deventer.nl
+podiumd-ita.deventer.nl
 podiumd-keycloak-admin.deventer.nl
 podiumd-keycloak.deventer.nl
 podiumd-logs.assen.nl
@@ -10116,8 +10137,11 @@ podiumd-mijn.deventer.nl
 podiumd-notificaties.deventer.nl
 podiumd-objecten.deventer.nl
 podiumd-objecttypen.deventer.nl
+podiumd-office-addin.deventer.nl
 podiumd-openklant.deventer.nl
 podiumd-openzaak.deventer.nl
+podiumd-pabc.deventer.nl
+podiumd-podiumd-logs.deventer.nl
 podiumd-zac.deventer.nl
 point.assen.nl
 pollerscs.rotterdam.nl
@@ -10690,6 +10714,7 @@ pv.vlaardingen.nl
 pv.zaanstad.nl
 pv.zwolle.nl
 pveopenbareruimte.deventer.nl
+pveopenbareruiomte.deventer.nl
 pvh.hoorn.nl
 pvsor.gemeentewestland.nl
 pw-specificatie.rijssen-holten.nl
@@ -11047,6 +11072,7 @@ ruimtelijkeplannen.veldhoven.nl
 ruimtelijkeplannen.venlo.nl
 ruimtelijkeplannen.vijfheerenlanden.nl
 ruimtelijkeplannen.voerendaal.nl
+ruimtelijkerfgoed.deventer.nl
 ruimtevoorjou.groningen.nl
 ruimtevoorwerken.stichtsevecht.nl
 rvw.stichtsevecht.nl
@@ -11705,6 +11731,7 @@ sliedrecht.nl
 slimbereikbaar.assen.nl
 slimmeapparaten.amsterdam.nl
 sltest.voorst.nl
+sluiskwartier.deventer.nl
 sm1-sec.schiedam.nl
 smallingerland.nl
 smap.almere.nl
@@ -12955,6 +12982,7 @@ tubbergen.nl
 tubwdds.landgraaf.nl
 tubweau.heerlen.nl
 tuinen.groningen.nl
+tungsten.deventer.nl
 tungstencapture.bergenopzoom.nl
 tunnel.hardenberg.nl
 tunnel.terneuzen.nl
@@ -13077,6 +13105,7 @@ valkenburg.nl
 valkenswaard.nl
 valuecare.nissewaard.nl
 vamos.rotterdam.nl
+vandoenen.deventer.nl
 varen.groningen.nl
 vasd-acc.groningen.nl
 vasd.groningen.nl
@@ -13230,6 +13259,7 @@ visnet-acc.vlissingen.nl
 visnet.vlissingen.nl
 visvijver.doetinchem.nl
 vitaal.venlo.nl
+vitaalplatteland.deventer.nl
 vlaardingen.nl
 vlieland.nl
 vlindernet.lingewaard.nl
@@ -13347,6 +13377,7 @@ vthbroker.zwijndrecht.nl
 vthpublicaties.peelenmaas.nl
 vught.nl
 vvb.sliedrecht.nl
+vvv.deventer.nl
 w-p-exc-0005.leeuwarden.nl
 w-p-exc-0006.leeuwarden.nl
 w2008bag.gemeentesluis.nl
@@ -13751,6 +13782,7 @@ werkenvoor-acc.denhaag.nl
 werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
 werkenvoor.denhaag.nl
+werkenvoor.deventer.nl
 werkenvoor.gemeentestein.nl
 werkenvoor.gorinchem.nl
 werkenvoor.lelystad.nl
@@ -14575,6 +14607,7 @@ www.janvanzanen.denhaag.nl
 www.jcc.overbetuwe.nl
 www.jccbetalen.haarlemmermeer.nl
 www.jijmaaktdebuurt.openstad.enschede.nl
+www.jongerenloket.deventer.nl
 www.jongin.borsele.nl
 www.jongin.buren.nl
 www.jongin.doetinchem.nl
@@ -15166,6 +15199,7 @@ www.wijkprofiel.rotterdam.nl
 www.wilkommen.groningen.nl
 www.willkommen.groningen.nl
 www.windopland.haarlemmermeer.nl
+www.winkelen.deventer.nl
 www.winkelsteeg.nijmegen.nl
 www.winterswijk.nl
 www.wireless.peelenmaas.nl
@@ -15378,6 +15412,8 @@ zamo-acc.zaanstad.nl
 zamo-beheer.zaanstad.nl
 zamo.zaanstad.nl
 zandvoort.nl
+zandweerdstroomt.deventer.nl
+zandweteringpark.deventer.nl
 zec.acc.amsterdam.nl
 zeewolde.nl
 zeist.nl
