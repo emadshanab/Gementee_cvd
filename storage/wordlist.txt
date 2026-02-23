@@ -98,13 +98,13 @@ dtestloket
 cmsintranet
 siam
 financien
+api.betalen
 bgt
 pki
 e
 osbacc
 snelbalie
 duurzaam
-api.betalen
 apps
 acc-formulier
 podiumd-logs
@@ -161,7 +161,6 @@ ftp
 izaaksuite
 snelbaliepp
 vdi
-sip
 zac
 fmreturn
 inproces
@@ -172,7 +171,7 @@ gisib
 bis
 formulieren-test
 bag
-lyncdiscover
+sip
 gasten
 mdm
 smtp
@@ -188,6 +187,7 @@ geodata
 maps
 mailing
 gis
+lyncdiscover
 owa
 test-digikoppeling
 meedoen
@@ -231,7 +231,6 @@ website
 werkenvoor
 _dmarc
 admin.openstad
-afval
 opendata
 woo
 meet
@@ -266,6 +265,7 @@ cms
 exchange
 mozardtest
 www.test
+afval
 auth.openstad
 e-loket
 openstad

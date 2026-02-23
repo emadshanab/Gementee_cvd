@@ -1373,7 +1373,6 @@ https://afspraken.zevenaar.nl
 https://afspraken.zwolle.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
-https://afval.diemen.nl
 https://afval.geertruidenberg.nl
 https://afval.goes.nl
 https://afval.purmerend.nl
@@ -1485,6 +1484,7 @@ https://api.aip.amsterdam.nl
 https://api.amsterdam.nl
 https://api.betalen.amsterdam.nl
 https://api.betalen.breda.nl
+https://api.betalen.diemen.nl
 https://api.betalen.eemsdelta.nl
 https://api.betalen.gemert-bakel.nl
 https://api.betalen.laarbeek.nl
@@ -4330,7 +4330,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.diemen.nl
 https://ibzpink.dijkenwaard.nl
 https://ibzpink.drimmelen.nl
 https://ibzpink.druten.nl
@@ -5140,7 +5139,6 @@ https://luchen.geldrop-mierlo.nl
 https://lvs.hellendoorn.nl
 https://lvs.horstaandemaas.nl
 https://lvs.zwemmen.venlo.nl
-https://lyncdiscover.diemen.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
 https://m.lochem.nl
@@ -7120,7 +7118,6 @@ https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sint-michielsgestel.nl
 https://sintanthonis.landvancuijk.nl
-https://sip.diemen.nl
 https://sip.hellevoetsluis.nl
 https://sip.houten.nl
 https://siraskalot.delft.nl
@@ -7881,7 +7878,6 @@ https://vlissingen.nl
 https://vluchtelingen.zaanstad.nl
 https://vm156.denhelder.nl
 https://voerendaal.nl
-https://vogelweide.diemen.nl
 https://voice.leudal.nl
 https://voorjaarsnota.rijswijk.nl
 https://voorjaarsrapportage.haarlemmermeer.nl

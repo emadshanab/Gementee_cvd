@@ -1135,7 +1135,6 @@ afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.amsterdam.nl
 afval.assen.nl
-afval.diemen.nl
 afval.geertruidenberg.nl
 afval.goes.nl
 afval.katwijk.nl
@@ -1359,6 +1358,7 @@ api.aip.amsterdam.nl
 api.amsterdam.nl
 api.betalen.amsterdam.nl
 api.betalen.breda.nl
+api.betalen.diemen.nl
 api.betalen.eemsdelta.nl
 api.betalen.gemert-bakel.nl
 api.betalen.laarbeek.nl
@@ -7940,7 +7940,6 @@ lynccon.haarlemmermeer.nl
 lyncdir.haarlem.nl
 lyncdiscover.assen.nl
 lyncdiscover.brunssum.nl
-lyncdiscover.diemen.nl
 lyncdiscover.haarlem.nl
 lyncdiscover.hellevoetsluis.nl
 lyncdiscover.houten.nl
@@ -11705,7 +11704,6 @@ sinterklaas.groningen.nl
 sip.assen.nl
 sip.brunssum.nl
 sip.castricum.nl
-sip.diemen.nl
 sip.haarlem.nl
 sip.hellevoetsluis.nl
 sip.hoorn.nl
