@@ -26,8 +26,8 @@ open
 waarmerk
 dkd
 werkplek
-portal
 acc
+portal
 betalen
 meldingen
 afspraak

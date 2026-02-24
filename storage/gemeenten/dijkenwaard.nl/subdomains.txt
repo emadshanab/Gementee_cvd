@@ -25,7 +25,6 @@ parkeren-siam.dijkenwaard.nl
 parkeren-test.dijkenwaard.nl
 parkeren.dijkenwaard.nl
 portaal.dijkenwaard.nl
-portal.dijkenwaard.nl
 site.dijkenwaard.nl
 training.dijkenwaard.nl
 uca.dijkenwaard.nl

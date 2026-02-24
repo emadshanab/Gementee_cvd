@@ -10182,7 +10182,6 @@ portal.brummen.nl
 portal.dalfsen.nl
 portal.data.alkmaar.nl
 portal.denhaag.nl
-portal.dijkenwaard.nl
 portal.drechterland.nl
 portal.enkhuizen.nl
 portal.gemeente-oldambt.nl

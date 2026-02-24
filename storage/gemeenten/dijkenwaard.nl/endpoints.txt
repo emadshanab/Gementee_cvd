@@ -11,7 +11,6 @@ https://geodata.dijkenwaard.nl
 https://hetsociaalplein-acc.dijkenwaard.nl
 https://hetsociaalplein.dijkenwaard.nl
 https://iburgerzaken.dijkenwaard.nl
-https://ibzpink.dijkenwaard.nl
 https://kijk.dijkenwaard.nl
 https://mijn.dijkenwaard.nl
 https://omgevingsvisie.dijkenwaard.nl
