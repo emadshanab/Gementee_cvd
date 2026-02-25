@@ -6549,7 +6549,6 @@ https://preprod-mijnsociaalplein.uitgeest.nl
 https://preprod-mijnuitkering.westvoorne.nl
 https://preprod-mijnwijkteam.schagen.nl
 https://preprod-mijnzorg.denhelder.nl
-https://preprod-sociaalportaal.dinkelland.nl
 https://preprod-sociaalportaal.tubbergen.nl
 https://preprod-wozbalie.pijnacker-nootdorp.nl
 https://preprod.drimmelen.nl
