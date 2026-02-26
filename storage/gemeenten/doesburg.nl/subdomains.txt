@@ -11,6 +11,7 @@ mijn.doesburg.nl
 mijninkomen.doesburg.nl
 preprod-mijninkomen.doesburg.nl
 probeer.doesburg.nl
+samen.doesburg.nl
 sim-prefill.doesburg.nl
 sim-preproductie.doesburg.nl
 simcms-woo.doesburg.nl
@@ -19,4 +20,5 @@ simsite.doesburg.nl
 vraagbaak.doesburg.nl
 woo.doesburg.nl
 www.doesburg.nl
+www.samen.doesburg.nl
 www.vraagbaak.doesburg.nl

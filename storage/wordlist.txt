@@ -100,6 +100,7 @@ siam
 financien
 api.betalen
 bgt
+samen
 pki
 e
 osbacc
@@ -110,7 +111,6 @@ acc-formulier
 podiumd-logs
 extranet
 govroam
-samen
 test-cmsintranet
 verkiezingen
 afvalkalender
@@ -250,6 +250,7 @@ jongin
 www.jongin
 archief
 topdesk
+www.samen
 afspraakmaken
 kcc
 mx1
@@ -277,7 +278,6 @@ citrix
 key2gbav
 bestanden
 squit2020.acceptatie
-www.samen
 www.intranet
 midoffice
 mijnzorg-acc
