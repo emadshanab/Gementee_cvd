@@ -474,6 +474,7 @@ http://omgevingswet.deventer.nl
 http://ontheffingen-acc.amsterdam.nl
 http://ooststellingwerf.nl
 http://open.dalfsen.nl
+http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://open.halderberge.nl
 http://open.nuenen.nl
@@ -549,7 +550,6 @@ http://simcms.bergeijk.nl
 http://simcms.bergenopzoom.nl
 http://simcms.bronckhorst.nl
 http://simcms.bunschoten.nl
-http://simcms.doetinchem.nl
 http://simcms.halderberge.nl
 http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
@@ -2823,6 +2823,7 @@ https://do.winterswijk.nl
 https://docgen.deventer.nl
 https://documenten.acceptatie.amstelveen.nl
 https://documenten.amstelveen.nl
+https://documenten.doetinchem.nl
 https://documenten.enschede.nl
 https://documenten.groningen.nl
 https://documenten.losser.nl
@@ -6030,7 +6031,6 @@ https://open.breda.nl
 https://open.bronckhorst.nl
 https://open.castricum.nl
 https://open.dinkelland.nl
-https://open.doetinchem.nl
 https://open.ede.nl
 https://open.epe.nl
 https://open.geldrop-mierlo.nl
@@ -7047,6 +7047,7 @@ https://simcms.cranendonck.nl
 https://simcms.dalfsen.nl
 https://simcms.deurne.nl
 https://simcms.doesburg.nl
+https://simcms.doetinchem.nl
 https://simcms.echt-susteren.nl
 https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
@@ -7401,7 +7402,6 @@ https://sudwestfryslan.nl
 https://suikerzijde.groningen.nl
 https://summit.amsterdam.nl
 https://support.bergen-nh.nl
-https://support.doetinchem.nl
 https://support.helmond.nl
 https://support.nieuwegein.nl
 https://support.veere.nl

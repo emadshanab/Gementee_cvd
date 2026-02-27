@@ -4230,6 +4230,7 @@ documenten.aalten.nl
 documenten.acceptatie.amstelveen.nl
 documenten.amstelveen.nl
 documenten.amsterdam.nl
+documenten.doetinchem.nl
 documenten.enschede.nl
 documenten.groningen.nl
 documenten.losser.nl
@@ -12258,7 +12259,6 @@ summit.amsterdam.nl
 suppliers-ot.tilburg.nl
 suppliers.tilburg.nl
 support.bergen-nh.nl
-support.doetinchem.nl
 support.gemeentebeek.nl
 support.helmond.nl
 support.nieuwegein.nl

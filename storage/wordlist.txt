@@ -260,6 +260,7 @@ mijnsociaaldomein
 cloudadapter-prod
 handhaving
 www.denkmee
+documenten
 vergunningintaker-preprod
 praatmee
 cms
@@ -270,7 +271,6 @@ afval
 auth.openstad
 e-loket
 openstad
-support
 data-test
 xential
 erfgoed
@@ -281,7 +281,6 @@ squit2020.acceptatie
 www.intranet
 midoffice
 mijnzorg-acc
-documenten
 geovisia
 gisib-test
 gisibapi-test
@@ -308,6 +307,7 @@ test-mijn
 awmag
 beeldbank-bo
 simcms-preproductie
+support
 intranetcms
 rap
 digikoppelingtest

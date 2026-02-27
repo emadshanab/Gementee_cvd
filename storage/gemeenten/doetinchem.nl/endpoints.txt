@@ -1,10 +1,11 @@
-http://simcms.doetinchem.nl
+http://open.doetinchem.nl
 https://adfs.doetinchem.nl
 https://afbeeldingen.doetinchem.nl
 https://belastingbalie-test.doetinchem.nl
 https://belastingbalie.doetinchem.nl
 https://besluitvorming.doetinchem.nl
 https://betalen.doetinchem.nl
+https://documenten.doetinchem.nl
 https://doetinchem.nl
 https://edienstenburgerzaken-test.doetinchem.nl
 https://edienstenburgerzaken.doetinchem.nl
@@ -15,9 +16,8 @@ https://enterpriseregistration.doetinchem.nl
 https://geo.doetinchem.nl
 https://mijngeldzaken.doetinchem.nl
 https://mobile.doetinchem.nl
-https://open.doetinchem.nl
 https://servicestore.doetinchem.nl
 https://simcms-open.doetinchem.nl
-https://support.doetinchem.nl
+https://simcms.doetinchem.nl
 https://visvijver.doetinchem.nl
 https://www.doetinchem.nl

@@ -8,6 +8,7 @@ betalen.doetinchem.nl
 centric.doetinchem.nl
 digikoppeling.doetinchem.nl
 digikoppelingadapter.doetinchem.nl
+documenten.doetinchem.nl
 doetinchem.nl
 edienstenburgerzaken-test.doetinchem.nl
 edienstenburgerzaken.doetinchem.nl
@@ -32,7 +33,6 @@ simcms-open.doetinchem.nl
 simcms.doetinchem.nl
 simsite.doetinchem.nl
 smtptls.doetinchem.nl
-support.doetinchem.nl
 test-digikoppelingadapter.doetinchem.nl
 visvijver.doetinchem.nl
 web4biz251.doetinchem.nl
