@@ -15,4 +15,5 @@ samen.dongen.nl
 test-meedoenregeling.dongen.nl
 webservices.dongen.nl
 werkplek.dongen.nl
+werkplek2.dongen.nl
 www.dongen.nl

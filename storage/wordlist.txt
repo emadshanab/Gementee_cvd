@@ -973,6 +973,7 @@ centric
 simcms-woo
 test-digikoppelingadapter
 dkd.berichtenverkeer
+werkplek2
 dok
 forms-test
 www.remote
@@ -5933,7 +5934,6 @@ svhsd-ot.berichtenverkeer
 svhsd.berichtenverkeer
 vri.extranet
 webservices-acceptatie
-werkplek2
 winkel-acceptatie
 winkel-ot
 www-acceptatie
