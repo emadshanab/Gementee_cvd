@@ -1,7 +1,10 @@
+api.betalen.dordrecht.nl
 autodiscover.dordrecht.nl
 berichten.dordrecht.nl
+betalen.dordrecht.nl
 cms.dordrecht.nl
 college.dordrecht.nl
+connect.acceptatie.dordrecht.nl
 dordrecht.nl
 e-tstsys.dordrecht.nl
 edienstenburgerzaken-test.dordrecht.nl

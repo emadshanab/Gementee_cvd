@@ -1359,6 +1359,7 @@ api.amsterdam.nl
 api.betalen.amsterdam.nl
 api.betalen.breda.nl
 api.betalen.diemen.nl
+api.betalen.dordrecht.nl
 api.betalen.eemsdelta.nl
 api.betalen.gemert-bakel.nl
 api.betalen.laarbeek.nl
@@ -2525,6 +2526,7 @@ betalen.castricum.nl
 betalen.denhelder.nl
 betalen.diemen.nl
 betalen.doetinchem.nl
+betalen.dordrecht.nl
 betalen.ede.nl
 betalen.eemsdelta.nl
 betalen.elburg.nl
@@ -3262,6 +3264,7 @@ connect-preprod.almere.nl
 connect-with.trouwen.tilburg.nl
 connect.acceptatie.coevorden.nl
 connect.acceptatie.dantumadiel.frl
+connect.acceptatie.dordrecht.nl
 connect.acceptatie.drechterland.nl
 connect.acceptatie.gemeentebeek.nl
 connect.acceptatie.gemeentewestland.nl

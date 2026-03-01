@@ -323,6 +323,7 @@ http://cmsintranet.lansingerland.nl
 http://cmsjip.vijfheerenlanden.nl
 http://cmssocialintranet.middendelfland.nl
 http://collecties.dantumadiel.frl
+http://connect.acceptatie.dordrecht.nl
 http://connect.acceptatie.goirle.nl
 http://contactregistratie.acc.amsterdam.nl
 http://contactregistratie.amsterdam.nl
@@ -1486,6 +1487,7 @@ https://api.amsterdam.nl
 https://api.betalen.amsterdam.nl
 https://api.betalen.breda.nl
 https://api.betalen.diemen.nl
+https://api.betalen.dordrecht.nl
 https://api.betalen.eemsdelta.nl
 https://api.betalen.gemert-bakel.nl
 https://api.betalen.laarbeek.nl
@@ -2109,6 +2111,7 @@ https://betalen.castricum.nl
 https://betalen.denhelder.nl
 https://betalen.diemen.nl
 https://betalen.doetinchem.nl
+https://betalen.dordrecht.nl
 https://betalen.ede.nl
 https://betalen.eemsdelta.nl
 https://betalen.elburg.nl
@@ -4604,7 +4607,6 @@ https://internettest.veenendaal.nl
 https://internoss.oss.nl
 https://internwifi.hellevoetsluis.nl
 https://intra.deventer.nl
-https://intra.dordrecht.nl
 https://intra.gooisemeren.nl
 https://intranet-acc.bergendal.nl
 https://intranet-acc.borne.nl
@@ -8177,7 +8179,6 @@ https://wijkbudgetlaakcentraal.denhaag.nl
 https://wijkbudgetleidschenveen.denhaag.nl
 https://wijkbudgetvruchtenbuurt.denhaag.nl
 https://wijkbudgetypenburg.denhaag.nl
-https://wijken.dordrecht.nl
 https://wijkmanagement.zaanstad.nl
 https://wijkprofiel.rotterdam.nl
 https://wijkraad.rotterdam.nl

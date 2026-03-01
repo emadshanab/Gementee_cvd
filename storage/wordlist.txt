@@ -90,6 +90,7 @@ acc-broker
 preprodbroker
 portaal
 piwik
+api.betalen
 acc-podiumd-logs
 belastingloket
 test-intranet
@@ -98,7 +99,6 @@ dtestloket
 cmsintranet
 siam
 financien
-api.betalen
 bgt
 samen
 pki
@@ -143,6 +143,7 @@ notificaties
 objecten
 sts
 obsurv
+connect.acceptatie
 simform
 web
 preprod-mijninkomen
@@ -154,7 +155,6 @@ keycloak
 www.doemee
 micollab
 inloggen
-connect.acceptatie
 contentbeheer
 begroting
 ftp
