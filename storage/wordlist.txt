@@ -56,8 +56,8 @@ dloket
 dmidoffice
 data
 openpdc
-enterpriseregistration
 belastingbalie
+enterpriseregistration
 remote
 cmsoo
 loket.acceptatie
@@ -427,6 +427,7 @@ zaakloket
 mail1
 applicaties
 belastingbalie-acc
+belastingbalie.acc
 cms.openstad
 dev
 gbi
@@ -549,7 +550,6 @@ energieloket
 acc.meldingen
 api.acc.meldingen
 app
-belastingbalie.acc
 bouwdossiers
 dataportaal
 mas
@@ -655,6 +655,7 @@ efactuur
 besluitvorming
 webdav
 webformulieren
+idbroker
 klantportaal.acc
 prod
 grondwater
@@ -974,6 +975,7 @@ simcms-woo
 test-digikoppelingadapter
 dkd.berichtenverkeer
 werkplek2
+preprodidbroker
 dok
 forms-test
 www.remote
@@ -1229,7 +1231,6 @@ pda
 secure-t
 camera
 qmanage
-idbroker
 prefill-test
 digitalebelastingbalie-test
 qmatic
@@ -3035,6 +3036,8 @@ G0498
 datab
 durp
 g0498
+ie01.signicat.pro
+pre.ie01.signicat.pro
 sb
 fs-mail
 neuesb
@@ -5698,7 +5701,6 @@ probeer-epos
 simcms-epos
 openpdckb
 openpubkb
-preprodidbroker
 bsp02
 bst02
 digikoppelingenproductie

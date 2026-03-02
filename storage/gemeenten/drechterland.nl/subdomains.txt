@@ -3,6 +3,8 @@ G0498.drechterland.nl
 acc.drechterland.nl
 acceptatie.drechterland.nl
 autodiscover.drechterland.nl
+belastingbalie.acc.drechterland.nl
+belastingbalie.drechterland.nl
 connect.acceptatie.drechterland.nl
 connect.drechterland.nl
 contentbeheer.acceptatie.drechterland.nl
@@ -14,6 +16,8 @@ durp.drechterland.nl
 edienstenburgerzaken-test.drechterland.nl
 edienstenburgerzaken.drechterland.nl
 g0498.drechterland.nl
+idbroker.drechterland.nl
+ie01.signicat.pro.drechterland.nl
 inproces.acceptatie.drechterland.nl
 inproces.drechterland.nl
 klantportaal.acc.drechterland.nl
@@ -25,6 +29,8 @@ openpdc.drechterland.nl
 osb.drechterland.nl
 osbacc.drechterland.nl
 portal.drechterland.nl
+pre.ie01.signicat.pro.drechterland.nl
+preprodidbroker.drechterland.nl
 preproductie.drechterland.nl
 prod.drechterland.nl
 samen.drechterland.nl
