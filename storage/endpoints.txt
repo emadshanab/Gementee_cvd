@@ -602,7 +602,6 @@ http://test-binnenshuis.bergen.nl
 http://test-cmsdok.dronten.nl
 http://test-cmsextranet.hethogeland.nl
 http://test-cmsflash.scherpenzeel.nl
-http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsjip.vijfheerenlanden.nl
@@ -4337,7 +4336,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.drimmelen.nl
 https://ibzpink.druten.nl
 https://ibzpink.edam-volendam.nl
 https://ibzpink.ede.nl
@@ -7452,6 +7450,7 @@ https://test-belastingloket.purmerend.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmshofnet.coevorden.nl
+https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl

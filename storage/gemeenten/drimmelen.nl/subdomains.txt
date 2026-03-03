@@ -21,6 +21,7 @@ remote.drimmelen.nl
 siam.drimmelen.nl
 smartdocuments.drimmelen.nl
 smartdocumentsacc.drimmelen.nl
+ssd-test.drimmelen.nl
 ssd.drimmelen.nl
 ssdacc.drimmelen.nl
 test-cmsintranet.drimmelen.nl
