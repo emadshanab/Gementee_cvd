@@ -120,6 +120,7 @@ http://autodiscover.dgp.mookenmiddelaar.nl
 http://autodiscover.dongen.nl
 http://autodiscover.dordrecht.nl
 http://autodiscover.drechterland.nl
+http://autodiscover.dronten.nl
 http://autodiscover.druten.nl
 http://autodiscover.duiven.nl
 http://autodiscover.edam-volendam.nl
@@ -599,7 +600,6 @@ http://subsidies-login.acceptatie.leeuwarden.nl
 http://surveys3.acc.amsterdam.nl
 http://test-bink.beverwijk.nl
 http://test-binnenshuis.bergen.nl
-http://test-cmsdok.dronten.nl
 http://test-cmsextranet.hethogeland.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.etten-leur.nl
@@ -607,7 +607,6 @@ http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-dieuwke.defryskemarren.nl
-http://test-dok.dronten.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-intra.gooisemeren.nl
@@ -1164,6 +1163,7 @@ https://acc.zorg.voerendaal.nl
 https://accept-zaaksysteem.denhelder.nl
 https://accept-zaaksysteem.terneuzen.nl
 https://accept.subsites.leiden.nl
+https://acceptatie-formulieren.dronten.nl
 https://acceptatie-intranet.hardenberg.nl
 https://acceptatie-intranet.nederbetuwe.nl
 https://acceptatie-intranet.oosterhout.nl
@@ -2860,6 +2860,7 @@ https://doemee.zoetermeer.nl
 https://doemee.zwolle.nl
 https://doesburg.nl
 https://doetinchem.nl
+https://dok-acc.dronten.nl
 https://dok.dronten.nl
 https://dok.rotterdam.nl
 https://dolph.rotterdam.nl
@@ -3684,6 +3685,7 @@ https://formulieren.buren.nl
 https://formulieren.culemborg.nl
 https://formulieren.denhaag.nl
 https://formulieren.digitaal.utrecht.nl
+https://formulieren.dronten.nl
 https://formulieren.duiven.nl
 https://formulieren.edam-volendam.nl
 https://formulieren.geertruidenberg.nl
@@ -6917,6 +6919,7 @@ https://samen.schagen.nl
 https://samen.stedebroec.nl
 https://samenatwork.stichtsevecht.nl
 https://samenduurzaam.geldrop-mierlo.nl
+https://samenleving.dronten.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
@@ -7449,6 +7452,7 @@ https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
+https://test-cmsdok.dronten.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
