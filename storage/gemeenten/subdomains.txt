@@ -828,6 +828,7 @@ acceptatieloket.bergen-nh.nl
 acceptatieloket.borne.nl
 acceptatieloket.dinkelland.nl
 acceptatiemidoffice.coevorden.nl
+acceptatiemijnzorg.duiven.nl
 acceptatievergunningen.duiven.nl
 acceptatievergunningen.westervoort.nl
 access.hoorn.nl
@@ -8776,6 +8777,7 @@ mijnzorg.beekdaelen.nl
 mijnzorg.beesel.nl
 mijnzorg.borne.nl
 mijnzorg.denhelder.nl
+mijnzorg.duiven.nl
 mijnzorg.gennep.nl
 mijnzorg.heuvelrug.nl
 mijnzorg.roosendaal.nl

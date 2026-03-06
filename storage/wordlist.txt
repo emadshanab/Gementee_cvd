@@ -112,6 +112,7 @@ podiumd-logs
 extranet
 govroam
 test-cmsintranet
+mijnzorg
 verkiezingen
 afvalkalender
 acc-contact
@@ -131,7 +132,6 @@ www.webmail
 filecap
 dtestmidoffice
 squit2go
-mijnzorg
 vergunningintaker
 mijninkomen
 subsidies
@@ -3056,6 +3056,7 @@ test-dok
 test.afspraakmaken
 test.services
 kcv
+acceptatiemijnzorg
 duiven-checker-preprod
 duiven-checker
 clv

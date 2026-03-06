@@ -717,7 +717,6 @@ http://www.scheveningen.denhaag.nl
 http://www.simpelveld.nl
 http://www.sinterklaas.groningen.nl
 http://www.sip.hellevoetsluis.nl
-http://www.socialekaart.duiven.nl
 http://www.stadspas.apeldoorn.nl
 http://www.suikerkwartier.groningen.nl
 http://www.telewerken.hellevoetsluis.nl
@@ -1230,6 +1229,7 @@ https://acceptatie.zundert.nl
 https://acceptatiebelastingen.duiven.nl
 https://acceptatiebelastingen.westervoort.nl
 https://acceptatiebelastingen.zevenaar.nl
+https://acceptatiemijnzorg.duiven.nl
 https://acceptatievergunningen.duiven.nl
 https://acceptatievergunningen.westervoort.nl
 https://access.landvancuijk.nl
@@ -5658,6 +5658,7 @@ https://mijnzorg.beekdaelen.nl
 https://mijnzorg.beesel.nl
 https://mijnzorg.borne.nl
 https://mijnzorg.denhelder.nl
+https://mijnzorg.duiven.nl
 https://mijnzorg.gennep.nl
 https://mijnzorg.heuvelrug.nl
 https://mijnzorg.roosendaal.nl
