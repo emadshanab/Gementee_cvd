@@ -23,10 +23,12 @@ geo.echt-susteren.nl
 intranet.echt-susteren.nl
 loket.echt-susteren.nl
 mail.echt-susteren.nl
+open.echt-susteren.nl
 piwik.echt-susteren.nl
 probeer.echt-susteren.nl
 pv.echt-susteren.nl
 rap.echt-susteren.nl
+simcms-open.echt-susteren.nl
 simcms.echt-susteren.nl
 socialekaart.echt-susteren.nl
 vergunningintaker.echt-susteren.nl

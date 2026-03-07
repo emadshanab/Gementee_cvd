@@ -123,6 +123,7 @@ http://autodiscover.drechterland.nl
 http://autodiscover.dronten.nl
 http://autodiscover.druten.nl
 http://autodiscover.duiven.nl
+http://autodiscover.echt-susteren.nl
 http://autodiscover.edam-volendam.nl
 http://autodiscover.eemsdelta.nl
 http://autodiscover.eindhoven.nl
@@ -477,6 +478,7 @@ http://ontheffingen-acc.amsterdam.nl
 http://ooststellingwerf.nl
 http://open.dalfsen.nl
 http://open.doetinchem.nl
+http://open.echt-susteren.nl
 http://open.gemeentebeek.nl
 http://open.halderberge.nl
 http://open.nuenen.nl
@@ -7025,6 +7027,7 @@ https://simcms-open.beverwijk.nl
 https://simcms-open.bronckhorst.nl
 https://simcms-open.dalfsen.nl
 https://simcms-open.doetinchem.nl
+https://simcms-open.echt-susteren.nl
 https://simcms-open.gemeentebeek.nl
 https://simcms-open.staphorst.nl
 https://simcms-open.zoetermeer.nl

@@ -20,9 +20,9 @@ felix
 probeer
 loket
 formulieren
+open
 test
 eloket
-open
 waarmerk
 dkd
 werkplek
@@ -87,6 +87,7 @@ digikoppeling.test
 mks
 parkeren-acc
 acc-broker
+simcms-open
 preprodbroker
 portaal
 piwik
@@ -94,7 +95,6 @@ api.betalen
 acc-podiumd-logs
 belastingloket
 test-intranet
-simcms-open
 dtestloket
 cmsintranet
 siam

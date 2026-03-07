@@ -9474,6 +9474,7 @@ open.dalfsen.nl
 open.denhaag.nl
 open.dinkelland.nl
 open.doetinchem.nl
+open.echt-susteren.nl
 open.ede.nl
 open.epe.nl
 open.geldrop-mierlo.nl
@@ -11463,6 +11464,7 @@ simcms-open.beverwijk.nl
 simcms-open.bronckhorst.nl
 simcms-open.dalfsen.nl
 simcms-open.doetinchem.nl
+simcms-open.echt-susteren.nl
 simcms-open.geldrop-mierlo.nl
 simcms-open.gemeentebeek.nl
 simcms-open.halderberge.nl
