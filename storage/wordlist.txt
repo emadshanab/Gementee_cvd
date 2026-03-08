@@ -94,13 +94,13 @@ piwik
 api.betalen
 acc-podiumd-logs
 belastingloket
-test-intranet
 dtestloket
 cmsintranet
 siam
 financien
 bgt
 samen
+test-intranet
 pki
 e
 osbacc
@@ -111,7 +111,6 @@ acc-formulier
 podiumd-logs
 extranet
 govroam
-test-cmsintranet
 mijnzorg
 verkiezingen
 afvalkalender
@@ -132,6 +131,7 @@ www.webmail
 filecap
 dtestmidoffice
 squit2go
+test-cmsintranet
 vergunningintaker
 mijninkomen
 subsidies
@@ -289,7 +289,6 @@ gisibgeoserver-test
 gisibgeoserver
 www.werkenbij
 makelaar
-servicedesk
 academie
 belastingen-acc
 evenementen
@@ -340,6 +339,7 @@ participatie
 raadsnet
 toegang
 zoeken
+servicedesk
 subsidies-backend.acceptatie
 subsidies.acceptatie
 diensten
@@ -739,7 +739,6 @@ edienstenburgerzaken.test
 aanvragen
 av
 datalab
-gen1
 ldap
 notubiz
 test-subsidiebeheer
@@ -898,7 +897,6 @@ afspraken-test
 edienstenburgerzaken-prod
 ggk
 key2datadistributie-prod
-mor
 navigus
 nedbrowser
 ssdtest
@@ -1278,6 +1276,7 @@ gast-rtr
 gbcultuur
 gbsserver
 gbstadswerk
+gen1
 gen2
 meent
 netbox
@@ -2340,6 +2339,7 @@ databridge
 jcc-afspraken
 key2bag-test
 loo-tv
+mor
 nedbrk
 nedbrkinleesservice
 nedgeoservices
@@ -3066,18 +3066,9 @@ ev-edienstenburgerzaken-test
 ev-edienstenburgerzaken
 www.connect
 email.veiligwerken
-kop-pub-erp-mks-tst
-kop-pub-erp-mks
-kop-pub-hta-mks
 kop-pub-hta
 kop-pub-iba
 kop-pub-jcc-api
-kop-pub-ris
-kop-pub-rx
-kop-pub-squ-acc
-kop-pub-squ
-kop-pub-tmp-joi
-kop-pub-woz
 praathuis
 rmts
 78852ffdb030c56.infra

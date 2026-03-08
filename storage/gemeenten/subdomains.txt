@@ -5730,7 +5730,6 @@ gemnet.digikoppeling.veenendaal.nl
 gemnps01.eijsden-margraten.nl
 gemnps01.intern.eijsden-margraten.nl
 gen1.alkmaar.nl
-gen1.edam-volendam.nl
 gen2.alkmaar.nl
 genealogie.oldenzaal.nl
 genieten.groningen.nl
@@ -5754,6 +5753,7 @@ geo.capelleaandenijssel.nl
 geo.dalfsen.nl
 geo.doetinchem.nl
 geo.echt-susteren.nl
+geo.edam-volendam.nl
 geo.ede.nl
 geo.emmen.nl
 geo.ermelo.nl
@@ -7599,18 +7599,9 @@ kompas.rotterdam.nl
 komverder.krimpenaandenijssel.nl
 koningsdag.groningen.nl
 koningsdag.zwolle.nl
-kop-pub-erp-mks-tst.edam-volendam.nl
-kop-pub-erp-mks.edam-volendam.nl
-kop-pub-hta-mks.edam-volendam.nl
 kop-pub-hta.edam-volendam.nl
 kop-pub-iba.edam-volendam.nl
 kop-pub-jcc-api.edam-volendam.nl
-kop-pub-ris.edam-volendam.nl
-kop-pub-rx.edam-volendam.nl
-kop-pub-squ-acc.edam-volendam.nl
-kop-pub-squ.edam-volendam.nl
-kop-pub-tmp-joi.edam-volendam.nl
-kop-pub-woz.edam-volendam.nl
 koppeling-belastingbalie.doetinchem.nl
 koppeling-test.oldebroek.nl
 koppeling.venray.nl
@@ -8895,7 +8886,6 @@ monumentenregister.rotterdam.nl
 mookenmiddelaar.nl
 mor-tst.groningen.nl
 mor.brunssum.nl
-mor.edam-volendam.nl
 morgen.venlo.nl
 move010.rotterdam.nl
 mozard.ameland.nl
@@ -11365,7 +11355,6 @@ servicebus.capelleaandenijssel.nl
 servicebus.gemeentewesterveld.nl
 servicebus.kampen.nl
 servicedesk.almelo.nl
-servicedesk.edam-volendam.nl
 servicedesk.hethogeland.nl
 servicedesk.leeuwarden.nl
 servicedesk.meierijstad.nl
@@ -12401,7 +12390,6 @@ test-cmsextranet.hethogeland.nl
 test-cmsflash.scherpenzeel.nl
 test-cmshofnet.coevorden.nl
 test-cmsintranet.drimmelen.nl
-test-cmsintranet.edam-volendam.nl
 test-cmsintranet.etten-leur.nl
 test-cmsintranet.gemeentebeek.nl
 test-cmsintranet.gemeentestein.nl
@@ -12463,7 +12451,6 @@ test-insite.nijmegen.nl
 test-intra.gooisemeren.nl
 test-intranet.beuningen.nl
 test-intranet.drimmelen.nl
-test-intranet.edam-volendam.nl
 test-intranet.eemsdelta.nl
 test-intranet.etten-leur.nl
 test-intranet.gemeentebeek.nl

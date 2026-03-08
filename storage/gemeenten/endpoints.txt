@@ -422,6 +422,7 @@ http://internoss-test.oss.nl
 http://intranet-acc.landvancuijk.nl
 http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
+http://intranet.edam-volendam.nl
 http://intranet.leudal.nl
 http://intro-acc.roermond.nl
 http://intunecollector.amsterdam.nl
@@ -573,6 +574,7 @@ http://simform.gemeentehw.nl
 http://simform.heerlen.nl
 http://simform.wassenaar.nl
 http://simsite.bladel.nl
+http://simsite.edam-volendam.nl
 http://simsite.heeze-leende.nl
 http://simsite.heumen.nl
 http://simsite.lopik.nl
@@ -613,7 +615,6 @@ http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-intra.gooisemeren.nl
 http://test-intranet.beuningen.nl
-http://test-intranet.edam-volendam.nl
 http://test-intranet.eemsdelta.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
@@ -2423,7 +2424,6 @@ https://cmsids.smallingerland.nl
 https://cmsinhuiz.huizen.nl
 https://cmsinternet-acc.wijdemeren.nl
 https://cmsintranet-acc.wijdemeren.nl
-https://cmsintranet.edam-volendam.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsintranet.gemeentestein.nl
 https://cmsintranet.gooisemeren.nl
@@ -4340,7 +4340,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.edam-volendam.nl
 https://ibzpink.ede.nl
 https://ibzpink.eemnes.nl
 https://ibzpink.eemsdelta.nl
@@ -4633,7 +4632,6 @@ https://intranet.delft.nl
 https://intranet.denhelder.nl
 https://intranet.deventer.nl
 https://intranet.drimmelen.nl
-https://intranet.edam-volendam.nl
 https://intranet.eemsdelta.nl
 https://intranet.gemeente-steenbergen.nl
 https://intranet.gemeentebeek.nl
@@ -6989,7 +6987,6 @@ https://serverruimte.dinkelland.nl
 https://serverruimte.tubbergen.nl
 https://servicebus-t.kampen.nl
 https://servicedesk.almelo.nl
-https://servicedesk.edam-volendam.nl
 https://servicedesk.hethogeland.nl
 https://servicedesk.meierijstad.nl
 https://servicedesk.montferland.info
@@ -7102,7 +7099,6 @@ https://simsite.bunschoten.nl
 https://simsite.cranendonck.nl
 https://simsite.deurne.nl
 https://simsite.doesburg.nl
-https://simsite.edam-volendam.nl
 https://simsite.eersel.nl
 https://simsite.gemeentebeek.nl
 https://simsite.heuvelrug.nl
@@ -7458,7 +7454,6 @@ https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
-https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.heuvelrug.nl
