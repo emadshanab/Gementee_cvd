@@ -20,8 +20,8 @@ felix
 probeer
 loket
 formulieren
-open
 test
+open
 eloket
 waarmerk
 dkd
@@ -53,8 +53,8 @@ meldingen-acc
 dacceptatieloket
 dacceptatiemidoffice
 dloket
-dmidoffice
 data
+dmidoffice
 openpdc
 belastingbalie
 enterpriseregistration
@@ -210,6 +210,8 @@ mail2
 onderzoek
 desktop
 nieuwsbrief
+mijnsociaalplein
+preprod-mijnsociaalplein
 intranet-acc
 legacy
 mobile
@@ -239,8 +241,6 @@ byod
 guest
 publicroam
 jccapi
-mijnsociaalplein
-preprod-mijnsociaalplein
 jcc
 fs
 www.gemeenteraad
@@ -587,6 +587,7 @@ automator
 rx-mission-publiceren
 preprod-mijnoverzicht
 sportaccommodaties
+ztna
 mycorsanxt
 ro-onlineprod
 adsync
@@ -668,6 +669,7 @@ authenticatiedienst.preprod
 edge
 vergunningintaker.preprod
 www.piwik
+corsa
 welkom
 www.belastingbalie
 burgerportaal
@@ -886,7 +888,6 @@ beheerbeeldbank
 ig
 inkomensondersteuning
 www.stadsarchief
-ztna
 esuitenotubiz-test
 ironport
 g-rooster
@@ -1185,7 +1186,6 @@ zorg-acc
 lokettest
 portaaltest
 witgoed
-corsa
 mymeeting
 scep
 social
@@ -3081,11 +3081,17 @@ binnenstebuiten-acc
 binnenstebuiten
 cba
 collabora
+corsa-acc.ad
+corsa-acc
+corsa.ad
 digid-subsidies-login.acceptatie
 digid-subsidies-login
 digikoppeling-test.gemnet
 digikoppeling.gemnet
+digitaalarchief
 documenten.open
+eid-acc
+fortiauth.ad
 fsa
 fsp
 handboekdibor
@@ -3098,6 +3104,7 @@ liveblog
 logoff
 pencportal
 pit
+sedep0089
 spin
 sslvpn2
 sso-sharefile

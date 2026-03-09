@@ -3372,6 +3372,8 @@ corona.beverwijk.nl
 corona.breda.nl
 coronamedewerker.rotterdam.nl
 coronavirus.deventer.nl
+corsa-acc.ad.ede.nl
+corsa-acc.ede.nl
 corsa-prod.gemeente-steenbergen.nl
 corsa-prod.loonopzand.nl
 corsa-prod.opmeer.nl
@@ -3382,6 +3384,8 @@ corsa-test.loonopzand.nl
 corsa-test.opmeer.nl
 corsa-test.woensdrecht.nl
 corsa-test.zundert.nl
+corsa.ad.ede.nl
+corsa.ede.nl
 corsa.montferland.info
 corsa.rhenen.nl
 corsa2022.gulpen-wittem.nl
@@ -3560,6 +3564,7 @@ data.beuningen.nl
 data.breda.nl
 data.delft.nl
 data.druten.nl
+data.ede.nl
 data.eindhoven.nl
 data.gemnet.bergendal.nl
 data.groningen.nl
@@ -3999,6 +4004,7 @@ digitaal.heerlen.nl
 digitaal.kampen.nl
 digitaal.sudwestfryslan.nl
 digitaal.utrecht.nl
+digitaalarchief.ede.nl
 digitaalerfgoed.almere.nl
 digitaalgemeenteloket.alphenaandenrijn.nl
 digitaalgemeenteloket.kaagenbraassem.nl
@@ -4828,6 +4834,7 @@ egress-repro.alkmaar.nl
 ehv-lpi-ap-15.lopik.nl
 ehvsubsidie.eindhoven.nl
 ehvsubsidie.test.eindhoven.nl
+eid-acc.ede.nl
 eijsden-margraten.nl
 eikenhof.heemskerk.nl
 eindhoven.nl
@@ -5506,6 +5513,7 @@ formulierenmd.groningen.nl
 formulierenpb.groningen.nl
 formulierna.denhaag.nl
 fortianalyzer.leidschendam-voorburg.nl
+fortiauth.ad.ede.nl
 fortiems.leidschendam-voorburg.nl
 fortigate.haarlemmermeer.nl
 fortiguard.leeuwarden.nl
@@ -8694,6 +8702,7 @@ mijnsociaaldomein.venlo.nl
 mijnsociaalplein-acc.hilversum.nl
 mijnsociaalplein.bergen-nh.nl
 mijnsociaalplein.castricum.nl
+mijnsociaalplein.ede.nl
 mijnsociaalplein.gemeentemaashorst.nl
 mijnsociaalplein.heiloo.nl
 mijnsociaalplein.hilversum.nl
@@ -10358,6 +10367,7 @@ preprod-mijnsociaaldomein.staphorst.nl
 preprod-mijnsociaaldomein.venlo.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 preprod-mijnsociaalplein.castricum.nl
+preprod-mijnsociaalplein.ede.nl
 preprod-mijnsociaalplein.gemeentemaashorst.nl
 preprod-mijnsociaalplein.heiloo.nl
 preprod-mijnsociaalplein.hilversum.nl
@@ -11323,6 +11333,7 @@ securenetwork.nijkerk.eu
 securetest.roermond.nl
 secureweb.landgraaf.nl
 securewifi.hethogeland.nl
+sedep0089.ede.nl
 seg.leudal.nl
 selector1._domainkey.derondevenen.nl
 selector1._domainkey.nijkerk.eu
@@ -12623,6 +12634,7 @@ test.digikoppeling.schiedam.nl
 test.dinkelland.nl
 test.drechterland.nl
 test.drimmelen.nl
+test.ede.nl
 test.eijsden-margraten.nl
 test.eindhoven.nl
 test.formulieren.almere.nl
@@ -15479,6 +15491,7 @@ zsnl-acceptatie.hilversum.nl
 zsnl.voorst.nl
 zst.noordoostpolder.nl
 ztna.breda.nl
+ztna.ede.nl
 ztna.waterland.nl
 zuidplas.nl
 zuidwestopznbest-acc.denhaag.nl

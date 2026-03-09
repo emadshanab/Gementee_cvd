@@ -345,6 +345,7 @@ http://decosvor.acc.amsterdam.nl
 http://decosvor.fa.amsterdam.nl
 http://decoswonen.amsterdam.nl
 http://diensten.westmaasenwaal.nl
+http://digid-subsidies-login.acceptatie.ede.nl
 http://digid-subsidies-login.ede.nl
 http://digid.ooststellingwerf.nl
 http://digipost.amsterdam.nl
@@ -416,6 +417,7 @@ http://huisnettest.nieuwegein.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
 http://id-subsidies-login.acceptatie.ede.nl
+http://id-subsidies-login.ede.nl
 http://iko-zgw.denhaag.nl
 http://im.opmeer.nl
 http://internoss-test.oss.nl
@@ -2763,7 +2765,6 @@ https://diensten-acc.rotterdam.nl
 https://diensten.purmerend.nl
 https://diensten.rotterdam.nl
 https://dieuwke.defryskemarren.nl
-https://digid-subsidies-login.acceptatie.ede.nl
 https://digiform-fa.amsterdam.nl
 https://digiform.acc.amsterdam.nl
 https://digiform.amsterdam.nl
@@ -2775,6 +2776,7 @@ https://digikoppelingtest.venlo.nl
 https://digitaal-test.heerlen.nl
 https://digitaal.heerlen.nl
 https://digitaal.sudwestfryslan.nl
+https://digitaalarchief.ede.nl
 https://digitaalerfgoed.almere.nl
 https://digitaalgemeenteloket.alphenaandenrijn.nl
 https://digitaalgemeenteloket.kaagenbraassem.nl
@@ -3278,6 +3280,7 @@ https://eformulieren.preprod.doetinchem.nl
 https://eformulieren.stichtsevecht.nl
 https://ehvsubsidie.eindhoven.nl
 https://ehvsubsidie.test.eindhoven.nl
+https://eid-acc.ede.nl
 https://eijsden-margraten.nl
 https://eikenhof.heemskerk.nl
 https://eindhoven.nl
@@ -4184,7 +4187,6 @@ https://iburgerzaken.dijkenwaard.nl
 https://iburgerzaken.drimmelen.nl
 https://iburgerzaken.druten.nl
 https://iburgerzaken.edam-volendam.nl
-https://iburgerzaken.ede.nl
 https://iburgerzaken.eemnes.nl
 https://iburgerzaken.eemsdelta.nl
 https://iburgerzaken.eersel.nl
@@ -4340,7 +4342,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.ede.nl
 https://ibzpink.eemnes.nl
 https://ibzpink.eemsdelta.nl
 https://ibzpink.eersel.nl
@@ -4472,7 +4473,6 @@ https://ibzpink.zwolle.nl
 https://ica.winterswijk.nl
 https://ict.gemeentesluis.nl
 https://id-acc.barneveld.nl
-https://id-subsidies-login.ede.nl
 https://id.barneveld.nl
 https://id.dalfsen.nl
 https://id.krimpenerwaard.nl
@@ -5591,6 +5591,7 @@ https://mijnsociaaldomein.staphorst.nl
 https://mijnsociaaldomein.venlo.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
+https://mijnsociaalplein.ede.nl
 https://mijnsociaalplein.gemeentemaashorst.nl
 https://mijnsociaalplein.heiloo.nl
 https://mijnsociaalplein.hilversum.nl
