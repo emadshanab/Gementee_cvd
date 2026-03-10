@@ -1,6 +1,13 @@
+betalen.eemnes.nl
 digikoppeling.eemnes.nl
 digikoppeling.test.eemnes.nl
 eemnes.nl
+felix.eemnes.nl
 iburgerzaken.eemnes.nl
 ibzpink.eemnes.nl
+preproductie.eemnes.nl
+simcms.eemnes.nl
+socialekaart.eemnes.nl
+waarmerk.eemnes.nl
 www.eemnes.nl
+zuidpolder.eemnes.nl

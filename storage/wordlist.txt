@@ -27,8 +27,8 @@ waarmerk
 dkd
 werkplek
 acc
-portal
 betalen
+portal
 meldingen
 afspraak
 raad
@@ -201,6 +201,7 @@ internetafspraken
 bestuur
 squit2020
 geoportaal
+socialekaart
 preprod-mijn
 belastingbalie-test
 melddesk
@@ -222,7 +223,6 @@ testloket
 telewerken
 zaaksysteem
 www.portal
-socialekaart
 kennisbank
 simform-preproductie
 wachtwoord
@@ -3110,6 +3110,7 @@ sslvpn2
 sso-sharefile
 veluwsepoort
 www.ondernemen
+zuidpolder
 broker-preprod
 cms-intranet
 extranet-acc
