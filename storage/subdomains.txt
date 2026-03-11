@@ -1059,7 +1059,6 @@ afspraken.diemen.nl
 afspraken.dijkenwaard.nl
 afspraken.dongen.nl
 afspraken.duiven.nl
-afspraken.eemsdelta.nl
 afspraken.eersel.nl
 afspraken.eijsden-margraten.nl
 afspraken.emmen.nl
@@ -2335,6 +2334,7 @@ belastingen-acc.renkum.nl
 belastingen-acc.rheden.nl
 belastingen-acc.rozendaal.nl
 belastingen-accept.hardenberg.nl
+belastingen-acceptatie.eemsdelta.nl
 belastingen-preprod.stadskanaal.nl
 belastingen-test.gilzerijen.nl
 belastingen-test.molenlanden.nl
@@ -2344,6 +2344,7 @@ belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
 belastingen.arnhem.nl
 belastingen.duiven.nl
+belastingen.eemsdelta.nl
 belastingen.gemeente-oldambt.nl
 belastingen.gemeentewestland.nl
 belastingen.gilzerijen.nl
@@ -4450,6 +4451,7 @@ e.denkmee.tilburg.nl
 e.dewolden.nl
 e.doemee.gemeentewestland.nl
 e.doemee.zwolle.nl
+e.eemsdelta.nl
 e.haarlem.nl
 e.hoogeveen.nl
 e.hoorn.nl
@@ -5109,6 +5111,7 @@ evoitest.nissewaard.nl
 ews.leeuwarden.nl
 ews.lopik.nl
 ews.utrecht.nl
+exactrdssrv-02.eemsdelta.nl
 exch.nederweert.nl
 exch.roermond.nl
 exchange.alphenaandenrijn.nl
@@ -5458,6 +5461,7 @@ formulieren.dronten.nl
 formulieren.druten.nl
 formulieren.duiven.nl
 formulieren.edam-volendam.nl
+formulieren.eemsdelta.nl
 formulieren.geertruidenberg.nl
 formulieren.gemeente-steenbergen.nl
 formulieren.gemeentehw.nl
@@ -5639,6 +5643,7 @@ gehandicaptenparkeerkaart-acc.gemeente.groningen.nl
 gehandicaptenparkeerkaart.gemeente.groningen.nl
 geldloket.emmen.nl
 geldrop-mierlo.nl
+geldwijzer.eemsdelta.nl
 geldwijzer.zaanstad.nl
 geldzaken.loonopzand.nl
 gelukkignieuwjaar.zwolle.nl
@@ -8235,7 +8240,6 @@ medewerkers.defryskemarren.nl
 medewerkers.hellendoorn.nl
 medewerkers.meppel.nl
 medewerkers.oostgelre.nl
-medewerkersportaal.eemsdelta.nl
 medewerkersportal.zuidplas.nl
 medezeggenschap.groningen.nl
 media-t.delft.nl
@@ -10862,6 +10866,7 @@ rds.hofvantwente.nl
 rds.waalwijk.nl
 rds.zeist.nl
 rdsportal.haarlemmermeer.nl
+rdssrv-01.eemsdelta.nl
 rdw-test.authenticatie.alkmaar.nl
 rdw.authenticatie.alkmaar.nl
 rdweb.deurne.nl
@@ -13824,7 +13829,6 @@ werkplek.bodegraven-reeuwijk.nl
 werkplek.buren.nl
 werkplek.derondevenen.nl
 werkplek.dongen.nl
-werkplek.eemsdelta.nl
 werkplek.eijsden-margraten.nl
 werkplek.epe.nl
 werkplek.etten-leur.nl
