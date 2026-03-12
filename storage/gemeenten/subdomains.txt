@@ -10261,6 +10261,7 @@ postbus1.huizen.nl
 postcodezoektool.rotterdam.nl
 postionering.denhaag.nl
 potjeswijzer.westerkwartier.nl
+powerautomatecorsa.eersel.nl
 powerbrowser-esb.gorinchem.nl
 powerbrowsertest-esb.gorinchem.nl
 powerbrowsertest.gorinchem.nl
