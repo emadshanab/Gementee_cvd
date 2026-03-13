@@ -126,6 +126,7 @@ http://autodiscover.duiven.nl
 http://autodiscover.echt-susteren.nl
 http://autodiscover.edam-volendam.nl
 http://autodiscover.eemsdelta.nl
+http://autodiscover.eijsden-margraten.nl
 http://autodiscover.eindhoven.nl
 http://autodiscover.emmen.nl
 http://autodiscover.enkhuizen.nl
@@ -1761,7 +1762,6 @@ https://authx5.denhaag.nl
 https://autodiscover.apeldoorn.nl
 https://autodiscover.defryskemarren.nl
 https://autodiscover.ede.nl
-https://autodiscover.eijsden-margraten.nl
 https://autodiscover.enschede.nl
 https://autodiscover.geertruidenberg.nl
 https://autodiscover.gennep.nl
@@ -4343,7 +4343,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.eijsden-margraten.nl
 https://ibzpink.elburg.nl
 https://ibzpink.enschede.nl
 https://ibzpink.epe.nl
@@ -6984,6 +6983,7 @@ https://sera.zwemmen.venlo.nl
 https://server02.oude-ijsselstreek.nl
 https://serverruimte.dinkelland.nl
 https://serverruimte.tubbergen.nl
+https://service03.eijsden-margraten.nl
 https://servicebus-t.kampen.nl
 https://servicedesk.almelo.nl
 https://servicedesk.hethogeland.nl
