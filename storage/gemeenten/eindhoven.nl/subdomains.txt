@@ -9,6 +9,7 @@ belastingbalie.eindhoven.nl
 buurt.eindhoven.nl
 data.eindhoven.nl
 digikoppeling.eindhoven.nl
+drupal.eindhoven.nl
 edienstenburgerzaken-test.eindhoven.nl
 edienstenburgerzaken.eindhoven.nl
 ehvsubsidie.eindhoven.nl
@@ -23,6 +24,7 @@ kennisbank.eindhoven.nl
 lv.eindhoven.nl
 lv.test.eindhoven.nl
 mailing.eindhoven.nl
+mediabank.eindhoven.nl
 meldingen.acceptatie.eindhoven.nl
 meldingen.eindhoven.nl
 mijnsubsidie.eindhoven.nl

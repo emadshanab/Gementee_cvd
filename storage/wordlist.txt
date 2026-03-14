@@ -988,6 +988,7 @@ mx3
 redirect
 geldwijzer
 antispam
+mediabank
 mx
 allegro
 bijeenkomsten
@@ -3146,6 +3147,7 @@ admanager.zaaksysteem
 api.meldingen.acceptatie
 beeldmateriaal
 buurt
+drupal
 ehvsubsidie
 ehvsubsidie.test
 gisservice
@@ -3440,7 +3442,6 @@ authentication
 ediensten-preproductie
 hwok-test
 hwok
-mediabank
 pencportaal
 pv.gevondenvoorwerpen
 squit2goprod

@@ -335,7 +335,6 @@ http://crl.denhaag.nl
 http://dalfsen.nl
 http://dali.brielle.nl
 http://dashboard.makkelijkemarkt.mrkt-a.azure.amsterdam.nl
-http://data.eindhoven.nl
 http://datatest.delft.nl
 http://decosafs.amsterdam.nl
 http://decosdvl.amsterdam.nl
@@ -636,6 +635,7 @@ http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
 http://testtomindebuurt.nieuwkoop.nl
 http://tickets.krimpenerwaard.nl
+http://toegang.eindhoven.nl
 http://topdesk.ggd.amsterdam.nl
 http://transform.deventer.nl
 http://ttgbav-test.gemeente-steenbergen.nl
@@ -2648,6 +2648,7 @@ https://data.bergenopzoom.nl
 https://data.beuningen.nl
 https://data.breda.nl
 https://data.delft.nl
+https://data.eindhoven.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl
@@ -2876,6 +2877,7 @@ https://drechterland.nl
 https://drempelsweg.utrecht.nl
 https://drimmelen.nl
 https://dronten.nl
+https://drupal.eindhoven.nl
 https://druten.nl
 https://dtestloket.groningen.nl
 https://dtestloket.oldenzaal.nl
@@ -5238,6 +5240,7 @@ https://medewerkers.meppel.nl
 https://media-t.delft.nl
 https://media.delft.nl
 https://media.landvancuijk.nl
+https://mediabank.eindhoven.nl
 https://mediabank.gemeentehw.nl
 https://meedenken.arnhem.nl
 https://meedenker.zaanstad.nl
@@ -7680,7 +7683,6 @@ https://tma.utrecht.nl
 https://tnz-rad-01.terneuzen.nl
 https://toegang.dataplatform.accp.s-hertogenbosch.nl
 https://toegang.dataplatform.s-hertogenbosch.nl
-https://toegang.eindhoven.nl
 https://toegang.groningen.nl
 https://toegankelijk.enschede.nl
 https://toegankelijkestad.zwolle.nl
