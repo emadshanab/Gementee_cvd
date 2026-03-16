@@ -162,6 +162,7 @@ aba-acc.amsterdam.nl
 aba.amsterdam.nl
 abc.assen.nl
 abc.borger-odoorn.nl
+abc.emmen.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -178,6 +179,7 @@ academie.nederbetuwe.nl
 academie.smallingerland.nl
 acc-abc.assen.nl
 acc-abc.borger-odoorn.nl
+acc-abc.emmen.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -246,6 +248,7 @@ acc-gpp-zoeken.assen.nl
 acc-idbroker.tynaarlo.nl
 acc-ita.assen.nl
 acc-ita.borger-odoorn.nl
+acc-ita.emmen.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -352,6 +355,7 @@ acc-objecttypen.rotterdam.nl
 acc-objecttypen.zwolle.nl
 acc-office-addin.assen.nl
 acc-office-addin.borger-odoorn.nl
+acc-office-addin.emmen.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -392,6 +396,7 @@ acc-openzaak.oostgelre.nl
 acc-openzaak.roermond.nl
 acc-openzaak.rotterdam.nl
 acc-openzaak.zwolle.nl
+acc-pabc.emmen.nl
 acc-podiumd-abc.deventer.nl
 acc-podiumd-abc.olst-wijhe.nl
 acc-podiumd-abc.raalte.nl
@@ -4458,7 +4463,6 @@ e.hoogeveen.nl
 e.hoorn.nl
 e.leiden.nl
 e.mailings.deventer.nl
-e.openstad.emmen.nl
 e.openstad.enschede.nl
 e.openstad.gemeentewestland.nl
 e.openstad.haarlemmermeer.nl
@@ -5748,6 +5752,8 @@ gemnps01.intern.eijsden-margraten.nl
 gen1.alkmaar.nl
 gen2.alkmaar.nl
 genealogie.oldenzaal.nl
+genesys-sbc1.emmen.nl
+genesys-sbc2.emmen.nl
 genieten.groningen.nl
 genietenzonderzorgen.landvancuijk.nl
 gennep.nl
@@ -7205,6 +7211,7 @@ isms-acc.denhaag.nl
 isms.denhaag.nl
 ita.assen.nl
 ita.borger-odoorn.nl
+ita.emmen.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -7526,6 +7533,7 @@ keycloak-admin.roermond.nl
 keycloak-admin.zwolle.nl
 keycloak.assen.nl
 keycloak.borger-odoorn.nl
+keycloak.emmen.nl
 keycloak.enschede.nl
 keycloak.gemeente-oldambt.nl
 keycloak.gemeentemaashorst.nl
@@ -9140,6 +9148,7 @@ notarisportaal.westerkwartier.nl
 notificaties-acc.leeuwarden.nl
 notificaties.assen.nl
 notificaties.borger-odoorn.nl
+notificaties.emmen.nl
 notificaties.enschede.nl
 notificaties.gemeente-oldambt.nl
 notificaties.gemeentemaashorst.nl
@@ -9303,6 +9312,7 @@ oekraine.zaanstad.nl
 oens.almere.nl
 office-addin.assen.nl
 office-addin.borger-odoorn.nl
+office-addin.emmen.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -11187,6 +11197,8 @@ sbc01.horstaandemaas.nl
 sbc01.leusden.nl
 sbc01.venlo.nl
 sbc01.venray.nl
+sbc1.emmen.nl
+sbc2.emmen.nl
 sbir1.lev.delft.nl
 sbir2.lev.delft.nl
 sbs-t.utrecht.nl
@@ -15279,6 +15291,7 @@ www.zundert.nl
 www.zutphen.nl
 www.zwammerdamdorpskern.alphenaandenrijn.nl
 www.zwartewaterland.nl
+www.zwemmen.emmen.nl
 www.zwemmen.venlo.nl
 www.zwijndrecht.nl
 www.zwolle.nl
@@ -15524,6 +15537,7 @@ zwembaddebronspot.brunssum.nl
 zwembaden.hardenberg.nl
 zwemles.hardenberg.nl
 zwemles.heusden.nl
+zwemmen.emmen.nl
 zwemmen.venlo.nl
 zwemmen.waalwijk.nl
 zwijndrecht-checker-preprod.zwijndrecht.nl

@@ -123,6 +123,7 @@ acc-openklant
 acc-openzaak
 bastion365
 contact
+notificaties
 objecttypen
 openklant
 openzaak
@@ -139,7 +140,7 @@ dali
 preprod
 qr
 acc-keycloak
-notificaties
+keycloak
 objecten
 sts
 obsurv
@@ -151,7 +152,6 @@ auth
 acc-keycloak-admin
 acc-zac
 keycloak-admin
-keycloak
 www.doemee
 micollab
 inloggen
@@ -271,6 +271,8 @@ afval
 auth.openstad
 e-loket
 openstad
+abc
+acc-abc
 data-test
 xential
 erfgoed
@@ -298,8 +300,6 @@ wion
 img.openstad
 ns1
 sslvpn
-abc
-acc-abc
 dialin
 openformulieren
 test-mijn
@@ -399,7 +399,6 @@ magazine
 webservices
 testbelastingloket
 raadsinformatie
-e.openstad
 mijnuitkering
 stemvan
 ibabs
@@ -434,6 +433,7 @@ gbi
 moh-acc
 moh
 werk
+acc-office-addin
 media
 test-contact
 test-keycloak-admin
@@ -491,6 +491,7 @@ mta-sts.raad
 gt-loket
 ondernemen
 duo
+e.openstad
 gbionline
 cca-acc
 cca
@@ -562,8 +563,10 @@ parkeerapp
 smartdoc
 stadspas
 digid
-acc-office-addin
+acc-ita
 bedrijfsafval
+ita
+office-addin
 vastgoed
 loket-acc
 bestemmingsplannen
@@ -678,6 +681,7 @@ geotest
 pip-test
 www.gemeente
 www.mobile
+zwemmen
 gbionlinetest
 squit2gotest
 geo-secure
@@ -828,7 +832,6 @@ wob
 www.geo
 acc-contact.dev
 acc-formulier.dev
-acc-ita
 acc-keycloak.dev
 acc-mijn.dev
 acc-notificaties.dev
@@ -838,8 +841,6 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
-ita
-office-addin
 test-abc
 werknemersportaal
 www.evenementen
@@ -995,6 +996,7 @@ bijeenkomsten
 cmsoo.gemeente
 mijnsdv
 tekst
+www.zwemmen
 afspraakmakentest
 geoportaaltest
 mijn-acceptatie
@@ -1238,7 +1240,6 @@ kofax
 egemeente
 nwro
 szc
-zwemmen
 content
 wsn-mail
 parkeerlokettest
@@ -3171,6 +3172,7 @@ www.oco
 GBAV
 GBAVT
 LVWKPB-emmen.napels
+acc-pabc
 acceptatie-stemvan
 acceptatie.participatiewebshop
 api.participatiewebshop-test
@@ -3183,6 +3185,8 @@ doemee-test
 gbav
 gbavt
 geldloket
+genesys-sbc1
+genesys-sbc2
 genua
 ideevoormijnbuurt
 key2GBAV
@@ -3198,6 +3202,8 @@ s0816p
 s0816t
 s2272p
 s2272t
+sbc1
+sbc2
 tabaco
 taxatieverslagen-woz-loket
 waarderingsprijs
@@ -6285,7 +6291,6 @@ www.fit
 www.morgen
 www.nu
 www.q4
-www.zwemmen
 zaaksysteem-acceptatie
 GT-Loket
 app.meedoen
