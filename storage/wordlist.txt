@@ -54,9 +54,9 @@ dacceptatieloket
 dacceptatiemidoffice
 dloket
 data
+belastingbalie
 dmidoffice
 openpdc
-belastingbalie
 enterpriseregistration
 remote
 cmsoo
@@ -103,7 +103,6 @@ bgt
 samen
 test-intranet
 pki
-osbacc
 snelbalie
 duurzaam
 apps
@@ -113,6 +112,7 @@ extranet
 govroam
 mijnzorg
 verkiezingen
+osbacc
 afvalkalender
 acc-contact
 acc-mijn
@@ -351,6 +351,7 @@ ns
 atlas
 api
 beheer
+belastingbalie.acc
 parkeervergunning
 mijngeldzaken
 www.openstad
@@ -426,7 +427,6 @@ zaakloket
 mail1
 applicaties
 belastingbalie-acc
-belastingbalie.acc
 cms.openstad
 dev
 gbi
@@ -484,6 +484,7 @@ parkeeracties
 relay
 router
 digitalebalie
+idbroker
 mobility
 services
 vergunningen
@@ -659,8 +660,8 @@ efactuur
 besluitvorming
 webdav
 webformulieren
-idbroker
 klantportaal.acc
+preprodidbroker
 prod
 grondwater
 zorgloket
@@ -975,7 +976,6 @@ simcms-woo
 test-digikoppelingadapter
 dkd.berichtenverkeer
 werkplek2
-preprodidbroker
 dok
 forms-test
 www.remote

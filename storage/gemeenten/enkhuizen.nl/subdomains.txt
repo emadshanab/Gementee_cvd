@@ -1,10 +1,13 @@
 AutoDiscover.enkhuizen.nl
 acc.enkhuizen.nl
 autodiscover.enkhuizen.nl
+belastingbalie.acc.enkhuizen.nl
+belastingbalie.enkhuizen.nl
 buiten.enkhuizen.nl
 edienstenburgerzaken-test.enkhuizen.nl
 edienstenburgerzaken.enkhuizen.nl
 enkhuizen.nl
+idbroker.enkhuizen.nl
 klantportaal.acc.enkhuizen.nl
 klantportaal.enkhuizen.nl
 mail.enkhuizen.nl
@@ -12,10 +15,10 @@ openformulieren-test.enkhuizen.nl
 openformulieren.enkhuizen.nl
 openpdc.enkhuizen.nl
 osb.enkhuizen.nl
-osbacc.enkhuizen.nl
 pki.enkhuizen.nl
 portal.enkhuizen.nl
 preprod.enkhuizen.nl
+preprodidbroker.enkhuizen.nl
 preproductie.enkhuizen.nl
 prod.enkhuizen.nl
 samen.enkhuizen.nl
