@@ -236,6 +236,8 @@ _dmarc
 admin.openstad
 opendata
 woo
+abc
+acc-abc
 meet
 woz-portaal
 byod
@@ -271,8 +273,6 @@ afval
 auth.openstad
 e-loket
 openstad
-abc
-acc-abc
 data-test
 xential
 erfgoed
@@ -291,6 +291,8 @@ gisibgeoserver-test
 gisibgeoserver
 www.werkenbij
 makelaar
+subsidies-backend.acceptatie
+subsidies.acceptatie
 academie
 belastingen-acc
 evenementen
@@ -340,8 +342,6 @@ raadsnet
 toegang
 zoeken
 servicedesk
-subsidies-backend.acceptatie
-subsidies.acceptatie
 diensten
 sociaaldomein
 dkd-test
@@ -357,6 +357,7 @@ mijngeldzaken
 www.openstad
 aanmelden
 rooster
+acc-office-addin
 admin.doemee
 api.doemee
 auth.doemee
@@ -433,8 +434,10 @@ gbi
 moh-acc
 moh
 werk
-acc-office-addin
+acc-ita
+ita
 media
+office-addin
 test-contact
 test-keycloak-admin
 test-keycloak
@@ -564,10 +567,8 @@ parkeerapp
 smartdoc
 stadspas
 digid
-acc-ita
 bedrijfsafval
-ita
-office-addin
+test-abc
 vastgoed
 loket-acc
 bestemmingsplannen
@@ -842,7 +843,8 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
-test-abc
+test-ita
+test-office-addin
 werknemersportaal
 www.evenementen
 www.vastgoed
@@ -991,6 +993,7 @@ geldwijzer
 antispam
 mediabank
 mx
+acc-pabc
 allegro
 bijeenkomsten
 cmsoo.gemeente
@@ -2130,8 +2133,6 @@ organisatieontwikkeling
 point
 scorpio
 slimbereikbaar
-test-ita
-test-office-addin
 wbs003
 wbs004
 web2print
@@ -3172,7 +3173,6 @@ www.oco
 GBAV
 GBAVT
 LVWKPB-emmen.napels
-acc-pabc
 acceptatie-stemvan
 acceptatie.participatiewebshop
 api.participatiewebshop-test
@@ -3230,6 +3230,7 @@ makelpunt.openstad
 squit2gotest-backoffice
 stadsveld.openstad
 statistieken-intranet
+test-pabc
 toegankelijk
 toolbox.openstad
 webcam

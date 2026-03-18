@@ -163,6 +163,7 @@ aba.amsterdam.nl
 abc.assen.nl
 abc.borger-odoorn.nl
 abc.emmen.nl
+abc.enschede.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -180,6 +181,7 @@ academie.smallingerland.nl
 acc-abc.assen.nl
 acc-abc.borger-odoorn.nl
 acc-abc.emmen.nl
+acc-abc.enschede.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -249,6 +251,7 @@ acc-idbroker.tynaarlo.nl
 acc-ita.assen.nl
 acc-ita.borger-odoorn.nl
 acc-ita.emmen.nl
+acc-ita.enschede.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -356,6 +359,7 @@ acc-objecttypen.zwolle.nl
 acc-office-addin.assen.nl
 acc-office-addin.borger-odoorn.nl
 acc-office-addin.emmen.nl
+acc-office-addin.enschede.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -397,6 +401,7 @@ acc-openzaak.roermond.nl
 acc-openzaak.rotterdam.nl
 acc-openzaak.zwolle.nl
 acc-pabc.emmen.nl
+acc-pabc.enschede.nl
 acc-podiumd-abc.deventer.nl
 acc-podiumd-abc.olst-wijhe.nl
 acc-podiumd-abc.raalte.nl
@@ -7215,6 +7220,7 @@ isms.denhaag.nl
 ita.assen.nl
 ita.borger-odoorn.nl
 ita.emmen.nl
+ita.enschede.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -9316,6 +9322,7 @@ oens.almere.nl
 office-addin.assen.nl
 office-addin.borger-odoorn.nl
 office-addin.emmen.nl
+office-addin.enschede.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -12238,6 +12245,7 @@ subsidies-backend-test.heerenveen.nl
 subsidies-backend-test.oosterhout.nl
 subsidies-backend.acceptatie.almelo.nl
 subsidies-backend.acceptatie.debilt.nl
+subsidies-backend.acceptatie.enschede.nl
 subsidies-backend.acceptatie.leeuwarden.nl
 subsidies-backend.acceptatie.lelystad.nl
 subsidies-backend.acceptatie.maassluis.nl
@@ -12266,6 +12274,7 @@ subsidies.acc.backoffice.nijmegen.nl
 subsidies.acc.nijmegen.nl
 subsidies.acceptatie.almelo.nl
 subsidies.acceptatie.debilt.nl
+subsidies.acceptatie.enschede.nl
 subsidies.acceptatie.leeuwarden.nl
 subsidies.acceptatie.lelystad.nl
 subsidies.acceptatie.maassluis.nl
@@ -12417,6 +12426,7 @@ terneuzen.nl
 terschelling.nl
 test-2secure.gulpen-wittem.nl
 test-abc.assen.nl
+test-abc.enschede.nl
 test-abc.rotterdam.nl
 test-belastingbalie.eindhoven.nl
 test-belastingen.wageningen.nl
@@ -12543,6 +12553,7 @@ test-ipa.waddinxveen.nl
 test-ipa.weststellingwerf.nl
 test-ipa.wierden.nl
 test-ita.assen.nl
+test-ita.enschede.nl
 test-jip.hofvantwente.nl
 test-jip.vijfheerenlanden.nl
 test-kaart.almere.nl
@@ -12589,6 +12600,7 @@ test-objecttypen.gemert-bakel.nl
 test-objecttypen.rotterdam.nl
 test-objecttypen.zwolle.nl
 test-office-addin.assen.nl
+test-office-addin.enschede.nl
 test-open.zandvoort.nl
 test-openklant.assen.nl
 test-openklant.enschede.nl
@@ -12599,6 +12611,7 @@ test-openzaak.enschede.nl
 test-openzaak.gemert-bakel.nl
 test-openzaak.rotterdam.nl
 test-opname.eindhoven.nl
+test-pabc.enschede.nl
 test-paswijzer.waalwijk.nl
 test-podiumd-logs.assen.nl
 test-podiumd-logs.enschede.nl

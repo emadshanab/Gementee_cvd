@@ -324,6 +324,7 @@ http://cmsflash.scherpenzeel.nl
 http://cmsintranet.etten-leur.nl
 http://cmsintranet.lansingerland.nl
 http://cmsjip.vijfheerenlanden.nl
+http://cmsoo.enschede.nl
 http://cmssocialintranet.middendelfland.nl
 http://collecties.dantumadiel.frl
 http://connect.acceptatie.dordrecht.nl
@@ -795,6 +796,7 @@ https://aardgasvrij.nijmegen.nl
 https://abc.assen.nl
 https://abc.borger-odoorn.nl
 https://abc.emmen.nl
+https://abc.enschede.nl
 https://abc.oldenzaal.nl
 https://abc.oostgelre.nl
 https://abc.roermond.nl
@@ -807,6 +809,7 @@ https://academie.smallingerland.nl
 https://acc-abc.assen.nl
 https://acc-abc.borger-odoorn.nl
 https://acc-abc.emmen.nl
+https://acc-abc.enschede.nl
 https://acc-abc.laarbeek.nl
 https://acc-abc.oldenzaal.nl
 https://acc-abc.oostgelre.nl
@@ -874,6 +877,7 @@ https://acc-idbroker.tynaarlo.nl
 https://acc-ita.assen.nl
 https://acc-ita.borger-odoorn.nl
 https://acc-ita.emmen.nl
+https://acc-ita.enschede.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
 https://acc-keycloak-admin.emmen.nl
@@ -970,6 +974,7 @@ https://acc-objecttypen.zwolle.nl
 https://acc-office-addin.assen.nl
 https://acc-office-addin.borger-odoorn.nl
 https://acc-office-addin.emmen.nl
+https://acc-office-addin.enschede.nl
 https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
@@ -1006,6 +1011,7 @@ https://acc-openzaak.roermond.nl
 https://acc-openzaak.rotterdam.nl
 https://acc-openzaak.zwolle.nl
 https://acc-pabc.emmen.nl
+https://acc-pabc.enschede.nl
 https://acc-podiumd-abc.deventer.nl
 https://acc-podiumd-abc.olst-wijhe.nl
 https://acc-podiumd-abc.raalte.nl
@@ -2217,6 +2223,7 @@ https://blog.landvancuijk.nl
 https://bmidms.amsterdam.nl
 https://bodegraven-reeuwijk.nl
 https://bodem.zaanstad.nl
+https://bodemdossier-t.enschede.nl
 https://bodemdossier.enschede.nl
 https://bodemvondsten.rotterdam.nl
 https://boekel.nl
@@ -2456,7 +2463,6 @@ https://cmsoo.borne.nl
 https://cmsoo.coevorden.nl
 https://cmsoo.culemborg.nl
 https://cmsoo.duiven.nl
-https://cmsoo.enschede.nl
 https://cmsoo.gemeente-oldambt.nl
 https://cmsoo.gemeente.emmen.nl
 https://cmsoo.gemeente.groningen.nl
@@ -4201,6 +4207,7 @@ https://iburgerzaken.eemsdelta.nl
 https://iburgerzaken.eersel.nl
 https://iburgerzaken.eijsden-margraten.nl
 https://iburgerzaken.elburg.nl
+https://iburgerzaken.enschede.nl
 https://iburgerzaken.epe.nl
 https://iburgerzaken.etten-leur.nl
 https://iburgerzaken.geldrop-mierlo.nl
@@ -4351,7 +4358,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.enschede.nl
 https://ibzpink.epe.nl
 https://ibzpink.etten-leur.nl
 https://ibzpink.geldrop-mierlo.nl
@@ -4734,6 +4740,7 @@ https://isms.denhaag.nl
 https://ita.assen.nl
 https://ita.borger-odoorn.nl
 https://ita.emmen.nl
+https://ita.enschede.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -5919,6 +5926,7 @@ https://oens.almere.nl
 https://office-addin.assen.nl
 https://office-addin.borger-odoorn.nl
 https://office-addin.emmen.nl
+https://office-addin.enschede.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
 https://ogt.rotterdam.nl
@@ -7377,6 +7385,7 @@ https://subsidies-backend-test.heerenveen.nl
 https://subsidies-backend-test.oosterhout.nl
 https://subsidies-backend.acceptatie.almelo.nl
 https://subsidies-backend.acceptatie.debilt.nl
+https://subsidies-backend.acceptatie.enschede.nl
 https://subsidies-backend.acceptatie.leeuwarden.nl
 https://subsidies-backend.acceptatie.lelystad.nl
 https://subsidies-backend.acceptatie.maassluis.nl
@@ -7402,6 +7411,7 @@ https://subsidies.acc.backoffice.nijmegen.nl
 https://subsidies.acc.nijmegen.nl
 https://subsidies.acceptatie.almelo.nl
 https://subsidies.acceptatie.debilt.nl
+https://subsidies.acceptatie.enschede.nl
 https://subsidies.acceptatie.leeuwarden.nl
 https://subsidies.acceptatie.lelystad.nl
 https://subsidies.acceptatie.maassluis.nl
@@ -7462,6 +7472,7 @@ https://telewerken.zaanstad.nl
 https://telewerkentest.nederbetuwe.nl
 https://terneuzen.nl
 https://terschelling.nl
+https://test-abc.enschede.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
@@ -7500,6 +7511,7 @@ https://test-insite.nijmegen.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.velsen.nl
+https://test-ita.enschede.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
@@ -7521,11 +7533,13 @@ https://test-objecten.enschede.nl
 https://test-objecten.gemert-bakel.nl
 https://test-objecttypen.enschede.nl
 https://test-objecttypen.gemert-bakel.nl
+https://test-office-addin.enschede.nl
 https://test-openklant.enschede.nl
 https://test-openklant.gemert-bakel.nl
 https://test-openzaak.enschede.nl
 https://test-openzaak.gemert-bakel.nl
 https://test-opname.eindhoven.nl
+https://test-pabc.enschede.nl
 https://test-paswijzer.waalwijk.nl
 https://test-podiumd-logs.enschede.nl
 https://test-podiumd-logs.gemert-bakel.nl
