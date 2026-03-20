@@ -1072,7 +1072,6 @@ afspraken.duiven.nl
 afspraken.eersel.nl
 afspraken.eijsden-margraten.nl
 afspraken.emmen.nl
-afspraken.ermelo.nl
 afspraken.gemeente-oldambt.nl
 afspraken.gemeente-steenbergen.nl
 afspraken.gemeentehw.nl

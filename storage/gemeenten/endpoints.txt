@@ -1355,7 +1355,6 @@ https://afspraken.deventer.nl
 https://afspraken.dijkenwaard.nl
 https://afspraken.dongen.nl
 https://afspraken.eijsden-margraten.nl
-https://afspraken.ermelo.nl
 https://afspraken.gemeente-oldambt.nl
 https://afspraken.gemeente-steenbergen.nl
 https://afspraken.goes.nl

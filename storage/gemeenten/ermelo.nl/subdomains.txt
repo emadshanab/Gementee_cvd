@@ -1,4 +1,3 @@
-afspraken.ermelo.nl
 betalen.ermelo.nl
 edienstenburgerzaken-test.ermelo.nl
 edienstenburgerzaken.ermelo.nl
