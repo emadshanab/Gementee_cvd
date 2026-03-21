@@ -5,6 +5,11 @@ archief-yell.etten-leur.nl
 autodiscover.etten-leur.nl
 bag-acc.etten-leur.nl
 bag.etten-leur.nl
+begroting2018.financieelportaal.etten-leur.nl
+begroting2019.financieelportaal.etten-leur.nl
+begroting2020.financieelportaal.etten-leur.nl
+begroting2024.financieelportaal.etten-leur.nl
+begroting2026.financieelportaal.etten-leur.nl
 cmsintranet.etten-leur.nl
 edienstenburgerzaken-test.etten-leur.nl
 edienstenburgerzaken.etten-leur.nl
@@ -15,9 +20,17 @@ financieelportaal.etten-leur.nl
 gemeenteraad.etten-leur.nl
 iburgerzaken.etten-leur.nl
 ibzpink.etten-leur.nl
+informatievisie.financieelportaal.etten-leur.nl
+jaarrekening2018.financieelportaal.etten-leur.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
+jaarrekening2022.financieelportaal.etten-leur.nl
+kadernota2020.financieelportaal.etten-leur.nl
+kadernota2021.financieelportaal.etten-leur.nl
+kadernota2025.financieelportaal.etten-leur.nl
 mijn.etten-leur.nl
 openpdc.etten-leur.nl
+openpub.etten-leur.nl
+publicaties.etten-leur.nl
 raad.etten-leur.nl
 test-cmsintranet.etten-leur.nl
 test-intranet.etten-leur.nl
@@ -25,3 +38,5 @@ werkplek.etten-leur.nl
 www.etten-leur.nl
 www.gemeenteraad.etten-leur.nl
 zaaksysteem-accept.etten-leur.nl
+zorgnedrefresh-acc.etten-leur.nl
+zorgnedrefresh.etten-leur.nl

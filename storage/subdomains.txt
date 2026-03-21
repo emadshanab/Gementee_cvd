@@ -2256,14 +2256,19 @@ begroting.venlo.nl
 begroting.zoeterwoude.nl
 begroting2016.kerkrade.nl
 begroting2017.groningen.nl
+begroting2018.financieelportaal.etten-leur.nl
 begroting2018.groningen.nl
 begroting2018.hoorn.nl
+begroting2019.financieelportaal.etten-leur.nl
 begroting2019.financien.gouda.nl
 begroting2019.groningen.nl
+begroting2020.financieelportaal.etten-leur.nl
 begroting2020.groningen.nl
 begroting2020.pijnacker-nootdorp.nl
 begroting2021.groningen.nl
 begroting2021.pijnacker-nootdorp.nl
+begroting2024.financieelportaal.etten-leur.nl
+begroting2026.financieelportaal.etten-leur.nl
 beh-gemeenteloket.gemeentemaastricht.nl
 beheer-test-trefpunt.deurne.nl
 beheer-trefpunt.deurne.nl
@@ -6856,6 +6861,7 @@ infonet.eijsden-margraten.nl
 infoopkaart.steenwijkerland.nl
 infoplein.oosterhout.nl
 informatieplattegrond.denhaag.nl
+informatievisie.financieelportaal.etten-leur.nl
 infozuil.utrecht.nl
 infra-summit-fa.amsterdam.nl
 ingesprek.almere.nl
@@ -7238,7 +7244,9 @@ izaaksuite.westerkwartier.nl
 izaaksuite.weststellingwerf.nl
 izrm.huizen.nl
 jaarrekening.arnhem.nl
+jaarrekening2018.financieelportaal.etten-leur.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
+jaarrekening2022.financieelportaal.etten-leur.nl
 jaarstukken.bronckhorst.nl
 jaarstukken.gemeente-steenbergen.nl
 jaarstukken.gemeentehw.nl
@@ -7421,9 +7429,12 @@ kadbrkwkpd.deventer.nl
 kaderbrief.leiden.nl
 kadernota.middelburg.nl
 kadernota.pijnacker-nootdorp.nl
+kadernota2020.financieelportaal.etten-leur.nl
 kadernota2020.pijnacker-nootdorp.nl
+kadernota2021.financieelportaal.etten-leur.nl
 kadernota2021.pijnacker-nootdorp.nl
 kadernota2022.financielestukken.diemen.nl
+kadernota2025.financieelportaal.etten-leur.nl
 kadernota2025.oss.nl
 kampen.nl
 kansshop.eemsdelta.nl
@@ -9638,6 +9649,7 @@ openpub.barendrecht.nl
 openpub.buren.nl
 openpub.defryskemarren.nl
 openpub.dronten.nl
+openpub.etten-leur.nl
 openpub.gemeenteberkelland.nl
 openpub.gemeentehw.nl
 openpub.gouda.nl
@@ -10694,6 +10706,7 @@ publicatie.castricum.nl
 publicatie.heiloo.nl
 publicaties.delft.nl
 publicaties.eindhoven.nl
+publicaties.etten-leur.nl
 publicaties.nissewaard.nl
 publicaties.rekenkamer.amsterdam.nl
 publicaties.s-hertogenbosch.nl
@@ -15520,6 +15533,8 @@ zorgmail.bergenopzoom.nl
 zorgmail.kampen.nl
 zorgmail.schouwen-duiveland.nl
 zorgned-prod.gemeente-steenbergen.nl
+zorgnedrefresh-acc.etten-leur.nl
+zorgnedrefresh.etten-leur.nl
 zorgplein.doetinchem.nl
 zorgprofessionals.utrecht.nl
 zorgvlied.acceptatie.amstelveen.nl

@@ -1813,7 +1813,6 @@ https://bag-vvee21.veendam.nl
 https://bag-vwes11.westerwolde.nl
 https://bag.acc.denhaag.nl
 https://bag.deventer.nl
-https://bag.etten-leur.nl
 https://barendrecht.nl
 https://barneveld.nl
 https://basis.werkeninkomen.amsterdam.nl
@@ -1909,10 +1908,15 @@ https://begroting.rijswijk.nl
 https://begroting.venlo.nl
 https://begroting.zoeterwoude.nl
 https://begroting2016.kerkrade.nl
+https://begroting2018.financieelportaal.etten-leur.nl
 https://begroting2018.hoorn.nl
+https://begroting2019.financieelportaal.etten-leur.nl
 https://begroting2019.financien.gouda.nl
+https://begroting2020.financieelportaal.etten-leur.nl
 https://begroting2020.pijnacker-nootdorp.nl
 https://begroting2021.pijnacker-nootdorp.nl
+https://begroting2024.financieelportaal.etten-leur.nl
+https://begroting2026.financieelportaal.etten-leur.nl
 https://beh-gemeenteloket.gemeentemaastricht.nl
 https://beheer-test-trefpunt.deurne.nl
 https://beheer-trefpunt.deurne.nl
@@ -4358,7 +4362,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.etten-leur.nl
 https://ibzpink.geldrop-mierlo.nl
 https://ibzpink.gemeente-oldambt.nl
 https://ibzpink.gemeente-steenbergen.nl
@@ -4560,6 +4563,7 @@ https://info.sudwestfryslan.nl
 https://infoopkaart.steenwijkerland.nl
 https://infoplein.oosterhout.nl
 https://informatieplattegrond.denhaag.nl
+https://informatievisie.financieelportaal.etten-leur.nl
 https://ingesprek.almere.nl
 https://ingesprek.denhelder.nl
 https://inhuiz.huizen.nl
@@ -4743,7 +4747,9 @@ https://ita.enschede.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
+https://jaarrekening2018.financieelportaal.etten-leur.nl
 https://jaarrekening2021.financieelportaal.etten-leur.nl
+https://jaarrekening2022.financieelportaal.etten-leur.nl
 https://jaarstukken.bronckhorst.nl
 https://jaarstukken.gemeente-steenbergen.nl
 https://jaarstukken.gemeentehw.nl
@@ -4869,9 +4875,12 @@ https://kadbrkwkpd.deventer.nl
 https://kaderbrief.leiden.nl
 https://kadernota.middelburg.nl
 https://kadernota.pijnacker-nootdorp.nl
+https://kadernota2020.financieelportaal.etten-leur.nl
 https://kadernota2020.pijnacker-nootdorp.nl
+https://kadernota2021.financieelportaal.etten-leur.nl
 https://kadernota2021.pijnacker-nootdorp.nl
 https://kadernota2022.financielestukken.diemen.nl
+https://kadernota2025.financieelportaal.etten-leur.nl
 https://kampen.nl
 https://kansshop.eemsdelta.nl
 https://kapelle.nl
@@ -6170,6 +6179,7 @@ https://openpub.barendrecht.nl
 https://openpub.buren.nl
 https://openpub.defryskemarren.nl
 https://openpub.dronten.nl
+https://openpub.etten-leur.nl
 https://openpub.gemeenteberkelland.nl
 https://openpub.gemeentehw.nl
 https://openpub.gouda.nl
@@ -6681,6 +6691,7 @@ https://psiam.wormerland.nl
 https://pubgov.heerenveen.nl
 https://publicaties.delft.nl
 https://publicaties.eindhoven.nl
+https://publicaties.etten-leur.nl
 https://publicaties.nissewaard.nl
 https://publicaties.s-hertogenbosch.nl
 https://publicaties.stadskanaal.nl
