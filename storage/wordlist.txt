@@ -21,8 +21,8 @@ probeer
 formulieren
 loket
 test
-open
 eloket
+open
 waarmerk
 dkd
 werkplek
@@ -38,8 +38,8 @@ api.meldingen
 geo
 adfs
 vpn
-belastingen
 testeloket
+belastingen
 iparticipatie
 ruimtelijkeplannen
 werkenbij
@@ -3273,7 +3273,6 @@ beveiligd
 gemberichten
 inloggen-preprod
 intake-preprod
-kindregelingen-acc
 kindregelingen
 mijnwiz-test
 mijnwiz

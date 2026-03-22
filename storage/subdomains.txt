@@ -4876,6 +4876,7 @@ eloket.dalfsen.nl
 eloket.deurne.nl
 eloket.dronten.nl
 eloket.elburg.nl
+eloket.geertruidenberg.nl
 eloket.geldrop-mierlo.nl
 eloket.gemeentehulst.nl
 eloket.gemeentemaastricht.nl
@@ -7578,7 +7579,6 @@ kinderburgemeester.alphenaandenrijn.nl
 kinderburgemeester.apeldoorn.nl
 kindpakket.groningen.nl
 kindregeling.dalfsen.nl
-kindregelingen-acc.geertruidenberg.nl
 kindregelingen.geertruidenberg.nl
 klantcontact.baarn.nl
 klantcontact.bergendal.nl
@@ -12791,6 +12791,7 @@ testeloket.dalfsen.nl
 testeloket.deurne.nl
 testeloket.dronten.nl
 testeloket.elburg.nl
+testeloket.geertruidenberg.nl
 testeloket.geldrop-mierlo.nl
 testeloket.gemeentemaastricht.nl
 testeloket.gennep.nl
@@ -13485,6 +13486,7 @@ waarmerk.drechterland.nl
 waarmerk.eemnes.nl
 waarmerk.emmen.nl
 waarmerk.enkhuizen.nl
+waarmerk.geertruidenberg.nl
 waarmerk.gemeente-oldambt.nl
 waarmerk.gemeenteberkelland.nl
 waarmerk.gemeentebest.nl

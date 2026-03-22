@@ -3,6 +3,7 @@ afval.geertruidenberg.nl
 autodiscover.geertruidenberg.nl
 beveiligd.geertruidenberg.nl
 bgt.geertruidenberg.nl
+eloket.geertruidenberg.nl
 formulieren.geertruidenberg.nl
 geertruidenberg.nl
 gemberichten.geertruidenberg.nl
@@ -10,7 +11,6 @@ inloggen-preprod.geertruidenberg.nl
 inloggen.geertruidenberg.nl
 intake-preprod.geertruidenberg.nl
 intake.geertruidenberg.nl
-kindregelingen-acc.geertruidenberg.nl
 kindregelingen.geertruidenberg.nl
 loket.geertruidenberg.nl
 mail.geertruidenberg.nl
@@ -24,9 +24,11 @@ reserveringen.geertruidenberg.nl
 simsite.geertruidenberg.nl
 sslvpn.geertruidenberg.nl
 test.geertruidenberg.nl
+testeloket.geertruidenberg.nl
 top.geertruidenberg.nl
 uca.geertruidenberg.nl
 via.geertruidenberg.nl
+waarmerk.geertruidenberg.nl
 webmail.geertruidenberg.nl
 woa.geertruidenberg.nl
 woa2.geertruidenberg.nl

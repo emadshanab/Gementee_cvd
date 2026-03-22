@@ -132,6 +132,7 @@ http://autodiscover.emmen.nl
 http://autodiscover.enkhuizen.nl
 http://autodiscover.epe.nl
 http://autodiscover.etten-leur.nl
+http://autodiscover.geertruidenberg.nl
 http://autodiscover.gemeente-oldambt.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
@@ -439,6 +440,7 @@ http://kennisportaal2.deventer.nl
 http://kennisquiz.deventer.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
+http://kindregelingen.geertruidenberg.nl
 http://klimaatraad.deventer.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
@@ -1774,7 +1776,6 @@ https://autodiscover.apeldoorn.nl
 https://autodiscover.defryskemarren.nl
 https://autodiscover.ede.nl
 https://autodiscover.enschede.nl
-https://autodiscover.geertruidenberg.nl
 https://autodiscover.gennep.nl
 https://autodiscover.ggd.groningen.nl
 https://autodiscover.groningen.nl
@@ -3320,6 +3321,7 @@ https://eloket.dalfsen.nl
 https://eloket.deurne.nl
 https://eloket.dronten.nl
 https://eloket.elburg.nl
+https://eloket.geertruidenberg.nl
 https://eloket.geldrop-mierlo.nl
 https://eloket.gemeentehulst.nl
 https://eloket.gemeentemaastricht.nl
@@ -4944,8 +4946,6 @@ https://kinderboerderij.purmerend.nl
 https://kinderburgemeester.alphenaandenrijn.nl
 https://kinderburgemeester.apeldoorn.nl
 https://kindregeling.dalfsen.nl
-https://kindregelingen-acc.geertruidenberg.nl
-https://kindregelingen.geertruidenberg.nl
 https://klantcontact.baarn.nl
 https://klantcontact.bergendal.nl
 https://klantcontact.beuningen.nl
@@ -5656,6 +5656,7 @@ https://mijnwerkregelingen-acc.utrecht.nl
 https://mijnwerkregelingen.utrecht.nl
 https://mijnwijk.zwolle.nl
 https://mijnwijkteam.schagen.nl
+https://mijnwiz-test.geertruidenberg.nl
 https://mijnwiz.geertruidenberg.nl
 https://mijnzaken-test.hengelo.nl
 https://mijnzaken.derondevenen.nl
@@ -7133,6 +7134,7 @@ https://simsite.cranendonck.nl
 https://simsite.deurne.nl
 https://simsite.doesburg.nl
 https://simsite.eersel.nl
+https://simsite.geertruidenberg.nl
 https://simsite.gemeentebeek.nl
 https://simsite.heuvelrug.nl
 https://simsite.kerkrade.nl
@@ -7621,6 +7623,7 @@ https://testeloket.dalfsen.nl
 https://testeloket.deurne.nl
 https://testeloket.dronten.nl
 https://testeloket.elburg.nl
+https://testeloket.geertruidenberg.nl
 https://testeloket.geldrop-mierlo.nl
 https://testeloket.gemeentemaastricht.nl
 https://testeloket.gennep.nl
