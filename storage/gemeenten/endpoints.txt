@@ -540,18 +540,17 @@ http://secure.dalfsen.nl
 http://secure.gemeentestein.nl
 http://sem.kampen.nl
 http://simcms-armoedepact.westerkwartier.nl
-http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-cjg.scherpenzeel.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-omgevingswet.bronckhorst.nl
 http://simcms-ontmoetingscentra.opmeer.nl
-http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
 http://simcms-open.oirschot.nl
 http://simcms-open.wierden.nl
+http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-werkenbij.t-diel.nl
 http://simcms-werkenvoor.westerkwartier.nl
 http://simcms.beekdaelen.nl
@@ -689,6 +688,7 @@ http://www.doemee.denhaag.nl
 http://www.doemee.gemeentebest.nl
 http://www.doemee.oosterhout.nl
 http://www.doemee.vlissingen.nl
+http://www.geldrop-mierlo.nl
 http://www.gemeenteraad.groningen.nl
 http://www.goedterechtin.leeuwarden.nl
 http://www.heeze-leende.nl
@@ -3542,6 +3542,7 @@ https://felix.bronckhorst.nl
 https://felix.bunschoten.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
+https://felix.geldrop-mierlo.nl
 https://felix.halderberge.nl
 https://felix.harlingen.nl
 https://felix.heerlen.nl
@@ -4364,7 +4365,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.geldrop-mierlo.nl
 https://ibzpink.gemeente-oldambt.nl
 https://ibzpink.gemeente-steenbergen.nl
 https://ibzpink.gemeentebeek.nl
@@ -7049,14 +7049,15 @@ https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-begraafplaatsduinrust.beverwijk.nl
+https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.waalwijk.nl
-https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-open.beverwijk.nl
 https://simcms-open.bronckhorst.nl
 https://simcms-open.dalfsen.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.echt-susteren.nl
+https://simcms-open.geldrop-mierlo.nl
 https://simcms-open.gemeentebeek.nl
 https://simcms-open.staphorst.nl
 https://simcms-open.zoetermeer.nl
@@ -7090,6 +7091,7 @@ https://simcms.doetinchem.nl
 https://simcms.echt-susteren.nl
 https://simcms.eemnes.nl
 https://simcms.eersel.nl
+https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
@@ -8487,7 +8489,6 @@ https://www.financielestukken.uithoorn.nl
 https://www.fit.venlo.nl
 https://www.geertruidenberg.nl
 https://www.geldloket.emmen.nl
-https://www.geldrop-mierlo.nl
 https://www.gelukkignieuwjaar.zwolle.nl
 https://www.gemeente-oldambt.nl
 https://www.gemeente-steenbergen.nl
