@@ -5,8 +5,8 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-mijn
 intranet
+mijn
 webmail
 simsite
 mail
@@ -153,6 +153,7 @@ acc-keycloak-admin
 acc-zac
 keycloak-admin
 www.doemee
+zac
 micollab
 inloggen
 contentbeheer
@@ -161,7 +162,6 @@ ftp
 izaaksuite
 snelbaliepp
 vdi
-zac
 fmreturn
 inproces
 cryptshare
@@ -211,6 +211,8 @@ mail2
 onderzoek
 desktop
 nieuwsbrief
+abc
+acc-abc
 mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
@@ -236,8 +238,6 @@ _dmarc
 admin.openstad
 opendata
 woo
-abc
-acc-abc
 meet
 woz-portaal
 byod
@@ -303,6 +303,7 @@ wion
 img.openstad
 ns1
 sslvpn
+acc-office-addin
 dialin
 openformulieren
 test-mijn
@@ -357,11 +358,13 @@ mijngeldzaken
 www.openstad
 aanmelden
 rooster
-acc-office-addin
+acc-ita
 admin.doemee
 api.doemee
 auth.doemee
 img.doemee
+ita
+office-addin
 test-formulier
 test-notificaties
 test-objecten
@@ -434,10 +437,7 @@ gbi
 moh-acc
 moh
 werk
-acc-ita
-ita
 media
-office-addin
 test-contact
 test-keycloak-admin
 test-keycloak
@@ -678,6 +678,7 @@ corsa
 welkom
 www.belastingbalie
 burgerportaal
+acc-pabc
 flex
 geotest
 pip-test
@@ -993,7 +994,6 @@ geldwijzer
 antispam
 mediabank
 mx
-acc-pabc
 allegro
 bijeenkomsten
 cmsoo.gemeente
@@ -3297,6 +3297,8 @@ igo-acc
 igo
 iis-vold01
 iis-vold21
+pbdacceptatie
+pbmidoffice
 verhuur
 vrs
 www-wim

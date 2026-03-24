@@ -164,6 +164,7 @@ abc.assen.nl
 abc.borger-odoorn.nl
 abc.emmen.nl
 abc.enschede.nl
+abc.gemeente-oldambt.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -182,6 +183,7 @@ acc-abc.assen.nl
 acc-abc.borger-odoorn.nl
 acc-abc.emmen.nl
 acc-abc.enschede.nl
+acc-abc.gemeente-oldambt.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -252,6 +254,7 @@ acc-ita.assen.nl
 acc-ita.borger-odoorn.nl
 acc-ita.emmen.nl
 acc-ita.enschede.nl
+acc-ita.gemeente-oldambt.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -360,6 +363,7 @@ acc-office-addin.assen.nl
 acc-office-addin.borger-odoorn.nl
 acc-office-addin.emmen.nl
 acc-office-addin.enschede.nl
+acc-office-addin.gemeente-oldambt.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -402,6 +406,7 @@ acc-openzaak.rotterdam.nl
 acc-openzaak.zwolle.nl
 acc-pabc.emmen.nl
 acc-pabc.enschede.nl
+acc-pabc.gemeente-oldambt.nl
 acc-podiumd-abc.deventer.nl
 acc-podiumd-abc.olst-wijhe.nl
 acc-podiumd-abc.raalte.nl
@@ -7037,6 +7042,7 @@ intranet.echt-susteren.nl
 intranet.edam-volendam.nl
 intranet.eemsdelta.nl
 intranet.eijsden-margraten.nl
+intranet.gemeente-oldambt.nl
 intranet.gemeente-steenbergen.nl
 intranet.gemeentebeek.nl
 intranet.gemeenteberkelland.nl
@@ -7228,6 +7234,7 @@ ita.assen.nl
 ita.borger-odoorn.nl
 ita.emmen.nl
 ita.enschede.nl
+ita.gemeente-oldambt.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -9334,6 +9341,7 @@ office-addin.assen.nl
 office-addin.borger-odoorn.nl
 office-addin.emmen.nl
 office-addin.enschede.nl
+office-addin.gemeente-oldambt.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -10023,6 +10031,8 @@ paswijzer.waalwijk.nl
 patternlab.barneveld.nl
 payt.nieuwegein.nl
 pb-yutpa.rnd.amsterdam.nl
+pbdacceptatie.gemeente-oldambt.nl
+pbmidoffice.gemeente-oldambt.nl
 pbx.texel.nl
 pcmonitor.leudal.nl
 pcoda.kerkrade.nl
@@ -15438,6 +15448,7 @@ zac.cg-intern.ont.utrecht.nl
 zac.cg-intern.utrecht.nl
 zac.emmen.nl
 zac.enschede.nl
+zac.gemeente-oldambt.nl
 zac.gemeentemaashorst.nl
 zac.gemert-bakel.nl
 zac.kampen.nl
