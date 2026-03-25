@@ -103,6 +103,7 @@ bgt
 samen
 test-intranet
 pki
+mijnzorg
 snelbalie
 duurzaam
 apps
@@ -110,7 +111,6 @@ acc-formulier
 podiumd-logs
 extranet
 govroam
-mijnzorg
 verkiezingen
 osbacc
 afvalkalender
@@ -589,6 +589,7 @@ simcms-duurzaam
 wmo
 testformulieren
 automator
+mijnzorg-test
 rx-mission-publiceren
 preprod-mijnoverzicht
 sportaccommodaties
@@ -883,7 +884,6 @@ zonneparking.doemee
 oud
 gms
 typo3
-mijnzorg-test
 testportal
 voormeldingen
 wim2-acc

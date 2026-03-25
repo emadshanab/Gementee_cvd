@@ -8811,6 +8811,7 @@ mijnzorg-acc.beesel.nl
 mijnzorg-acc.gennep.nl
 mijnzorg-acc.roosendaal.nl
 mijnzorg-test.borne.nl
+mijnzorg-test.gemeente-steenbergen.nl
 mijnzorg-test.heuvelrug.nl
 mijnzorg.aalsmeer.nl
 mijnzorg.acc.utrecht.nl
@@ -8822,6 +8823,7 @@ mijnzorg.beesel.nl
 mijnzorg.borne.nl
 mijnzorg.denhelder.nl
 mijnzorg.duiven.nl
+mijnzorg.gemeente-steenbergen.nl
 mijnzorg.gennep.nl
 mijnzorg.heuvelrug.nl
 mijnzorg.roosendaal.nl

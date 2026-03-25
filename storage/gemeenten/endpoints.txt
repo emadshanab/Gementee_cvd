@@ -4369,7 +4369,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.gemeente-steenbergen.nl
 https://ibzpink.gemeentebeek.nl
 https://ibzpink.gemeentebest.nl
 https://ibzpink.gemeentemaashorst.nl
@@ -5676,6 +5675,7 @@ https://mijnzorg-acc.beesel.nl
 https://mijnzorg-acc.gennep.nl
 https://mijnzorg-acc.roosendaal.nl
 https://mijnzorg-test.borne.nl
+https://mijnzorg-test.gemeente-steenbergen.nl
 https://mijnzorg-test.heuvelrug.nl
 https://mijnzorg.aalsmeer.nl
 https://mijnzorg.acc.utrecht.nl
@@ -5687,6 +5687,7 @@ https://mijnzorg.beesel.nl
 https://mijnzorg.borne.nl
 https://mijnzorg.denhelder.nl
 https://mijnzorg.duiven.nl
+https://mijnzorg.gemeente-steenbergen.nl
 https://mijnzorg.gennep.nl
 https://mijnzorg.heuvelrug.nl
 https://mijnzorg.roosendaal.nl

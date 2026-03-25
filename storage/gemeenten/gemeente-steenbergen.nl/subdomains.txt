@@ -25,6 +25,8 @@ mijnevenement-authenticatie-staging.gemeente-steenbergen.nl
 mijnevenement-authenticatie.gemeente-steenbergen.nl
 mijnevenement-staging.gemeente-steenbergen.nl
 mijnevenement.gemeente-steenbergen.nl
+mijnzorg-test.gemeente-steenbergen.nl
+mijnzorg.gemeente-steenbergen.nl
 nhr-prod.gemeente-steenbergen.nl
 nhr-test.gemeente-steenbergen.nl
 ondernemers.gemeente-steenbergen.nl
