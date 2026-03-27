@@ -374,7 +374,6 @@ http://felix.blaricum.nl
 http://felix.dalfsen.nl
 http://felix.deurne.nl
 http://felix.eemnes.nl
-http://felix.gemeentebeek.nl
 http://felix.kerkrade.nl
 http://felix.landgraaf.nl
 http://felix.leudal.nl
@@ -611,7 +610,6 @@ http://test-binnenshuis.bergen.nl
 http://test-cmsextranet.hethogeland.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.etten-leur.nl
-http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-dieuwke.defryskemarren.nl
@@ -3547,6 +3545,7 @@ https://felix.bunschoten.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
 https://felix.geldrop-mierlo.nl
+https://felix.gemeentebeek.nl
 https://felix.halderberge.nl
 https://felix.harlingen.nl
 https://felix.heerlen.nl
@@ -3820,6 +3819,7 @@ https://gemeentearchief.gemeentehulst.nl
 https://gemeentearchief.goes.nl
 https://gemeentearchief.veenendaal.nl
 https://gemeentearchief.wierden.nl
+https://gemeentebeek.nl
 https://gemeenteberkelland.nl
 https://gemeentebest.nl
 https://gemeentebestuur.haarlem.nl
@@ -4369,7 +4369,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.gemeentebeek.nl
 https://ibzpink.gemeentebest.nl
 https://ibzpink.gemeentemaashorst.nl
 https://ibzpink.gemeentestein.nl
@@ -7500,6 +7499,7 @@ https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
+https://test-cmsintranet.gemeentebeek.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.heuvelrug.nl
@@ -8175,7 +8175,6 @@ https://werkplek.buren.nl
 https://werkplek.derondevenen.nl
 https://werkplek.eijsden-margraten.nl
 https://werkplek.etten-leur.nl
-https://werkplek.gemeentebeek.nl
 https://werkplek.gemeenteberkelland.nl
 https://werkplek.gemeentehw.nl
 https://werkplek.gooisemeren.nl
@@ -8499,7 +8498,6 @@ https://www.gelukkignieuwjaar.zwolle.nl
 https://www.gemeente-oldambt.nl
 https://www.gemeente-steenbergen.nl
 https://www.gemeente.emmen.nl
-https://www.gemeentebeek.nl
 https://www.gemeenteberkelland.nl
 https://www.gemeentebest.nl
 https://www.gemeentehulst.nl

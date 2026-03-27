@@ -8,6 +8,7 @@ autodiscover.gemeentebeek.nl
 autodiscover.ovh.gemeentebeek.nl
 backupstorage1.ovh.gemeentebeek.nl
 backupstorage2.ovh.gemeentebeek.nl
+bb1051456.ovh.gemeentebeek.nl
 bb763.ovh.gemeentebeek.nl
 beek02.ovh.gemeentebeek.nl
 beek14.ovh.gemeentebeek.nl
@@ -30,6 +31,13 @@ beekcsf01.gemeentebeek.nl
 beekcsf01.ovh.gemeentebeek.nl
 beekcsf02.gemeentebeek.nl
 beekcsf02.ovh.gemeentebeek.nl
+beekctxcms01.ovh.gemeentebeek.nl
+beekctxdc01.ovh.gemeentebeek.nl
+beekctxdc02.ovh.gemeentebeek.nl
+beekctxfas01.ovh.gemeentebeek.nl
+beekctxfas02.ovh.gemeentebeek.nl
+beekctxsf01.ovh.gemeentebeek.nl
+beekctxsf02.ovh.gemeentebeek.nl
 beekexchange01.ovh.gemeentebeek.nl
 beekfas01.gemeentebeek.nl
 beekfas01.ovh.gemeentebeek.nl
@@ -61,6 +69,7 @@ exchangehybrid.gemeentebeek.nl
 extranet.gemeentebeek.nl
 felix.gemeentebeek.nl
 ftp-server.ovh.gemeentebeek.nl
+ftp.gemeentebeek.nl
 gemeentebeek.nl
 govroam.gemeentebeek.nl
 hotspot.gemeentebeek.nl
@@ -95,8 +104,11 @@ nas-productie.ovh.gemeentebeek.nl
 nasbackup.ovh.gemeentebeek.nl
 nedplan.gemeentebeek.nl
 nlgembek.gemeentebeek.nl
+nuthmksprd.ovh.gemeentebeek.nl
 open.gemeentebeek.nl
 ovh.gemeentebeek.nl
+powerstoreprd.ovh.gemeentebeek.nl
+powerstoreuitwijk.ovh.gemeentebeek.nl
 preproductie.gemeentebeek.nl
 probeer.gemeentebeek.nl
 secudoc.gemeentebeek.nl

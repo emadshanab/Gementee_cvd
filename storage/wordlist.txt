@@ -145,6 +145,7 @@ objecten
 sts
 obsurv
 connect.acceptatie
+ftp
 simform
 web
 preprod-mijninkomen
@@ -158,7 +159,6 @@ micollab
 inloggen
 contentbeheer
 begroting
-ftp
 izaaksuite
 snelbaliepp
 vdi
@@ -3336,6 +3336,7 @@ adccallback.ovh
 autodiscover.ovh
 backupstorage1.ovh
 backupstorage2.ovh
+bb1051456.ovh
 bb763.ovh
 beek02.ovh
 beek14.ovh
@@ -3358,6 +3359,13 @@ beekcsf01
 beekcsf01.ovh
 beekcsf02
 beekcsf02.ovh
+beekctxcms01.ovh
+beekctxdc01.ovh
+beekctxdc02.ovh
+beekctxfas01.ovh
+beekctxfas02.ovh
+beekctxsf01.ovh
+beekctxsf02.ovh
 beekexchange01.ovh
 beekfas01
 beekfas01.ovh
@@ -3396,7 +3404,10 @@ nas-beek.ovh
 nas-productie.ovh
 nasbackup.ovh
 nlgembek
+nuthmksprd.ovh
 ovh
+powerstoreprd.ovh
+powerstoreuitwijk.ovh
 srmvaprd.ovh
 srmvauitwijk.ovh
 storefront.ovh
