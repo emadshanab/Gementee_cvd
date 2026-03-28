@@ -1,5 +1,7 @@
 afspraak.gemeenteberkelland.nl
+aov.gemeenteberkelland.nl
 api-jcc.gemeenteberkelland.nl
+authenticatie.gemeenteberkelland.nl
 autodiscover.gemeenteberkelland.nl
 cloudadapter-test.gemeenteberkelland.nl
 cloudadapter.gemeenteberkelland.nl
@@ -10,16 +12,18 @@ gemeenteberkelland.nl
 hybrid.gemeenteberkelland.nl
 inloggen.gemeenteberkelland.nl
 intranet.gemeenteberkelland.nl
-kaarten.gemeenteberkelland.nl
 leverancier.gemeenteberkelland.nl
 liquit.gemeenteberkelland.nl
 liquitsatellite.gemeenteberkelland.nl
+loket.gemeenteberkelland.nl
 mijn.gemeenteberkelland.nl
 mijnplan.gemeenteberkelland.nl
 openpdc.gemeenteberkelland.nl
 openpub.gemeenteberkelland.nl
 otp.gemeenteberkelland.nl
+preprod-loket.gemeenteberkelland.nl
 preprod-mijnplan.gemeenteberkelland.nl
+preprod.authenticatie.gemeenteberkelland.nl
 pv.gemeenteberkelland.nl
 radius.gemeenteberkelland.nl
 ro.gemeenteberkelland.nl

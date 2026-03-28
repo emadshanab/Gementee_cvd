@@ -1329,6 +1329,7 @@ anyconnect.leiden.nl
 anyconnect.vught.nl
 anyware.pijnacker-nootdorp.nl
 aov.beverwijk.nl
+aov.gemeenteberkelland.nl
 aov.groningen.nl
 aov.helmond.nl
 aov.smallingerland.nl
@@ -1701,6 +1702,7 @@ auth7.denhaag.nl
 authenticatie-accp.nijmegen.nl
 authenticatie-preprod.tilburg.nl
 authenticatie.a.wonenportaal.amsterdam.nl
+authenticatie.gemeenteberkelland.nl
 authenticatie.gemeentestein.nl
 authenticatie.groningen.nl
 authenticatie.nijmegen.nl
@@ -7420,7 +7422,6 @@ kaarten.boxtel.nl
 kaarten.buren.nl
 kaarten.deventer.nl
 kaarten.duiven.nl
-kaarten.gemeenteberkelland.nl
 kaarten.gemeentewestland.nl
 kaarten.gooisemeren.nl
 kaarten.haarlemmermeer.nl
@@ -7912,6 +7913,7 @@ loket.dordrecht.nl
 loket.duiven.nl
 loket.echt-susteren.nl
 loket.geertruidenberg.nl
+loket.gemeenteberkelland.nl
 loket.gemeentehulst.nl
 loket.gemeentemaasgouw.nl
 loket.gemeentemaastricht.nl
@@ -10391,6 +10393,7 @@ preprod-formulieren.gemeentehw.nl
 preprod-formulieren.pijnacker-nootdorp.nl
 preprod-formulieren.waddinxveen.nl
 preprod-formulieren.wijdemeren.nl
+preprod-loket.gemeenteberkelland.nl
 preprod-meedoen.hellendoorn.nl
 preprod-meedoen.hollandskroon.nl
 preprod-mijn.albrandswaard.nl
@@ -10450,6 +10453,7 @@ preprod-sociaalportaal.tubbergen.nl
 preprod-woz-portaal-eemnes.baarn.nl
 preprod-wozbalie.pijnacker-nootdorp.nl
 preprod.alphenaandenrijn.nl
+preprod.authenticatie.gemeenteberkelland.nl
 preprod.clo.gemeentehulst.nl
 preprod.drimmelen.nl
 preprod.enkhuizen.nl

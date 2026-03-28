@@ -18,8 +18,8 @@ secure
 acceptatie
 felix
 probeer
-formulieren
 loket
+formulieren
 test
 eloket
 open
@@ -78,10 +78,10 @@ zaken
 doemee
 hybrid
 cloudadapter
-kaarten
 _autodiscover._tcp
 connect
 klantcontact
+kaarten
 parkeren-test
 digikoppeling.test
 mks
@@ -328,6 +328,7 @@ filetransfer
 eformulieren
 aeolus
 squit2020publiceren
+authenticatie
 liquit
 radius
 beeldbankbeheer
@@ -376,6 +377,7 @@ nhr
 uca
 esb
 wifi
+aov
 cloud
 extern
 gp
@@ -411,7 +413,6 @@ corsa-prod
 corsa-test
 tim
 www.werkplek
-authenticatie
 gateway
 lyncweb
 prefill
@@ -453,7 +454,6 @@ mijnsociaalportaal-acc
 mijnsociaalportaal
 wij
 zorg
-aov
 csc
 mbg1
 elokettest
@@ -3428,6 +3428,8 @@ api-jcc
 gb-app05
 leverancier
 otp
+preprod-loket
+preprod.authenticatie
 taxatieverslagen
 bestand
 bestie-stats

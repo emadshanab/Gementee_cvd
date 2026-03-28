@@ -1752,6 +1752,7 @@ https://auth5.denhaag.nl
 https://auth7.denhaag.nl
 https://authenticatie-accp.nijmegen.nl
 https://authenticatie-preprod.tilburg.nl
+https://authenticatie.gemeenteberkelland.nl
 https://authenticatie.gemeentestein.nl
 https://authenticatie.groningen.nl
 https://authenticatie.nijmegen.nl
@@ -5121,6 +5122,7 @@ https://loket.digitaal.utrecht.nl
 https://loket.dordrecht.nl
 https://loket.duiven.nl
 https://loket.geertruidenberg.nl
+https://loket.gemeenteberkelland.nl
 https://loket.gemeentewesterveld.nl
 https://loket.hardinxveld-giessendam.nl
 https://loket.hattem.nl
@@ -6548,6 +6550,7 @@ https://preprod-formulieren.gemeentehw.nl
 https://preprod-formulieren.pijnacker-nootdorp.nl
 https://preprod-formulieren.waddinxveen.nl
 https://preprod-formulieren.wijdemeren.nl
+https://preprod-loket.gemeenteberkelland.nl
 https://preprod-meedoen.hellendoorn.nl
 https://preprod-meedoen.hollandskroon.nl
 https://preprod-mijn.albrandswaard.nl
@@ -6569,7 +6572,6 @@ https://preprod-mijninkomen.gouda.nl
 https://preprod-mijninkomen.terneuzen.nl
 https://preprod-mijnoverzicht.purmerend.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
-https://preprod-mijnplan.gemeenteberkelland.nl
 https://preprod-mijnplan.winterswijk.nl
 https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
@@ -6590,6 +6592,7 @@ https://preprod-mijnwijkteam.schagen.nl
 https://preprod-mijnzorg.denhelder.nl
 https://preprod-sociaalportaal.tubbergen.nl
 https://preprod-wozbalie.pijnacker-nootdorp.nl
+https://preprod.authenticatie.gemeenteberkelland.nl
 https://preprod.drimmelen.nl
 https://preprod.enschede.nl
 https://preprod.hattem.nl
