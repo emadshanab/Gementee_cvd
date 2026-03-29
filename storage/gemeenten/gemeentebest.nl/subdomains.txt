@@ -8,7 +8,7 @@ bestie.gemeentebest.nl
 digikoppeling.gemeentebest.nl
 doemee.gemeentebest.nl
 e-loket.gemeentebest.nl
-email.doemee.gemeentebest.nl
+email.mail.doemee.gemeentebest.nl
 gemeentebest.nl
 iburgerzaken.gemeentebest.nl
 ibzpink.gemeentebest.nl
@@ -23,6 +23,6 @@ tv.gemeentebest.nl
 waarmerk.gemeentebest.nl
 webmail.gemeentebest.nl
 werkplek.gemeentebest.nl
-www.doemee.gemeentebest.nl
+woningbouwkaart.gemeentebest.nl
 www.gemeentebest.nl
 zwembadabonnement.gemeentebest.nl

@@ -58,11 +58,11 @@ belastingbalie
 dmidoffice
 openpdc
 enterpriseregistration
+woningbouwkaart
 openpub
 remote
 cmsoo
 loket.acceptatie
-woningbouwkaart
 omgevingsvisie
 berichten
 cloudadapter-test
@@ -153,7 +153,6 @@ auth
 acc-keycloak-admin
 acc-zac
 keycloak-admin
-www.doemee
 zac
 micollab
 inloggen
@@ -162,6 +161,7 @@ begroting
 izaaksuite
 snelbaliepp
 vdi
+www.doemee
 fmreturn
 inproces
 cryptshare
@@ -3434,7 +3434,7 @@ taxatieverslagen
 bestand
 bestie-stats
 bestie
-email.doemee
+email.mail.doemee
 nta7516
 tv
 zwembadabonnement
