@@ -67,8 +67,8 @@ omgevingsvisie
 berichten
 cloudadapter-test
 osb
-login
 kaart
+login
 digikoppeling-test
 beeldbank
 denkmee
@@ -692,6 +692,7 @@ geo-secure
 ketenportaal.acceptatie
 secudoc
 www.login
+post
 www.parkeren
 testafspraken
 prtg
@@ -1146,7 +1147,6 @@ HTA
 lvolo-prod
 lvolo-test
 validsign-prod
-post
 geocortex
 monitor
 tickets
@@ -3449,8 +3449,10 @@ ghtsv2-092
 ghtsv2-093
 ghtsv2-094
 ghtsv2-095
+kaart-test
 kmdn
 loket-ontw
+mailscan
 mijntalentcenter
 preprod.clo
 td

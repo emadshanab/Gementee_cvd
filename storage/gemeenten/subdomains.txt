@@ -7390,6 +7390,7 @@ jzd.hethogeland.nl
 k1._domainkey.bergendal.nl
 k2fin.sudwestfryslan.nl
 kaagenbraassem.nl
+kaart-test.gemeentehulst.nl
 kaart.almere.nl
 kaart.alphenaandenrijn.nl
 kaart.amersfoort.nl
@@ -7397,6 +7398,7 @@ kaart.bergendal.nl
 kaart.culemborg.nl
 kaart.debilt.nl
 kaart.delft.nl
+kaart.gemeentehulst.nl
 kaart.haarlem.nl
 kaart.kaagenbraassem.nl
 kaart.kampen.nl
@@ -8083,6 +8085,7 @@ mail.epe.nl
 mail.ermelo.nl
 mail.geertruidenberg.nl
 mail.gemeentebest.nl
+mail.gemeentehulst.nl
 mail.gemeentemaasgouw.nl
 mail.gemeentemaashorst.nl
 mail.gemeentesluis.nl
@@ -8199,6 +8202,7 @@ mailings.deventer.nl
 mailings.wijdemeren.nl
 mailptr.vught.nl
 mailrelay.helmond.nl
+mailscan.gemeentehulst.nl
 mailsig.lansingerland.nl
 mailvan.winterswijk.nl
 maisflexis.heusden.nl
@@ -10312,6 +10316,7 @@ positioneringshuis-acc.denhaag.nl
 positioneringshuis.denhaag.nl
 positioning-acc.denhaag.nl
 positioning.denhaag.nl
+post.gemeentehulst.nl
 post.krimpenaandenijssel.nl
 post.westerwolde.nl
 postbus.huizen.nl
