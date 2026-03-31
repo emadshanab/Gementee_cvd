@@ -1,6 +1,5 @@
 acc-mediabank.gemeentehw.nl
 afspraken.gemeentehw.nl
-auth.gemeentehw.nl
 authentication.gemeentehw.nl
 autodiscover.gemeentehw.nl
 begroting.gemeentehw.nl
@@ -21,6 +20,7 @@ hybrid.gemeentehw.nl
 jaarstukken.gemeentehw.nl
 login.gemeentehw.nl
 mediabank.gemeentehw.nl
+mijn.gemeentehw.nl
 mijninkomen.gemeentehw.nl
 openpdc.gemeentehw.nl
 openpub.gemeentehw.nl
@@ -28,6 +28,7 @@ pencportaal.gemeentehw.nl
 pip-preproductie.gemeentehw.nl
 pip.gemeentehw.nl
 preprod-formulieren.gemeentehw.nl
+preprod-mijn.gemeentehw.nl
 preprod-mijninkomen.gemeentehw.nl
 preprodbroker.gemeentehw.nl
 preproductie.gemeentehw.nl
@@ -39,6 +40,5 @@ squit2goprod.gemeentehw.nl
 squit2gotest.gemeentehw.nl
 telefoon.gemeentehw.nl
 testafspraken.gemeentehw.nl
-werkplek.gemeentehw.nl
 www.gemeentehw.nl
 zuil.gemeentehw.nl

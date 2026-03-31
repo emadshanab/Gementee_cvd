@@ -1673,7 +1673,6 @@ auth.doemee.bloemendaal.nl
 auth.doemee.gemeentewestland.nl
 auth.doemee.papendrecht.nl
 auth.doemee.zwolle.nl
-auth.gemeentehw.nl
 auth.gemeentestein.nl
 auth.gemeentewestland.nl
 auth.haarlem.nl
@@ -8552,6 +8551,7 @@ mijn.epe.nl
 mijn.etten-leur.nl
 mijn.gemeente-oldambt.nl
 mijn.gemeenteberkelland.nl
+mijn.gemeentehw.nl
 mijn.gemeentemaashorst.nl
 mijn.gemeentewestland.nl
 mijn.gemert-bakel.nl
@@ -10404,6 +10404,7 @@ preprod-meedoen.hollandskroon.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
 preprod-mijn.defryskemarren.nl
+preprod-mijn.gemeentehw.nl
 preprod-mijn.hollandskroon.nl
 preprod-mijn.noordwijk.nl
 preprod-mijn.ridderkerk.nl
@@ -13917,7 +13918,6 @@ werkplek.etten-leur.nl
 werkplek.gemeentebeek.nl
 werkplek.gemeenteberkelland.nl
 werkplek.gemeentebest.nl
-werkplek.gemeentehw.nl
 werkplek.gemeentemaasgouw.nl
 werkplek.gooisemeren.nl
 werkplek.groningen.nl

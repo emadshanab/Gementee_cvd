@@ -5,8 +5,8 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-intranet
 mijn
+intranet
 webmail
 simsite
 mail
@@ -25,10 +25,10 @@ eloket
 open
 waarmerk
 dkd
-werkplek
 acc
 betalen
 portal
+werkplek
 meldingen
 afspraak
 raad
@@ -149,7 +149,6 @@ ftp
 simform
 web
 preprod-mijninkomen
-auth
 acc-keycloak-admin
 acc-zac
 keycloak-admin
@@ -161,6 +160,7 @@ begroting
 izaaksuite
 snelbaliepp
 vdi
+auth
 www.doemee
 fmreturn
 inproces
@@ -182,6 +182,7 @@ bor
 mta-sts
 transfer
 college
+preprod-mijn
 veiligdelen
 geodata
 maps
@@ -202,7 +203,6 @@ bestuur
 squit2020
 geoportaal
 socialekaart
-preprod-mijn
 belastingbalie-test
 melddesk
 api.openstad

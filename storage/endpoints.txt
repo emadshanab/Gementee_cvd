@@ -361,6 +361,7 @@ http://docgen-tst.amsterdam.nl
 http://docwerker.amsterdam.nl
 http://duurzaam.woensdrecht.nl
 http://e.papendrecht.nl
+http://ediensten.gemeentehw.nl
 http://ehv-lpi-ap-15.lopik.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
@@ -500,7 +501,6 @@ http://ows-dmnsapi.groningen.nl
 http://ows-websrvc-test.groningen.nl
 http://panel.almere.nl
 http://pb-yutpa.rnd.amsterdam.nl
-http://pip-preproductie.gemeentehw.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
 http://plannen.someren.nl
@@ -1728,7 +1728,6 @@ https://auth.doemee.bloemendaal.nl
 https://auth.doemee.gemeentewestland.nl
 https://auth.doemee.papendrecht.nl
 https://auth.doemee.zwolle.nl
-https://auth.gemeentehw.nl
 https://auth.gemeentestein.nl
 https://auth.lelystad.nl
 https://auth.meppel.nl
@@ -5451,6 +5450,7 @@ https://mijn.epe.nl
 https://mijn.etten-leur.nl
 https://mijn.gemeente-oldambt.nl
 https://mijn.gemeenteberkelland.nl
+https://mijn.gemeentehw.nl
 https://mijn.gemeentemaashorst.nl
 https://mijn.gemert-bakel.nl
 https://mijn.gooisemeren.nl
@@ -6402,6 +6402,7 @@ https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pijnacker-nootdorp.nl
 https://pilot-digitaleplannen.apeldoorn.nl
 https://pip-test.urk.nl
+https://pip.gemeentehw.nl
 https://pip.urk.nl
 https://pip.vlaardingen.nl
 https://piwik.ede.nl
@@ -6556,6 +6557,7 @@ https://preprod-meedoen.hollandskroon.nl
 https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
 https://preprod-mijn.defryskemarren.nl
+https://preprod-mijn.gemeentehw.nl
 https://preprod-mijn.hollandskroon.nl
 https://preprod-mijn.noordwijk.nl
 https://preprod-mijn.ridderkerk.nl
@@ -6568,6 +6570,7 @@ https://preprod-mijninkomen.beverwijk.nl
 https://preprod-mijninkomen.defryskemarren.nl
 https://preprod-mijninkomen.denhelder.nl
 https://preprod-mijninkomen.dronten.nl
+https://preprod-mijninkomen.gemeentehw.nl
 https://preprod-mijninkomen.gouda.nl
 https://preprod-mijninkomen.terneuzen.nl
 https://preprod-mijnoverzicht.purmerend.nl
@@ -7125,6 +7128,7 @@ https://simcms.winterswijk.nl
 https://simcms.zoetermeer.nl
 https://simcms.zuidplas.nl
 https://simform-preproductie.achtkarspelen.nl
+https://simform-preproductie.gemeentehw.nl
 https://simform-preproductie.vlaardingen.nl
 https://simform-preproductie.voorschoten.nl
 https://simform.achtkarspelen.nl
@@ -8179,7 +8183,6 @@ https://werkplek.derondevenen.nl
 https://werkplek.eijsden-margraten.nl
 https://werkplek.etten-leur.nl
 https://werkplek.gemeenteberkelland.nl
-https://werkplek.gemeentehw.nl
 https://werkplek.gooisemeren.nl
 https://werkplek.haarlemmermeer.nl
 https://werkplek.halderberge.nl
