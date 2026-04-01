@@ -9544,6 +9544,7 @@ open.ede.nl
 open.epe.nl
 open.geldrop-mierlo.nl
 open.gemeentebeek.nl
+open.gemeentemaasgouw.nl
 open.gemeentestein.nl
 open.gooisemeren.nl
 open.gorinchem.nl
@@ -11549,6 +11550,7 @@ simcms-open.doetinchem.nl
 simcms-open.echt-susteren.nl
 simcms-open.geldrop-mierlo.nl
 simcms-open.gemeentebeek.nl
+simcms-open.gemeentemaasgouw.nl
 simcms-open.halderberge.nl
 simcms-open.leudal.nl
 simcms-open.meerssen.nl
@@ -13443,6 +13445,7 @@ vpn.zwartewaterland.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
 vpngw2.ns.portal.rijssen-holten.nl
+vps.gemeentemaasgouw.nl
 vpsweb.veere.nl
 vraagbaak.doesburg.nl
 vraaghulp.acc.nijmegen.nl

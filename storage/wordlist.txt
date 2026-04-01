@@ -21,8 +21,8 @@ probeer
 loket
 formulieren
 test
-eloket
 open
+eloket
 waarmerk
 dkd
 acc
@@ -81,13 +81,13 @@ cloudadapter
 _autodiscover._tcp
 connect
 klantcontact
+simcms-open
 kaarten
 parkeren-test
 digikoppeling.test
 mks
 parkeren-acc
 acc-broker
-simcms-open
 preprodbroker
 portaal
 piwik
@@ -3492,6 +3492,7 @@ iis3
 maasgouw-checker-preprod
 maasgouw-checker
 sec
+vps
 www.cag
 www.mm
 www.sec
