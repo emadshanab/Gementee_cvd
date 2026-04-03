@@ -507,7 +507,6 @@ http://plannen.asten.nl
 http://plannen.someren.nl
 http://pop.deventer.nl
 http://pre-formulieren.houten.nl
-http://pre-gemeenteloket.gemeentemaastricht.nl
 http://pre-ows-ahp-test.groningen.nl
 http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
@@ -5421,6 +5420,7 @@ https://mijn-acc.sittard-geleen.nl
 https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
+https://mijn-gemeenteloket.gemeentemaastricht.nl
 https://mijn-preproductie.westerkwartier.nl
 https://mijn-preproductie.zuidplas.nl
 https://mijn-services.accp.nijmegen.nl
@@ -6535,6 +6535,7 @@ https://praatmee.boxtel.nl
 https://praatmee.goeree-overflakkee.nl
 https://praatmee.schiedam.nl
 https://praatmee.sint-michielsgestel.nl
+https://pre-gemeenteloket.gemeentemaastricht.nl
 https://pre-inloggen.landgraaf.nl
 https://pre-mijnzorg.waalwijk.nl
 https://pre-ows-ahp.groningen.nl
