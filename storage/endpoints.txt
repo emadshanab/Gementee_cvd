@@ -451,6 +451,7 @@ http://login.sittard-geleen.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
 http://magazine.schagen.nl
+http://mail.gemeentesluis.nl
 http://mail.kampen.nl
 http://mail.wijdemeren.nl
 http://makelpunt.amsterdam.nl
@@ -527,6 +528,7 @@ http://pveopenbareruiomte.deventer.nl
 http://qcalendar.deventer.nl
 http://raadsagenda.oirschot.nl
 http://rekenkamer.amsterdam.nl
+http://remote.gemeentesluis.nl
 http://renswoude.nl
 http://reuseldemierden.nl
 http://ro.brunssum.nl
@@ -2299,6 +2301,7 @@ https://broker.enschede.nl
 https://broker.gemeente-oldambt.nl
 https://broker.gemeentehw.nl
 https://broker.gemeentemaashorst.nl
+https://broker.gemeentesluis.nl
 https://broker.gemeentewesterveld.nl
 https://broker.gemeentewestland.nl
 https://broker.gemert-bakel.nl
@@ -3297,6 +3300,7 @@ https://eemsdelta.nl
 https://eersel.nl
 https://efacturen.eijsden-margraten.nl
 https://eforms.peelenmaas.nl
+https://eformulier.gemeentesluis.nl
 https://eformulier.heerlen.nl
 https://eformulieren-test.stichtsevecht.nl
 https://eformulieren.doetinchem.nl
@@ -5462,6 +5466,7 @@ https://mijn.gemeente-oldambt.nl
 https://mijn.gemeenteberkelland.nl
 https://mijn.gemeentehw.nl
 https://mijn.gemeentemaashorst.nl
+https://mijn.gemeentesluis.nl
 https://mijn.gemert-bakel.nl
 https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
@@ -5808,6 +5813,7 @@ https://nedbrowser.twenterand.nl
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
+https://neptunus.gemeentesluis.nl
 https://nerdio.meierijstad.nl
 https://netbox.alkmaar.nl
 https://neuron-test.gorinchem.nl
@@ -6555,6 +6561,7 @@ https://preprod-belastingen.soest.nl
 https://preprod-belastingportaal.goirle.nl
 https://preprod-belastingportaal.hilvarenbeek.nl
 https://preprod-belastingportaal.oisterwijk.nl
+https://preprod-broker.gemeentesluis.nl
 https://preprod-burgerportaal.hardenberg.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-edienstensociaaldomein.heerenveen.nl
@@ -6571,6 +6578,7 @@ https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
 https://preprod-mijn.defryskemarren.nl
 https://preprod-mijn.gemeentehw.nl
+https://preprod-mijn.gemeentesluis.nl
 https://preprod-mijn.hollandskroon.nl
 https://preprod-mijn.noordwijk.nl
 https://preprod-mijn.ridderkerk.nl
@@ -6841,6 +6849,7 @@ https://rads.rotterdam.nl
 https://rap.gemeentesluis.nl
 https://raster.horstaandemaas.nl
 https://rbp.rotterdam.nl
+https://rds.gemeentesluis.nl
 https://rds.waalwijk.nl
 https://rdweb.houten.nl
 https://rdweb01.schagen.nl
@@ -6867,7 +6876,6 @@ https://rekentool.helmond.nl
 https://religieuserfgoed.deventer.nl
 https://remote.arnhem.nl
 https://remote.beverwijk.nl
-https://remote.gemeentesluis.nl
 https://remote.gorinchem.nl
 https://remote.hethogeland.nl
 https://remote.lochem.nl
@@ -8016,7 +8024,6 @@ https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
 https://waarmerk.brielle.nl
 https://waarmerk.gemeentebest.nl
-https://waarmerk.gemeentesluis.nl
 https://waarmerk.hellevoetsluis.nl
 https://waarmerk.veendam.nl
 https://waarmerk.waterland.nl
@@ -8595,6 +8602,7 @@ https://www.ihp.denhaag.nl
 https://www.ikbouwin.denhaag.nl
 https://www.ingesprek.denhelder.nl
 https://www.inkomensondersteuning.nijmegen.nl
+https://www.intranet.gemeentesluis.nl
 https://www.intranet.kampen.nl
 https://www.intranet.oegstgeest.nl
 https://www.jijmaaktdebuurt.openstad.enschede.nl
@@ -8656,6 +8664,7 @@ https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
 https://www.nederbetuwe.nl
+https://www.neptunus.gemeentesluis.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwkoop.nl
@@ -8716,6 +8725,7 @@ https://www.preprod-woz-portaal-eemnes.baarn.nl
 https://www.publicaties.s-hertogenbosch.nl
 https://www.purmerend.nl
 https://www.putten.nl
+https://www.pv.gemeentesluis.nl
 https://www.q4.venlo.nl
 https://www.raad.bergendal.nl
 https://www.raad.middendrenthe.nl
