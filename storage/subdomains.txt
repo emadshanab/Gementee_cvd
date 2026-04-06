@@ -89,7 +89,6 @@ _autodiscover._tcp.barendrecht.nl
 _autodiscover._tcp.bergeijk.nl
 _autodiscover._tcp.boxtel.nl
 _autodiscover._tcp.dinkelland.nl
-_autodiscover._tcp.gemeentestein.nl
 _autodiscover._tcp.haarlem.nl
 _autodiscover._tcp.hethogeland.nl
 _autodiscover._tcp.lisse.nl
@@ -1324,7 +1323,6 @@ ansvwl2019.waterland.nl
 ansvwl2032.waterland.nl
 ansvwl2903.waterland.nl
 antispam.eijsden-margraten.nl
-antispam.gemeentestein.nl
 antix.overbetuwe.nl
 anva.vga.amsterdam.nl
 anvatest.vga.amsterdam.nl
@@ -1680,7 +1678,6 @@ auth.doemee.bloemendaal.nl
 auth.doemee.gemeentewestland.nl
 auth.doemee.papendrecht.nl
 auth.doemee.zwolle.nl
-auth.gemeentestein.nl
 auth.gemeentewestland.nl
 auth.haarlem.nl
 auth.leeuwarden.nl
@@ -1709,7 +1706,6 @@ authenticatie-accp.nijmegen.nl
 authenticatie-preprod.tilburg.nl
 authenticatie.a.wonenportaal.amsterdam.nl
 authenticatie.gemeenteberkelland.nl
-authenticatie.gemeentestein.nl
 authenticatie.groningen.nl
 authenticatie.nijmegen.nl
 authenticatie.tilburg.nl
@@ -2617,7 +2613,6 @@ beverwijk.nl
 bewegen.apeldoorn.nl
 bewonersbrieven.amsterdam.nl
 bewustwording.brielle.nl
-bewustwording.gemeentestein.nl
 bewustwording.waalre.nl
 bewustwording.westerwolde.nl
 bewustwording.westvoorne.nl
@@ -3764,7 +3759,6 @@ designtool.rotterdam.nl
 desktop.apeldoorn.nl
 desktop.borne.nl
 desktop.denhaag.nl
-desktop.gemeentestein.nl
 desktop.lelystad.nl
 desktop.rucphen.nl
 desktop.tilburg.nl
@@ -4484,7 +4478,6 @@ e.achtkarspelen.nl
 e.almelo.nl
 e.arnhem.nl
 e.assen.nl
-e.bewustwording.gemeentestein.nl
 e.bewustwording.westerwolde.nl
 e.borger-odoorn.nl
 e.denkmee.tilburg.nl
@@ -12243,7 +12236,6 @@ sts-azdev.rotterdam.nl
 sts.assen.nl
 sts.dronten.nl
 sts.eijsden-margraten.nl
-sts.gemeentestein.nl
 sts.haarlemmermeer.nl
 sts.horstaandemaas.nl
 sts.lansingerland.nl
@@ -12753,7 +12745,6 @@ test.formulieren.almere.nl
 test.formulieren.leiden.nl
 test.geertruidenberg.nl
 test.gemeentebest.nl
-test.gemeentestein.nl
 test.gemeentewestland.nl
 test.gulpen-wittem.nl
 test.haarendossiers.oisterwijk.nl
@@ -13430,7 +13421,6 @@ vpn.denhaag.nl
 vpn.deurne.nl
 vpn.drechterland.nl
 vpn.dronten.nl
-vpn.gemeentestein.nl
 vpn.gooisemeren.nl
 vpn.gouda.nl
 vpn.groningen.nl
@@ -14073,7 +14063,6 @@ winkelsteeg.nijmegen.nl
 winter.groningen.nl
 winterswijk.nl
 wion.amersfoort.nl
-wion.gemeentestein.nl
 wion.goes.nl
 wion.ouder-amstel.nl
 wion.twenterand.nl

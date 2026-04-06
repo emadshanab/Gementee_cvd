@@ -20,8 +20,8 @@ felix
 probeer
 loket
 formulieren
-test
 open
+test
 eloket
 waarmerk
 dkd
@@ -37,8 +37,8 @@ parkeren
 api.meldingen
 geo
 adfs
-vpn
 testeloket
+vpn
 belastingen
 iparticipatie
 ruimtelijkeplannen
@@ -78,11 +78,11 @@ zaken
 doemee
 hybrid
 cloudadapter
-_autodiscover._tcp
 connect
 klantcontact
 simcms-open
 kaarten
+_autodiscover._tcp
 parkeren-test
 digikoppeling.test
 mks
@@ -142,7 +142,6 @@ qr
 acc-keycloak
 keycloak
 objecten
-sts
 obsurv
 connect.acceptatie
 ftp
@@ -152,6 +151,7 @@ preprod-mijninkomen
 acc-keycloak-admin
 acc-zac
 keycloak-admin
+sts
 zac
 micollab
 inloggen
@@ -160,7 +160,6 @@ begroting
 izaaksuite
 snelbaliepp
 vdi
-auth
 www.doemee
 fmreturn
 inproces
@@ -171,6 +170,7 @@ gisib
 preprod-mijn
 bis
 formulieren-test
+auth
 bag
 sip
 gasten
@@ -212,7 +212,6 @@ api.openstad
 gemeentearchief
 mail2
 onderzoek
-desktop
 nieuwsbrief
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -235,6 +234,7 @@ website
 werkenvoor
 _dmarc
 admin.openstad
+desktop
 opendata
 woo
 meet
@@ -300,7 +300,6 @@ belastingen-acc
 evenementen
 ro-online
 mozard
-wion
 img.openstad
 ns1
 sslvpn
@@ -331,7 +330,6 @@ filetransfer
 eformulieren
 aeolus
 squit2020publiceren
-authenticatie
 liquit
 radius
 beeldbankbeheer
@@ -353,6 +351,7 @@ dkd-test
 msoid
 www.duurzaam
 ns
+wion
 atlas
 api
 beheer
@@ -382,7 +381,6 @@ cloud
 extern
 gp
 mam
-bewustwording
 programmabegroting
 autorisatiebeheer
 carel
@@ -411,6 +409,7 @@ stemvan
 ibabs
 corsa-prod
 corsa-test
+authenticatie
 tim
 www.werkplek
 gateway
@@ -463,6 +462,7 @@ jcccloud
 belastingportaal-test
 matomo
 nieuws
+bewustwording
 autorisatiebeheer-test
 djumaproxy
 sync
@@ -993,7 +993,6 @@ formulier-acc
 mx3
 redirect
 geldwijzer
-antispam
 mediabank
 mx
 allegro
@@ -1030,7 +1029,6 @@ pip-preproductie
 telefoon
 mm
 eformulier
-e.bewustwording
 digikoppelingjnet
 apigateway
 apigateway2
@@ -3129,6 +3127,7 @@ kansshop
 rdssrv-01
 test-kansshop
 powerautomatecorsa
+antispam
 bestplan1
 emma
 gemnps01
@@ -6480,6 +6479,7 @@ bag-vwes11
 cmstestintranet
 dds-vwes21
 dkde-vwes11
+e.bewustwording
 iis-vwes11
 iis-vwes21
 meldweb

@@ -538,7 +538,6 @@ http://ruimtelijkerfgoed.deventer.nl
 http://saaedepot-storage.amsterdam.nl
 http://schoondoenwegewoon.acc.denhaag.nl
 http://secure.dalfsen.nl
-http://secure.gemeentestein.nl
 http://sem.kampen.nl
 http://simcms-armoedepact.westerkwartier.nl
 http://simcms-cjg.scherpenzeel.nl
@@ -612,6 +611,7 @@ http://test-binnenshuis.bergen.nl
 http://test-cmsextranet.hethogeland.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.etten-leur.nl
+http://test-cmsintranet.gemeentestein.nl
 http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-dieuwke.defryskemarren.nl
@@ -621,6 +621,7 @@ http://test-intra.gooisemeren.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
+http://test-intranet.gemeentestein.nl
 http://test-intranet.lansingerland.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
@@ -670,7 +671,6 @@ http://wijkaanpak.deventer.nl
 http://wijkbudgetwaldeck.denhaag.nl
 http://wijsamen.groningen.nl
 http://winkelen.deventer.nl
-http://wion.gemeentestein.nl
 http://wmoservice.buren.nl
 http://www.aanvraagparkeren.groningen.nl
 http://www.acceptatie.derondevenen.nl
@@ -1738,7 +1738,6 @@ https://auth.doemee.bloemendaal.nl
 https://auth.doemee.gemeentewestland.nl
 https://auth.doemee.papendrecht.nl
 https://auth.doemee.zwolle.nl
-https://auth.gemeentestein.nl
 https://auth.lelystad.nl
 https://auth.meppel.nl
 https://auth.openstad.amsterdam.nl
@@ -1760,7 +1759,6 @@ https://auth7.denhaag.nl
 https://authenticatie-accp.nijmegen.nl
 https://authenticatie-preprod.tilburg.nl
 https://authenticatie.gemeenteberkelland.nl
-https://authenticatie.gemeentestein.nl
 https://authenticatie.groningen.nl
 https://authenticatie.nijmegen.nl
 https://authenticatie.tilburg.nl
@@ -2765,7 +2763,6 @@ https://design.hoorn.nl
 https://designsystem.leiden.nl
 https://designtool.rotterdam.nl
 https://desktop.denhaag.nl
-https://desktop.gemeentestein.nl
 https://desktop.lelystad.nl
 https://desktop.rucphen.nl
 https://desktop.winterswijk.nl
@@ -2961,7 +2958,6 @@ https://e.achtkarspelen.nl
 https://e.almelo.nl
 https://e.arnhem.nl
 https://e.assen.nl
-https://e.bewustwording.gemeentestein.nl
 https://e.bewustwording.westerwolde.nl
 https://e.borger-odoorn.nl
 https://e.denkmee.tilburg.nl
@@ -4378,7 +4374,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.gemeentestein.nl
 https://ibzpink.hardenberg.nl
 https://ibzpink.hattem.nl
 https://ibzpink.heemskerk.nl
@@ -7026,6 +7021,7 @@ https://secure.acc.denhaag.nl
 https://secure.almere.nl
 https://secure.delft.nl
 https://secure.denhelder.nl
+https://secure.gemeentestein.nl
 https://secure.pekela.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
@@ -7383,7 +7379,6 @@ https://sts-acc.rotterdam.nl
 https://sts-azdev.rotterdam.nl
 https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
-https://sts.gemeentestein.nl
 https://sts.horstaandemaas.nl
 https://sts.lansingerland.nl
 https://sts.lopik.nl
@@ -7530,7 +7525,6 @@ https://test-cmsdok.dronten.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.gemeentebeek.nl
-https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
@@ -7557,7 +7551,6 @@ https://test-formulier.enschede.nl
 https://test-formulier.gemert-bakel.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
-https://test-intranet.gemeentestein.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.velsen.nl
 https://test-ita.enschede.nl
@@ -7975,7 +7968,6 @@ https://voorst.nl
 https://vortum-mullem.landvancuijk.nl
 https://vow.rotterdam.nl
 https://vpn-extern.gooisemeren.nl
-https://vpn.gemeentestein.nl
 https://vpn.gooisemeren.nl
 https://vpn.gouda.nl
 https://vpn.groningen.nl
@@ -8091,7 +8083,6 @@ https://webmail.buren.nl
 https://webmail.drimmelen.nl
 https://webmail.ede.nl
 https://webmail.geertruidenberg.nl
-https://webmail.gemeentestein.nl
 https://webmail.gemert-bakel.nl
 https://webmail.haarlem.nl
 https://webmail.haarlemmermeer.nl
