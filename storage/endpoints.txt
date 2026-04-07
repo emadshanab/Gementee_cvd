@@ -5785,7 +5785,9 @@ https://my-lex.venray.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mylex.gemeentesluis.nl
+https://mylex.gemeentewesterveld.nl
 https://mylex.nieuwkoop.nl
+https://mylex.test.gemeentewesterveld.nl
 https://mylex.waterland.nl
 https://mylex.zwartewaterland.nl
 https://mymeeting.veldhoven.nl

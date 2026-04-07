@@ -412,6 +412,7 @@ corsa-test
 authenticatie
 tim
 www.werkplek
+mylex
 gateway
 lyncweb
 prefill
@@ -504,7 +505,6 @@ gemeentewinkel
 mijnmobiel
 pip
 www.mail
-mylex
 preprod-mijnsociaaldomein
 rds
 acceptatie-intranet
@@ -3520,6 +3520,7 @@ www.eformulieren
 www.neptunus
 www.pv
 digikoppelingjnet-test
+mylex.test
 preproductiebroker
 basisregistraties
 bavak
