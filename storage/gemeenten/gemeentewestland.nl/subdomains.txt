@@ -1,3 +1,4 @@
+Mailgate.gemeentewestland.nl
 acceptatie-intranet.gemeentewestland.nl
 acceptatie.gemeentewestland.nl
 acceptatie.intranet.gemeentewestland.nl
@@ -51,6 +52,8 @@ inproces.gemeentewestland.nl
 intranet-oud.gemeentewestland.nl
 intranet.gemeentewestland.nl
 kaarten.gemeentewestland.nl
+kaarten2.gemeentewestland.nl
+kofaxirs.gemeentewestland.nl
 legacy.gemeentewestland.nl
 login.gemeentewestland.nl
 loket.gemeentewestland.nl
@@ -59,6 +62,7 @@ mailgate.gemeentewestland.nl
 mailgate2.gemeentewestland.nl
 mdm.gemeentewestland.nl
 micollab.gemeentewestland.nl
+mijn-preproductie.gemeentewestland.nl
 mijn.gemeentewestland.nl
 mobile.gemeentewestland.nl
 ontw.gemeentewestland.nl
@@ -68,8 +72,10 @@ pl.gemeentewestland.nl
 preprodbroker.gemeentewestland.nl
 preproductie.gemeentewestland.nl
 pvsor.gemeentewestland.nl
+raad.gemeentewestland.nl
 remote.gemeentewestland.nl
 roplannen.gemeentewestland.nl
+securetest.gemeentewestland.nl
 sharefile.gemeentewestland.nl
 sociaalplein.gemeentewestland.nl
 squit2020.acceptatie.gemeentewestland.nl
@@ -100,6 +106,7 @@ www.edienstenburgerzaken.gemeentewestland.nl
 www.gemeentewestland.nl
 www.intranet.gemeentewestland.nl
 www.kaarten.gemeentewestland.nl
+www.kofaxirs.gemeentewestland.nl
 www.legacy.gemeentewestland.nl
 www.mdm.gemeentewestland.nl
 www.micollab.gemeentewestland.nl
@@ -111,3 +118,4 @@ www.sociaalplein.gemeentewestland.nl
 www.westlandbudgetbeheer.gemeentewestland.nl
 zaken.acceptatie.gemeentewestland.nl
 zaken.gemeentewestland.nl
+zorgned.gemeentewestland.nl

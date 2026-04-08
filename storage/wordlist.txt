@@ -31,8 +31,8 @@ portal
 werkplek
 meldingen
 afspraak
-broker
 raad
+broker
 parkeren
 api.meldingen
 geo
@@ -283,6 +283,7 @@ key2gbav
 publicaties
 bestanden
 squit2020.acceptatie
+mijn-preproductie
 midoffice
 mijnzorg-acc
 geovisia
@@ -336,7 +337,6 @@ beeldbankbeheer
 sbc01
 m
 bezoekersparkeren
-mijn-preproductie
 www.afspraken
 woz
 drop
@@ -1034,6 +1034,7 @@ apigateway
 apigateway2
 e.doemee
 mailgate
+securetest
 geovisiaonline
 belastingen-test
 test-meedoen
@@ -3522,6 +3523,7 @@ www.pv
 digikoppelingjnet-test
 mylex.test
 preproductiebroker
+Mailgate
 basisregistraties
 bavak
 bedrijvenregister
@@ -3530,6 +3532,8 @@ digikoppeling-tst
 eopenstad
 guestportal
 intranet-oud
+kaarten2
+kofaxirs
 mailgate2
 ontw
 oudewebsite
@@ -3551,11 +3555,13 @@ www.belastingbalie-test
 www.bijmijindebuurt
 www.edienstenburgerzaken-test
 www.edienstenburgerzaken
+www.kofaxirs
 www.legacy
 www.micollab
 www.pvsor
 www.sociaalplein
 www.westlandbudgetbeheer
+zorgned
 e-facturen-prod
 en.cmsoo
 gb-servers.intra
@@ -5350,7 +5356,6 @@ introcms-acc
 introcms
 museumcollecties
 securegemnet
-securetest
 ssl
 stadswinkel
 teradek
