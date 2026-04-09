@@ -13,7 +13,6 @@ http://Autodiscover.hilversum.nl
 http://Infra-summit-fa.amsterdam.nl
 http://Infra-summit.acc.amsterdam.nl
 http://aanmeldenparkeren.amsterdam.nl
-http://acc-keycloak.gemert-bakel.nl
 http://acc.admin.sensorenregister.amsterdam.nl
 http://acc.api.brp.amsterdam.nl
 http://acc.api.buurtbudget.amsterdam.nl
@@ -802,6 +801,7 @@ https://abc.emmen.nl
 https://abc.enschede.nl
 https://abc.gemeente-oldambt.nl
 https://abc.gemeentemaashorst.nl
+https://abc.gemert-bakel.nl
 https://abc.oldenzaal.nl
 https://abc.oostgelre.nl
 https://abc.roermond.nl
@@ -817,6 +817,7 @@ https://acc-abc.emmen.nl
 https://acc-abc.enschede.nl
 https://acc-abc.gemeente-oldambt.nl
 https://acc-abc.gemeentemaashorst.nl
+https://acc-abc.gemert-bakel.nl
 https://acc-abc.laarbeek.nl
 https://acc-abc.oldenzaal.nl
 https://acc-abc.oostgelre.nl
@@ -887,6 +888,7 @@ https://acc-ita.emmen.nl
 https://acc-ita.enschede.nl
 https://acc-ita.gemeente-oldambt.nl
 https://acc-ita.gemeentemaashorst.nl
+https://acc-ita.gemert-bakel.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
 https://acc-keycloak-admin.emmen.nl
@@ -907,6 +909,7 @@ https://acc-keycloak.emmen.nl
 https://acc-keycloak.enschede.nl
 https://acc-keycloak.gemeente-oldambt.nl
 https://acc-keycloak.gemeentemaashorst.nl
+https://acc-keycloak.gemert-bakel.nl
 https://acc-keycloak.groningen.nl
 https://acc-keycloak.kampen.nl
 https://acc-keycloak.laarbeek.nl
@@ -986,6 +989,7 @@ https://acc-office-addin.emmen.nl
 https://acc-office-addin.enschede.nl
 https://acc-office-addin.gemeente-oldambt.nl
 https://acc-office-addin.gemeentemaashorst.nl
+https://acc-office-addin.gemert-bakel.nl
 https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
@@ -1025,6 +1029,7 @@ https://acc-pabc.emmen.nl
 https://acc-pabc.enschede.nl
 https://acc-pabc.gemeente-oldambt.nl
 https://acc-pabc.gemeentemaashorst.nl
+https://acc-pabc.gemert-bakel.nl
 https://acc-podiumd-abc.deventer.nl
 https://acc-podiumd-abc.olst-wijhe.nl
 https://acc-podiumd-abc.raalte.nl
@@ -3582,7 +3587,6 @@ https://fietsroutes.landvancuijk.nl
 https://filecap.breda.nl
 https://filecap.drimmelen.nl
 https://filecap.epe.nl
-https://filecap.gemert-bakel.nl
 https://filecap.haarlem.nl
 https://filecap.leudal.nl
 https://filecap.noordoostpolder.nl
@@ -3958,7 +3962,6 @@ https://geoservices.test.denhaag.nl
 https://geotest.goirle.nl
 https://geovisia.harlingen.nl
 https://geovisia.sudwestfryslan.nl
-https://geovisiaonline.gemert-bakel.nl
 https://geovisiaonline.schiedam.nl
 https://geoweb.haarlemmermeer.nl
 https://geoweb.oss.nl
@@ -4754,6 +4757,7 @@ https://ita.emmen.nl
 https://ita.enschede.nl
 https://ita.gemeente-oldambt.nl
 https://ita.gemeentemaashorst.nl
+https://ita.gemert-bakel.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -5961,6 +5965,7 @@ https://office-addin.emmen.nl
 https://office-addin.enschede.nl
 https://office-addin.gemeente-oldambt.nl
 https://office-addin.gemeentemaashorst.nl
+https://office-addin.gemert-bakel.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
 https://ogt.rotterdam.nl
@@ -7525,6 +7530,7 @@ https://telewerkentest.nederbetuwe.nl
 https://terneuzen.nl
 https://terschelling.nl
 https://test-abc.enschede.nl
+https://test-abc.gemert-bakel.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
@@ -8092,7 +8098,6 @@ https://webmail.buren.nl
 https://webmail.drimmelen.nl
 https://webmail.ede.nl
 https://webmail.geertruidenberg.nl
-https://webmail.gemert-bakel.nl
 https://webmail.haarlem.nl
 https://webmail.haarlemmermeer.nl
 https://webmail.halderberge.nl
@@ -8306,6 +8311,7 @@ https://woningbouwkaart.emmen.nl
 https://woningbouwkaart.geldrop-mierlo.nl
 https://woningbouwkaart.gemeentebest.nl
 https://woningbouwkaart.gemeentewesterveld.nl
+https://woningbouwkaart.gemert-bakel.nl
 https://woningbouwkaart.heeze-leende.nl
 https://woningbouwkaart.helmond.nl
 https://woningbouwkaart.hoogeveen.nl

@@ -56,9 +56,9 @@ dloket
 data
 belastingbalie
 dmidoffice
+woningbouwkaart
 openpdc
 enterpriseregistration
-woningbouwkaart
 openpub
 remote
 cmsoo
@@ -171,6 +171,8 @@ preprod-mijn
 bis
 formulieren-test
 auth
+abc
+acc-abc
 bag
 sip
 gasten
@@ -188,8 +190,6 @@ geodata
 maps
 mailing
 gis
-abc
-acc-abc
 lyncdiscover
 owa
 test-digikoppeling
@@ -237,6 +237,7 @@ admin.openstad
 desktop
 opendata
 woo
+acc-office-addin
 meet
 woz-portaal
 byod
@@ -274,7 +275,9 @@ afval
 auth.openstad
 e-loket
 openstad
-acc-office-addin
+acc-ita
+ita
+office-addin
 data-test
 xential
 erfgoed
@@ -304,10 +307,7 @@ mozard
 img.openstad
 ns1
 sslvpn
-acc-ita
 dialin
-ita
-office-addin
 openformulieren
 test-mijn
 awmag
@@ -404,6 +404,7 @@ magazine
 webservices
 testbelastingloket
 raadsinformatie
+acc-pabc
 mijnuitkering
 stemvan
 ibabs
@@ -439,6 +440,7 @@ moh-acc
 moh
 werk
 media
+test-abc
 test-contact
 test-keycloak-admin
 test-keycloak
@@ -495,7 +497,6 @@ vergunningen
 mta-sts.raad
 gt-loket
 ondernemen
-acc-pabc
 duo
 e.openstad
 gbionline
@@ -570,7 +571,6 @@ smartdoc
 stadspas
 digid
 bedrijfsafval
-test-abc
 vastgoed
 loket-acc
 bestemmingsplannen

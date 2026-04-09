@@ -166,6 +166,7 @@ abc.emmen.nl
 abc.enschede.nl
 abc.gemeente-oldambt.nl
 abc.gemeentemaashorst.nl
+abc.gemert-bakel.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -186,6 +187,7 @@ acc-abc.emmen.nl
 acc-abc.enschede.nl
 acc-abc.gemeente-oldambt.nl
 acc-abc.gemeentemaashorst.nl
+acc-abc.gemert-bakel.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -258,6 +260,7 @@ acc-ita.emmen.nl
 acc-ita.enschede.nl
 acc-ita.gemeente-oldambt.nl
 acc-ita.gemeentemaashorst.nl
+acc-ita.gemert-bakel.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -368,6 +371,7 @@ acc-office-addin.emmen.nl
 acc-office-addin.enschede.nl
 acc-office-addin.gemeente-oldambt.nl
 acc-office-addin.gemeentemaashorst.nl
+acc-office-addin.gemert-bakel.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -412,6 +416,7 @@ acc-pabc.emmen.nl
 acc-pabc.enschede.nl
 acc-pabc.gemeente-oldambt.nl
 acc-pabc.gemeentemaashorst.nl
+acc-pabc.gemert-bakel.nl
 acc-podiumd-abc.deventer.nl
 acc-podiumd-abc.olst-wijhe.nl
 acc-podiumd-abc.raalte.nl
@@ -7249,6 +7254,7 @@ ita.emmen.nl
 ita.enschede.nl
 ita.gemeente-oldambt.nl
 ita.gemeentemaashorst.nl
+ita.gemert-bakel.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -9373,6 +9379,7 @@ office-addin.emmen.nl
 office-addin.enschede.nl
 office-addin.gemeente-oldambt.nl
 office-addin.gemeentemaashorst.nl
+office-addin.gemert-bakel.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -12495,6 +12502,7 @@ terschelling.nl
 test-2secure.gulpen-wittem.nl
 test-abc.assen.nl
 test-abc.enschede.nl
+test-abc.gemert-bakel.nl
 test-abc.rotterdam.nl
 test-belastingbalie.eindhoven.nl
 test-belastingen.wageningen.nl
@@ -14131,6 +14139,7 @@ woningbouwkaart.emmen.nl
 woningbouwkaart.geldrop-mierlo.nl
 woningbouwkaart.gemeentebest.nl
 woningbouwkaart.gemeentewesterveld.nl
+woningbouwkaart.gemert-bakel.nl
 woningbouwkaart.heeze-leende.nl
 woningbouwkaart.helmond.nl
 woningbouwkaart.hoogeveen.nl
