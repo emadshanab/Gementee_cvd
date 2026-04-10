@@ -1,3 +1,4 @@
+_citrixreceiver._tcp.gennep.nl
 autodiscover.gennep.nl
 cryptshare.gennep.nl
 digikoppeling.gennep.nl
@@ -8,6 +9,9 @@ gennep.nl
 iburgerzaken.gennep.nl
 ibzpink.gennep.nl
 intranet.gennep.nl
+iparticipatie.gennep.nl
+login-iparticipatie.gennep.nl
+login-test-ipa.gennep.nl
 mail.gennep.nl
 meldpunt.gennep.nl
 mijntalent-acc.gennep.nl
@@ -17,11 +21,11 @@ mijnzorg.gennep.nl
 mta-sts.gennep.nl
 omgevingsvisie.gennep.nl
 preproductie.gennep.nl
-ro-online.gennep.nl
 secure.gennep.nl
 simsite.gennep.nl
 spam.gennep.nl
 test-ipa.gennep.nl
 test.digikoppeling.gennep.nl
 testeloket.gennep.nl
+waarmerk.gennep.nl
 www.gennep.nl

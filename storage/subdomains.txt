@@ -102,6 +102,7 @@ _autodiscover._tcp.valkenswaard.nl
 _autodiscover._tcp.vlieland.nl
 _autodiscover._tcp.westbetuwe.nl
 _autodiscover._tcp.wijkbijduurstede.nl
+_citrixreceiver._tcp.gennep.nl
 _dmarc.amsterdam.nl
 _dmarc.delft.nl
 _dmarc.helmond.nl
@@ -7208,6 +7209,7 @@ iparticipatie.deventer.nl
 iparticipatie.edam-volendam.nl
 iparticipatie.eijsden-margraten.nl
 iparticipatie.emmen.nl
+iparticipatie.gennep.nl
 iparticipatie.haarlemmermeer.nl
 iparticipatie.hattem.nl
 iparticipatie.heerde.nl
@@ -7837,8 +7839,10 @@ logilinkGBA.emmen.nl
 logilinkgba.emmen.nl
 login-acc.roosendaal.nl
 login-accept.maximaaljezelf.groningen.nl
+login-iparticipatie.gennep.nl
 login-pre.mookenmiddelaar.nl
 login-pre.nijkerk.eu
+login-test-ipa.gennep.nl
 login.acc.denhaag.nl
 login.alphenaandenrijn.nl
 login.bernheze.org
@@ -11094,7 +11098,6 @@ rmm.terneuzen.nl
 rmts.edam-volendam.nl
 ro-online.alphenaandenrijn.nl
 ro-online.bergen-nh.nl
-ro-online.gennep.nl
 ro-online.harlingen.nl
 ro-online.kaagenbraassem.nl
 ro-online.wijkbijduurstede.nl
@@ -13556,6 +13559,7 @@ waarmerk.gemeentehulst.nl
 waarmerk.gemeentemaasgouw.nl
 waarmerk.gemeentesluis.nl
 waarmerk.gemeentewestland.nl
+waarmerk.gennep.nl
 waarmerk.groningen.nl
 waarmerk.haaksbergen.nl
 waarmerk.haarlem.nl
