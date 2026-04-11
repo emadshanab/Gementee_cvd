@@ -14144,6 +14144,7 @@ woningbouwkaart.geldrop-mierlo.nl
 woningbouwkaart.gemeentebest.nl
 woningbouwkaart.gemeentewesterveld.nl
 woningbouwkaart.gemert-bakel.nl
+woningbouwkaart.gilzerijen.nl
 woningbouwkaart.heeze-leende.nl
 woningbouwkaart.helmond.nl
 woningbouwkaart.hoogeveen.nl

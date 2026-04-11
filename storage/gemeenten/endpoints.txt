@@ -2005,14 +2005,12 @@ https://belastingen-acc.rozendaal.nl
 https://belastingen-accept.hardenberg.nl
 https://belastingen-acceptatie.eemsdelta.nl
 https://belastingen-preprod.stadskanaal.nl
-https://belastingen-test.gilzerijen.nl
 https://belastingen-test.molenlanden.nl
 https://belastingen.acc.koggenland.nl
 https://belastingen.accp.s-hertogenbosch.nl
 https://belastingen.arnhem.nl
 https://belastingen.duiven.nl
 https://belastingen.eemsdelta.nl
-https://belastingen.gilzerijen.nl
 https://belastingen.heerenveen.nl
 https://belastingen.hellendoorn.nl
 https://belastingen.hofvantwente.nl
@@ -8312,6 +8310,7 @@ https://woningbouwkaart.geldrop-mierlo.nl
 https://woningbouwkaart.gemeentebest.nl
 https://woningbouwkaart.gemeentewesterveld.nl
 https://woningbouwkaart.gemert-bakel.nl
+https://woningbouwkaart.gilzerijen.nl
 https://woningbouwkaart.heeze-leende.nl
 https://woningbouwkaart.helmond.nl
 https://woningbouwkaart.hoogeveen.nl

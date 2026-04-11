@@ -14,5 +14,6 @@ ns.gilzerijen.nl
 secure.gilzerijen.nl
 simsite.gilzerijen.nl
 website.gilzerijen.nl
+woningbouwkaart.gilzerijen.nl
 www.gilzerijen.nl
 zoek.gilzerijen.nl

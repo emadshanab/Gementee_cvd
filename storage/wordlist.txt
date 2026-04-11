@@ -53,10 +53,10 @@ meldingen-acc
 dacceptatieloket
 dacceptatiemidoffice
 dloket
+woningbouwkaart
 data
 belastingbalie
 dmidoffice
-woningbouwkaart
 openpdc
 enterpriseregistration
 openpub
