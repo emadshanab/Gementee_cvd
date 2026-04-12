@@ -261,6 +261,7 @@ mx1
 mx2
 mobiel
 mijnsociaaldomein
+mijn-preproductie
 cloudadapter-prod
 handhaving
 www.denkmee
@@ -286,7 +287,6 @@ key2gbav
 publicaties
 bestanden
 squit2020.acceptatie
-mijn-preproductie
 midoffice
 mijnzorg-acc
 geovisia
@@ -373,6 +373,7 @@ test-podiumd-logs
 plannen
 geoserver
 nhr
+mijnsociaalportaal
 uca
 esb
 wifi
@@ -453,7 +454,6 @@ djuma
 klimaatplein
 live
 mijnsociaalportaal-acc
-mijnsociaalportaal
 wij
 zorg
 csc
@@ -3591,6 +3591,7 @@ clicksfm.nieuwsbrief
 dashboard-iav-api
 dashboard-iav
 marketingtools
+preprod-mijnsociaalportaal
 www.marketingtools
 acc-afvalkalender
 grmks01

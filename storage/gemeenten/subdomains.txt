@@ -8523,6 +8523,7 @@ mijn-acceptatie.waterland.nl
 mijn-gemeenteloket.gemeentemaastricht.nl
 mijn-o.ot.denhaag.nl
 mijn-preproductie.gemeentewestland.nl
+mijn-preproductie.goeree-overflakkee.nl
 mijn-preproductie.heerenveen.nl
 mijn-preproductie.ooststellingwerf.nl
 mijn-preproductie.westerkwartier.nl
@@ -8794,6 +8795,7 @@ mijnsociaalportaal-acc.heiloo.nl
 mijnsociaalportaal-acc.uitgeest.nl
 mijnsociaalportaal.bergen-nh.nl
 mijnsociaalportaal.castricum.nl
+mijnsociaalportaal.goeree-overflakkee.nl
 mijnsociaalportaal.heiloo.nl
 mijnsociaalportaal.uitgeest.nl
 mijnsubsidie-acc.denhaag.nl
@@ -10475,6 +10477,7 @@ preprod-mijnsociaalplein.hilversum.nl
 preprod-mijnsociaalplein.hofvantwente.nl
 preprod-mijnsociaalplein.putten.nl
 preprod-mijnsociaalplein.uitgeest.nl
+preprod-mijnsociaalportaal.goeree-overflakkee.nl
 preprod-mijntoegang.zutphen.nl
 preprod-mijnuitkering.nissewaard.nl
 preprod-mijnuitkering.westvoorne.nl
