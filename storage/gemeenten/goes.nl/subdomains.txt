@@ -3,6 +3,7 @@ acc.goes.nl
 afspraken.goes.nl
 afval.goes.nl
 afvalkalender.goes.nl
+betalen.goes.nl
 flowmailer-tracking.goes.nl
 gemeentearchief.goes.nl
 goes.nl

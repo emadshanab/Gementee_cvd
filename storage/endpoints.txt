@@ -2157,6 +2157,7 @@ https://betalen.emmen.nl
 https://betalen.ermelo.nl
 https://betalen.gemeentewestland.nl
 https://betalen.gemert-bakel.nl
+https://betalen.goes.nl
 https://betalen.harderwijk.nl
 https://betalen.heiloo.nl
 https://betalen.hilversum.nl

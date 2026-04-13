@@ -2581,6 +2581,7 @@ betalen.emmen.nl
 betalen.ermelo.nl
 betalen.gemeentewestland.nl
 betalen.gemert-bakel.nl
+betalen.goes.nl
 betalen.harderwijk.nl
 betalen.heiloo.nl
 betalen.hilversum.nl

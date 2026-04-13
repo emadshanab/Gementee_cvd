@@ -3,6 +3,7 @@ https://acc.goes.nl
 https://afspraken.goes.nl
 https://afval.goes.nl
 https://afvalkalender.goes.nl
+https://betalen.goes.nl
 https://flowmailer-tracking.goes.nl
 https://gemeentearchief.goes.nl
 https://goes.nl
