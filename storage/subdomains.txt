@@ -815,7 +815,6 @@ acceptatie.oegstgeest.nl
 acceptatie.oisterwijk.nl
 acceptatie.oldenzaal.nl
 acceptatie.oosterhout.nl
-acceptatie.oranjeplein.goirle.nl
 acceptatie.ouder-amstel.nl
 acceptatie.participatiewebshop.emmen.nl
 acceptatie.peelenmaas.nl
@@ -4352,6 +4351,7 @@ drempelsweg.utrecht.nl
 drimmelen.nl
 dronten.nl
 drop-acc.rotterdam.nl
+drop.goirle.nl
 drop.rotterdam.nl
 drop.scherpenzeel.nl
 drop.texel.nl
@@ -10181,6 +10181,7 @@ pkicertificaat2017.simpelveld.nl
 pkio1.cranendonck.nl
 pkio1.heeze-leende.nl
 pkio1.valkenswaard.nl
+pkioverheid.goirle.nl
 pkioverheid.woensdrecht.nl
 pkoppelcorsa.kerkrade.nl
 pkoppelcorsa.landgraaf.nl

@@ -1248,7 +1248,6 @@ https://acceptatie.nunspeet.nl
 https://acceptatie.oegstgeest.nl
 https://acceptatie.oisterwijk.nl
 https://acceptatie.oosterhout.nl
-https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.rijswijk.nl
 https://acceptatie.schagen.nl
 https://acceptatie.someren.nl
@@ -6959,6 +6958,7 @@ https://ruimtelijkeplannen.denhelder.nl
 https://ruimtelijkeplannen.deventer.nl
 https://ruimtelijkeplannen.dronten.nl
 https://ruimtelijkeplannen.gemert-bakel.nl
+https://ruimtelijkeplannen.goirle.nl
 https://ruimtelijkeplannen.gorinchem.nl
 https://ruimtelijkeplannen.lochem.nl
 https://ruimtelijkeplannen.olst-wijhe.nl
@@ -7907,7 +7907,6 @@ https://velp.landvancuijk.nl
 https://velsen.nl
 https://venlo.nl
 https://venray.nl
-https://vergaderingen.goirle.nl
 https://vergeten.sudwestfryslan.nl
 https://vergoedingen.nijmegen.nl
 https://vergunning.leiden.nl

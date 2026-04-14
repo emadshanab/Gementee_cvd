@@ -287,6 +287,7 @@ key2gbav
 publicaties
 bestanden
 squit2020.acceptatie
+drop
 midoffice
 mijnzorg-acc
 geovisia
@@ -338,7 +339,6 @@ m
 bezoekersparkeren
 www.afspraken
 woz
-drop
 participatie
 raadsnet
 toegang
@@ -1039,6 +1039,7 @@ geovisiaonline
 belastingen-test
 test-meedoen
 snelbalievergunningen
+pkioverheid
 vergaderingen
 webservices-ot
 trobit
@@ -3598,7 +3599,6 @@ grmks01
 rostar
 samenspel
 testparkeren
-acceptatie.oranjeplein
 jvs
 oranjeplein
 squitxotest
@@ -6541,7 +6541,6 @@ wwfortimail01.ad
 wwng01
 PKIoverheid
 goedendag
-pkioverheid
 site2008
 geoxchange-prod
 geoxchange-test

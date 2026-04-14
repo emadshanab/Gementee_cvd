@@ -1,7 +1,6 @@
 aaa.goirle.nl
 academie.goirle.nl
 acceptatie.goirle.nl
-acceptatie.oranjeplein.goirle.nl
 afspraken.goirle.nl
 beeldbank-bo.goirle.nl
 beeldbank.goirle.nl
@@ -10,12 +9,14 @@ belastingportaal.goirle.nl
 bestanden.goirle.nl
 connect.acceptatie.goirle.nl
 connect.goirle.nl
+drop.goirle.nl
 geotest.goirle.nl
 goirle.nl
 iburgerzaken.goirle.nl
 ibzpink.goirle.nl
 jvs.goirle.nl
 oranjeplein.goirle.nl
+pkioverheid.goirle.nl
 preprod-belastingportaal.goirle.nl
 raad.goirle.nl
 ruimtelijkeplannen.goirle.nl
