@@ -725,6 +725,7 @@ accdrop.barneveld.nl
 accdrop.ede.nl
 accdrop.scherpenzeel.nl
 accdrp.groningen.nl
+accept-mijn.gooisemeren.nl
 accept-zaaksysteem.denhelder.nl
 accept-zaaksysteem.terneuzen.nl
 accept.subsites.leiden.nl
@@ -1625,6 +1626,7 @@ archief.olst-wijhe.nl
 archief.schiedam.nl
 archief.venlo.nl
 archief.zaanstad.nl
+archiefbestuur.gooisemeren.nl
 archiefbwv.acc.amsterdam.nl
 archiefbwv.amsterdam.nl
 archieven.stadsarchief.breda.nl
@@ -13565,6 +13567,7 @@ waarmerk.gemeentemaasgouw.nl
 waarmerk.gemeentesluis.nl
 waarmerk.gemeentewestland.nl
 waarmerk.gennep.nl
+waarmerk.gooisemeren.nl
 waarmerk.groningen.nl
 waarmerk.haaksbergen.nl
 waarmerk.haarlem.nl

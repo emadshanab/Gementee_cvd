@@ -1,6 +1,8 @@
+accept-mijn.gooisemeren.nl
 acceptatie-open.gooisemeren.nl
 adfs.gooisemeren.nl
 afspraak.gooisemeren.nl
+archiefbestuur.gooisemeren.nl
 autodiscover.gooisemeren.nl
 begraafplaatsen.gooisemeren.nl
 begroting.gooisemeren.nl
@@ -46,6 +48,7 @@ thuiswerken-uitwijk.gooisemeren.nl
 trobit.gooisemeren.nl
 vpn-extern.gooisemeren.nl
 vpn.gooisemeren.nl
+waarmerk.gooisemeren.nl
 wdm01.gooisemeren.nl
 webmail.gooisemeren.nl
 werkenbij.gooisemeren.nl

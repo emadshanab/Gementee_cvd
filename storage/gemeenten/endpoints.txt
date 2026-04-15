@@ -619,7 +619,6 @@ http://test-cmssocialintranet.middendelfland.nl
 http://test-dieuwke.defryskemarren.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
-http://test-intra.gooisemeren.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
@@ -1193,6 +1192,7 @@ https://acc.wonen.zaken.amsterdam.nl
 https://acc.woz-loket.harlingen.nl
 https://acc.zandvoort.nl
 https://acc.zorg.voerendaal.nl
+https://accept-mijn.gooisemeren.nl
 https://accept-zaaksysteem.denhelder.nl
 https://accept-zaaksysteem.terneuzen.nl
 https://accept.subsites.leiden.nl
@@ -1706,6 +1706,7 @@ https://archief.olst-wijhe.nl
 https://archief.schiedam.nl
 https://archief.venlo.nl
 https://archief.zaanstad.nl
+https://archiefbestuur.gooisemeren.nl
 https://archiefbwv.acc.amsterdam.nl
 https://archieven.stadsarchief.breda.nl
 https://arena.ami-dev.amsterdam.nl
@@ -3731,7 +3732,6 @@ https://formulieren.eemsdelta.nl
 https://formulieren.geertruidenberg.nl
 https://formulieren.gemeentehw.nl
 https://formulieren.gemeentemaasgouw.nl
-https://formulieren.gooisemeren.nl
 https://formulieren.haarlemmermeer.nl
 https://formulieren.hardenberg.nl
 https://formulieren.hethogeland.nl
@@ -7572,6 +7572,7 @@ https://test-formulier.enschede.nl
 https://test-formulier.gemert-bakel.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
+https://test-intra.gooisemeren.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.velsen.nl
 https://test-ita.enschede.nl

@@ -1,9 +1,10 @@
 http://autodiscover.gooisemeren.nl
-http://test-intra.gooisemeren.nl
 http://webmail.gooisemeren.nl
+https://accept-mijn.gooisemeren.nl
 https://acceptatie-open.gooisemeren.nl
 https://adfs.gooisemeren.nl
 https://afspraak.gooisemeren.nl
+https://archiefbestuur.gooisemeren.nl
 https://begraafplaatsen.gooisemeren.nl
 https://begroting.gooisemeren.nl
 https://belastingbalie-prepod.gooisemeren.nl
@@ -15,7 +16,6 @@ https://duurzaam.gooisemeren.nl
 https://duurzaambouwen.gooisemeren.nl
 https://enterpriseenrollment.gooisemeren.nl
 https://enterpriseregistration.gooisemeren.nl
-https://formulieren.gooisemeren.nl
 https://gooisemeren.nl
 https://hybrid.gooisemeren.nl
 https://iburgerzaken.gooisemeren.nl
@@ -35,6 +35,7 @@ https://qr-acc.gooisemeren.nl
 https://qr.gooisemeren.nl
 https://sbc01.gooisemeren.nl
 https://test-cmsintranet.gooisemeren.nl
+https://test-intra.gooisemeren.nl
 https://trobit.gooisemeren.nl
 https://vpn-extern.gooisemeren.nl
 https://vpn.gooisemeren.nl
