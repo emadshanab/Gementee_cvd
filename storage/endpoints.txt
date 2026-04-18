@@ -436,7 +436,6 @@ http://inway.cg-intern.utrecht.nl
 http://isis-a.rotterdam.nl
 http://isis.rotterdam.nl
 http://kei.deventer.nl
-http://kennisbank.groningen.nl
 http://kennisnet.deventer.nl
 http://kennisportaal2.deventer.nl
 http://kennisquiz.deventer.nl
@@ -494,6 +493,7 @@ http://open.nuenen.nl
 http://open.sonenbreugel.nl
 http://open.staphorst.nl
 http://open.wierden.nl
+http://openklant.groningen.nl
 http://opennotificaties-zgw.acc.denhaag.nl
 http://openzaakbrug-zgw.test.denhaag.nl
 http://oracbloemenbuurt.denhaag.nl
@@ -501,7 +501,7 @@ http://oranjekwartier.deventer.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
-http://ows-dmnsapi.groningen.nl
+http://ows-emssapi.groningen.nl
 http://ows-websrvc-test.groningen.nl
 http://panel.almere.nl
 http://pb-yutpa.rnd.amsterdam.nl
@@ -602,7 +602,6 @@ http://sslvpn.haarlem.nl
 http://stadspas.weert.nl
 http://status-paginas-zgw.test.denhaag.nl
 http://stembureaus.amsterdam.nl
-http://stemvan.groningen.nl
 http://stoepvrij.groningen.nl
 http://stroomt.deventer.nl
 http://subsidies-backend.leeuwarden.nl
@@ -664,16 +663,15 @@ http://werkenbij.t-diel.nl
 http://werkenbij.weststellingwerf.nl
 http://werkenvoor.deventer.nl
 http://westerkwartier.nl
-http://westerwolde.groningen.nl
 http://weststellingwerf.nl
 http://wij.bergen-nh.nl
 http://wij.deventer.nl
 http://wijkaanpak.deventer.nl
 http://wijkbudgetwaldeck.denhaag.nl
-http://wijsamen.groningen.nl
 http://winkelen.deventer.nl
 http://wmoservice.buren.nl
 http://www.aanvraagparkeren.groningen.nl
+http://www.aanvraagparkerenacc.groningen.nl
 http://www.acceptatie.derondevenen.nl
 http://www.achtkarspelen.nl
 http://www.bronckhorst.nl
@@ -684,13 +682,14 @@ http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
-http://www.destemvan.groningen.nl
 http://www.devgovrs1.deventer.nl
 http://www.doemee.denhaag.nl
 http://www.doemee.oosterhout.nl
 http://www.doemee.vlissingen.nl
+http://www.economie.groningen.nl
+http://www.erfgoed.groningen.nl
 http://www.geldrop-mierlo.nl
-http://www.gemeenteraad.groningen.nl
+http://www.ggd.groningen.nl
 http://www.goedterechtin.leeuwarden.nl
 http://www.heeze-leende.nl
 http://www.huursportzaal.kampen.nl
@@ -698,14 +697,10 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.kerkrade.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.middelburg.nl
-http://www.mijn.groningen.nl
-http://www.milieudienst.groningen.nl
 http://www.mookenmiddelaar.nl
-http://www.nde.groningen.nl
 http://www.nijkerk.eu
 http://www.omgevingsvisie.denhaag.nl
 http://www.ondernemersportaal.denhaag.nl
-http://www.onderzoek.groningen.nl
 http://www.onlinestadsgesprek.harderwijk.nl
 http://www.open.denhaag.nl
 http://www.opmeer.nl
@@ -722,21 +717,18 @@ http://www.samen.schagen.nl
 http://www.samenmet.beesel.nl
 http://www.scheveningen.denhaag.nl
 http://www.simpelveld.nl
-http://www.sinterklaas.groningen.nl
 http://www.sip.hellevoetsluis.nl
 http://www.stadspas.apeldoorn.nl
-http://www.suikerkwartier.groningen.nl
 http://www.telewerken.hellevoetsluis.nl
+http://www.toerisme.groningen.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
-http://www.veenkolonien.groningen.nl
 http://www.vlieland.nl
 http://www.vlissingen.nl
 http://www.voorschoten.nl
 http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.weststellingwerf.nl
-http://www.wij.groningen.nl
 http://www.winkelen.deventer.nl
 http://www.zomerprogramma070.denhaag.nl
 http://www.zorgloket.druten.nl
@@ -787,6 +779,7 @@ https://aanmelder.delft.nl
 https://aanpakdrugscriminaliteit.utrecht.nl
 https://aanvraag.waalwijk.nl
 https://aanvraagparkeren.groningen.nl
+https://aanvraagparkerenacc.groningen.nl
 https://aanvraagstaging.waalwijk.nl
 https://aanvragenpreprod.hillegom.nl
 https://aanvragenpreprod.lisse.nl
@@ -803,6 +796,7 @@ https://abc.enschede.nl
 https://abc.gemeente-oldambt.nl
 https://abc.gemeentemaashorst.nl
 https://abc.gemert-bakel.nl
+https://abc.groningen.nl
 https://abc.oldenzaal.nl
 https://abc.oostgelre.nl
 https://abc.roermond.nl
@@ -819,6 +813,7 @@ https://acc-abc.enschede.nl
 https://acc-abc.gemeente-oldambt.nl
 https://acc-abc.gemeentemaashorst.nl
 https://acc-abc.gemert-bakel.nl
+https://acc-abc.groningen.nl
 https://acc-abc.laarbeek.nl
 https://acc-abc.oldenzaal.nl
 https://acc-abc.oostgelre.nl
@@ -890,6 +885,7 @@ https://acc-ita.enschede.nl
 https://acc-ita.gemeente-oldambt.nl
 https://acc-ita.gemeentemaashorst.nl
 https://acc-ita.gemert-bakel.nl
+https://acc-ita.groningen.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
 https://acc-keycloak-admin.emmen.nl
@@ -897,6 +893,7 @@ https://acc-keycloak-admin.enschede.nl
 https://acc-keycloak-admin.gemeente-oldambt.nl
 https://acc-keycloak-admin.gemeentemaashorst.nl
 https://acc-keycloak-admin.gemert-bakel.nl
+https://acc-keycloak-admin.groningen.nl
 https://acc-keycloak-admin.kampen.nl
 https://acc-keycloak-admin.laarbeek.nl
 https://acc-keycloak-admin.oldenzaal.nl
@@ -991,6 +988,7 @@ https://acc-office-addin.enschede.nl
 https://acc-office-addin.gemeente-oldambt.nl
 https://acc-office-addin.gemeentemaashorst.nl
 https://acc-office-addin.gemert-bakel.nl
+https://acc-office-addin.groningen.nl
 https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
@@ -1031,6 +1029,7 @@ https://acc-pabc.enschede.nl
 https://acc-pabc.gemeente-oldambt.nl
 https://acc-pabc.gemeentemaashorst.nl
 https://acc-pabc.gemert-bakel.nl
+https://acc-pabc.groningen.nl
 https://acc-podiumd-abc.deventer.nl
 https://acc-podiumd-abc.olst-wijhe.nl
 https://acc-podiumd-abc.raalte.nl
@@ -1102,6 +1101,7 @@ https://acc-zac.enschede.nl
 https://acc-zac.gemeente-oldambt.nl
 https://acc-zac.gemeentemaashorst.nl
 https://acc-zac.gemert-bakel.nl
+https://acc-zac.groningen.nl
 https://acc-zac.kampen.nl
 https://acc-zac.laarbeek.nl
 https://acc-zac.oldenzaal.nl
@@ -1312,7 +1312,7 @@ https://admin.openstad.nijmegen.nl
 https://admin.openstad.utrecht.nl
 https://admin.schoolwijzer.amsterdam.nl
 https://admin.sensorenregister.amsterdam.nl
-https://admin.stadjerspas.gemeente.groningen.nl
+https://admin.stemvan.groningen.nl
 https://admin.v2.openstad.haarlemmermeer.nl
 https://adminacc.gezondleven.utrecht.nl
 https://administratieportaal-test.huizen.nl
@@ -1605,6 +1605,7 @@ https://api.meldingen.eindhoven.nl
 https://api.meldingen.enschede.nl
 https://api.meldingen.gemeente-oldambt.nl
 https://api.meldingen.gemeentemaashorst.nl
+https://api.meldingen.groningen.nl
 https://api.meldingen.hattem.nl
 https://api.meldingen.heerde.nl
 https://api.meldingen.hellendoorn.nl
@@ -1734,6 +1735,7 @@ https://atlas.apeldoorn.nl
 https://atlas.breda.nl
 https://atlasacc.apeldoorn.nl
 https://atlasomgevingskwaliteit.winterswijk.nl
+https://ats360-api.groningen.nl
 https://aut.acc.topdesk.denhaag.nl
 https://aut.ot.topdesk.denhaag.nl
 https://aut.topdesk.denhaag.nl
@@ -1767,7 +1769,6 @@ https://auth7.denhaag.nl
 https://authenticatie-accp.nijmegen.nl
 https://authenticatie-preprod.tilburg.nl
 https://authenticatie.gemeenteberkelland.nl
-https://authenticatie.groningen.nl
 https://authenticatie.nijmegen.nl
 https://authenticatie.tilburg.nl
 https://authenticatie.wonenportaal.amsterdam.nl
@@ -2379,6 +2380,7 @@ https://burgerportaal.ommen.nl
 https://burgerzaken-acc.amsterdam.nl
 https://burgerzaken.amsterdam.nl
 https://busbrugdebinding.zaanstad.nl
+https://business.groningen.nl
 https://buurt.eindhoven.nl
 https://buurtbudget-centrumnoord.venlo.nl
 https://buurtbudget-klingerberg.venlo.nl
@@ -2983,6 +2985,7 @@ https://e.dewolden.nl
 https://e.doemee.gemeentewestland.nl
 https://e.doemee.zwolle.nl
 https://e.eemsdelta.nl
+https://e.groningen.nl
 https://e.hoogeveen.nl
 https://e.hoorn.nl
 https://e.leiden.nl
@@ -3409,7 +3412,6 @@ https://email.security.veldhoven.nl
 https://email.veiligwerken.edam-volendam.nl
 https://email.westvoorne.nl
 https://email.wijkteam-bewustwording.amersfoort.nl
-https://emm.groningen.nl
 https://emma.eijsden-margraten.nl
 https://emmen.nl
 https://en.aalten.nl
@@ -3773,8 +3775,6 @@ https://formulieren.westerwolde.nl
 https://formulieren.wijdemeren.nl
 https://formulieren.wormerland.nl
 https://formulieren.zevenaar.nl
-https://formulierenmd.groningen.nl
-https://formulierenpb.groningen.nl
 https://formulierna.denhaag.nl
 https://foto-bo.rijswijk.nl
 https://foto.landvancuijk.nl
@@ -3833,6 +3833,7 @@ https://gemeente.kampen.nl
 https://gemeente.leiden.nl
 https://gemeente.lochem.nl
 https://gemeente.purmerend.nl
+https://gemeente2.groningen.nl
 https://gemeentearchief.alphenaandenrijn.nl
 https://gemeentearchief.barneveld.nl
 https://gemeentearchief.ede.nl
@@ -3981,6 +3982,7 @@ https://geuzenstatenkwartierfietst.denhaag.nl
 https://gezinscoach.deventer.nl
 https://gezondheid.landvancuijk.nl
 https://gezondleven.utrecht.nl
+https://gezondreizen.groningen.nl
 https://ggd.groningen.nl
 https://ggv-micol1.gorinchem.nl
 https://gijs-acc.ijsselstein.nl
@@ -4062,8 +4064,11 @@ https://govpub.sudwestfryslan.nl
 https://gp.deventer.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
+https://gpp-app.groningen.nl
 https://gpp-app.zaanstad.nl
+https://gpp-publicatiebank.groningen.nl
 https://gpp-publicatiebank.zaanstad.nl
+https://gpp-zoeken.groningen.nl
 https://gpp-zoeken.zaanstad.nl
 https://gpt.apeldoorn.nl
 https://grave.landvancuijk.nl
@@ -4147,7 +4152,6 @@ https://hofnet.coevorden.nl
 https://hofvantwente.nl
 https://hollandskroon.nl
 https://holthees.landvancuijk.nl
-https://hometest.groningen.nl
 https://hoogbouw.apeldoorn.nl
 https://hoogeveen.nl
 https://hoorn.nl
@@ -4768,6 +4772,7 @@ https://ita.enschede.nl
 https://ita.gemeente-oldambt.nl
 https://ita.gemeentemaashorst.nl
 https://ita.gemert-bakel.nl
+https://ita.groningen.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -4933,6 +4938,7 @@ https://keerpunt.rijswijk.nl
 https://kenneth.delft.nl
 https://kennisbank.barneveld.nl
 https://kennisbank.eindhoven.nl
+https://kennisbank.groningen.nl
 https://kennisbank.nijmegen.nl
 https://kennisbank.wijdemeren.nl
 https://kenniscentrum-werven.utrecht.nl
@@ -4949,6 +4955,7 @@ https://keycloak-admin.enschede.nl
 https://keycloak-admin.gemeente-oldambt.nl
 https://keycloak-admin.gemeentemaashorst.nl
 https://keycloak-admin.gemert-bakel.nl
+https://keycloak-admin.groningen.nl
 https://keycloak-admin.kampen.nl
 https://keycloak-admin.laarbeek.nl
 https://keycloak-admin.oldenzaal.nl
@@ -4962,6 +4969,7 @@ https://keycloak.enschede.nl
 https://keycloak.gemeente-oldambt.nl
 https://keycloak.gemeentemaashorst.nl
 https://keycloak.gemert-bakel.nl
+https://keycloak.groningen.nl
 https://keycloak.kampen.nl
 https://keycloak.laarbeek.nl
 https://keycloak.oldenzaal.nl
@@ -5254,7 +5262,6 @@ https://mailsig.lansingerland.nl
 https://makelaar.brielle.nl
 https://makelpunt.nijmegen.nl
 https://makelpunt.openstad.enschede.nl
-https://mam.groningen.nl
 https://maps-tst.groningen.nl
 https://maps.almere.nl
 https://maps.bodegraven-reeuwijk.nl
@@ -5269,7 +5276,6 @@ https://mariahoeveaanzet.denhaag.nl
 https://markt1.nunspeet.nl
 https://marktportaal.hoorn.nl
 https://mas.apeldoorn.nl
-https://mas.groningen.nl
 https://mataf.rotterdam.nl
 https://matenpark.apeldoorn.nl
 https://matomo.breda.nl
@@ -5832,6 +5838,7 @@ https://natuur.leiden.nl
 https://ndbu-acc.utrecht.nl
 https://ndbu-tst.utrecht.nl
 https://ndbu.utrecht.nl
+https://nde.groningen.nl
 https://ndes.apeldoorn.nl
 https://ndes.ot.denhaag.nl
 https://ndesapeldoorn.apeldoorn.nl
@@ -5938,7 +5945,6 @@ https://objecttypen.enschede.nl
 https://objecttypen.gemeente-oldambt.nl
 https://objecttypen.gemeentemaashorst.nl
 https://objecttypen.gemert-bakel.nl
-https://objecttypen.groningen.nl
 https://objecttypen.kampen.nl
 https://objecttypen.laarbeek.nl
 https://objecttypen.oldenzaal.nl
@@ -6059,7 +6065,6 @@ https://ondertekenen.trouwen.tilburg.nl
 https://onderzoek.amersfoort.nl
 https://onderzoek.breda.nl
 https://onderzoek.eindhoven.nl
-https://onderzoek.groningen.nl
 https://onderzoek.nieuwegein.nl
 https://onderzoek.purmerend.nl
 https://onderzoek.tilburg.nl
@@ -6183,7 +6188,6 @@ https://openklant.enschede.nl
 https://openklant.gemeente-oldambt.nl
 https://openklant.gemeentemaashorst.nl
 https://openklant.gemert-bakel.nl
-https://openklant.groningen.nl
 https://openklant.kampen.nl
 https://openklant.laarbeek.nl
 https://openklant.oldenzaal.nl
@@ -6309,15 +6313,12 @@ https://outlook.wageningen.nl
 https://overbetuwe.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://overloon.landvancuijk.nl
-https://owa.groningen.nl
 https://owa.nieuwegein.nl
 https://owa.valkenburg.nl
 https://owa.veere.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
 https://ows-emssapi-test.groningen.nl
-https://ows-emssapi.groningen.nl
-https://ows-websrvc.groningen.nl
 https://ows.gis.rotterdam.nl
 https://p.amsterdam.nl
 https://papendrecht-checker-preprod.papendrecht.nl
@@ -6418,7 +6419,6 @@ https://participatie.meierijstad.nl
 https://participatie.nederbetuwe.nl
 https://participatietool-acc.nijmegen.nl
 https://participatietool.nijmegen.nl
-https://partner.stadjerspas.gemeente.groningen.nl
 https://passbolt.terneuzen.nl
 https://password.almere.nl
 https://passwordreset.almere.nl
@@ -6492,7 +6492,6 @@ https://podiumd-logs.enschede.nl
 https://podiumd-logs.gemeente-oldambt.nl
 https://podiumd-logs.gemeentemaashorst.nl
 https://podiumd-logs.gemert-bakel.nl
-https://podiumd-logs.groningen.nl
 https://podiumd-logs.kampen.nl
 https://podiumd-logs.laarbeek.nl
 https://podiumd-logs.oldenzaal.nl
@@ -6515,7 +6514,6 @@ https://pollerscs.rotterdam.nl
 https://portaal.dronten.nl
 https://portaal.gemeentehulst.nl
 https://portaal.haarlem.nl
-https://portaal.iam.groningen.nl
 https://portaal.kre.amsterdam.nl
 https://portaal.middendrenthe.nl
 https://portaal.purmerend.nl
@@ -6573,10 +6571,7 @@ https://pre-gemeenteloket.gemeentemaastricht.nl
 https://pre-inloggen.landgraaf.nl
 https://pre-mijnzorg.waalwijk.nl
 https://pre-ows-ahp.groningen.nl
-https://pre-ows-app.groningen.nl
-https://pre-ows-dmnsapi.groningen.nl
 https://pre-ows-emssapi.groningen.nl
-https://pre-ows-websrvc.groningen.nl
 https://pre-simform.houten.nl
 https://prefill-test.zaltbommel.nl
 https://prefill.test.westerwolde.nl
@@ -6905,7 +6900,6 @@ https://registratie.rotterdam.nl
 https://reimerswaal.nl
 https://rekenkamer.rotterdam.nl
 https://rekenkamer.utrecht.nl
-https://rekentool.groningen.nl
 https://rekentool.helmond.nl
 https://religieuserfgoed.deventer.nl
 https://remote.arnhem.nl
@@ -7022,6 +7016,7 @@ https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
 https://samenveiligwerken.alphenaandenrijn.nl
 https://samenveiligwerken.kaagenbraassem.nl
+https://samenwerken.groningen.nl
 https://samenwerkenaan.heerde.nl
 https://samenwerking.tilburg.nl
 https://samenwerkingbelastingen-test.middelburg.nl
@@ -7361,9 +7356,6 @@ https://sso.ir.rotterdam.nl
 https://sso.staphorst.nl
 https://ssorad.rotterdam.nl
 https://stad.kampen.nl
-https://stadhuis.groningen.nl
-https://stadjerspas-acc.gemeente.groningen.nl
-https://stadjerspas.gemeente.groningen.nl
 https://stadsarchief.almere.nl
 https://stadsarchief.breda.nl
 https://stadsarchief.rotterdam.nl
@@ -7386,7 +7378,6 @@ https://staging.deventer.nl
 https://staging.mijnsubsidies.amsterdam.nl
 https://staging.olst-wijhe.nl
 https://staging.stadspas.amsterdam.nl
-https://staging.stemvan.groningen.nl
 https://stan-acc.stadskanaal.nl
 https://stan.stadskanaal.nl
 https://standplaatsen.heerenveen.nl
@@ -7516,7 +7507,6 @@ https://subsidies.nijmegen.nl
 https://subsidies.oosterhout.nl
 https://subsites.leiden.nl
 https://sudwestfryslan.nl
-https://suikerzijde.groningen.nl
 https://summit.amsterdam.nl
 https://support.bergen-nh.nl
 https://support.helmond.nl
@@ -7800,7 +7790,6 @@ https://toegankelijk.enschede.nl
 https://toegankelijkestad.zwolle.nl
 https://toekomst.veenendaal.nl
 https://toekomstvisie.oude-ijsselstreek.nl
-https://toerisme.groningen.nl
 https://tom.eijsden-margraten.nl
 https://ton.amsterdam.nl
 https://toolbox.openstad.enschede.nl
@@ -7841,6 +7830,7 @@ https://tstidentity.sudwestfryslan.nl
 https://tsuyt.waddinxveen.nl
 https://ttgbav-prod.gemeente-steenbergen.nl
 https://tubbergen.nl
+https://tuinen.groningen.nl
 https://tussenrapportage.gemeente-steenbergen.nl
 https://tv.gemeentebest.nl
 https://tve-acc.brummen.nl
@@ -7909,7 +7899,6 @@ https://vdi.rotterdam.nl
 https://vdi.westmaasenwaal.nl
 https://veendam.nl
 https://veenendaal.nl
-https://veenkolonien.groningen.nl
 https://veilig.houten.nl
 https://veilig.veenendaal.nl
 https://veiligdelen.alkmaar.nl
@@ -7934,6 +7923,7 @@ https://vergoedingen.nijmegen.nl
 https://vergunning.leiden.nl
 https://vergunningen.dronten.nl
 https://vergunningen.duiven.nl
+https://vergunningen.groningen.nl
 https://vergunningen.leiden.nl
 https://vergunningen.westervoort.nl
 https://vergunningentoets.meppel.nl
@@ -8085,7 +8075,6 @@ https://wageningen.nl
 https://walkoffame.zaanstad.nl
 https://wandelroutes.landvancuijk.nl
 https://wanroij.landvancuijk.nl
-https://warenhuis.groningen.nl
 https://warmrijsenhout.haarlemmermeer.nl
 https://warmtenet.acc.nijmegen.nl
 https://warmtenet.nijmegen.nl
@@ -8192,7 +8181,6 @@ https://werkenbij.defryskemarren.nl
 https://werkenbij.edam-volendam.nl
 https://werkenbij.enschede.nl
 https://werkenbij.gooisemeren.nl
-https://werkenbij.groningen.nl
 https://werkenbij.heemskerk.nl
 https://werkenbij.helmond.nl
 https://werkenbij.hilversum.nl
@@ -8279,6 +8267,7 @@ https://whitelabel.nijmegen.nl
 https://wie.meppel.nl
 https://wierden.nl
 https://wifiguestportal.almere.nl
+https://wij.groningen.nl
 https://wij.purmerend.nl
 https://wijchen.nl
 https://wijdemeren.hilversum.nl
@@ -8298,7 +8287,6 @@ https://wijkvernieuwing.groningen.nl
 https://wijzer-acc.opmeer.nl
 https://wijzer.opmeer.nl
 https://wilbertoord.landvancuijk.nl
-https://willkommen.groningen.nl
 https://windopland.haarlemmermeer.nl
 https://winkel.landvancuijk.nl
 https://winkel.tilburg.nl
@@ -8478,7 +8466,6 @@ https://www.castricum.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.cjg.denhaag.nl
 https://www.cjg.olst-wijhe.nl
-https://www.cmsoo.gemeente.groningen.nl
 https://www.coevorden.nl
 https://www.cok.amsterdam.nl
 https://www.csam.deventer.nl
@@ -8529,10 +8516,10 @@ https://www.duurzaam.beesel.nl
 https://www.duurzaam.hoorn.nl
 https://www.duurzamestad.denhaag.nl
 https://www.echt-susteren.nl
-https://www.economie.groningen.nl
 https://www.edam-volendam.nl
 https://www.ede.nl
 https://www.eemnes.nl
+https://www.eemsdelta.groningen.nl
 https://www.eemsdelta.nl
 https://www.eersel.nl
 https://www.eformulieren.gemeentesluis.nl
@@ -8547,7 +8534,6 @@ https://www.energiepunt.apeldoorn.nl
 https://www.enkhuizen.nl
 https://www.enschede.nl
 https://www.epe.nl
-https://www.erfgoed.groningen.nl
 https://www.ermelo.nl
 https://www.etten-leur.nl
 https://www.evenementen.denhaag.nl
@@ -8586,7 +8572,6 @@ https://www.geo.arnhem.nl
 https://www.geobrowser.enschede.nl
 https://www.geuzenstatenkwartierfietst.denhaag.nl
 https://www.gezondleven.utrecht.nl
-https://www.ggd.groningen.nl
 https://www.gilzerijen.nl
 https://www.gis.rotterdam.nl
 https://www.goeree-overflakkee.nl
@@ -8597,6 +8582,7 @@ https://www.gooisemeren.nl
 https://www.gorinchem.nl
 https://www.gouda.nl
 https://www.groenervijfhuizen.haarlemmermeer.nl
+https://www.groningen.nl
 https://www.gulpen-wittem.nl
 https://www.haaksbergen.nl
 https://www.haarlem.nl
@@ -8649,6 +8635,7 @@ https://www.kaartlaag.rotterdam.nl
 https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
+https://www.kennisbank.groningen.nl
 https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
@@ -8690,6 +8677,7 @@ https://www.mijngkb.midden-groningen.nl
 https://www.mijnkijkop.olst-wijhe.nl
 https://www.mijnleefomgeving.olst-wijhe.nl
 https://www.mijnuitkering.emmen.nl
+https://www.milieudienst.groningen.nl
 https://www.mis.waterland.nl
 https://www.moerdijk.nl
 https://www.molenlanden.nl
@@ -8699,6 +8687,7 @@ https://www.morgen.venlo.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
+https://www.nde.groningen.nl
 https://www.nederbetuwe.nl
 https://www.neptunus.gemeentesluis.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
@@ -8732,6 +8721,7 @@ https://www.omgevingsvisie.bunschoten.nl
 https://www.ommen.nl
 https://www.ondernemen.ede.nl
 https://www.ondersteuning.olst-wijhe.nl
+https://www.onderzoek.groningen.nl
 https://www.onzestad.nijmegen.nl
 https://www.oorlogenvrede.landvancuijk.nl
 https://www.oosterhout.nl
@@ -8753,6 +8743,7 @@ https://www.peelenmaas.nl
 https://www.pekela.nl
 https://www.pijnacker-nootdorp.nl
 https://www.platform.culemborg.nl
+https://www.portal.groningen.nl
 https://www.portal.olst-wijhe.nl
 https://www.positionering.denhaag.nl
 https://www.positioneringshuis.denhaag.nl
@@ -8792,12 +8783,12 @@ https://www.s-hertogenbosch.nl
 https://www.samen.doesburg.nl
 https://www.samen.lingewaard.nl
 https://www.samen.midden-groningen.nl
-https://www.samenwij.groningen.nl
 https://www.schagen.nl
 https://www.schiedam.nl
 https://www.schouwen-duiveland.nl
 https://www.shops.landvancuijk.nl
 https://www.sint-michielsgestel.nl
+https://www.sinterklaas.groningen.nl
 https://www.sisa.rotterdam.nl
 https://www.sittard-geleen.nl
 https://www.sliedrecht.nl
@@ -8814,6 +8805,7 @@ https://www.sport.nijmegen.nl
 https://www.sportencultuur.gorinchem.nl
 https://www.sportloket.landvancuijk.nl
 https://www.stad.kampen.nl
+https://www.stadjerspas.gemeente.groningen.nl
 https://www.stadsarchief.breda.nl
 https://www.stadsarchief.rotterdam.nl
 https://www.stadskanaal.nl
@@ -8838,7 +8830,6 @@ https://www.thuiswinkelen.landvancuijk.nl
 https://www.tiel.nl
 https://www.tilburg.nl
 https://www.toegankelijk.enschede.nl
-https://www.toerisme.groningen.nl
 https://www.tubbergen.nl
 https://www.tuinen.groningen.nl
 https://www.tynaarlo.nl
@@ -8854,6 +8845,7 @@ https://www.valkenswaard.nl
 https://www.vastgoed.venlo.nl
 https://www.veendam.nl
 https://www.veenendaal.nl
+https://www.veenkolonien.groningen.nl
 https://www.veere.nl
 https://www.veldhoven.nl
 https://www.velsen.nl
@@ -8869,7 +8861,6 @@ https://www.vught.nl
 https://www.vvv.deventer.nl
 https://www.waadhoeke.nl
 https://www.waalre.nl
-https://www.waddenland.groningen.nl
 https://www.waddinxveen.nl
 https://www.wageningen.nl
 https://www.wandelroutes.landvancuijk.nl
@@ -8890,6 +8881,7 @@ https://www.werkenvoor.denhaag.nl
 https://www.werkenvoor.olst-wijhe.nl
 https://www.werkpakt.enschede.nl
 https://www.westbetuwe.nl
+https://www.westerkwartier.groningen.nl
 https://www.westerkwartier.nl
 https://www.westervoort.nl
 https://www.westerwolde.groningen.nl
@@ -9020,6 +9012,7 @@ https://zac.enschede.nl
 https://zac.gemeente-oldambt.nl
 https://zac.gemeentemaashorst.nl
 https://zac.gemert-bakel.nl
+https://zac.groningen.nl
 https://zac.kampen.nl
 https://zac.laarbeek.nl
 https://zac.oldenzaal.nl

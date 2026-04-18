@@ -124,6 +124,7 @@ aaa.goirle.nl
 aaa.groningen.nl
 aaa.staphorst.nl
 aaenhunze.nl
+aag-corsa.groningen.nl
 aalsmeer.nl
 aalten-checker-preprod.aalten.nl
 aalten-checker.aalten.nl
@@ -168,6 +169,7 @@ abc.enschede.nl
 abc.gemeente-oldambt.nl
 abc.gemeentemaashorst.nl
 abc.gemert-bakel.nl
+abc.groningen.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -189,6 +191,7 @@ acc-abc.enschede.nl
 acc-abc.gemeente-oldambt.nl
 acc-abc.gemeentemaashorst.nl
 acc-abc.gemert-bakel.nl
+acc-abc.groningen.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -262,6 +265,7 @@ acc-ita.enschede.nl
 acc-ita.gemeente-oldambt.nl
 acc-ita.gemeentemaashorst.nl
 acc-ita.gemert-bakel.nl
+acc-ita.groningen.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -270,6 +274,7 @@ acc-keycloak-admin.enschede.nl
 acc-keycloak-admin.gemeente-oldambt.nl
 acc-keycloak-admin.gemeentemaashorst.nl
 acc-keycloak-admin.gemert-bakel.nl
+acc-keycloak-admin.groningen.nl
 acc-keycloak-admin.kampen.nl
 acc-keycloak-admin.laarbeek.nl
 acc-keycloak-admin.oldenzaal.nl
@@ -373,6 +378,7 @@ acc-office-addin.enschede.nl
 acc-office-addin.gemeente-oldambt.nl
 acc-office-addin.gemeentemaashorst.nl
 acc-office-addin.gemert-bakel.nl
+acc-office-addin.groningen.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -418,6 +424,7 @@ acc-pabc.enschede.nl
 acc-pabc.gemeente-oldambt.nl
 acc-pabc.gemeentemaashorst.nl
 acc-pabc.gemert-bakel.nl
+acc-pabc.groningen.nl
 acc-podiumd-abc.deventer.nl
 acc-podiumd-abc.olst-wijhe.nl
 acc-podiumd-abc.raalte.nl
@@ -493,6 +500,7 @@ acc-zac.enschede.nl
 acc-zac.gemeente-oldambt.nl
 acc-zac.gemeentemaashorst.nl
 acc-zac.gemert-bakel.nl
+acc-zac.groningen.nl
 acc-zac.kampen.nl
 acc-zac.laarbeek.nl
 acc-zac.oldenzaal.nl
@@ -875,6 +883,7 @@ achtkarspelen.nl
 acis005.ise.rotterdam.nl
 acpt.3d.utrecht.nl
 actief.landvancuijk.nl
+acties.groningen.nl
 activesync.amersfoort.nl
 activesync.rhenen.nl
 activesync.sittard-geleen.nl
@@ -954,7 +963,7 @@ admin.openstad.utrecht.nl
 admin.regiomonitor-acc.oosterhout.nl
 admin.schoolwijzer.amsterdam.nl
 admin.sensorenregister.amsterdam.nl
-admin.stadjerspas.gemeente.groningen.nl
+admin.stemvan.groningen.nl
 admin.v2.openstad.amsterdam.nl
 admin.v2.openstad.haarlemmermeer.nl
 adminacc.gezondleven.utrecht.nl
@@ -1488,6 +1497,7 @@ api.meldingen.eindhoven.nl
 api.meldingen.enschede.nl
 api.meldingen.gemeente-oldambt.nl
 api.meldingen.gemeentemaashorst.nl
+api.meldingen.groningen.nl
 api.meldingen.hattem.nl
 api.meldingen.heerde.nl
 api.meldingen.heerlen.nl
@@ -1671,6 +1681,8 @@ atlasacc.apeldoorn.nl
 atlasomgevingskwaliteit.winterswijk.nl
 ats360-acc.groningen.nl
 ats360-api-acc.groningen.nl
+ats360-api.groningen.nl
+ats360.groningen.nl
 attachments.echt-susteren.nl
 attachments.gemeentemaasgouw.nl
 attachments.roerdalen.nl
@@ -1714,7 +1726,6 @@ authenticatie-accp.nijmegen.nl
 authenticatie-preprod.tilburg.nl
 authenticatie.a.wonenportaal.amsterdam.nl
 authenticatie.gemeenteberkelland.nl
-authenticatie.groningen.nl
 authenticatie.nijmegen.nl
 authenticatie.tilburg.nl
 authenticatie.westmaasenwaal.nl
@@ -2544,6 +2555,7 @@ bestelportaal.denhaag.nl
 bestemmingsplan.rhenen.nl
 bestemmingsplannen.baarn.nl
 bestemmingsplannen.gemeentewestland.nl
+bestemmingsplannen.groningen.nl
 bestemmingsplannen.lansingerland.nl
 bestie-stats.gemeentebest.nl
 bestie.gemeentebest.nl
@@ -2927,6 +2939,7 @@ burgerzaken-io.amsterdam.nl
 burgerzaken.amsterdam.nl
 burgerzaken.wijkbijduurstede.nl
 busbrugdebinding.zaanstad.nl
+business.groningen.nl
 buurt.eindhoven.nl
 buurtbudget-centrumnoord.venlo.nl
 buurtbudget-klingerberg.venlo.nl
@@ -4505,6 +4518,7 @@ e.dewolden.nl
 e.doemee.gemeentewestland.nl
 e.doemee.zwolle.nl
 e.eemsdelta.nl
+e.groningen.nl
 e.haarlem.nl
 e.hoogeveen.nl
 e.hoorn.nl
@@ -4526,6 +4540,7 @@ e2s-test.molenlanden.nl
 e2s.helmond.nl
 e2s.molenlanden.nl
 e2stest.helmond.nl
+eal.groningen.nl
 eaptls.deventer.nl
 easyfunders.leiden.nl
 ebms.achtkarspelen.nl
@@ -5723,6 +5738,7 @@ gemeente.purmerend.nl
 gemeente.rucphen.nl
 gemeente.valkenburg.nl
 gemeente.veendam.nl
+gemeente2.groningen.nl
 gemeentearchief.alphenaandenrijn.nl
 gemeentearchief.barneveld.nl
 gemeentearchief.denhaag.nl
@@ -5898,6 +5914,7 @@ geoplaza.noordoostpolder.nl
 geopoort.zwolle.nl
 geoportaal.enschede.nl
 geoportaal.gorinchem.nl
+geoportaal.groningen.nl
 geoportaal.haarlemmermeer.nl
 geoportaal.katwijk.nl
 geoportaal.oss.nl
@@ -5909,6 +5926,7 @@ geoportaal.zoetermeer.nl
 geoportaal.zwolle.nl
 geoportaaloss.oss.nl
 geoportaaltest.enschede.nl
+geoportaaltest.groningen.nl
 geoportaaltest.haarlemmermeer.nl
 geoportal.weert.nl
 geoprojecten.extranet.tilburg.nl
@@ -5956,6 +5974,7 @@ gezinscoach.deventer.nl
 gezondelucht.amsterdam.nl
 gezondheid.landvancuijk.nl
 gezondleven.utrecht.nl
+gezondreizen.groningen.nl
 ggd.groningen.nl
 ggd.rotterdam.nl
 ggexo.groningen.nl
@@ -6121,8 +6140,11 @@ gpg.apeldoorn.nl
 gplan-app.veere.nl
 gplan.renkum.nl
 gplan.rheden.nl
+gpp-app.groningen.nl
 gpp-app.zaanstad.nl
+gpp-publicatiebank.groningen.nl
 gpp-publicatiebank.zaanstad.nl
+gpp-zoeken.groningen.nl
 gpp-zoeken.zaanstad.nl
 gps.apeldoorn.nl
 gpt.apeldoorn.nl
@@ -7271,6 +7293,7 @@ ita.enschede.nl
 ita.gemeente-oldambt.nl
 ita.gemeentemaashorst.nl
 ita.gemert-bakel.nl
+ita.groningen.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -7599,6 +7622,7 @@ keycloak-admin.enschede.nl
 keycloak-admin.gemeente-oldambt.nl
 keycloak-admin.gemeentemaashorst.nl
 keycloak-admin.gemert-bakel.nl
+keycloak-admin.groningen.nl
 keycloak-admin.kampen.nl
 keycloak-admin.laarbeek.nl
 keycloak-admin.oldenzaal.nl
@@ -7612,6 +7636,7 @@ keycloak.enschede.nl
 keycloak.gemeente-oldambt.nl
 keycloak.gemeentemaashorst.nl
 keycloak.gemert-bakel.nl
+keycloak.groningen.nl
 keycloak.kampen.nl
 keycloak.laarbeek.nl
 keycloak.oldenzaal.nl
@@ -8132,6 +8157,7 @@ mail.gemert-bakel.nl
 mail.gennep.nl
 mail.gorinchem.nl
 mail.gouda.nl
+mail.groningen.nl
 mail.gulpen-wittem.nl
 mail.halderberge.nl
 mail.hardenberg.nl
@@ -8240,6 +8266,7 @@ mailings.wijdemeren.nl
 mailptr.vught.nl
 mailrelay.helmond.nl
 mailscan.gemeentehulst.nl
+mailserver.groningen.nl
 mailsig.lansingerland.nl
 mailvan.winterswijk.nl
 maisflexis.heusden.nl
@@ -9125,6 +9152,7 @@ nawservice.coevorden.nl
 ndbu-acc.utrecht.nl
 ndbu-tst.utrecht.nl
 ndbu.utrecht.nl
+nde.groningen.nl
 ndes.apeldoorn.nl
 ndes.ot.denhaag.nl
 ndesapeldoorn.apeldoorn.nl
@@ -9323,6 +9351,7 @@ objecten.enschede.nl
 objecten.gemeente-oldambt.nl
 objecten.gemeentemaashorst.nl
 objecten.gemert-bakel.nl
+objecten.groningen.nl
 objecten.kampen.nl
 objecten.laarbeek.nl
 objecten.oldenzaal.nl
@@ -9410,6 +9439,7 @@ office-addin.enschede.nl
 office-addin.gemeente-oldambt.nl
 office-addin.gemeentemaashorst.nl
 office-addin.gemert-bakel.nl
+office-addin.groningen.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -9599,6 +9629,7 @@ open.gemeentestein.nl
 open.gooisemeren.nl
 open.gorinchem.nl
 open.gouda.nl
+open.groningen.nl
 open.halderberge.nl
 open.hillegom.nl
 open.hilversum.nl
@@ -10092,7 +10123,6 @@ participatietool-acc.nijmegen.nl
 participatietool.nijmegen.nl
 participatiewebshop-test.emmen.nl
 participatiewebshop.emmen.nl
-partner.stadjerspas.gemeente.groningen.nl
 passbolt.terneuzen.nl
 passion.groningen.nl
 password.almere.nl
@@ -10447,6 +10477,7 @@ preprod-burgerportaal.ommen.nl
 preprod-edienstaanvragensd.defryskemarren.nl
 preprod-edienstensociaaldomein.heerenveen.nl
 preprod-edienstsociaal-mijnaanvraag.zaanstad.nl
+preprod-formulier.groningen.nl
 preprod-formulieren.buren.nl
 preprod-formulieren.gemeentehw.nl
 preprod-formulieren.pijnacker-nootdorp.nl
@@ -10461,6 +10492,7 @@ preprod-mijn.defryskemarren.nl
 preprod-mijn.gemeentehw.nl
 preprod-mijn.gemeentesluis.nl
 preprod-mijn.gorinchem.nl
+preprod-mijn.groningen.nl
 preprod-mijn.hollandskroon.nl
 preprod-mijn.noordwijk.nl
 preprod-mijn.ridderkerk.nl
@@ -11155,6 +11187,7 @@ roerdalen-checker-preprod.roerdalen.nl
 roerdalen-checker.roerdalen.nl
 roerdalen.nl
 roermond.nl
+roez.groningen.nl
 rom.authenticatie.alkmaar.nl
 rondleidingen.landvancuijk.nl
 rondleidingspoorzone.zwolle.nl
@@ -12189,7 +12222,6 @@ stad.kampen.nl
 stadhuis.groningen.nl
 stadjerpas-acc.groningen.nl
 stadjerpas.groningen.nl
-stadjerspas-acc.gemeente.groningen.nl
 stadjerspas.gemeente.groningen.nl
 stadsarchief.almere.nl
 stadsarchief.breda.nl
@@ -12220,7 +12252,6 @@ staging.intranet.oostgelre.nl
 staging.mijnsubsidies.amsterdam.nl
 staging.olst-wijhe.nl
 staging.stadspas.amsterdam.nl
-staging.stemvan.groningen.nl
 staging.zutphen.nl
 stan-acc.stadskanaal.nl
 stan.stadskanaal.nl
@@ -12274,6 +12305,7 @@ straling.waalre.nl
 strand.hoorn.nl
 stratech.gemeentewestland.nl
 streaming.landvancuijk.nl
+streamline-acc.groningen.nl
 streetsmart.gulpen-wittem.nl
 stroomlijn.intern.zandvoort.nl
 stroomlijn.lochem.nl
@@ -13340,6 +13372,7 @@ vergunning.leiden.nl
 vergunningcheck.amsterdam.nl
 vergunningen.dronten.nl
 vergunningen.duiven.nl
+vergunningen.groningen.nl
 vergunningen.leiden.nl
 vergunningen.westervoort.nl
 vergunningentoets.meppel.nl
@@ -13423,6 +13456,7 @@ vind.sint-michielsgestel.nl
 vinden.heuvelrug.nl
 violix.apeldoorn.nl
 violixacc.apeldoorn.nl
+virusscanning.groningen.nl
 vis.gouda.nl
 visnet-acc.vlissingen.nl
 visnet.vlissingen.nl
@@ -13921,7 +13955,6 @@ werkenbij.defryskemarren.nl
 werkenbij.edam-volendam.nl
 werkenbij.enschede.nl
 werkenbij.gooisemeren.nl
-werkenbij.groningen.nl
 werkenbij.heemskerk.nl
 werkenbij.helmond.nl
 werkenbij.hilversum.nl
@@ -14287,6 +14320,7 @@ www-acceptatie.tilburg.nl
 www-cache.gemeentesluis.nl
 www-wim.gemeente-oldambt.nl
 www.aaenhunze.nl
+www.aag-corsa.groningen.nl
 www.aalsmeer.nl
 www.aalten.nl
 www.aanvraagparkeren.groningen.nl
@@ -14395,6 +14429,7 @@ www.bergen.nl
 www.bergendal.nl
 www.bergenopzoom.nl
 www.bernheze.org
+www.bestemmingsplannen.groningen.nl
 www.beuningen.nl
 www.beverwijk.nl
 www.bhv.sudwestfryslan.nl
@@ -14424,6 +14459,7 @@ www.buikslotermeerplein.amsterdam.nl
 www.bunnik.nl
 www.bunschoten.nl
 www.buren.nl
+www.business.groningen.nl
 www.buurtbudget-centrumnoord.venlo.nl
 www.buurtbudget-klingerberg.venlo.nl
 www.buurtbudget-oostzuid.venlo.nl
@@ -14545,7 +14581,6 @@ www.duurzaam.hoorn.nl
 www.duurzaamheidscentrum.assen.nl
 www.duurzamestad-acc.denhaag.nl
 www.duurzamestad.denhaag.nl
-www.dwh-test.groningen.nl
 www.dwh.groningen.nl
 www.e-diensten001.haarlem.nl
 www.e-facturen-prod.gemert-bakel.nl
@@ -14600,6 +14635,8 @@ www.flex.haarlemmermeer.nl
 www.followyourdreams-acc.denhaag.nl
 www.followyourdreams.denhaag.nl
 www.formulieren.sudwestfryslan.nl
+www.formulierenmd.groningen.nl
+www.formulierenpb.groningen.nl
 www.fortinet.haarlemmermeer.nl
 www.game.groningen.nl
 www.gb-wls-04.gemert-bakel.nl
@@ -14647,6 +14684,7 @@ www.geo.renkum.nl
 www.geoanalytics.haarlemmermeer.nl
 www.geobrowser.enschede.nl
 www.geocatalogus.haarlemmermeer.nl
+www.geoportaal.groningen.nl
 www.geoportaal.haarlemmermeer.nl
 www.geoportaaltest.haarlemmermeer.nl
 www.geoserver.haarlemmermeer.nl
@@ -14803,6 +14841,7 @@ www.kaartviewer.gemeentehulst.nl
 www.kampen.nl
 www.kapelle.nl
 www.katwijk.nl
+www.kennisbank.groningen.nl
 www.kerkrade.nl
 www.key2gbav-prod.peelenmaas.nl
 www.key2gbav-test.peelenmaas.nl
@@ -14912,7 +14951,6 @@ www.mobielbeek.gemeentebeek.nl
 www.mobile.emmen.nl
 www.mobile.gemeentewestland.nl
 www.mobile.zwolle.nl
-www.mobility.groningen.nl
 www.moerdijk.nl
 www.molenlanden.nl
 www.montferland.info
@@ -15187,6 +15225,7 @@ www.stempasfonds.ooststellingwerf.nl
 www.stemvan.groningen.nl
 www.stemvan.opsterland.nl
 www.stichtsevecht.nl
+www.streamline-acc.groningen.nl
 www.sts.haarlemmermeer.nl
 www.sts.sudwestfryslan.nl
 www.stuf-topicus.sudwestfryslan.nl
@@ -15544,6 +15583,7 @@ zac.enschede.nl
 zac.gemeente-oldambt.nl
 zac.gemeentemaashorst.nl
 zac.gemert-bakel.nl
+zac.groningen.nl
 zac.kampen.nl
 zac.laarbeek.nl
 zac.oldenzaal.nl

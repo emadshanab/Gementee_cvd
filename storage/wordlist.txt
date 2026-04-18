@@ -33,8 +33,8 @@ meldingen
 afspraak
 broker
 raad
-parkeren
 api.meldingen
+parkeren
 geo
 adfs
 testeloket
@@ -42,11 +42,11 @@ iparticipatie
 vpn
 belastingen
 ruimtelijkeplannen
-werkenbij
 gemeenteraad
 enterpriseenrollment
 pv
 test-ipa
+werkenbij
 zaaksysteem-accept
 api.meldingen-acc
 meldingen-acc
@@ -89,6 +89,7 @@ digikoppeling.test
 mks
 parkeren-acc
 acc-broker
+e
 portaal
 piwik
 api.betalen
@@ -96,7 +97,6 @@ acc-podiumd-logs
 belastingloket
 dtestloket
 cmsintranet
-e
 siam
 financien
 bgt
@@ -124,7 +124,9 @@ acc-openklant
 acc-openzaak
 bastion365
 contact
+keycloak
 notificaties
+objecten
 objecttypen
 openklant
 openzaak
@@ -139,28 +141,28 @@ mijninkomen
 dali
 preprod
 qr
+acc-keycloak-admin
 acc-keycloak
-keycloak
-objecten
+acc-zac
+keycloak-admin
+zac
 obsurv
 connect.acceptatie
 ftp
 simform
 web
+preprod-mijn
 preprod-mijninkomen
-acc-keycloak-admin
-acc-zac
-keycloak-admin
 sts
-zac
 micollab
 inloggen
 contentbeheer
 begroting
-preprod-mijn
 izaaksuite
 snelbaliepp
 vdi
+abc
+acc-abc
 www.doemee
 fmreturn
 inproces
@@ -171,8 +173,6 @@ gisib
 bis
 formulieren-test
 auth
-abc
-acc-abc
 bag
 sip
 gasten
@@ -184,6 +184,7 @@ ro
 bor
 mta-sts
 transfer
+geoportaal
 college
 veiligdelen
 geodata
@@ -203,7 +204,6 @@ inproces.acceptatie
 internetafspraken
 bestuur
 squit2020
-geoportaal
 socialekaart
 subsidies-backend
 belastingbalie-test
@@ -213,6 +213,7 @@ gemeentearchief
 mail2
 onderzoek
 nieuwsbrief
+acc-office-addin
 mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
@@ -237,8 +238,10 @@ admin.openstad
 desktop
 opendata
 woo
-acc-office-addin
+acc-ita
+ita
 meet
+office-addin
 woz-portaal
 byod
 guest
@@ -276,9 +279,6 @@ afval
 auth.openstad
 e-loket
 openstad
-acc-ita
-ita
-office-addin
 data-test
 xential
 erfgoed
@@ -331,6 +331,7 @@ filetransfer
 eformulieren
 aeolus
 squit2020publiceren
+acc-pabc
 liquit
 radius
 beeldbankbeheer
@@ -403,15 +404,14 @@ mijnzaken
 openformulieren-test
 magazine
 webservices
+vergunningen
 testbelastingloket
 raadsinformatie
-acc-pabc
 mijnuitkering
 stemvan
 ibabs
 corsa-prod
 corsa-test
-authenticatie
 tim
 www.werkplek
 mylex
@@ -448,6 +448,7 @@ test-keycloak
 test-openklant
 test-openzaak
 test-zac
+bestemmingsplannen
 kaartviewer
 personeelsplanning
 djuma
@@ -493,7 +494,6 @@ digitalebalie
 idbroker
 mobility
 services
-vergunningen
 mta-sts.raad
 gt-loket
 ondernemen
@@ -504,6 +504,7 @@ cca-acc
 cca
 gemeentewinkel
 mijnmobiel
+authenticatie
 pip
 www.mail
 preprod-mijnsociaaldomein
@@ -573,7 +574,6 @@ digid
 bedrijfsafval
 vastgoed
 loket-acc
-bestemmingsplannen
 accdrop
 id
 eforms
@@ -688,6 +688,7 @@ www.gemeente
 www.mobile
 zwemmen
 gbionlinetest
+geoportaaltest
 squit2gotest
 geo-secure
 ketenportaal.acceptatie
@@ -1002,7 +1003,6 @@ mijnsdv
 tekst
 www.zwemmen
 afspraakmakentest
-geoportaaltest
 mijn-acceptatie
 parkeervergunningtest
 zoek
@@ -1053,6 +1053,9 @@ campus
 economie
 esb-test
 ggd
+gpp-app
+gpp-publicatiebank
+gpp-zoeken
 koningsdag
 mijngkb
 myprint
@@ -1062,6 +1065,7 @@ samenwerken
 sso-test
 toerisme
 www.begroting
+www.geoportaal
 www.govroam
 www.mijn
 www.stemvan
@@ -3664,19 +3668,23 @@ vis
 webcams
 webgba
 wp.open
+aag-corsa
 aanmelding-voormelding
 aanvraagparkeren
 aanvraagparkeren_acc
 aanvraagparkerenacc
 acc-zac.dev
 accdrp
-admin.stadjerspas.gemeente
+acties
+admin.stemvan
 afspraken-abs
 afspraken-tst
 afspraken-tstabs
 arcgis
 ats360-acc
 ats360-api-acc
+ats360-api
+ats360
 autodiscover.cbk
 autodiscover.ombudsman
 autodiscover.opsb
@@ -3685,6 +3693,7 @@ autodiscover.wij
 begroting2017
 begroting2019
 belastingpraktijkonline
+business
 c2c-tst.gemeente
 c2c.gemeente
 citytrip
@@ -3706,6 +3715,7 @@ dm-tst
 duo-jvs
 dwh-test
 dwh
+eal
 eemsdelta
 emm
 esb-prod
@@ -3717,7 +3727,9 @@ formulierenpb
 game
 gehandicaptenparkeerkaart-acc.gemeente
 gehandicaptenparkeerkaart.gemeente
+gemeente2
 genieten
+gezondreizen
 ggexo
 ggexoopsrv1
 ggexoopsrv2
@@ -3747,6 +3759,7 @@ leveranciersportaallogius
 lifecoolsquare
 login-accept.maximaaljezelf
 login.maximaaljezelf
+mailserver
 maps-tst
 md
 medezeggenschap
@@ -3761,6 +3774,7 @@ mom-test
 mom
 mor-tst
 muziekschool
+nde
 oldambt
 oogst
 ows-ahp-test
@@ -3777,7 +3791,6 @@ ows-test
 ows-websrvc-test
 ows-websrvc
 ows
-partner.stadjerspas.gemeente
 passion
 portaal.iam
 pre-ows-ahp-test
@@ -3794,6 +3807,8 @@ pre-ows-ess-test
 pre-ows-mss-test
 pre-ows-websrvc-test
 pre-ows-websrvc
+preprod-formulier
+roez
 routebureau
 ruimtevoorjou
 samenwij
@@ -3803,12 +3818,11 @@ sporen
 stadhuis
 stadjerpas-acc
 stadjerpas
-stadjerspas-acc.gemeente
 stadjerspas.gemeente
 stadshavens
-staging.stemvan
 stoepvrij
 stolpersteine
+streamline-acc
 suikerkwartier
 suikerzijde
 tasman375
@@ -3830,6 +3844,7 @@ vasd-acc
 vasd
 veenkolonien
 versterkenenvernieuwen
+virusscanning
 voormelding
 wadden
 waddenland
@@ -3846,6 +3861,7 @@ willkommen
 winter
 wsr
 wwt
+www.aag-corsa
 www.aanvraagparkeren
 www.aanvraagparkerenacc
 www.afspraken-abs
@@ -3854,6 +3870,8 @@ www.afspraken-tstabs
 www.arcgis
 www.begroting2017
 www.begroting2018
+www.bestemmingsplannen
+www.business
 www.byod
 www.campus
 www.citytrip
@@ -3865,7 +3883,6 @@ www.consul-tst
 www.delfzijl
 www.destemvan
 www.desuikerzijde
-www.dwh-test
 www.dwh
 www.economie
 www.eemsdelta
@@ -3874,6 +3891,8 @@ www.esb-prod
 www.esb-test
 www.fairtrade
 www.fietsen
+www.formulierenmd
+www.formulierenpb
 www.game
 www.genieten
 www.ggd
@@ -3885,6 +3904,7 @@ www.hier
 www.hoogeland
 www.hvd
 www.jouwgrotemarkt
+www.kennisbank
 www.kindpakket
 www.koningsdag
 www.lauwersmeer
@@ -3893,7 +3913,6 @@ www.mas
 www.medezeggenschap
 www.middengroningen
 www.milieudienst
-www.mobility
 www.mor-tst
 www.myprint
 www.nde
@@ -3910,6 +3929,7 @@ www.sinterklaas
 www.sso-test
 www.stadjerspas.gemeente
 www.stadshavens
+www.streamline-acc
 www.suikerkwartier
 www.testloket
 www.toegangtest
@@ -4074,7 +4094,6 @@ www.flex
 www.fortinet
 www.geoanalytics
 www.geocatalogus
-www.geoportaal
 www.geoportaaltest
 www.geoserver
 www.geoservertest
@@ -6590,9 +6609,6 @@ eloket-acc
 funderingen
 gisib-online-acc
 gisib-online
-gpp-app
-gpp-publicatiebank
-gpp-zoeken
 guisweg
 ikzitklem
 inkooptoolkit
