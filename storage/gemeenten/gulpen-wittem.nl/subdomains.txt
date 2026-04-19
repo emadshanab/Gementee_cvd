@@ -32,6 +32,7 @@ gulpen-wittem.nl
 gwmor008.gulpen-wittem.nl
 gwmor009.gulpen-wittem.nl
 gwmwb012.gulpen-wittem.nl
+hotspot.gulpen-wittem.nl
 hybrid.gulpen-wittem.nl
 intranet-stats.gulpen-wittem.nl
 intranet.gulpen-wittem.nl

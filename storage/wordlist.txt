@@ -1012,6 +1012,7 @@ reserveringen
 organisatie
 director
 exchangehybrid
+hotspot
 ketenportaal
 nedplan
 www.mijnmobiel
@@ -3392,7 +3393,6 @@ dellmanage.ovh
 digileveringportaal
 esrs.ovh
 ftp-server.ovh
-hotspot
 idrac1.ovh
 idrac10.ovh
 idrac2.ovh
