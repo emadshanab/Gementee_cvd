@@ -4934,6 +4934,7 @@ eloket.gemeentemaastricht.nl
 eloket.gemeentesluis.nl
 eloket.gennep.nl
 eloket.groningen.nl
+eloket.haaksbergen.nl
 eloket.harlingen.nl
 eloket.heemstede.nl
 eloket.helmond.nl
@@ -8395,7 +8396,6 @@ meldcode.denhaag.nl
 melddesk-test.renkum.nl
 melddesk.almere.nl
 melddesk.bodegraven-reeuwijk.nl
-melddesk.haaksbergen.nl
 melddesk.huizen.nl
 melddesk.loonopzand.nl
 melddesk.opsterland.nl
@@ -12924,6 +12924,7 @@ testeloket.geertruidenberg.nl
 testeloket.geldrop-mierlo.nl
 testeloket.gemeentemaastricht.nl
 testeloket.gennep.nl
+testeloket.haaksbergen.nl
 testeloket.harlingen.nl
 testeloket.helmond.nl
 testeloket.heumen.nl

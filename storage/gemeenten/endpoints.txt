@@ -3354,6 +3354,7 @@ https://eloket.geldrop-mierlo.nl
 https://eloket.gemeentehulst.nl
 https://eloket.gemeentemaastricht.nl
 https://eloket.gennep.nl
+https://eloket.haaksbergen.nl
 https://eloket.harlingen.nl
 https://eloket.heemstede.nl
 https://eloket.helmond.nl
@@ -7691,6 +7692,7 @@ https://testeloket.geertruidenberg.nl
 https://testeloket.geldrop-mierlo.nl
 https://testeloket.gemeentemaastricht.nl
 https://testeloket.gennep.nl
+https://testeloket.haaksbergen.nl
 https://testeloket.harlingen.nl
 https://testeloket.helmond.nl
 https://testeloket.heumen.nl

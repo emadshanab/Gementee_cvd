@@ -21,8 +21,8 @@ probeer
 loket
 formulieren
 open
-test
 eloket
+test
 waarmerk
 dkd
 betalen
@@ -36,8 +36,8 @@ raad
 api.meldingen
 parkeren
 geo
-adfs
 testeloket
+adfs
 iparticipatie
 vpn
 belastingen
@@ -207,7 +207,6 @@ squit2020
 socialekaart
 subsidies-backend
 belastingbalie-test
-melddesk
 api.openstad
 gemeentearchief
 mail2
@@ -230,6 +229,7 @@ kennisbank
 simform-preproductie
 wachtwoord
 subsidie
+melddesk
 thuiswerken
 website
 werkenvoor
