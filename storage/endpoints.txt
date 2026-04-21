@@ -598,7 +598,6 @@ http://sport.denhaag.nl
 http://sportaccommodaties.nissewaard.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
-http://sslvpn.haarlem.nl
 http://stadspas.weert.nl
 http://status-paginas-zgw.test.denhaag.nl
 http://stembureaus.amsterdam.nl
@@ -1797,7 +1796,6 @@ https://autodiscover.enschede.nl
 https://autodiscover.gennep.nl
 https://autodiscover.ggd.groningen.nl
 https://autodiscover.groningen.nl
-https://autodiscover.haarlem.nl
 https://autodiscover.hap.haarlemmermeer.nl
 https://autodiscover.leudal.nl
 https://autodiscover.lopik.nl
@@ -2552,6 +2550,7 @@ https://college.steenwijkerland.nl
 https://college.zwijndrecht.nl
 https://collegeprogramma.papendrecht.nl
 https://column.landvancuijk.nl
+https://communicatie-cockpit.haarlem.nl
 https://communicatie.hollandskroon.nl
 https://componenten.acc.nijmegen.nl
 https://componenten.nijmegen.nl
@@ -3783,7 +3782,6 @@ https://foto.rijswijk.nl
 https://fr.heerlen.nl
 https://fraudemelding.rotterdam.nl
 https://fs.beverwijk.nl
-https://fs.haarlem.nl
 https://fs.halderberge.nl
 https://fs.maassluis.nl
 https://fs.waalwijk.nl
@@ -7353,6 +7351,7 @@ https://squitxo.rijssen-holten.nl
 https://squitxo.schagen.nl
 https://ssl.roermond.nl
 https://sslvpn.geertruidenberg.nl
+https://sslvpn.haarlem.nl
 https://sso.ir.rotterdam.nl
 https://sso.staphorst.nl
 https://ssorad.rotterdam.nl
@@ -7610,6 +7609,7 @@ https://test-objecten.gemert-bakel.nl
 https://test-objecttypen.enschede.nl
 https://test-objecttypen.gemert-bakel.nl
 https://test-office-addin.enschede.nl
+https://test-open.haarlem.nl
 https://test-openklant.enschede.nl
 https://test-openklant.gemert-bakel.nl
 https://test-openzaak.enschede.nl
@@ -8118,7 +8118,6 @@ https://webmail.buren.nl
 https://webmail.drimmelen.nl
 https://webmail.ede.nl
 https://webmail.geertruidenberg.nl
-https://webmail.haarlem.nl
 https://webmail.haarlemmermeer.nl
 https://webmail.halderberge.nl
 https://webmail.heemstede.nl

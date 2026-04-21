@@ -1,12 +1,10 @@
-http://sslvpn.haarlem.nl
 https://acc.haarlem.nl
-https://autodiscover.haarlem.nl
 https://boronline.haarlem.nl
 https://clickprotection.haarlem.nl
+https://communicatie-cockpit.haarlem.nl
 https://data.haarlem.nl
 https://email.haarlem.nl
 https://filecap.haarlem.nl
-https://fs.haarlem.nl
 https://gemeentebestuur.haarlem.nl
 https://haarlem.nl
 https://horizonvdi.haarlem.nl
@@ -18,6 +16,7 @@ https://mx01.haarlem.nl
 https://parkeren.haarlem.nl
 https://portaal.haarlem.nl
 https://regelen.haarlem.nl
+https://sslvpn.haarlem.nl
+https://test-open.haarlem.nl
 https://veiligdelen.haarlem.nl
-https://webmail.haarlem.nl
 https://www.haarlem.nl

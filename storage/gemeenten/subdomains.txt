@@ -2057,6 +2057,7 @@ awmag.venlo.nl
 awmag.weert.nl
 awmail.nederweert.nl
 awmail.weert.nl
+awp.haarlem.nl
 awtunnel.nederweert.nl
 awtunnel.roermond.nl
 awtunnel.venlo.nl
@@ -3322,6 +3323,7 @@ column.landvancuijk.nl
 commonground.acc.utrecht.nl
 commonground.test.utrecht.nl
 commonground.utrecht.nl
+communicatie-cockpit.haarlem.nl
 communicatie.hollandskroon.nl
 communicatie.oldenzaal.nl
 communication.denhelder.nl
@@ -3778,6 +3780,7 @@ denkmee.veenendaal.nl
 denkmee.venray.nl
 denkmee.woerden.nl
 denkmee.wormerland.nl
+depot.haarlem.nl
 depot.zandvoort.nl
 derdenws.sozawe.rotterdam.nl
 derdenwstest.sozawe.rotterdam.nl
@@ -7617,6 +7620,7 @@ key2percelen.haarlemmermeer.nl
 key2sub.apeldoorn.nl
 key2subacc.apeldoorn.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
+keycloackacpt.haarlem.nl
 keycloak-admin.assen.nl
 keycloak-admin.borger-odoorn.nl
 keycloak-admin.emmen.nl
@@ -7646,6 +7650,7 @@ keycloak.oostgelre.nl
 keycloak.roermond.nl
 keycloak.rotterdam.nl
 keycloak.zwolle.nl
+keycloakacpt.haarlem.nl
 keyhub.hofvantwente.nl
 keyhub.urk.nl
 kghtb-prod.gemeente-steenbergen.nl
@@ -7745,6 +7750,7 @@ kopprd.lelystad.nl
 koptst.lelystad.nl
 kos.acc.nijmegen.nl
 kos.nijmegen.nl
+kpn.haarlem.nl
 krachtigedorpen.roerdalen.nl
 kranten.veenendaal.nl
 kredietbank.accp.s-hertogenbosch.nl
@@ -9081,6 +9087,8 @@ mvpndec.rotterdam.nl
 mx.elburg.nl
 mx.oss.nl
 mx01.haarlem.nl
+mx02.haarlem.nl
+mx03.haarlem.nl
 mx1.ede.nl
 mx1.groningen.nl
 mx1.haarlemmermeer.nl
@@ -9631,6 +9639,7 @@ open.gooisemeren.nl
 open.gorinchem.nl
 open.gouda.nl
 open.groningen.nl
+open.haarlem.nl
 open.halderberge.nl
 open.hillegom.nl
 open.hilversum.nl
@@ -12744,6 +12753,7 @@ test-objecttypen.rotterdam.nl
 test-objecttypen.zwolle.nl
 test-office-addin.assen.nl
 test-office-addin.enschede.nl
+test-open.haarlem.nl
 test-open.zandvoort.nl
 test-openklant.assen.nl
 test-openklant.enschede.nl
@@ -12900,6 +12910,7 @@ testcms-intranet.midden-groningen.nl
 testcms-jip.hofvantwente.nl
 testcms-markt1.nunspeet.nl
 testcorsa.gulpen-wittem.nl
+testdepot.haarlem.nl
 testdepot.zandvoort.nl
 testdigid.arnhem.nl
 testdigid.denhaag.nl
@@ -14847,6 +14858,8 @@ www.kennisbank.groningen.nl
 www.kerkrade.nl
 www.key2gbav-prod.peelenmaas.nl
 www.key2gbav-test.peelenmaas.nl
+www.keycloackacpt.haarlem.nl
+www.keycloakacpt.haarlem.nl
 www.kindpakket.groningen.nl
 www.kmdn.gemeentehulst.nl
 www.kodision-prod.sudwestfryslan.nl
@@ -15024,6 +15037,7 @@ www.oostzaan.nl
 www.open-notificaties.ot.denhaag.nl
 www.open-zaak.ot.denhaag.nl
 www.open.denhaag.nl
+www.open.haarlem.nl
 www.open.rhenen.nl
 www.open.zandvoort.nl
 www.openstad.apeldoorn.nl
