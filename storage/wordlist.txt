@@ -180,7 +180,6 @@ mdm
 smtp
 AutoDiscover
 jaarstukken
-ro
 bor
 mta-sts
 transfer
@@ -199,6 +198,7 @@ meedoen
 localhost
 email
 uc
+ro
 contentbeheer.acceptatie
 zaken.acceptatie
 inproces.acceptatie

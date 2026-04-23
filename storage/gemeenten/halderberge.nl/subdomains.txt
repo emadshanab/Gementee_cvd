@@ -12,7 +12,6 @@ gemeenteraad.halderberge.nl
 halbox.halderberge.nl
 halderberge.nl
 halnet.halderberge.nl
-mail.halderberge.nl
 matomo.halderberge.nl
 mijnzaken.halderberge.nl
 ons.halderberge.nl
@@ -21,7 +20,6 @@ osb.halderberge.nl
 osbacc.halderberge.nl
 piwik.halderberge.nl
 probeer.halderberge.nl
-ro.halderberge.nl
 samenwijzer.halderberge.nl
 simcms-open.halderberge.nl
 simcms.halderberge.nl

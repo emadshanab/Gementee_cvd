@@ -488,7 +488,6 @@ http://open.dalfsen.nl
 http://open.doetinchem.nl
 http://open.echt-susteren.nl
 http://open.gemeentebeek.nl
-http://open.halderberge.nl
 http://open.nuenen.nl
 http://open.sonenbreugel.nl
 http://open.staphorst.nl
@@ -547,7 +546,6 @@ http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-omgevingswet.bronckhorst.nl
 http://simcms-ontmoetingscentra.opmeer.nl
-http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
 http://simcms-open.oirschot.nl
 http://simcms-open.wierden.nl
@@ -6143,6 +6141,7 @@ https://open.gemeentestein.nl
 https://open.gooisemeren.nl
 https://open.gorinchem.nl
 https://open.gouda.nl
+https://open.halderberge.nl
 https://open.hillegom.nl
 https://open.hilversum.nl
 https://open.hofvantwente.nl
@@ -6739,7 +6738,6 @@ https://privacybewustzijn.bergendal.nl
 https://private-test.delft.nl
 https://private.delft.nl
 https://proapp.rotterdam.nl
-https://probeer.halderberge.nl
 https://probeer.winterswijk.nl
 https://productenraming.venlo.nl
 https://productie.postex.heusden.nl
@@ -6959,7 +6957,6 @@ https://ro-online.kaagenbraassem.nl
 https://ro-online.wijkbijduurstede.nl
 https://ro.emmen.nl
 https://ro.gemeenteberkelland.nl
-https://ro.halderberge.nl
 https://ro.olst-wijhe.nl
 https://ro.valkenburg.nl
 https://ro.vlissingen.nl
@@ -7141,6 +7138,7 @@ https://simcms-open.echt-susteren.nl
 https://simcms-open.geldrop-mierlo.nl
 https://simcms-open.gemeentebeek.nl
 https://simcms-open.gemeentemaasgouw.nl
+https://simcms-open.halderberge.nl
 https://simcms-open.staphorst.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
@@ -8609,6 +8607,7 @@ https://www.gulpen-wittem.nl
 https://www.haaksbergen.nl
 https://www.haarlem.nl
 https://www.haarlemmermeer.nl
+https://www.halderberge.nl
 https://www.hardenberg.nl
 https://www.harderwijk.nl
 https://www.hardinxveld-giessendam.nl

@@ -8186,7 +8186,6 @@ mail.gorinchem.nl
 mail.gouda.nl
 mail.groningen.nl
 mail.gulpen-wittem.nl
-mail.halderberge.nl
 mail.hardenberg.nl
 mail.heemskerk.nl
 mail.heemstede.nl
@@ -11202,7 +11201,6 @@ ro-onlineprod.westvoorne.nl
 ro.brunssum.nl
 ro.emmen.nl
 ro.gemeenteberkelland.nl
-ro.halderberge.nl
 ro.leiden.nl
 ro.lelystad.nl
 ro.olst-wijhe.nl
