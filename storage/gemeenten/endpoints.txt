@@ -2033,6 +2033,7 @@ https://belastingen.accp.s-hertogenbosch.nl
 https://belastingen.arnhem.nl
 https://belastingen.duiven.nl
 https://belastingen.eemsdelta.nl
+https://belastingen.hardenberg.nl
 https://belastingen.heerenveen.nl
 https://belastingen.hellendoorn.nl
 https://belastingen.hofvantwente.nl
@@ -4406,7 +4407,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.hardenberg.nl
 https://ibzpink.hattem.nl
 https://ibzpink.heemskerk.nl
 https://ibzpink.heemstede.nl
@@ -6170,6 +6170,7 @@ https://open.zaanstad.nl
 https://open.zoetermeer.nl
 https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
+https://openbaarmakingen.hardenberg.nl
 https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
 https://opendata-contrast.zoetermeer.nl
@@ -6602,7 +6603,6 @@ https://preprod-belastingportaal.goirle.nl
 https://preprod-belastingportaal.hilvarenbeek.nl
 https://preprod-belastingportaal.oisterwijk.nl
 https://preprod-broker.gemeentesluis.nl
-https://preprod-burgerportaal.hardenberg.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-edienstensociaaldomein.heerenveen.nl
 https://preprod-edienstsociaal-mijnaanvraag.zaanstad.nl
@@ -6826,6 +6826,7 @@ https://qfact.hofvantwente.nl
 https://qmatic.tholen.nl
 https://qr-acc.capelleaandenijssel.nl
 https://qr-acc.gooisemeren.nl
+https://qr-accept.hardenberg.nl
 https://qr-test.meierijstad.nl
 https://qr-test.zaanstad.nl
 https://qr.amersfoort.nl
@@ -6836,6 +6837,7 @@ https://qr.digitaalgemeenteloket.kaagenbraassem.nl
 https://qr.dinkelland.nl
 https://qr.eindhoven.nl
 https://qr.gooisemeren.nl
+https://qr.hardenberg.nl
 https://qr.meierijstad.nl
 https://qr.nijmegen.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl

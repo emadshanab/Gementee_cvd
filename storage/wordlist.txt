@@ -38,9 +38,9 @@ parkeren
 geo
 testeloket
 adfs
+belastingen
 iparticipatie
 vpn
-belastingen
 ruimtelijkeplannen
 gemeenteraad
 enterpriseenrollment
@@ -122,6 +122,7 @@ verkiezingen
 osbacc
 subsidies
 afvalkalender
+qr
 acc-keycloak-admin
 acc-keycloak
 acc-zac
@@ -143,7 +144,6 @@ vergunningintaker
 mijninkomen
 dali
 preprod
-qr
 keycloak-admin
 zac
 obsurv
@@ -993,6 +993,7 @@ betaal
 formulier-acc
 mx3
 redirect
+fme
 geldwijzer
 mediabank
 mx
@@ -1097,7 +1098,6 @@ www.gisibtest
 www.sts
 samenwijzer
 preprod-burgerportaal
-tunnel
 zwemles
 webkassa
 groen
@@ -3132,7 +3132,6 @@ extranet-acc
 extranetcms-acc
 extranetcms
 ez
-fme
 kansshop
 rdssrv-01
 test-kansshop
@@ -4153,6 +4152,10 @@ www2.testformulieren
 halbox
 halnet
 belastingen-accept
+fme-ontw
+hdb-msg-01
+openbaarmakingen
+qr-accept
 vdi-uitwijk
 woz-loket-accept
 zwembaden
@@ -5991,6 +5994,7 @@ tijdregistratie
 tnz-park-01
 tnz-park-02
 tnz-rad-01
+tunnel
 webservergbav
 co2monitor
 broker-mijn

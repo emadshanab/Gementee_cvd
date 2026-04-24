@@ -2428,6 +2428,7 @@ belastingen.gemeente-oldambt.nl
 belastingen.gemeentewestland.nl
 belastingen.gilzerijen.nl
 belastingen.goirle.nl
+belastingen.hardenberg.nl
 belastingen.heerenveen.nl
 belastingen.hellendoorn.nl
 belastingen.hofvantwente.nl
@@ -5451,7 +5452,9 @@ fm.apeldoorn.nl
 fm.krimpenerwaard.nl
 fm01.apeldoorn.nl
 fm02.apeldoorn.nl
+fme-ontw.hardenberg.nl
 fme.eemsdelta.nl
+fme.hardenberg.nl
 fmiskoppeling-prod.veldhoven.nl
 fmiskoppeling-test.veldhoven.nl
 fmreturn.beekdaelen.nl
@@ -6276,6 +6279,7 @@ havenkwartieraanzet.denhaag.nl
 hcr.vlaardingen.nl
 hcs01.vaals.nl
 hcs02.vaals.nl
+hdb-msg-01.hardenberg.nl
 healthyurbanliving.utrecht.nl
 heemskerk.nl
 heemstede.nl
@@ -9698,6 +9702,7 @@ open.zuidplas.nl
 open.zutphen.nl
 open.zwartewaterland.nl
 openagenda.ridderkerk.nl
+openbaarmakingen.hardenberg.nl
 openbaartoilet.zutphen.nl
 openbareruimte.deventer.nl
 openburgerzaken.zwolle.nl
@@ -10943,6 +10948,7 @@ qmatic.tholen.nl
 qmatic.valkenburg.nl
 qr-acc.capelleaandenijssel.nl
 qr-acc.gooisemeren.nl
+qr-accept.hardenberg.nl
 qr-test.meierijstad.nl
 qr-test.zaanstad.nl
 qr.amersfoort.nl
@@ -10954,6 +10960,7 @@ qr.digitaalgemeenteloket.kaagenbraassem.nl
 qr.dinkelland.nl
 qr.eindhoven.nl
 qr.gooisemeren.nl
+qr.hardenberg.nl
 qr.meierijstad.nl
 qr.nijmegen.nl
 qr.renkum.nl
@@ -13217,7 +13224,6 @@ tubweau.heerlen.nl
 tuinen.groningen.nl
 tungsten.deventer.nl
 tungstencapture.bergenopzoom.nl
-tunnel.hardenberg.nl
 tunnel.terneuzen.nl
 tussenrapportage.gemeente-steenbergen.nl
 tv.gemeentebest.nl
