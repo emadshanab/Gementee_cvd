@@ -1121,7 +1121,6 @@ afspraken.goirle.nl
 afspraken.groningen.nl
 afspraken.gulpen-wittem.nl
 afspraken.haaksbergen.nl
-afspraken.harderwijk.nl
 afspraken.heeze-leende.nl
 afspraken.hellevoetsluis.nl
 afspraken.huizen.nl
@@ -12422,6 +12421,7 @@ subsidies-backend-test.oosterhout.nl
 subsidies-backend.acceptatie.almelo.nl
 subsidies-backend.acceptatie.debilt.nl
 subsidies-backend.acceptatie.enschede.nl
+subsidies-backend.acceptatie.harderwijk.nl
 subsidies-backend.acceptatie.leeuwarden.nl
 subsidies-backend.acceptatie.lelystad.nl
 subsidies-backend.acceptatie.maassluis.nl
@@ -12430,6 +12430,7 @@ subsidies-backend.debilt.nl
 subsidies-backend.ede.nl
 subsidies-backend.gemeentemaashorst.nl
 subsidies-backend.gemeentewestland.nl
+subsidies-backend.harderwijk.nl
 subsidies-backend.heerenveen.nl
 subsidies-backend.leeuwarden.nl
 subsidies-backend.lelystad.nl
@@ -12452,6 +12453,7 @@ subsidies.acc.nijmegen.nl
 subsidies.acceptatie.almelo.nl
 subsidies.acceptatie.debilt.nl
 subsidies.acceptatie.enschede.nl
+subsidies.acceptatie.harderwijk.nl
 subsidies.acceptatie.leeuwarden.nl
 subsidies.acceptatie.lelystad.nl
 subsidies.acceptatie.maassluis.nl
@@ -12464,6 +12466,7 @@ subsidies.ede.nl
 subsidies.gemeentemaashorst.nl
 subsidies.gemeentemaastricht.nl
 subsidies.gemeentewestland.nl
+subsidies.harderwijk.nl
 subsidies.heerenveen.nl
 subsidies.leeuwarden.nl
 subsidies.lelystad.nl

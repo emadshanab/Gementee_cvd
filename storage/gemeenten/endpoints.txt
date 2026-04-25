@@ -1389,7 +1389,6 @@ https://afspraken.eijsden-margraten.nl
 https://afspraken.gemeente-steenbergen.nl
 https://afspraken.goes.nl
 https://afspraken.goirle.nl
-https://afspraken.harderwijk.nl
 https://afspraken.hellevoetsluis.nl
 https://afspraken.kampen.nl
 https://afspraken.kapelle.nl
@@ -7479,6 +7478,7 @@ https://subsidies-backend-test.oosterhout.nl
 https://subsidies-backend.acceptatie.almelo.nl
 https://subsidies-backend.acceptatie.debilt.nl
 https://subsidies-backend.acceptatie.enschede.nl
+https://subsidies-backend.acceptatie.harderwijk.nl
 https://subsidies-backend.acceptatie.leeuwarden.nl
 https://subsidies-backend.acceptatie.lelystad.nl
 https://subsidies-backend.acceptatie.maassluis.nl
@@ -7487,6 +7487,7 @@ https://subsidies-backend.debilt.nl
 https://subsidies-backend.ede.nl
 https://subsidies-backend.gemeentemaashorst.nl
 https://subsidies-backend.gemeentewestland.nl
+https://subsidies-backend.harderwijk.nl
 https://subsidies-backend.heerenveen.nl
 https://subsidies-backend.lelystad.nl
 https://subsidies-backend.oosterhout.nl
@@ -7506,6 +7507,7 @@ https://subsidies.acc.nijmegen.nl
 https://subsidies.acceptatie.almelo.nl
 https://subsidies.acceptatie.debilt.nl
 https://subsidies.acceptatie.enschede.nl
+https://subsidies.acceptatie.harderwijk.nl
 https://subsidies.acceptatie.leeuwarden.nl
 https://subsidies.acceptatie.lelystad.nl
 https://subsidies.acceptatie.maassluis.nl
@@ -7518,6 +7520,7 @@ https://subsidies.ede.nl
 https://subsidies.gemeentemaashorst.nl
 https://subsidies.gemeentemaastricht.nl
 https://subsidies.gemeentewestland.nl
+https://subsidies.harderwijk.nl
 https://subsidies.heerenveen.nl
 https://subsidies.leeuwarden.nl
 https://subsidies.lelystad.nl

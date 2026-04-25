@@ -105,6 +105,7 @@ samen
 test-intranet
 pki
 mijnzorg
+subsidies
 snelbalie
 duurzaam
 apps
@@ -120,7 +121,6 @@ extranet
 govroam
 verkiezingen
 osbacc
-subsidies
 afvalkalender
 qr
 acc-keycloak-admin
@@ -187,6 +187,7 @@ geoportaal
 college
 veiligdelen
 geodata
+subsidies-backend
 maps
 mailing
 gis
@@ -206,7 +207,6 @@ internetafspraken
 bestuur
 squit2020
 socialekaart
-subsidies-backend
 belastingbalie-test
 api.openstad
 gemeentearchief
@@ -271,6 +271,8 @@ www.denkmee
 documenten
 vergunningintaker-preprod
 praatmee
+subsidies-backend.acceptatie
+subsidies.acceptatie
 cms
 exchange
 mozardtest
@@ -298,8 +300,6 @@ gisibgeoserver-test
 gisibgeoserver
 www.werkenbij
 makelaar
-subsidies-backend.acceptatie
-subsidies.acceptatie
 academie
 belastingen-acc
 evenementen

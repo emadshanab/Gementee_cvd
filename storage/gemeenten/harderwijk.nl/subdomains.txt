@@ -1,4 +1,3 @@
-afspraken.harderwijk.nl
 betalen.harderwijk.nl
 edienstenburgerzaken-test.harderwijk.nl
 edienstenburgerzaken.harderwijk.nl
@@ -8,6 +7,10 @@ geo.harderwijk.nl
 harderwijk.nl
 onlinestadsgesprek.harderwijk.nl
 scoremodule.harderwijk.nl
+subsidies-backend.acceptatie.harderwijk.nl
+subsidies-backend.harderwijk.nl
+subsidies.acceptatie.harderwijk.nl
+subsidies.harderwijk.nl
 webkassa.harderwijk.nl
 www.harderwijk.nl
 www.onlinestadsgesprek.harderwijk.nl
