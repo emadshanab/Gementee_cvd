@@ -139,6 +139,7 @@ www.webmail
 filecap
 dtestmidoffice
 squit2go
+connect.acceptatie
 test-cmsintranet
 vergunningintaker
 mijninkomen
@@ -147,7 +148,6 @@ preprod
 keycloak-admin
 zac
 obsurv
-connect.acceptatie
 ftp
 simform
 web

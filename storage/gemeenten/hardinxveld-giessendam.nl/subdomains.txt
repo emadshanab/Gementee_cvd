@@ -1,5 +1,6 @@
 autodiscover.hardinxveld-giessendam.nl
 college.hardinxveld-giessendam.nl
+connect.acceptatie.hardinxveld-giessendam.nl
 edienstenburgerzaken-test.hardinxveld-giessendam.nl
 edienstenburgerzaken.hardinxveld-giessendam.nl
 gisib-test.hardinxveld-giessendam.nl

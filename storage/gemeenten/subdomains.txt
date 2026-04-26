@@ -3360,6 +3360,7 @@ connect.acceptatie.drechterland.nl
 connect.acceptatie.gemeentebeek.nl
 connect.acceptatie.gemeentewestland.nl
 connect.acceptatie.goirle.nl
+connect.acceptatie.hardinxveld-giessendam.nl
 connect.acceptatie.kerkrade.nl
 connect.acceptatie.oldenzaal.nl
 connect.acceptatie.overbetuwe.nl

@@ -1,4 +1,5 @@
 http://autodiscover.hardinxveld-giessendam.nl
+http://connect.acceptatie.hardinxveld-giessendam.nl
 https://college.hardinxveld-giessendam.nl
 https://edienstenburgerzaken-test.hardinxveld-giessendam.nl
 https://edienstenburgerzaken.hardinxveld-giessendam.nl

@@ -333,6 +333,7 @@ http://cmssocialintranet.middendelfland.nl
 http://collecties.dantumadiel.frl
 http://connect.acceptatie.dordrecht.nl
 http://connect.acceptatie.goirle.nl
+http://connect.acceptatie.hardinxveld-giessendam.nl
 http://contactregistratie.acc.amsterdam.nl
 http://contactregistratie.amsterdam.nl
 http://contactregistratie.tst.amsterdam.nl
