@@ -378,6 +378,7 @@ http://felix.blaricum.nl
 http://felix.dalfsen.nl
 http://felix.deurne.nl
 http://felix.eemnes.nl
+http://felix.harlingen.nl
 http://felix.kerkrade.nl
 http://felix.landgraaf.nl
 http://felix.leudal.nl
@@ -710,6 +711,7 @@ http://www.projecten.denhaag.nl
 http://www.remote.westvoorne.nl
 http://www.samen.drechterland.nl
 http://www.samen.enkhuizen.nl
+http://www.samen.harlingen.nl
 http://www.samen.medemblik.nl
 http://www.samen.schagen.nl
 http://www.samenmet.beesel.nl
@@ -2137,6 +2139,7 @@ https://bestand.gemeentebest.nl
 https://bestanden.dongen.nl
 https://bestanden.veere.nl
 https://bestanden.venray.nl
+https://bestandenverzenden.harlingen.nl
 https://bestandverzenden.leeuwarden.nl
 https://bestelportaal.denhaag.nl
 https://bestemmingsplan.rhenen.nl
@@ -3588,7 +3591,6 @@ https://felix.cranendonck.nl
 https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.halderberge.nl
-https://felix.harlingen.nl
 https://felix.heerlen.nl
 https://felix.koggenland.nl
 https://felix.lingewaard.nl
@@ -4120,6 +4122,7 @@ https://harderwijk.nl
 https://hardinxveld-giessendam-checker-preprod.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam-checker.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam.nl
+https://harlingen.nl
 https://hattem.nl
 https://haven.acc.sittard-geleen.nl
 https://haven.deventer.nl
@@ -5059,6 +5062,7 @@ https://kredietbankwestbrabant.breda.nl
 https://krimpenaandenijssel.nl
 https://krimpenerwaard.nl
 https://ksnijmegen.acc.nijmegen.nl
+https://kunstencultuur.harlingen.nl
 https://kunstwerk.almelo.nl
 https://laakhavensbepaalt.denhaag.nl
 https://laarbeek.nl
@@ -6370,6 +6374,7 @@ https://parkeervergunning.kampen.nl
 https://parkeervergunning.leeuwarden.nl
 https://parkeervergunning.nissewaard.nl
 https://parkeervergunningen.harlingen.nl
+https://parkeervergunningenacc.harlingen.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
@@ -7132,6 +7137,7 @@ https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.waalwijk.nl
+https://simcms-kunstencultuur.harlingen.nl
 https://simcms-open.beverwijk.nl
 https://simcms-open.bronckhorst.nl
 https://simcms-open.dalfsen.nl
