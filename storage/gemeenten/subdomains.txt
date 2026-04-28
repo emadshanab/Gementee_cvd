@@ -7062,7 +7062,6 @@ internalbeacon.kampen.nl
 internekoppelingen.krimpenerwaard.nl
 internetafspraken.diemen.nl
 internetafspraken.gemeentebeek.nl
-internetafspraken.hattem.nl
 internetafspraken.heerde.nl
 internetafspraken.heerlen.nl
 internetafspraken.nunspeet.nl

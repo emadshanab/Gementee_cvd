@@ -4410,7 +4410,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.hattem.nl
 https://ibzpink.heemskerk.nl
 https://ibzpink.heemstede.nl
 https://ibzpink.heerde.nl
@@ -4657,7 +4656,6 @@ https://intens-acc.enschede.nl
 https://intens.enschede.nl
 https://interflex.twenterand.nl
 https://intern.formulieren.acc.amsterdam.nl
-https://internetafspraken.hattem.nl
 https://internetafspraken.heerde.nl
 https://internetafspraken.oss.nl
 https://internetprod.veenendaal.nl

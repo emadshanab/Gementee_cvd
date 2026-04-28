@@ -203,7 +203,6 @@ ro
 contentbeheer.acceptatie
 zaken.acceptatie
 inproces.acceptatie
-internetafspraken
 bestuur
 squit2020
 socialekaart
@@ -222,6 +221,7 @@ legacy
 mobile
 outlook
 vth
+internetafspraken
 acceptatie-open
 testloket
 www.samen
