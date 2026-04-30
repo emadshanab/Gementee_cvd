@@ -5,11 +5,13 @@ https://bouwtekeningen.heemstede.nl
 https://eloket.heemstede.nl
 https://elokettest.heemstede.nl
 https://flowmailer-tracking.heemstede.nl
+https://geldmaat.doemee.heemstede.nl
 https://gemeentebestuur.heemstede.nl
 https://grootklooster.doemee.heemstede.nl
 https://heemstede.nl
 https://iburgerzaken.heemstede.nl
-https://ibzpink.heemstede.nl
+https://idselect-preprod.heemstede.nl
+https://idselect.heemstede.nl
 https://jf.doemee.heemstede.nl
 https://johanwagenaarlaan-cesarfrancklaan-old.doemee.heemstede.nl
 https://johanwagenaarlaan-cesarfrancklaan.doemee.heemstede.nl
@@ -20,5 +22,6 @@ https://parkeren.heemstede.nl
 https://plein1.heemstede.nl
 https://tradities.heemstede.nl
 https://webmail.heemstede.nl
+https://wildcard.doemee.heemstede.nl
 https://www.heemstede.nl
 https://zonneparking.doemee.heemstede.nl

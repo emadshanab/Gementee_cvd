@@ -6,11 +6,14 @@ doemee.heemstede.nl
 eloket.heemstede.nl
 elokettest.heemstede.nl
 flowmailer-tracking.heemstede.nl
+geldmaat.doemee.heemstede.nl
 gemeentebestuur.heemstede.nl
 grootklooster.doemee.heemstede.nl
 heemstede.nl
 iburgerzaken.heemstede.nl
 ibzpink.heemstede.nl
+idselect-preprod.heemstede.nl
+idselect.heemstede.nl
 jf.doemee.heemstede.nl
 johanwagenaarlaan-cesarfrancklaan-old.doemee.heemstede.nl
 johanwagenaarlaan-cesarfrancklaan.doemee.heemstede.nl
@@ -23,5 +26,6 @@ plein1.heemstede.nl
 smtp.heemstede.nl
 tradities.heemstede.nl
 webmail.heemstede.nl
+wildcard.doemee.heemstede.nl
 www.heemstede.nl
 zonneparking.doemee.heemstede.nl

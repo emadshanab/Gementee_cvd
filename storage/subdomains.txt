@@ -5741,6 +5741,7 @@ gegevensuitwisselingsysteem.rotterdam.nl
 gehandicaptenparkeerkaart-acc.gemeente.groningen.nl
 gehandicaptenparkeerkaart.gemeente.groningen.nl
 geldloket.emmen.nl
+geldmaat.doemee.heemstede.nl
 geldrop-mierlo.nl
 geldwijzer.eemsdelta.nl
 geldwijzer.zaanstad.nl
@@ -6868,9 +6869,11 @@ ids-test.smallingerland.nl
 ids.almelo.nl
 ids.smallingerland.nl
 idselect-preprod.bloemendaal.nl
+idselect-preprod.heemstede.nl
 idselect-test.veenendaal.nl
 idselect.accp.s-hertogenbosch.nl
 idselect.bloemendaal.nl
+idselect.heemstede.nl
 idselect.hollandskroon.nl
 idselect.s-hertogenbosch.nl
 idselect.veenendaal.nl
@@ -14183,6 +14186,7 @@ wijzer.coevorden.nl
 wijzer.opmeer.nl
 wijzer.test.coevorden.nl
 wilbertoord.landvancuijk.nl
+wildcard.doemee.heemstede.nl
 wilkommen.groningen.nl
 willkommen.groningen.nl
 wim2-acc.borne.nl
