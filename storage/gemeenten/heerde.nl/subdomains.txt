@@ -1,3 +1,4 @@
+_autodiscover._tcp.heerde.nl
 api.meldingen-acc.heerde.nl
 api.meldingen.heerde.nl
 autodiscover.heerde.nl
@@ -6,7 +7,6 @@ digikoppeling.heerde.nl
 heerde.nl
 iburgerzaken.heerde.nl
 ibzpink.heerde.nl
-internetafspraken.heerde.nl
 iparticipatie.heerde.nl
 loket.heerde.nl
 meldingen-acc.heerde.nl

@@ -78,11 +78,11 @@ zaken
 doemee
 hybrid
 cloudadapter
+_autodiscover._tcp
 connect
 klantcontact
 simcms-open
 kaarten
-_autodiscover._tcp
 preprodbroker
 parkeren-test
 digikoppeling.test
@@ -222,7 +222,6 @@ legacy
 mobile
 outlook
 vth
-internetafspraken
 acceptatie-open
 testloket
 www.samen
@@ -258,6 +257,7 @@ jongin
 www.jongin
 archief
 topdesk
+internetafspraken
 telewerken
 afspraakmaken
 www.intranet

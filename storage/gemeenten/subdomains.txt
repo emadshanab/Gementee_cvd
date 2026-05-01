@@ -91,6 +91,7 @@ _autodiscover._tcp.bergeijk.nl
 _autodiscover._tcp.boxtel.nl
 _autodiscover._tcp.dinkelland.nl
 _autodiscover._tcp.haarlem.nl
+_autodiscover._tcp.heerde.nl
 _autodiscover._tcp.hethogeland.nl
 _autodiscover._tcp.lisse.nl
 _autodiscover._tcp.oude-ijsselstreek.nl
@@ -7067,7 +7068,6 @@ internalbeacon.kampen.nl
 internekoppelingen.krimpenerwaard.nl
 internetafspraken.diemen.nl
 internetafspraken.gemeentebeek.nl
-internetafspraken.heerde.nl
 internetafspraken.heerlen.nl
 internetafspraken.nunspeet.nl
 internetafspraken.oss.nl
