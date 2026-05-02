@@ -1042,7 +1042,6 @@ afspraak.gooisemeren.nl
 afspraak.haarlemmermeer.nl
 afspraak.halderberge.nl
 afspraak.heemskerk.nl
-afspraak.heerenveen.nl
 afspraak.katwijk.nl
 afspraak.lopik.nl
 afspraak.maassluis.nl
@@ -8266,7 +8265,6 @@ mail1.smallingerland.nl
 mail1.tilburg.nl
 mail2.amersfoort.nl
 mail2.groningen.nl
-mail2.heerenveen.nl
 mail2.oostgelre.nl
 mail2.sittard-geleen.nl
 mail2.smallingerland.nl
@@ -9911,7 +9909,6 @@ osbacc.almere.nl
 osbacc.drechterland.nl
 osbacc.geertruidenberg.nl
 osbacc.halderberge.nl
-osbacc.heerenveen.nl
 osbacc.hilversum.nl
 osbacc.katwijk.nl
 osbacc.montfoort.nl
@@ -14345,6 +14342,7 @@ wp.open.gouda.nl
 wpdagast1.assen.nl
 wpdagast2.assen.nl
 wpmksp001.assen.nl
+wpu.heerenveen.nl
 wpvh.hoorn.nl
 wrd131001.wierden.nl
 ws013.roerdalen.nl

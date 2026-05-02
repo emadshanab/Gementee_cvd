@@ -572,7 +572,6 @@ http://simcms.urk.nl
 http://simcms.vlissingen.nl
 http://simcms.woensdrecht.nl
 http://simcms.zwartewaterland.nl
-http://simform-preproductie.heerenveen.nl
 http://simform-preproductie.t-diel.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
@@ -1357,7 +1356,6 @@ https://afspraak.gemeentewestland.nl
 https://afspraak.gooisemeren.nl
 https://afspraak.haarlemmermeer.nl
 https://afspraak.heemskerk.nl
-https://afspraak.heerenveen.nl
 https://afspraak.katwijk.nl
 https://afspraak.lopik.nl
 https://afspraak.moerdijk.nl
@@ -3765,6 +3763,7 @@ https://formulieren.gemeentehw.nl
 https://formulieren.gemeentemaasgouw.nl
 https://formulieren.haarlemmermeer.nl
 https://formulieren.hardenberg.nl
+https://formulieren.heerenveen.nl
 https://formulieren.hethogeland.nl
 https://formulieren.hoorn.nl
 https://formulieren.huizen.nl
@@ -5468,6 +5467,7 @@ https://mijn-acceptatie.waterland.nl
 https://mijn-gemeenteloket.gemeentemaastricht.nl
 https://mijn-preproductie.gemeentewestland.nl
 https://mijn-preproductie.heemskerk.nl
+https://mijn-preproductie.heerenveen.nl
 https://mijn-preproductie.westerkwartier.nl
 https://mijn-preproductie.zuidplas.nl
 https://mijn-services.accp.nijmegen.nl
@@ -6648,6 +6648,7 @@ https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
 https://preprod-mijnportaal.lansingerland.nl
 https://preprod-mijnsociaaldomein.gemeentesluis.nl
+https://preprod-mijnsociaaldomein.heerenveen.nl
 https://preprod-mijnsociaaldomein.staphorst.nl
 https://preprod-mijnsociaaldomein.venlo.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
@@ -7208,6 +7209,7 @@ https://simcms.zuidplas.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-preproductie.heemskerk.nl
+https://simform-preproductie.heerenveen.nl
 https://simform-preproductie.vlaardingen.nl
 https://simform-preproductie.voorschoten.nl
 https://simform.achtkarspelen.nl
@@ -8413,6 +8415,7 @@ https://wozloket-acc.coevorden.nl
 https://wozloket.borger-odoorn.nl
 https://wozloket.coevorden.nl
 https://wp.open.gouda.nl
+https://wpu.heerenveen.nl
 https://wsdl.t-diel.nl
 https://wsgateway-extern.acc.denhaag.nl
 https://wvncmg.westvoorne.nl

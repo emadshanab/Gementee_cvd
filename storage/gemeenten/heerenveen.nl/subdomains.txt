@@ -1,4 +1,3 @@
-afspraak.heerenveen.nl
 belastingen.heerenveen.nl
 bezoekersparkeren.heerenveen.nl
 dkd.heerenveen.nl
@@ -9,12 +8,10 @@ gateway.heerenveen.nl
 geo.heerenveen.nl
 heerenveen.nl
 mail.heerenveen.nl
-mail2.heerenveen.nl
 mijn-preproductie.heerenveen.nl
 mijn.heerenveen.nl
 mijnsociaaldomein.heerenveen.nl
 osb.heerenveen.nl
-osbacc.heerenveen.nl
 parkeren-test.heerenveen.nl
 parkeren.heerenveen.nl
 portal.heerenveen.nl
@@ -30,4 +27,5 @@ subsidies-backend.heerenveen.nl
 subsidies-login-test.heerenveen.nl
 subsidies-test.heerenveen.nl
 subsidies.heerenveen.nl
+wpu.heerenveen.nl
 www.heerenveen.nl

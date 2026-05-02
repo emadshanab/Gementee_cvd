@@ -30,9 +30,9 @@ acc
 portal
 werkplek
 meldingen
-afspraak
 broker
 raad
+afspraak
 api.meldingen
 parkeren
 geo
@@ -119,7 +119,6 @@ podiumd-logs
 extranet
 govroam
 verkiezingen
-osbacc
 afvalkalender
 qr
 apps
@@ -143,6 +142,7 @@ connect.acceptatie
 test-cmsintranet
 vergunningintaker
 simform
+osbacc
 mijninkomen
 dali
 preprod
@@ -210,7 +210,6 @@ simform-preproductie
 belastingbalie-test
 api.openstad
 gemeentearchief
-mail2
 onderzoek
 nieuwsbrief
 acc-ita
@@ -235,6 +234,7 @@ subsidie
 melddesk
 thuiswerken
 website
+mail2
 werkenvoor
 _dmarc
 admin.openstad
@@ -4190,6 +4190,7 @@ preprod-edienstensociaaldomein
 pubgov
 standplaatsen
 subsidies-login-test
+wpu
 193-203-220-7
 193-203-220-9
 acc-eformulier
