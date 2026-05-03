@@ -21,8 +21,8 @@ probeer
 formulieren
 loket
 open
-eloket
 test
+eloket
 waarmerk
 dkd
 betalen
@@ -38,14 +38,14 @@ parkeren
 geo
 testeloket
 adfs
+vpn
 belastingen
 iparticipatie
-vpn
 ruimtelijkeplannen
+test-ipa
 gemeenteraad
 enterpriseenrollment
 pv
-test-ipa
 werkenbij
 zaaksysteem-accept
 api.meldingen-acc
@@ -351,6 +351,7 @@ dkd-test
 msoid
 ro-online
 www.duurzaam
+mail1
 ns
 wion
 atlas
@@ -433,7 +434,6 @@ test-zaakloket
 testsiam
 zaakloket
 2secure
-mail1
 applicaties
 belastingbalie-acc
 cms.openstad
@@ -560,6 +560,7 @@ energieloket
 acc.meldingen
 api.acc.meldingen
 app
+assets
 bouwdossiers
 dataportaal
 mas
@@ -802,7 +803,6 @@ afs
 algoritmeregister
 api.data
 api.v2.openstad
-assets
 auth.v2.openstad
 autodiscover.ggd
 berichtverkeer
@@ -879,6 +879,7 @@ acc-openwave
 corona
 key2financien-prod
 key2financien-test
+rp
 sophos
 begraafplaatsen
 demo.doemee
@@ -1012,6 +1013,8 @@ zoek
 financieelportaal
 intake
 reserveringen
+verhuur
+digiforms
 organisatie
 director
 exchangehybrid
@@ -1040,6 +1043,7 @@ e.doemee
 mailgate
 securetest
 geovisiaonline
+login-test-ipa
 belastingen-test
 test-meedoen
 snelbalievergunningen
@@ -1113,6 +1117,7 @@ begraafplaats
 subsidies-backend-test
 subsidies-test
 bzg1
+git
 melding
 tripleforms
 ubwprod
@@ -2249,7 +2254,6 @@ frontoffice-parkeervergunningen-acc
 frontoffice-parkeervergunningen
 mdr
 openwave
-rp
 simcms-begraafplaatsduinrust
 test-bink
 test-cmsbink
@@ -3309,14 +3313,12 @@ iis-vold01
 iis-vold21
 pbdacceptatie
 pbmidoffice
-verhuur
 vrs
 www-wim
 www.ibabs-acc
 www.ibabs
 xential-vold01
 xential-vold92
-digiforms
 gws-prod
 htb-prod
 htb-test
@@ -3590,7 +3592,6 @@ www.gb-wls-05
 _citrixreceiver._tcp
 erfgoedmaasenniers
 login-iparticipatie
-login-test-ipa
 meldpunt
 mijntalent-acc
 mijntalent
@@ -4193,11 +4194,14 @@ subsidies-login-test
 wpu
 193-203-220-7
 193-203-220-9
+acc-digiforms
 acc-eformulier
 acc-tripleforms
+admin.heitje
 api.heitje
 api.melding.acc
 api.melding
+beheerenonderhoud
 camera-mkr
 casarray
 digitaal-test
@@ -4208,6 +4212,7 @@ dkdzorg
 dkdzorgtest
 e2s-connector-prd
 e2s-connector-tst
+employee.heitje
 esrs
 fr
 ftp.rp
@@ -4222,14 +4227,17 @@ joindocman
 jointst
 key2begraven-test
 key2begraven
+kv
 melding.acc
 meldingenweb
 mijnzakentest
+news
 obj
 octopus-prd
 octopus-tst
 pgws4allsuite4werk
 pgws4allsuite4zorg
+preprod-toegangsdienst
 psmartdoc
 salto
 samenindebuurt
@@ -4238,8 +4246,10 @@ shop.heitje
 simcms-centrum
 simcms-samenindebuurt
 test-eformulier
+test-kv
 tgws4allsuite4werk
 tgws4allsuite4zorg
+toegangsdienst
 tripleacceptatie
 tripleproductie
 tripletest
@@ -4248,6 +4258,7 @@ tst-eformulier
 tst-tripleforms
 tubweau
 uipath-orchestrator
+v2
 vf.heitje
 www.heitje
 api-hetravijn
@@ -5874,7 +5885,6 @@ evmail
 geborgenverleden
 geovisiatest
 ggk-pki
-git
 govpub
 ihandhaving
 iidb

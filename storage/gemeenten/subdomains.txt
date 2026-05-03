@@ -237,6 +237,7 @@ acc-contact.oostgelre.nl
 acc-contact.roermond.nl
 acc-contact.rotterdam.nl
 acc-contact.zwolle.nl
+acc-digiforms.heerlen.nl
 acc-eformulier.heerlen.nl
 acc-formulier.assen.nl
 acc-formulier.borger-odoorn.nl
@@ -967,6 +968,7 @@ admin.doemee.papendrecht.nl
 admin.doemee.zwolle.nl
 admin.gezondleven.utrecht.nl
 admin.haarlemmermeer.nl
+admin.heitje.heerlen.nl
 admin.open.ede.nl
 admin.openstad.amsterdam.nl
 admin.openstad.apeldoorn.nl
@@ -1674,6 +1676,7 @@ assengast1.assen.nl
 assengast2.assen.nl
 asset.amsterdam.nl
 assets.amsterdam.nl
+assets.heerlen.nl
 assets.oostgelre.nl
 assetvalue.rotterdam.nl
 assistent.amsterdam.nl
@@ -2345,6 +2348,7 @@ beheer.leusden.nl
 beheer.terneuzen.nl
 beheerbeeldbank.breda.nl
 beheerbeeldbank.soest.nl
+beheerenonderhoud.heerlen.nl
 beheerfotobank.amsterdam.nl
 bekendmakingen.houten.nl
 bekendmakingen.overbetuwe.nl
@@ -3900,6 +3904,7 @@ digiform-fa.amsterdam.nl
 digiform.acc.amsterdam.nl
 digiform.amsterdam.nl
 digiforms.gemeente-steenbergen.nl
+digiforms.heerlen.nl
 digigateway.haarlem.nl
 digik.zwartewaterland.nl
 digikoppeling-mks-test.assen.nl
@@ -5031,6 +5036,7 @@ embrace.nunspeet.nl
 emm.groningen.nl
 emma.eijsden-margraten.nl
 emmen.nl
+employee.heitje.heerlen.nl
 ems.amstelveen.nl
 ems.bernheze.org
 en.aalten.nl
@@ -6102,6 +6108,7 @@ gisservicestest.zwolle.nl
 gistest.gouda.nl
 gisweb.dijkenwaard.nl
 gisweb.overbetuwe.nl
+git.heerlen.nl
 git.sudwestfryslan.nl
 gitops.acc.denhaag.nl
 gitops.denhaag.nl
@@ -7789,6 +7796,7 @@ krimpenerwaard.nl
 ksnijmegen.acc.nijmegen.nl
 kunstencultuur.harlingen.nl
 kunstwerk.almelo.nl
+kv.heerlen.nl
 kwaliteitsmonitor.utrecht.nl
 laakhavensbepaalt.denhaag.nl
 laarbeek.nl
@@ -7926,6 +7934,7 @@ login-iparticipatie.gennep.nl
 login-pre.mookenmiddelaar.nl
 login-pre.nijkerk.eu
 login-test-ipa.gennep.nl
+login-test-ipa.heerlen.nl
 login.acc.denhaag.nl
 login.alphenaandenrijn.nl
 login.bernheze.org
@@ -8261,6 +8270,7 @@ mail.zwolle.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
+mail1.heerlen.nl
 mail1.smallingerland.nl
 mail1.tilburg.nl
 mail2.amersfoort.nl
@@ -9226,6 +9236,7 @@ neuron.prod.baarn.nl
 neuron.test.baarn.nl
 neuron.zandvoort.nl
 neurontst.kerkrade.nl
+news.heerlen.nl
 nextcloud.apeldoorn.nl
 nextcloud.ede.nl
 ngdw.brunssum.nl
@@ -10586,6 +10597,7 @@ preprod-mijnzorg.denhelder.nl
 preprod-sociaalportaal.dinkelland.nl
 preprod-sociaalportaal.rijssen-holten.nl
 preprod-sociaalportaal.tubbergen.nl
+preprod-toegangsdienst.heerlen.nl
 preprod-woz-portaal-eemnes.baarn.nl
 preprod-wozbalie.pijnacker-nootdorp.nl
 preprod.alphenaandenrijn.nl
@@ -11253,6 +11265,7 @@ router.waalre.nl
 router.winterswijk.nl
 rozendaal.nl
 rp.beverwijk.nl
+rp.heerlen.nl
 rpl3.alphenaandenrijn.nl
 rpl3.amsterdam.nl
 rpl3.nissewaard.nl
@@ -12722,6 +12735,7 @@ test-ipa.gennep.nl
 test-ipa.haarlemmermeer.nl
 test-ipa.hattem.nl
 test-ipa.heerde.nl
+test-ipa.heerlen.nl
 test-ipa.heumen.nl
 test-ipa.hollandskroon.nl
 test-ipa.huizen.nl
@@ -12762,6 +12776,7 @@ test-keycloak.assen.nl
 test-keycloak.enschede.nl
 test-keycloak.gemert-bakel.nl
 test-keycloak.rotterdam.nl
+test-kv.heerlen.nl
 test-meedoen.goeree-overflakkee.nl
 test-meedoen.schagen.nl
 test-meedoenregeling.dongen.nl
@@ -12881,6 +12896,7 @@ test.gemeentebest.nl
 test.gemeentewestland.nl
 test.gulpen-wittem.nl
 test.haarendossiers.oisterwijk.nl
+test.heerlen.nl
 test.hellendoorn.nl
 test.helmond.nl
 test.heuvelrug.nl
@@ -13148,6 +13164,7 @@ toegang.nijkerk.eu
 toegang.rotterdam.nl
 toegang3.denhaag.nl
 toegang4.denhaag.nl
+toegangsdienst.heerlen.nl
 toegangtest.groningen.nl
 toegankelijk.enschede.nl
 toegankelijkestad.zwolle.nl
@@ -13338,6 +13355,7 @@ utrecht.nl
 uwdorpofwijk.alphenaandenrijn.nl
 uwmening.denhaag.nl
 uwvergunning.leiden.nl
+v2.heerlen.nl
 v2.openstad.haarlemmermeer.nl
 vaals.nl
 vaarvergunningen.nieuwkoop.nl
@@ -13456,6 +13474,7 @@ vergunningintaker.zwijndrecht.nl
 verhalenroute.hollandskroon.nl
 verhuisformulieren.amsterdam.nl
 verhuur.gemeente-oldambt.nl
+verhuur.heerlen.nl
 verhuursport.gorinchem.nl
 verhuursport.soest.nl
 verkeersbesluiten.denhaag.nl
@@ -13561,6 +13580,7 @@ vpn.gooisemeren.nl
 vpn.gouda.nl
 vpn.groningen.nl
 vpn.haarlemmermeer.nl
+vpn.heerlen.nl
 vpn.heusden.nl
 vpn.hillegom.nl
 vpn.horstaandemaas.nl
