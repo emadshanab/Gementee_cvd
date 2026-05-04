@@ -688,7 +688,6 @@ http://www.erfgoed.groningen.nl
 http://www.geldrop-mierlo.nl
 http://www.ggd.groningen.nl
 http://www.goedterechtin.leeuwarden.nl
-http://www.heeze-leende.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.kerkrade.nl
@@ -3593,6 +3592,7 @@ https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.halderberge.nl
 https://felix.heerlen.nl
+https://felix.heeze-leende.nl
 https://felix.koggenland.nl
 https://felix.lingewaard.nl
 https://felix.lopik.nl
@@ -4414,7 +4414,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.heeze-leende.nl
 https://ibzpink.hellevoetsluis.nl
 https://ibzpink.helmond.nl
 https://ibzpink.hethogeland.nl
@@ -8644,6 +8643,7 @@ https://www.heemstede.nl
 https://www.heerde.nl
 https://www.heerenveen.nl
 https://www.heerlen.nl
+https://www.heeze-leende.nl
 https://www.heiloo.nl
 https://www.heitje.heerlen.nl
 https://www.hellendoorn.nl

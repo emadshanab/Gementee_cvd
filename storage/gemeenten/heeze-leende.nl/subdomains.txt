@@ -13,6 +13,7 @@ iburgerzaken.heeze-leende.nl
 ibzpink.heeze-leende.nl
 intranet.heeze-leende.nl
 klantcontact.heeze-leende.nl
+mail.heeze-leende.nl
 pkio1.heeze-leende.nl
 preproductie.heeze-leende.nl
 probeer.heeze-leende.nl
