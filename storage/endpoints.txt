@@ -2117,6 +2117,7 @@ https://berichten.gilzerijen.nl
 https://berichten.gorinchem.nl
 https://berichten.heemskerk.nl
 https://berichten.heeze-leende.nl
+https://berichten.heiloo.nl
 https://berichten.helmond.nl
 https://berichten.huizen.nl
 https://berichten.kampen.nl
@@ -6148,6 +6149,7 @@ https://open.gorinchem.nl
 https://open.gouda.nl
 https://open.halderberge.nl
 https://open.heemskerk.nl
+https://open.heiloo.nl
 https://open.hillegom.nl
 https://open.hilversum.nl
 https://open.hofvantwente.nl

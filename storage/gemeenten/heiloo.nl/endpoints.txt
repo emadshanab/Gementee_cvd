@@ -1,4 +1,5 @@
 http://autodiscover.heiloo.nl
+https://berichten.heiloo.nl
 https://betalen.heiloo.nl
 https://edienstenburgerzaken-test.heiloo.nl
 https://edienstenburgerzaken.heiloo.nl
@@ -7,6 +8,7 @@ https://klimaatplein.heiloo.nl
 https://mijnsociaalplein.heiloo.nl
 https://mijnsociaalportaal-acc.heiloo.nl
 https://mijnsociaalportaal.heiloo.nl
+https://open.heiloo.nl
 https://preprod-mijnsociaalplein.heiloo.nl
 https://pv.heiloo.nl
 https://www.heiloo.nl

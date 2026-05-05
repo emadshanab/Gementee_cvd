@@ -60,11 +60,11 @@ dmidoffice
 openpdc
 enterpriseregistration
 openpub
+berichten
 remote
 cmsoo
 loket.acceptatie
 omgevingsvisie
-berichten
 cloudadapter-test
 osb
 kaart

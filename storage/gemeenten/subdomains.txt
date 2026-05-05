@@ -2533,6 +2533,7 @@ berichten.gilzerijen.nl
 berichten.gorinchem.nl
 berichten.heemskerk.nl
 berichten.heeze-leende.nl
+berichten.heiloo.nl
 berichten.helmond.nl
 berichten.huizen.nl
 berichten.kampen.nl
@@ -9684,6 +9685,7 @@ open.groningen.nl
 open.haarlem.nl
 open.halderberge.nl
 open.heemskerk.nl
+open.heiloo.nl
 open.hillegom.nl
 open.hilversum.nl
 open.hofvantwente.nl

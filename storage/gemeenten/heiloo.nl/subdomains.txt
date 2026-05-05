@@ -1,4 +1,5 @@
 autodiscover.heiloo.nl
+berichten.heiloo.nl
 betalen.heiloo.nl
 bis.heiloo.nl
 edienstenburgerzaken-test.heiloo.nl
@@ -9,6 +10,7 @@ klimaatplein.heiloo.nl
 mijnsociaalplein.heiloo.nl
 mijnsociaalportaal-acc.heiloo.nl
 mijnsociaalportaal.heiloo.nl
+open.heiloo.nl
 pki.heiloo.nl
 preprod-mijnsociaalplein.heiloo.nl
 preproductie.heiloo.nl
