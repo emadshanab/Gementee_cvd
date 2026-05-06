@@ -6,6 +6,8 @@ https://beeldbank.hellendoorn.nl
 https://belastingen.hellendoorn.nl
 https://edienstenburgerzaken-test.hellendoorn.nl
 https://edienstenburgerzaken.hellendoorn.nl
+https://formulier-acc.hellendoorn.nl
+https://formulier.hellendoorn.nl
 https://hellendoorn-checker-preprod.hellendoorn.nl
 https://hellendoorn-checker.hellendoorn.nl
 https://hellendoorn.nl

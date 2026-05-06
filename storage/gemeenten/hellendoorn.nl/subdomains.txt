@@ -9,6 +9,8 @@ cloudadapter-t.hellendoorn.nl
 cloudadapter.hellendoorn.nl
 edienstenburgerzaken-test.hellendoorn.nl
 edienstenburgerzaken.hellendoorn.nl
+formulier-acc.hellendoorn.nl
+formulier.hellendoorn.nl
 hellendoorn-checker-preprod.hellendoorn.nl
 hellendoorn-checker.hellendoorn.nl
 hellendoorn.nl

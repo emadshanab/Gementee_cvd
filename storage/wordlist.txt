@@ -70,10 +70,10 @@ osb
 kaart
 login
 digikoppeling-test
+formulier
 beeldbank
 denkmee
 flowmailer-tracking
-formulier
 zaken
 doemee
 hybrid
@@ -679,6 +679,7 @@ edge
 vergunningintaker.preprod
 www.piwik
 corsa
+formulier-acc
 welkom
 www.belastingbalie
 burgerportaal
@@ -993,7 +994,6 @@ zmm
 acceptatievergunningen
 www.acc.piwik
 betaal
-formulier-acc
 mx3
 redirect
 fme

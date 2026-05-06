@@ -5499,6 +5499,7 @@ forms.vga.amsterdam.nl
 forms.wijchen.nl
 formtest.middendrenthe.nl
 formulier-acc.ede.nl
+formulier-acc.hellendoorn.nl
 formulier-acc.leeuwarden.nl
 formulier-test.almere.nl
 formulier-test.hethogeland.nl
@@ -5517,6 +5518,7 @@ formulier.gemeente-oldambt.nl
 formulier.gemeentemaashorst.nl
 formulier.gemert-bakel.nl
 formulier.groningen.nl
+formulier.hellendoorn.nl
 formulier.hethogeland.nl
 formulier.kampen.nl
 formulier.laarbeek.nl
