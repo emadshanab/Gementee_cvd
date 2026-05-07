@@ -5,13 +5,11 @@ http://www.sip.hellevoetsluis.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.webmail.hellevoetsluis.nl
-https://afspraken.hellevoetsluis.nl
 https://bzg1-acc.hellevoetsluis.nl
 https://email.hellevoetsluis.nl
 https://esb-nhr.hellevoetsluis.nl
 https://hellevoetsluis.nl
 https://iburgerzaken.hellevoetsluis.nl
-https://ibzpink.hellevoetsluis.nl
 https://internwifi.hellevoetsluis.nl
 https://ld-01.hellevoetsluis.nl
 https://lyncdiscover.hellevoetsluis.nl
@@ -26,4 +24,5 @@ https://ucweb1-ext.hellevoetsluis.nl
 https://ucwebcon1.hellevoetsluis.nl
 https://waarmerk.hellevoetsluis.nl
 https://webmail.hellevoetsluis.nl
+https://wildcard.hellevoetsluis.nl
 https://www.hellevoetsluis.nl

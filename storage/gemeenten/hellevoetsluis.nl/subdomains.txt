@@ -29,6 +29,7 @@ ucweb1-ext.hellevoetsluis.nl
 ucwebcon1.hellevoetsluis.nl
 waarmerk.hellevoetsluis.nl
 webmail.hellevoetsluis.nl
+wildcard.hellevoetsluis.nl
 www.hellevoetsluis.nl
 www.internwifi.hellevoetsluis.nl
 www.ld-01.hellevoetsluis.nl

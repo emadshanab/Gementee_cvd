@@ -1389,7 +1389,6 @@ https://afspraken.eijsden-margraten.nl
 https://afspraken.gemeente-steenbergen.nl
 https://afspraken.goes.nl
 https://afspraken.goirle.nl
-https://afspraken.hellevoetsluis.nl
 https://afspraken.kampen.nl
 https://afspraken.kapelle.nl
 https://afspraken.landsmeer.nl
@@ -4417,7 +4416,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.hellevoetsluis.nl
 https://ibzpink.helmond.nl
 https://ibzpink.hethogeland.nl
 https://ibzpink.heumen.nl
@@ -8333,6 +8331,7 @@ https://wijzer-acc.opmeer.nl
 https://wijzer.opmeer.nl
 https://wilbertoord.landvancuijk.nl
 https://wildcard.doemee.heemstede.nl
+https://wildcard.hellevoetsluis.nl
 https://windopland.haarlemmermeer.nl
 https://winkel.landvancuijk.nl
 https://winkel.tilburg.nl
