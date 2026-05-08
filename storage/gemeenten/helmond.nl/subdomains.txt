@@ -17,6 +17,7 @@ edienst.helmond.nl
 edienstpp.helmond.nl
 eloket.helmond.nl
 flowmailer-tracking.helmond.nl
+fortimail.helmond.nl
 gbos.helmond.nl
 helmond.nl
 iburgerzaken.helmond.nl
@@ -33,6 +34,7 @@ owa.helmond.nl
 parkeerproducten-acc.helmond.nl
 parkeerproducten.helmond.nl
 personeelsvereniging.helmond.nl
+pki.helmond.nl
 portal.helmond.nl
 portaltest.helmond.nl
 pv.helmond.nl
@@ -43,6 +45,7 @@ sportaccommodaties.helmond.nl
 support.helmond.nl
 test.helmond.nl
 testeloket.helmond.nl
+testintranet.helmond.nl
 uaghelm01.helmond.nl
 uaghelm02.helmond.nl
 welkom.helmond.nl

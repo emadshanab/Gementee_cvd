@@ -5629,6 +5629,7 @@ fortiauth.ad.ede.nl
 fortiems.leidschendam-voorburg.nl
 fortigate.haarlemmermeer.nl
 fortiguard.leeuwarden.nl
+fortimail.helmond.nl
 fortinet.haarlemmermeer.nl
 fortinet.houten.nl
 fortivpn.leidschendam-voorburg.nl
@@ -10278,6 +10279,7 @@ pki.drimmelen.nl
 pki.dronten.nl
 pki.enkhuizen.nl
 pki.heiloo.nl
+pki.helmond.nl
 pki.heumen.nl
 pki.laarbeek.nl
 pki.landgraaf.nl
@@ -13029,6 +13031,7 @@ testformulieren.haarlemmermeer.nl
 testformulieren.veldhoven.nl
 testinhuiz.huizen.nl
 testinloggen.haarlemmermeer.nl
+testintranet.helmond.nl
 testintranet.westerwolde.nl
 testkaart.alphenaandenrijn.nl
 testkoppeling.venray.nl
