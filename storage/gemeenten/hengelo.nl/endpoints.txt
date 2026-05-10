@@ -1,10 +1,12 @@
 http://autodiscover.hengelo.nl
+http://blockchain.hengelo.nl
 http://es.hengelo.nl
 https://aanmelden.hengelo.nl
 https://api.meldingen.hengelo.nl
 https://archief.hengelo.nl
 https://begroting.hengelo.nl
 https://edienstenpubliekszaken-test.hengelo.nl
+https://edienstenpubliekszaken.hengelo.nl
 https://eloket.hengelo.nl
 https://extranet.hengelo.nl
 https://financien.hengelo.nl
@@ -16,5 +18,6 @@ https://mijnzaken-test.hengelo.nl
 https://mijnzaken.hengelo.nl
 https://nieuwsbrieven.hengelo.nl
 https://parkeren.hengelo.nl
+https://praatmee.hengelo.nl
 https://tra.hengelo.nl
 https://www.hengelo.nl

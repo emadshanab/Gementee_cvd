@@ -2769,6 +2769,7 @@ blijfinbeweging.zaanstad.nl
 blik-acc.medemblik.nl
 blik.medemblik.nl
 blik.zwolle.nl
+blockchain.hengelo.nl
 bloemenbuurtbegroot.denhaag.nl
 bloemendaal.nl
 blog.landvancuijk.nl
@@ -10486,6 +10487,7 @@ praatmee.alblasserdam.nl
 praatmee.borsele.nl
 praatmee.boxtel.nl
 praatmee.goeree-overflakkee.nl
+praatmee.hengelo.nl
 praatmee.schiedam.nl
 praatmee.sint-michielsgestel.nl
 praatmee.zaanstad.nl
@@ -12187,6 +12189,7 @@ sportverhuur.amsterdam.nl
 sportverhuur.emmen.nl
 spotler.mailing.landvancuijk.nl
 spyke-stw.alkmaar.nl
+sql-hglmijnhengelo.hengelo.nl
 squit2020.acceptatie.drechterland.nl
 squit2020.acceptatie.gemeentebeek.nl
 squit2020.acceptatie.gemeentewestland.nl

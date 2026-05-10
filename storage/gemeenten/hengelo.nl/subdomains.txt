@@ -4,6 +4,7 @@ archief.hengelo.nl
 autodiscover.hengelo.nl
 begroting.hengelo.nl
 bestanden.hengelo.nl
+blockchain.hengelo.nl
 bor.hengelo.nl
 edienstenpubliekszaken-test.hengelo.nl
 edienstenpubliekszaken.hengelo.nl
@@ -19,6 +20,8 @@ mijnzaken-test.hengelo.nl
 mijnzaken.hengelo.nl
 nieuwsbrieven.hengelo.nl
 parkeren.hengelo.nl
+praatmee.hengelo.nl
+sql-hglmijnhengelo.hengelo.nl
 tra.hengelo.nl
 www.hengelo.nl
 zoeken.hengelo.nl
