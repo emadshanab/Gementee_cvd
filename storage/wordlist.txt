@@ -38,11 +38,11 @@ parkeren
 geo
 testeloket
 adfs
+iparticipatie
 vpn
 belastingen
-iparticipatie
-ruimtelijkeplannen
 test-ipa
+ruimtelijkeplannen
 gemeenteraad
 enterpriseenrollment
 pv
@@ -159,6 +159,7 @@ micollab
 inloggen
 contentbeheer
 begroting
+belastingportaal
 izaaksuite
 snelbaliepp
 vdi
@@ -167,7 +168,6 @@ www.doemee
 fmreturn
 inproces
 cryptshare
-belastingportaal
 en
 gisib
 bis
@@ -243,7 +243,6 @@ desktop
 opendata
 woo
 ita
-meet
 office-addin
 woz-portaal
 byod
@@ -281,6 +280,7 @@ afval
 auth.openstad
 e-loket
 openstad
+meet
 data-test
 xential
 erfgoed
@@ -420,9 +420,13 @@ www.werkplek
 mylex
 gateway
 lyncweb
+access
 prefill
 huisstijl
 mijndesktop
+belastingportaal.acc
+inloggen.belastingportaal
+inloggen.belastingportaal.acc
 www2
 www.acceptatie
 de
@@ -508,6 +512,7 @@ mijnmobiel
 authenticatie
 pip
 www.mail
+prtg
 preprod-mijnsociaaldomein
 rds
 acceptatie-intranet
@@ -525,16 +530,12 @@ vthbroker
 digitaal
 teleweb
 cars
-access
 bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
 wonen
 awtunnel
 service
-belastingportaal.acc
-inloggen.belastingportaal
-inloggen.belastingportaal.acc
 loket.test
 www.praatmee
 edienstenaanvragensd-acceptatie
@@ -682,6 +683,7 @@ corsa
 formulier-acc
 welkom
 www.belastingbalie
+fme
 burgerportaal
 flex
 geotest
@@ -699,7 +701,6 @@ www.login
 post
 www.parkeren
 testafspraken
-prtg
 wmoloket
 berichtenverkeer
 www.kaarten
@@ -826,6 +827,7 @@ fm
 gpa
 intranetacc
 mo
+ndes
 nextcloud
 octobox
 tijdschrijven
@@ -996,7 +998,6 @@ www.acc.piwik
 betaal
 mx3
 redirect
-fme
 geldwijzer
 mediabank
 mx
@@ -2094,7 +2095,6 @@ maatwerkacc
 matenpark
 mheenpark
 mijngeldzakenacc
-ndes
 ndesapeldoorn
 nedbrw
 nedbrwacc
@@ -4305,16 +4305,22 @@ es
 mijnzaken-test
 sql-hglmijnhengelo
 tra
+acceptatie-ontwikkelplein
 cms-extranet
+jkc
 jzd-test
 jzd
 kluis
+meet2
+ontwikkelplein
 provconnect
 roemte
 securewifi
+servicedesk-t
 siem2
 test-cmsextranet
 test-extranet
+www.ontwikkelplein
 email.privacy
 bijeen
 hsdjbappdb01
