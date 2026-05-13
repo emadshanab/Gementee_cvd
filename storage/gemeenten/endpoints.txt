@@ -4419,7 +4419,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.heusden.nl
 https://ibzpink.heuvelrug.nl
 https://ibzpink.hilvarenbeek.nl
 https://ibzpink.hilversum.nl
@@ -8994,6 +8993,7 @@ https://www.zwemmen.emmen.nl
 https://www.zwemmen.venlo.nl
 https://www.zwijndrecht.nl
 https://www.zwolle.nl
+https://www2.heusden.nl
 https://xencor.bergenopzoom.nl
 https://xencort.bergenopzoom.nl
 https://xential-prod.stadskanaal.nl

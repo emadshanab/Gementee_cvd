@@ -1046,6 +1046,7 @@ afspraak.gooisemeren.nl
 afspraak.haarlemmermeer.nl
 afspraak.halderberge.nl
 afspraak.heemskerk.nl
+afspraak.heusden.nl
 afspraak.katwijk.nl
 afspraak.lopik.nl
 afspraak.maassluis.nl
@@ -2746,6 +2747,8 @@ binnenstad.leiden.nl
 binnenstadsplan2030.denhaag.nl
 binnenstebuiten-acc.ede.nl
 binnenstebuiten.ede.nl
+birefreshacc.heusden.nl
+birefreshprod.heusden.nl
 bis-test.tilburg.nl
 bis.almelo.nl
 bis.assen.nl
@@ -3499,6 +3502,8 @@ cpanel.samen.rhenen.nl
 cpanel.vijfheerenlanden.nl
 cpcalendars.samen.rhenen.nl
 cpcontacts.samen.rhenen.nl
+cppm-vip1.heusden.nl
+cppm-vip2.heusden.nl
 cppm.delft.nl
 cranendonck.nl
 crdp.twenterand.nl
@@ -3553,6 +3558,7 @@ cuup-web.amsterdam.nl
 cvdk.nissewaard.nl
 cvdkacc.nissewaard.nl
 cvdr.zwolle.nl
+cxportal.heusden.nl
 cyclomedia.gulpen-wittem.nl
 cyclorama.utrecht.nl
 da.deurne.nl
@@ -6381,7 +6387,16 @@ hpdm.oss.nl
 hpdm.purmerend.nl
 hrplus.rotterdam.nl
 hrpr.dev.denhaag.nl
+hsdarbcp01.heusden.nl
+hsdarbcp02.heusden.nl
+hsdarbcp03.heusden.nl
+hsdarbcp04.heusden.nl
+hsdarbmc01.heusden.nl
+hsdarbmc02.heusden.nl
+hsdarbmm01.heusden.nl
+hsddw01.heusden.nl
 hsdjbappdb01.heusden.nl
+hsdxillio01.heusden.nl
 hta-stuf.medemblik.nl
 hta.koggenland.nl
 hta.medemblik.nl
@@ -8348,6 +8363,7 @@ malengo.gemert-bakel.nl
 mam.borne.nl
 mam.ede.nl
 mam.groningen.nl
+mam.heusden.nl
 mam.overbetuwe.nl
 mam.purmerend.nl
 mamrdm.rotterdam.nl
@@ -8399,6 +8415,7 @@ mdm.denhaag.nl
 mdm.ede.nl
 mdm.gemeentewestland.nl
 mdm.haarlem.nl
+mdm.heusden.nl
 mdm.montferland.info
 mdm.overbetuwe.nl
 mdm.purmerend.nl
@@ -10428,6 +10445,7 @@ portal.haarlemmermeer.nl
 portal.harlingen.nl
 portal.heerenveen.nl
 portal.helmond.nl
+portal.heusden.nl
 portal.hilversum.nl
 portal.kaagenbraassem.nl
 portal.kampen.nl
@@ -10476,6 +10494,7 @@ post.westerwolde.nl
 postbus.huizen.nl
 postbus1.huizen.nl
 postcodezoektool.rotterdam.nl
+postex.heusden.nl
 postionering.denhaag.nl
 potjeswijzer.westerkwartier.nl
 powerautomatecorsa.eersel.nl
@@ -11646,7 +11665,13 @@ servicestore.doetinchem.nl
 sfaccounts.haarlemmermeer.nl
 sfb.urk.nl
 sfb2.urk.nl
+sfbaccess.heusden.nl
 sfbaccess.houten.nl
+sfbav.heusden.nl
+sfbdialin.heusden.nl
+sfbmeet.heusden.nl
+sfbservices.heusden.nl
+sfbwebconf.heusden.nl
 sfbwebconf.houten.nl
 sftp.heerlen.nl
 sftp3.rotterdam.nl
@@ -11656,6 +11681,7 @@ sharefile.borne.nl
 sharefile.ede.nl
 sharefile.gemeentewestland.nl
 sharefile.groningen.nl
+sharefile.heusden.nl
 sharefile.overbetuwe.nl
 sharefile.sudwestfryslan.nl
 sharefile.twenterand.nl
@@ -13972,6 +13998,7 @@ webmail.zutphen.nl
 webmail2.heusden.nl
 webmail3.twenterand.nl
 webmailacc.utrecht.nl
+webmailintern.heusden.nl
 webmailpost.amstelveen.nl
 webmeeting.brunssum.nl
 webproxy.venray.nl
@@ -14185,6 +14212,7 @@ wierden.nl
 wifi-sport.alkmaar.nl
 wifi.bergenopzoom.nl
 wifi.gemeentemaashorst.nl
+wifi.heusden.nl
 wifi.hilversum.nl
 wifi.hoorn.nl
 wifi.twenterand.nl
@@ -14260,6 +14288,7 @@ wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
 wkpb.haarlem.nl
 wkpb.lelystad.nl
+wlan.heusden.nl
 wlan.venlo.nl
 wlc.denhaag.nl
 wlc01.waterland.nl
@@ -15096,9 +15125,11 @@ www.nuenen.nl
 www.nunspeet.nl
 www.nwro.velsen.nl
 www.oco.eindhoven.nl
+www.oefen.heusden.nl
 www.oefenenmetstemmen.denhaag.nl
 www.oegstgeest.nl
 www.office365.haarlemmermeer.nl
+www.officewebapps.heusden.nl
 www.oirschot.nl
 www.oisterwijk.nl
 www.old.landvancuijk.nl
@@ -15434,6 +15465,7 @@ www.voerendaal.nl
 www.voorschoten.nl
 www.voorst.nl
 www.vpn.haarlemmermeer.nl
+www.vpn.heusden.nl
 www.vpn.hillegom.nl
 www.vpn.peelenmaas.nl
 www.vraagbaak.doesburg.nl
