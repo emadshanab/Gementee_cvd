@@ -1210,7 +1210,6 @@ https://acceptatie-formulieren.dronten.nl
 https://acceptatie-intranet.hardenberg.nl
 https://acceptatie-intranet.nederbetuwe.nl
 https://acceptatie-intranet.oosterhout.nl
-https://acceptatie-mobiliteitsplan.hillegom.nl
 https://acceptatie-mobiliteitsplan.lisse.nl
 https://acceptatie-ontwikkelplein.hethogeland.nl
 https://acceptatie-open.dinkelland.nl
@@ -1238,7 +1237,6 @@ https://acceptatie.gilzerijen.nl
 https://acceptatie.goirle.nl
 https://acceptatie.hardenberg.nl
 https://acceptatie.hethogeland.nl
-https://acceptatie.hillegom.nl
 https://acceptatie.hilvarenbeek.nl
 https://acceptatie.hilvernet.hilvarenbeek.nl
 https://acceptatie.hofvantwente.nl
@@ -1848,6 +1846,7 @@ https://bastion365.assen.nl
 https://bastion365.asten.nl
 https://bastion365.dijkenwaard.nl
 https://bastion365.heusden.nl
+https://bastion365.hillegom.nl
 https://bastion365.hollandskroon.nl
 https://bastion365.katwijk.nl
 https://bastion365.nederweert.nl
@@ -4169,7 +4168,6 @@ https://heusden.nl
 https://heuvelrug.nl
 https://hildebrandplein.denhaag.nl
 https://hillegom-checker-preprod.hillegom.nl
-https://hillegom.nl
 https://hilvarenbeek.nl
 https://hilvernet.hilvarenbeek.nl
 https://hilversum.nl
@@ -6156,7 +6154,6 @@ https://open.gouda.nl
 https://open.halderberge.nl
 https://open.heemskerk.nl
 https://open.heiloo.nl
-https://open.hillegom.nl
 https://open.hilversum.nl
 https://open.hofvantwente.nl
 https://open.katwijk.nl
@@ -8205,11 +8202,9 @@ https://webservice-decosdvl.amsterdam.nl
 https://webservices-ot.tilburg.nl
 https://webshop.t-diel.nl
 https://webshopvitaloo.sudwestfryslan.nl
-https://website.acceptatie.hillegom.nl
 https://website.acceptatie.lisse.nl
 https://website.alphen-chaam.nl
 https://website.gilzerijen.nl
-https://website.hillegom.nl
 https://website.landvancuijk.nl
 https://website.lisse.nl
 https://website.teylingen.nl
@@ -8670,7 +8665,6 @@ https://www.heumen.nl
 https://www.heusden.nl
 https://www.heuvelrug.nl
 https://www.hildebrandplein.denhaag.nl
-https://www.hillegom.nl
 https://www.hilvarenbeek.nl
 https://www.hilversum.nl
 https://www.historiehuis.roermond.nl

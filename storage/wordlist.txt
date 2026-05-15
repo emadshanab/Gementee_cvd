@@ -25,8 +25,8 @@ test
 eloket
 waarmerk
 dkd
-betalen
 portal
+betalen
 acc
 werkplek
 meldingen
@@ -115,6 +115,7 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
+bastion365
 podiumd-logs
 extranet
 govroam
@@ -125,7 +126,6 @@ apps
 acc-keycloak-admin
 acc-keycloak
 acc-zac
-bastion365
 contact
 keycloak
 notificaties
@@ -167,6 +167,7 @@ abc
 www.doemee
 fmreturn
 mdm
+smtp
 inproces
 cryptshare
 en
@@ -177,7 +178,6 @@ auth
 bag
 sip
 gasten
-smtp
 AutoDiscover
 jaarstukken
 bor
@@ -281,6 +281,7 @@ auth.openstad
 e-loket
 openstad
 meet
+support
 data-test
 xential
 erfgoed
@@ -313,7 +314,6 @@ test-mijn
 awmag
 beeldbank-bo
 simcms-preproductie
-support
 intranetcms
 rap
 wifi
@@ -369,6 +369,7 @@ admin.doemee
 api.doemee
 auth.doemee
 img.doemee
+media
 test-formulier
 test-notificaties
 test-objecten
@@ -439,6 +440,7 @@ testsiam
 zaakloket
 2secure
 applicaties
+assets
 belastingbalie-acc
 cms.openstad
 dev
@@ -446,7 +448,6 @@ gbi
 moh-acc
 moh
 werk
-media
 test-abc
 test-contact
 test-keycloak-admin
@@ -474,6 +475,7 @@ bewustwording
 autorisatiebeheer-test
 djumaproxy
 sync
+pdc
 download
 parkeren-siam-test
 grooster
@@ -484,6 +486,7 @@ edison
 klantportaal
 mfa
 mijnsubsidie
+ns2
 smtp1
 smtp2
 www.open
@@ -500,6 +503,7 @@ idbroker
 mobility
 services
 mta-sts.raad
+edge
 gt-loket
 ondernemen
 duo
@@ -518,6 +522,7 @@ rds
 acceptatie-intranet
 neuron
 nieuwsbrieven
+stats
 mijn-acc
 sso
 gemeentebestuur
@@ -562,7 +567,6 @@ energieloket
 acc.meldingen
 api.acc.meldingen
 app
-assets
 bouwdossiers
 dataportaal
 mas
@@ -610,7 +614,6 @@ test-eloket
 uitwijk
 www.omgevingsvisie
 mbg
-pdc
 clicksfm
 servicebus
 testmijn
@@ -626,7 +629,6 @@ cjg
 geoinformatie
 geoservices
 lvs
-ns2
 octopus-acc
 octopus
 projecten
@@ -677,7 +679,6 @@ www.socialekaart
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
-edge
 vergunningintaker.preprod
 www.piwik
 corsa
@@ -713,7 +714,6 @@ squitxo
 hpdm
 magazines
 online
-stats
 handhavingtest
 open-formulieren
 validsign
@@ -727,6 +727,7 @@ portaltest
 sera
 anyconnect
 bzg1-acc
+git
 key2datadistributie
 vacatures
 monitoring
@@ -1118,11 +1119,11 @@ begraafplaats
 subsidies-backend-test
 subsidies-test
 bzg1
-git
 melding
 tripleforms
 ubwprod
 ubwtest
+v2
 WOZ-loket
 vris-brk
 werken
@@ -1139,6 +1140,9 @@ sfbaccess
 sfbwebconf
 wlan
 return
+beta
+blog
+help
 www.thuiswerken
 gvonline
 testwerkplek
@@ -4262,7 +4266,6 @@ tst-eformulier
 tst-tripleforms
 tubweau
 uipath-orchestrator
-v2
 vf.heitje
 www.heitje
 api-hetravijn
@@ -4375,8 +4378,17 @@ vicrea
 vinden
 www.cars
 www.wmoloket
+alpha
+azure
+external
+forum
 hillegom-checker-preprod
 hillegom-checker
+preview
+public
+sandbox
+shop
+storage
 acceptatie.hilvernet
 hilvernet
 1221
@@ -4591,7 +4603,6 @@ bedrijven
 bedrijvengids
 beers
 beugen
-blog
 boxmeer
 column
 cuijk
@@ -5172,7 +5183,6 @@ glapp27.local
 glapp39.local
 glexc01.local
 glexc02.local
-help
 klickwion
 local
 mks-prod
@@ -6068,7 +6078,6 @@ apim.schrijfkader.extranet
 auth.darwin
 authenticatie-preprod
 beeldbank.extranet
-beta
 bezoeker
 bis-test
 bor.extranet

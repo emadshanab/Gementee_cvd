@@ -1298,6 +1298,7 @@ almereconnect.almere.nl
 almeregeeftenergie.almere.nl
 almerekracht.almere.nl
 almerepoort.almere.nl
+alpha.hillegom.nl
 alphen-chaam.nl
 alphenaandenrijn.nl
 alsb.amsterdam.nl
@@ -1680,6 +1681,7 @@ assengast2.assen.nl
 asset.amsterdam.nl
 assets.amsterdam.nl
 assets.heerlen.nl
+assets.hillegom.nl
 assets.oostgelre.nl
 assetvalue.rotterdam.nl
 assistent.amsterdam.nl
@@ -2085,6 +2087,7 @@ awtunnel.weert.nl
 awvpn.someren.nl
 axians.lev.delft.nl
 az-acc.mijn.amsterdam.nl
+azure.hillegom.nl
 b2b.oso.s-hertogenbosch.nl
 baarle-nassau.nl
 baarn.nl
@@ -2140,6 +2143,7 @@ bastion365.assen.nl
 bastion365.asten.nl
 bastion365.dijkenwaard.nl
 bastion365.heusden.nl
+bastion365.hillegom.nl
 bastion365.hollandskroon.nl
 bastion365.katwijk.nl
 bastion365.nederweert.nl
@@ -2604,6 +2608,7 @@ bestuursakkoord.s-hertogenbosch.nl
 bestuursinformatie.beesel.nl
 bestuursrapportage.leiden.nl
 bestuursrapportage.middelburg.nl
+beta.hillegom.nl
 beta.tilburg.nl
 betaal.ede.nl
 betaal.rhenen.nl
@@ -2779,6 +2784,7 @@ blik.zwolle.nl
 blockchain.hengelo.nl
 bloemenbuurtbegroot.denhaag.nl
 bloemendaal.nl
+blog.hillegom.nl
 blog.landvancuijk.nl
 bmidms.amsterdam.nl
 bo-parkeervergunningen.acc.denhaag.nl
@@ -4605,6 +4611,7 @@ edam-volendam.nl
 ede.nl
 edge.echt-susteren.nl
 edge.gemeentemaasgouw.nl
+edge.hillegom.nl
 edge.roerdalen.nl
 edienst.helmond.nl
 edienstaanvragensd.defryskemarren.nl
@@ -5247,6 +5254,7 @@ extern.emmen.nl
 extern.gemeentemaashorst.nl
 extern.huizen.nl
 extern.pijnacker-nootdorp.nl
+external.hillegom.nl
 extra.katwijk.nl
 extranet-acc.eemsdelta.nl
 extranet.baarn.nl
@@ -5645,6 +5653,7 @@ fortimail.helmond.nl
 fortinet.haarlemmermeer.nl
 fortinet.houten.nl
 fortivpn.leidschendam-voorburg.nl
+forum.hillegom.nl
 foto-bo.rijswijk.nl
 foto.landvancuijk.nl
 foto.rijswijk.nl
@@ -6125,6 +6134,7 @@ gistest.gouda.nl
 gisweb.dijkenwaard.nl
 gisweb.overbetuwe.nl
 git.heerlen.nl
+git.hillegom.nl
 git.sudwestfryslan.nl
 gitops.acc.denhaag.nl
 gitops.denhaag.nl
@@ -6325,6 +6335,7 @@ hellevoetsluis.nl
 helloid.bergenopzoom.nl
 helloid.sittard-geleen.nl
 helmond.nl
+help.hillegom.nl
 help.oostgelre.nl
 helpdesk.gemeentesluis.nl
 helpmij.noordoostpolder.nl
@@ -8438,6 +8449,7 @@ media-t.delft.nl
 media.assen.nl
 media.delft.nl
 media.denhaag.nl
+media.hillegom.nl
 media.landvancuijk.nl
 mediabank.eindhoven.nl
 mediabank.gemeentehw.nl
@@ -9384,6 +9396,7 @@ ns1.rotterdam.nl
 ns1.utrecht.nl
 ns1.webserver.schiedam.nl
 ns2.denhaag.nl
+ns2.hillegom.nl
 ns2.rotterdam.nl
 ns2.utrecht.nl
 ns2.webserver.schiedam.nl
@@ -10232,6 +10245,7 @@ pdc-api.cg-intern.acc.utrecht.nl
 pdc-api.cg-intern.ont.utrecht.nl
 pdc-api.cg-intern.utrecht.nl
 pdc.buren.nl
+pdc.hillegom.nl
 pdc.sittard-geleen.nl
 pdc.sudwestfryslan.nl
 pdc.test.sudwestfryslan.nl
@@ -10446,6 +10460,7 @@ portal.harlingen.nl
 portal.heerenveen.nl
 portal.helmond.nl
 portal.heusden.nl
+portal.hillegom.nl
 portal.hilversum.nl
 portal.kaagenbraassem.nl
 portal.kampen.nl
@@ -10787,6 +10802,7 @@ preproductiebroker.gemeentewesterveld.nl
 prepzorg.acc.amsterdam.nl
 prepzorg.amsterdam.nl
 prepzorg.it4d.azure.amsterdam.nl
+preview.hillegom.nl
 pric.rotterdam.nl
 prifill-test.sudwestfryslan.nl
 prijsvraag-zwembad.apeldoorn.nl
@@ -10919,6 +10935,7 @@ psn.ise.rotterdam.nl
 psquit2020.landgraaf.nl
 ptr.cranendonck.nl
 pubgov.heerenveen.nl
+public.hillegom.nl
 publicatie-test.castricum.nl
 publicatie.castricum.nl
 publicatie.heiloo.nl
@@ -11425,6 +11442,7 @@ sammy-acc.derondevenen.nl
 sammy.derondevenen.nl
 sammycms-acc.derondevenen.nl
 sammycms.derondevenen.nl
+sandbox.hillegom.nl
 sap01.gem.overbetuwe.nl
 sas.huizen.nl
 sat.woudenberg.nl
@@ -11691,6 +11709,7 @@ sharepoint.dalfsen.nl
 sherlock-fa.amsterdam.nl
 shift2.voorst.nl
 shop.heitje.heerlen.nl
+shop.hillegom.nl
 shopping.groningen.nl
 shops.landvancuijk.nl
 siam-test.wageningen.nl
@@ -12072,6 +12091,7 @@ smtp.dronten.nl
 smtp.gemeentebeek.nl
 smtp.heemstede.nl
 smtp.heusden.nl
+smtp.hillegom.nl
 smtp.lingewaard.nl
 smtp.moerdijk.nl
 smtp.opsterland.nl
@@ -12374,6 +12394,7 @@ stationsdistrict.nijmegen.nl
 statistieken-intranet.enschede.nl
 statistieken.vlissingen.nl
 stats.gorinchem.nl
+stats.hillegom.nl
 stats.intranet.delft.nl
 stats.intranet.oostgelre.nl
 stats.purmerend.nl
@@ -12399,6 +12420,7 @@ stichtsevecht.nl
 stkbcp01.alkmaar.nl
 stoepvrij.groningen.nl
 stolpersteine.groningen.nl
+storage.hillegom.nl
 storavox.landgraaf.nl
 storefront.delft.nl
 storefront.gemeentebeek.nl
@@ -12572,6 +12594,7 @@ suppliers.tilburg.nl
 support.bergen-nh.nl
 support.gemeentebeek.nl
 support.helmond.nl
+support.hillegom.nl
 support.nieuwegein.nl
 support.ovh.gemeentebeek.nl
 support.veere.nl
@@ -13407,6 +13430,7 @@ uwdorpofwijk.alphenaandenrijn.nl
 uwmening.denhaag.nl
 uwvergunning.leiden.nl
 v2.heerlen.nl
+v2.hillegom.nl
 v2.openstad.haarlemmermeer.nl
 vaals.nl
 vaarvergunningen.nieuwkoop.nl
@@ -14894,7 +14918,6 @@ www.heuvelrug.nl
 www.hh2015.groningen.nl
 www.hier.groningen.nl
 www.hildebrandplein.denhaag.nl
-www.hillegom.nl
 www.hilvarenbeek.nl
 www.hilversum.nl
 www.historiehuis.roermond.nl
