@@ -265,6 +265,7 @@ kcc
 mx1
 mobiel
 mijnsociaaldomein
+drop
 cloudadapter-prod
 handhaving
 www.denkmee
@@ -290,7 +291,6 @@ key2gbav
 publicaties
 bestanden
 squit2020.acceptatie
-drop
 midoffice
 mijnzorg-acc
 geovisia
