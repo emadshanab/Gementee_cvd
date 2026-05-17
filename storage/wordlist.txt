@@ -602,6 +602,7 @@ automator
 mijnzorg-test
 rx-mission-publiceren
 preprod-mijnoverzicht
+inkomensondersteuning
 sportaccommodaties
 ztna
 mycorsanxt
@@ -727,6 +728,7 @@ portaltest
 sera
 anyconnect
 bzg1-acc
+bzg1
 git
 key2datadistributie
 vacatures
@@ -900,7 +902,6 @@ Belastingportaal-test
 netwerk
 beheerbeeldbank
 ig
-inkomensondersteuning
 www.stadsarchief
 esuitenotubiz-test
 ironport
@@ -1118,7 +1119,6 @@ hulpwijzer
 begraafplaats
 subsidies-backend-test
 subsidies-test
-bzg1
 melding
 tripleforms
 ubwprod
@@ -1145,6 +1145,7 @@ blog
 help
 www.thuiswerken
 gvonline
+sportief
 testwerkplek
 Cloudadapter-test
 cmsjip
@@ -4395,11 +4396,12 @@ hilvernet
 Autodiscover
 bgthvs
 bgtwdm
+dashboard.sportief
 data-acc
 mijnsociaalplein-acc
+preprod-inkomensondersteuning
+revoke
 ucconf01
-vrijwilliger
-vrijwilligerin
 wijdemeren
 zsnl-acceptatie
 Cloudadapter-prod
@@ -4892,7 +4894,6 @@ mdmks
 mdtel01
 opentunnel.test
 roel
-sportief
 test-witgoed
 leef-test
 e2s-test

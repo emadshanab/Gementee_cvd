@@ -532,6 +532,7 @@ http://rekenkamer.amsterdam.nl
 http://remote.gemeentesluis.nl
 http://renswoude.nl
 http://reuseldemierden.nl
+http://revoke.hilversum.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://rp.beverwijk.nl
@@ -1388,6 +1389,7 @@ https://afspraken.eijsden-margraten.nl
 https://afspraken.gemeente-steenbergen.nl
 https://afspraken.goes.nl
 https://afspraken.goirle.nl
+https://afspraken.hilversum.nl
 https://afspraken.kampen.nl
 https://afspraken.kapelle.nl
 https://afspraken.landsmeer.nl
@@ -2694,6 +2696,7 @@ https://darwin.tilburg.nl
 https://dashboard-iav-api.goeree-overflakkee.nl
 https://dashboard-iav.goeree-overflakkee.nl
 https://dashboard.makkelijkemarkt.amsterdam.nl
+https://dashboard.sportief.hilversum.nl
 https://data-acc.hilversum.nl
 https://data-test.bergendal.nl
 https://data-test.beuningen.nl
@@ -4419,7 +4422,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.hilversum.nl
 https://ibzpink.hollandskroon.nl
 https://ibzpink.hoogeveen.nl
 https://ibzpink.horstaandemaas.nl
@@ -4611,6 +4613,7 @@ https://inkomen.mijn.arnhem.nl
 https://inkomensadvies.rotterdam.nl
 https://inkomensbalie.eindhoven.nl
 https://inkomensondersteuning.breda.nl
+https://inkomensondersteuning.hilversum.nl
 https://inkomensondersteuning.nijmegen.nl
 https://inkomensondersteuningpp.breda.nl
 https://inkoopplein.almere.nl
@@ -6625,6 +6628,7 @@ https://preprod-formulieren.gemeentehw.nl
 https://preprod-formulieren.pijnacker-nootdorp.nl
 https://preprod-formulieren.waddinxveen.nl
 https://preprod-formulieren.wijdemeren.nl
+https://preprod-inkomensondersteuning.hilversum.nl
 https://preprod-loket.gemeenteberkelland.nl
 https://preprod-meedoen.hellendoorn.nl
 https://preprod-meedoen.hollandskroon.nl
@@ -7380,6 +7384,7 @@ https://sporten.waalwijk.nl
 https://sportenbeweeg.rijssen-holten.nl
 https://sportencultuur.almere.nl
 https://sportencultuur.gorinchem.nl
+https://sportief.hilversum.nl
 https://sportief.middendrenthe.nl
 https://sportlocaties.nieuwegein.nl
 https://sportloket.landvancuijk.nl
@@ -8073,8 +8078,6 @@ https://vraagwijzer.gemeente-steenbergen.nl
 https://vragenlijst.eindhoven.nl
 https://vragenmachine.landvancuijk.nl
 https://vri.extranet.tilburg.nl
-https://vrijwilliger.hilversum.nl
-https://vrijwilligerin.hilversum.nl
 https://vriseloket.cranendonck.nl
 https://vrm.acc.amsterdam.nl
 https://vrm.amsterdam.nl

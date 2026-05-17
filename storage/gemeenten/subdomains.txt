@@ -1128,6 +1128,7 @@ afspraken.gulpen-wittem.nl
 afspraken.haaksbergen.nl
 afspraken.heeze-leende.nl
 afspraken.hellevoetsluis.nl
+afspraken.hilversum.nl
 afspraken.huizen.nl
 afspraken.ijsselstein.nl
 afspraken.kaagenbraassem.nl
@@ -3012,6 +3013,7 @@ bzg1-acc.heerlen.nl
 bzg1-acc.hellevoetsluis.nl
 bzg1-acc.twenterand.nl
 bzg1.heerlen.nl
+bzg1.hilversum.nl
 bzg1.vaals.nl
 c2c-tst.gemeente.groningen.nl
 c2c.gemeente.groningen.nl
@@ -3656,6 +3658,7 @@ dashboard-iav-api.goeree-overflakkee.nl
 dashboard-iav.goeree-overflakkee.nl
 dashboard.makkelijkemarkt.amsterdam.nl
 dashboard.makkelijkemarkt.mrkt-a.azure.amsterdam.nl
+dashboard.sportief.hilversum.nl
 data-acc.hilversum.nl
 data-test.bergendal.nl
 data-test.beuningen.nl
@@ -4208,6 +4211,7 @@ dkd.gooisemeren.nl
 dkd.hardenberg.nl
 dkd.heerenveen.nl
 dkd.heerlen.nl
+dkd.hilversum.nl
 dkd.hofvantwente.nl
 dkd.kampen.nl
 dkd.landgraaf.nl
@@ -7012,6 +7016,7 @@ inkomen.mijn.arnhem.nl
 inkomensadvies.rotterdam.nl
 inkomensbalie.eindhoven.nl
 inkomensondersteuning.breda.nl
+inkomensondersteuning.hilversum.nl
 inkomensondersteuning.nijmegen.nl
 inkomensondersteuningpp.breda.nl
 inkoopplein.almere.nl
@@ -10590,6 +10595,7 @@ preprod-formulieren.gemeentehw.nl
 preprod-formulieren.pijnacker-nootdorp.nl
 preprod-formulieren.waddinxveen.nl
 preprod-formulieren.wijdemeren.nl
+preprod-inkomensondersteuning.hilversum.nl
 preprod-loket.gemeenteberkelland.nl
 preprod-meedoen.hellendoorn.nl
 preprod-meedoen.hollandskroon.nl
@@ -11236,6 +11242,7 @@ restore.wierden.nl
 return.heuvelrug.nl
 return.purmerend.nl
 reuseldemierden.nl
+revoke.hilversum.nl
 revprox-acc.oostgelre.nl
 revprox.oostgelre.nl
 revprox01.oostgelre.nl
@@ -12241,6 +12248,7 @@ sporten.waalwijk.nl
 sportenbeweeg.rijssen-holten.nl
 sportencultuur.almere.nl
 sportencultuur.gorinchem.nl
+sportief.hilversum.nl
 sportief.middendrenthe.nl
 sportlocaties.nieuwegein.nl
 sportloket.landvancuijk.nl
@@ -13694,8 +13702,6 @@ vraagwijzer.gemeente-steenbergen.nl
 vragenlijst.eindhoven.nl
 vragenmachine.landvancuijk.nl
 vri.extranet.tilburg.nl
-vrijwilliger.hilversum.nl
-vrijwilligerin.hilversum.nl
 vrijwilligerswerk-oostgelre.oostgelre.nl
 vris-brk.heeze-leende.nl
 vris-brk.valkenswaard.nl
