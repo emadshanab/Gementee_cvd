@@ -741,6 +741,7 @@ bouwarchief
 edienstenpreprod
 mobiliteitsplan
 website.acceptatie
+my-lex
 wijkteam
 open-formulieren-test
 preprod-belastingen
@@ -1155,7 +1156,6 @@ test-jip
 communicatie
 www.meedoen
 test-kaartviewer
-my-lex
 veilig
 spf
 ssp

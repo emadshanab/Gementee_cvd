@@ -19,6 +19,7 @@ jip.hofvantwente.nl
 keyhub.hofvantwente.nl
 mijn.hofvantwente.nl
 mijnsociaalplein.hofvantwente.nl
+my-lex.hofvantwente.nl
 omgevingsvisie.hofvantwente.nl
 open.hofvantwente.nl
 openpdc.hofvantwente.nl
