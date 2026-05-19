@@ -1,5 +1,8 @@
 acc-openwave.hollandskroon.nl
+autodiscover.hollandskroon.nl
 bastion365.hollandskroon.nl
+belastingportaal.acc.hollandskroon.nl
+belastingportaal.hollandskroon.nl
 communicatie.hollandskroon.nl
 denkmee.hollandskroon.nl
 duurzaam.hollandskroon.nl
@@ -8,14 +11,17 @@ geodata.hollandskroon.nl
 hollandskroon.nl
 iburgerzaken.hollandskroon.nl
 ibzpink.hollandskroon.nl
+idp.hollandskroon.nl
 idselect.hollandskroon.nl
 idselectprd.hollandskroon.nl
+inloggen.belastingportaal.acc.hollandskroon.nl
+inloggen.belastingportaal.hollandskroon.nl
 iparticipatie.hollandskroon.nl
 meedoen.hollandskroon.nl
 mijn.hollandskroon.nl
 openpdc.hollandskroon.nl
 openpub.hollandskroon.nl
-organisatievisie2030.hollandskroon.nl
+openwave.hollandskroon.nl
 participatie.hollandskroon.nl
 preprod-meedoen.hollandskroon.nl
 preprod-mijn.hollandskroon.nl
@@ -27,5 +33,3 @@ werkenbij.hollandskroon.nl
 wijkteam.hollandskroon.nl
 www.denkmee.hollandskroon.nl
 www.hollandskroon.nl
-www.meedoen.hollandskroon.nl
-www.werkenbij.hollandskroon.nl

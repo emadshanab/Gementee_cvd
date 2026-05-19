@@ -1896,6 +1896,7 @@ autodiscover.heusden.nl
 autodiscover.hillegom.nl
 autodiscover.hilversum.nl
 autodiscover.hofvantwente.nl
+autodiscover.hollandskroon.nl
 autodiscover.hoogeveen.nl
 autodiscover.hoorn.nl
 autodiscover.horstaandemaas.nl
@@ -2498,6 +2499,7 @@ belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
 belastingportaal.acc.assen.nl
 belastingportaal.acc.hethogeland.nl
+belastingportaal.acc.hollandskroon.nl
 belastingportaal.acc.tynaarlo.nl
 belastingportaal.assen.nl
 belastingportaal.boxtel.nl
@@ -2505,6 +2507,7 @@ belastingportaal.dinkelland.nl
 belastingportaal.goirle.nl
 belastingportaal.hethogeland.nl
 belastingportaal.hilvarenbeek.nl
+belastingportaal.hollandskroon.nl
 belastingportaal.midden-groningen.nl
 belastingportaal.oisterwijk.nl
 belastingportaal.sint-michielsgestel.nl
@@ -6903,6 +6906,7 @@ idiensten-contract.rotterdam.nl
 idinloggen.oosterhout.nl
 idinloggenpre.oosterhout.nl
 idocumenten.urk.nl
+idp.hollandskroon.nl
 idrac1.ovh.gemeentebeek.nl
 idrac10.ovh.gemeentebeek.nl
 idrac2.ovh.gemeentebeek.nl
@@ -7033,9 +7037,11 @@ inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
 inloggen.belastingportaal.acc.assen.nl
 inloggen.belastingportaal.acc.hethogeland.nl
+inloggen.belastingportaal.acc.hollandskroon.nl
 inloggen.belastingportaal.acc.tynaarlo.nl
 inloggen.belastingportaal.assen.nl
 inloggen.belastingportaal.hethogeland.nl
+inloggen.belastingportaal.hollandskroon.nl
 inloggen.belastingportaal.tynaarlo.nl
 inloggen.castricum.nl
 inloggen.edam-volendam.nl
@@ -9901,6 +9907,7 @@ opentunnel.wormerland.nl
 opentunnel.zaanstad.nl
 opentunneltest.zaanstad.nl
 openwave.beverwijk.nl
+openwave.hollandskroon.nl
 openzaak-zgw.acc.denhaag.nl
 openzaak-zgw.denhaag.nl
 openzaak-zgw.test.denhaag.nl
@@ -9943,7 +9950,6 @@ orbit.montferland.info
 organisatie.gemeente-steenbergen.nl
 organisatie.hoorn.nl
 organisatieontwikkeling.assen.nl
-organisatievisie2030.hollandskroon.nl
 osb.alkmaar.nl
 osb.almere.nl
 osb.bergendal.nl
@@ -15078,7 +15084,6 @@ www.mdm.waterland.nl
 www.medemblik.nl
 www.medezeggenschap.groningen.nl
 www.meedenken.arnhem.nl
-www.meedoen.hollandskroon.nl
 www.meedoen.venray.nl
 www.meerssen.nl
 www.meierijstad.nl
@@ -15545,7 +15550,6 @@ www.wepresent.sudwestfryslan.nl
 www.werkaandewijk.denhaag.nl
 www.werkenbij.alkmaar.nl
 www.werkenbij.enschede.nl
-www.werkenbij.hollandskroon.nl
 www.werkenbij.hoorn.nl
 www.werkenbij.lingewaard.nl
 www.werkenbij.schouwen-duiveland.nl

@@ -171,6 +171,7 @@ http://autodiscover.heusden.nl
 http://autodiscover.hillegom.nl
 http://autodiscover.hilversum.nl
 http://autodiscover.hofvantwente.nl
+http://autodiscover.hollandskroon.nl
 http://autodiscover.hoogeveen.nl
 http://autodiscover.hoorn.nl
 http://autodiscover.horstaandemaas.nl
@@ -2080,6 +2081,7 @@ https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
 https://belastingportaal.acc.assen.nl
 https://belastingportaal.acc.hethogeland.nl
+https://belastingportaal.acc.hollandskroon.nl
 https://belastingportaal.acc.tynaarlo.nl
 https://belastingportaal.assen.nl
 https://belastingportaal.boxtel.nl
@@ -2087,6 +2089,7 @@ https://belastingportaal.dinkelland.nl
 https://belastingportaal.goirle.nl
 https://belastingportaal.hethogeland.nl
 https://belastingportaal.hilvarenbeek.nl
+https://belastingportaal.hollandskroon.nl
 https://belastingportaal.midden-groningen.nl
 https://belastingportaal.oisterwijk.nl
 https://belastingportaal.sint-michielsgestel.nl
@@ -4420,7 +4423,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.hollandskroon.nl
 https://ibzpink.hoogeveen.nl
 https://ibzpink.horstaandemaas.nl
 https://ibzpink.huizen.nl
@@ -4626,9 +4628,11 @@ https://inloggen.belastingportaal.aaenhunze.nl
 https://inloggen.belastingportaal.acc.aaenhunze.nl
 https://inloggen.belastingportaal.acc.assen.nl
 https://inloggen.belastingportaal.acc.hethogeland.nl
+https://inloggen.belastingportaal.acc.hollandskroon.nl
 https://inloggen.belastingportaal.acc.tynaarlo.nl
 https://inloggen.belastingportaal.assen.nl
 https://inloggen.belastingportaal.hethogeland.nl
+https://inloggen.belastingportaal.hollandskroon.nl
 https://inloggen.belastingportaal.tynaarlo.nl
 https://inloggen.geertruidenberg.nl
 https://inloggen.haarlemmermeer.nl
@@ -6296,6 +6300,7 @@ https://openstad.nijmegen.nl
 https://opentunnel.middendrenthe.nl
 https://opentunnel.test.middendrenthe.nl
 https://openwave.beverwijk.nl
+https://openwave.hollandskroon.nl
 https://openzaak-zgw.acc.denhaag.nl
 https://openzaak-zgw.denhaag.nl
 https://openzaak-zgw.test.denhaag.nl
@@ -6323,7 +6328,6 @@ https://oranjeplein.goirle.nl
 https://orbit.montferland.info
 https://organisatie.gemeente-steenbergen.nl
 https://organisatie.hoorn.nl
-https://organisatievisie2030.hollandskroon.nl
 https://oss.nl
 https://ota.sudwestfryslan.nl
 https://otp.gemeenteberkelland.nl

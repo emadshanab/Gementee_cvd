@@ -149,6 +149,7 @@ preprod
 keycloak-admin
 zac
 obsurv
+belastingportaal
 ftp
 web
 preprod-mijn
@@ -159,7 +160,6 @@ micollab
 inloggen
 contentbeheer
 begroting
-belastingportaal
 izaaksuite
 snelbaliepp
 vdi
@@ -299,7 +299,6 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
-www.werkenbij
 makelaar
 academie
 belastingen-acc
@@ -342,9 +341,13 @@ m
 bezoekersparkeren
 www.afspraken
 woz
+belastingportaal.acc
+inloggen.belastingportaal
+inloggen.belastingportaal.acc
 participatie
 raadsnet
 toegang
+www.werkenbij
 zoeken
 servicedesk
 diensten
@@ -425,9 +428,6 @@ access
 prefill
 huisstijl
 mijndesktop
-belastingportaal.acc
-inloggen.belastingportaal
-inloggen.belastingportaal.acc
 www2
 www.acceptatie
 de
@@ -886,6 +886,7 @@ acc-openwave
 corona
 key2financien-prod
 key2financien-test
+openwave
 rp
 sophos
 begraafplaatsen
@@ -1154,7 +1155,6 @@ jip
 keyhub
 test-jip
 communicatie
-www.meedoen
 test-kaartviewer
 veilig
 spf
@@ -2262,7 +2262,6 @@ dusk-openwave
 frontoffice-parkeervergunningen-acc
 frontoffice-parkeervergunningen
 mdr
-openwave
 simcms-begraafplaatsduinrust
 test-bink
 test-cmsbink
@@ -4411,8 +4410,8 @@ e-notas
 qfact
 testcms-jip
 vpn-sso
+idp
 idselectprd
-organisatievisie2030
 sociaaljaarverslag
 verhalenroute
 hgvexc1
@@ -6467,6 +6466,7 @@ testkoppeling
 verwerkingsregister
 webproxy
 www.hulpwijzer
+www.meedoen
 www.prodoud
 belastingloket-test
 berichtverkeer.test
