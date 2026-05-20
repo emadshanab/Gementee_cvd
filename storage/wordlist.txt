@@ -263,7 +263,6 @@ afspraakmaken
 www.intranet
 kcc
 mx1
-mobiel
 mijnsociaaldomein
 drop
 cloudadapter-prod
@@ -291,6 +290,7 @@ key2gbav
 publicaties
 bestanden
 squit2020.acceptatie
+mobiel
 midoffice
 mijnzorg-acc
 geovisia

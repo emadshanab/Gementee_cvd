@@ -9071,7 +9071,6 @@ mob.oostgelre.nl
 mobiel.gemeentebeek.nl
 mobiel.groningen.nl
 mobiel.hillegom.nl
-mobiel.hoogeveen.nl
 mobiel.ouder-amstel.nl
 mobiel.peelenmaas.nl
 mobiel.renkum.nl
