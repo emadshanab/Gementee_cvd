@@ -178,7 +178,6 @@ formulieren-test
 auth
 acc-ita
 bag
-sip
 gasten
 AutoDiscover
 jaarstukken
@@ -194,9 +193,9 @@ maps
 mailing
 gis
 ita
-lyncdiscover
 office-addin
 owa
+sip
 test-digikoppeling
 meedoen
 localhost
@@ -208,6 +207,7 @@ zaken.acceptatie
 inproces.acceptatie
 bestuur
 squit2020
+zaaksysteem
 socialekaart
 simform-preproductie
 belastingbalie-test
@@ -215,6 +215,7 @@ api.openstad
 gemeentearchief
 onderzoek
 nieuwsbrief
+lyncdiscover
 mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
@@ -229,7 +230,6 @@ testloket
 www.samen
 mx1
 mx2
-zaaksysteem
 www.portal
 mijn-preproductie
 kennisbank
@@ -282,7 +282,6 @@ afval
 auth.openstad
 e-loket
 openstad
-meet
 support
 data-test
 xential
@@ -307,7 +306,7 @@ mozard
 img.openstad
 ns1
 sslvpn
-dialin
+meet
 openformulieren
 test-mijn
 awmag
@@ -372,6 +371,7 @@ rooster
 admin.doemee
 api.doemee
 auth.doemee
+dialin
 img.doemee
 media
 test-formulier
@@ -423,7 +423,6 @@ tim
 www.werkplek
 mylex
 gateway
-lyncweb
 access
 prefill
 huisstijl
@@ -528,6 +527,7 @@ stats
 mijn-acc
 sso
 gemeentebestuur
+lyncweb
 servicegateway
 geoweb
 testdigikoppeling
@@ -975,7 +975,6 @@ cloudadapter-p
 alwaysonvpn
 selector1._domainkey
 testmijnzaken
-rdweb
 sbc
 scim
 binnenstad
@@ -1101,12 +1100,12 @@ autodiscover.d66
 autodiscover.sp
 autodiscover.test
 email.security
-fortinet
 gisibtest
 gisservicestest
 jccbetalen
 link.pr
 officewebapps
+onboarden
 testzaken
 www.gisib
 www.gisibtest
@@ -2934,6 +2933,7 @@ beheer-trefpunt
 bros-academie
 da
 mijnkaart
+rdweb
 test-trefpunt
 trefpunt
 acc-podiumd-ita
@@ -4059,6 +4059,7 @@ duurzamewarmte
 etl
 fac
 fortigate
+fortinet
 geoanalytics
 geocatalogus
 geoservertest
@@ -4088,7 +4089,6 @@ najaarsrapportage
 ntrhfw01
 nw
 office365
-onboarden
 pilotgeovwr
 planningencontrol
 rdsportal
@@ -4502,12 +4502,16 @@ raster
 scribo
 tog2nedgraphics
 zwembad
+audiocodesbrw
+audiocodeshtn
 gisdata
-lyncaccess
-lyncrp
 pre-formulieren
 pre-simform
+sociaalteam-acc
+sociaalteam
 ucweb01-ext
+zaaksysteem.acceptatie
+zorgned-refreshtool
 administratieportaal-test
 administratieportaal
 cmsinhuiz
