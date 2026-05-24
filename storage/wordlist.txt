@@ -59,9 +59,9 @@ belastingbalie
 dmidoffice
 openpdc
 enterpriseregistration
+remote
 openpub
 berichten
-remote
 cmsoo
 loket.acceptatie
 omgevingsvisie
@@ -74,8 +74,8 @@ digikoppeling-test
 beeldbank
 denkmee
 flowmailer-tracking
-zaken
 doemee
+zaken
 hybrid
 acc-podiumd-logs
 cloudadapter
@@ -185,6 +185,7 @@ bor
 mta-sts
 transfer
 geoportaal
+socialekaart
 college
 veiligdelen
 geodata
@@ -208,7 +209,6 @@ inproces.acceptatie
 bestuur
 squit2020
 zaaksysteem
-socialekaart
 simform-preproductie
 belastingbalie-test
 api.openstad
@@ -476,6 +476,7 @@ djumaproxy
 suite4burgerzaken
 sync
 pdc
+clicksfm
 download
 parkeren-siam-test
 grooster
@@ -617,7 +618,6 @@ test-eloket
 uitwijk
 www.omgevingsvisie
 mbg
-clicksfm
 servicebus
 testmijn
 webcon
@@ -630,7 +630,6 @@ preprod-mijnportaal
 storefront
 cjg
 geoinformatie
-geoservices
 lvs
 octopus-acc
 octopus
@@ -956,6 +955,7 @@ digid-parkeervergunningen.acc
 fo-parkeervergunningen.acc
 fo-parkeervergunningen
 form
+geoservices
 hor
 huisvuilkalender
 kennisportaal
@@ -4512,6 +4512,7 @@ sociaalteam
 ucweb01-ext
 zaaksysteem.acceptatie
 zorgned-refreshtool
+aanbevelingen
 administratieportaal-test
 administratieportaal
 cmsinhuiz
@@ -4519,8 +4520,6 @@ identity-test
 ikzoek
 inhuiz
 izrm
-ogdservicedesk
-ogdservicedeskacceptatie
 postbus
 postbus1
 preprodformulieren

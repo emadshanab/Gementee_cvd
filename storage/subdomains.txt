@@ -130,6 +130,7 @@ aalsmeer.nl
 aalten-checker-preprod.aalten.nl
 aalten-checker.aalten.nl
 aalten.nl
+aanbevelingen.huizen.nl
 aanbieder.werkeninkomen-acc.amsterdam.nl
 aanbieder.werkeninkomen.amsterdam.nl
 aanbodvastgoed.amsterdam.nl
@@ -3172,6 +3173,7 @@ clicks.helmond.nl
 clicks.nieuws.lansingerland.nl
 clicks.persberichten.lansingerland.nl
 clicksfm.capelleaandenijssel.nl
+clicksfm.huizen.nl
 clicksfm.lansingerland.nl
 clicksfm.nieuws.lansingerland.nl
 clicksfm.nieuwsbrief.goeree-overflakkee.nl
@@ -4428,6 +4430,7 @@ doemee.gemeentebest.nl
 doemee.gemeentewestland.nl
 doemee.gulpen-wittem.nl
 doemee.heemstede.nl
+doemee.huizen.nl
 doemee.leiden.nl
 doemee.oegstgeest.nl
 doemee.oosterhout.nl
@@ -6058,7 +6061,6 @@ geoserveradmin.hoorn.nl
 geoservertest.haarlemmermeer.nl
 geoservices.denhaag.nl
 geoservices.haarlemmermeer.nl
-geoservices.huizen.nl
 geoservices.test.denhaag.nl
 geoservicesint.haarlemmermeer.nl
 geoservicestest.haarlemmermeer.nl
@@ -9653,8 +9655,6 @@ officewebapps.haarlemmermeer.nl
 officewebapps.heusden.nl
 offwa.zwolle.nl
 offwatest.zwolle.nl
-ogdservicedesk.huizen.nl
-ogdservicedeskacceptatie.huizen.nl
 ogone-tk.denhaag.nl
 ogt.rotterdam.nl
 oig.deurne.nl
@@ -11325,6 +11325,7 @@ remote.gemeentewestland.nl
 remote.gorinchem.nl
 remote.hethogeland.nl
 remote.hoorn.nl
+remote.huizen.nl
 remote.kampen.nl
 remote.lochem.nl
 remote.montferland.info
@@ -12315,6 +12316,7 @@ socialekaart.amstelveen.nl
 socialekaart.echt-susteren.nl
 socialekaart.ede.nl
 socialekaart.eemnes.nl
+socialekaart.huizen.nl
 socialekaart.nieuwegein.nl
 socialekaart.valkenswaard.nl
 socialekaart.westbetuwe.nl

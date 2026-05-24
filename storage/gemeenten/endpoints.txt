@@ -561,7 +561,6 @@ http://simcms.bergenopzoom.nl
 http://simcms.bronckhorst.nl
 http://simcms.bunschoten.nl
 http://simcms.halderberge.nl
-http://simcms.huizen.nl
 http://simcms.maassluis.nl
 http://simcms.middendelfland.nl
 http://simcms.nederweert.nl
@@ -765,6 +764,7 @@ https://aalsmeer.nl
 https://aalten-checker-preprod.aalten.nl
 https://aalten-checker.aalten.nl
 https://aalten.nl
+https://aanbevelingen.huizen.nl
 https://aanbieder.werkeninkomen-acc.amsterdam.nl
 https://aanbieder.werkeninkomen.amsterdam.nl
 https://aanmelden.arnhem.nl
@@ -2490,6 +2490,7 @@ https://clicks.helmond.nl
 https://clicks.nieuws.lansingerland.nl
 https://clicks.persberichten.lansingerland.nl
 https://clicksfm.capelleaandenijssel.nl
+https://clicksfm.huizen.nl
 https://clicksfm.lansingerland.nl
 https://clicksfm.nieuws.lansingerland.nl
 https://clicksfm.nieuwsbrief.goeree-overflakkee.nl
@@ -2525,7 +2526,6 @@ https://cmshuisnet.nieuwegein.nl
 https://cmshuisnettest.nieuwegein.nl
 https://cmsids-test.smallingerland.nl
 https://cmsids.smallingerland.nl
-https://cmsinhuiz.huizen.nl
 https://cmsinternet-acc.wijdemeren.nl
 https://cmsintranet-acc.wijdemeren.nl
 https://cmsintranet.gemeentebeek.nl
@@ -2955,6 +2955,7 @@ https://doemee.emmen.nl
 https://doemee.gemeentebest.nl
 https://doemee.gemeentewestland.nl
 https://doemee.gulpen-wittem.nl
+https://doemee.huizen.nl
 https://doemee.leiden.nl
 https://doemee.oegstgeest.nl
 https://doemee.oosterhout.nl
@@ -4041,7 +4042,6 @@ https://geoserver.waalwijk.nl
 https://geoserveradmin-acc.hoorn.nl
 https://geoserveradmin.hoorn.nl
 https://geoservices.denhaag.nl
-https://geoservices.huizen.nl
 https://geoservices.test.denhaag.nl
 https://geotest.goirle.nl
 https://geovisia.harlingen.nl
@@ -4257,6 +4257,7 @@ https://huisstijl.tilburg.nl
 https://huisstijl.utrecht.nl
 https://huisstijl.zaanstad.nl
 https://huisvuilkalender.denhaag.nl
+https://huizen.nl
 https://hulpwijzer.hattem.nl
 https://hulpwijzer.venray.nl
 https://huurprijscalculator.rotterdam.nl
@@ -4472,7 +4473,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.huizen.nl
 https://ibzpink.kampen.nl
 https://ibzpink.kapelle.nl
 https://ibzpink.kerkrade.nl
@@ -4654,7 +4654,6 @@ https://informatieplattegrond.denhaag.nl
 https://informatievisie.financieelportaal.etten-leur.nl
 https://ingesprek.almere.nl
 https://ingesprek.denhelder.nl
-https://inhuiz.huizen.nl
 https://inkomen-test.mijn.arnhem.nl
 https://inkomen.mijn.arnhem.nl
 https://inkomensadvies.rotterdam.nl
@@ -6118,8 +6117,6 @@ https://office-addin.gemeentemaashorst.nl
 https://office-addin.gemert-bakel.nl
 https://office-addin.hoorn.nl
 https://office-addin.horstaandemaas.nl
-https://ogdservicedesk.huizen.nl
-https://ogdservicedeskacceptatie.huizen.nl
 https://ogt.rotterdam.nl
 https://oig.deurne.nl
 https://oirschot.nl
@@ -7318,6 +7315,7 @@ https://simcms.goeree-overflakkee.nl
 https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.heuvelrug.nl
+https://simcms.huizen.nl
 https://simcms.intranet.lopik.nl
 https://simcms.leudal.nl
 https://simcms.nieuwkoop.nl
@@ -7468,6 +7466,7 @@ https://socialekaart.amstelveen.nl
 https://socialekaart.echt-susteren.nl
 https://socialekaart.ede.nl
 https://socialekaart.eemnes.nl
+https://socialekaart.huizen.nl
 https://socialekaart.nieuwegein.nl
 https://socialekaart.valkenswaard.nl
 https://socialekaart.westbetuwe.nl
@@ -7847,7 +7846,6 @@ https://testbelastingloket.hattem.nl
 https://testbelastingloket.heerde.nl
 https://testbelastingloket.oldebroek.nl
 https://testcms-binnenshuis.bergen.nl
-https://testcms-inhuiz.huizen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
 https://testcms-intranet.midden-groningen.nl
@@ -7896,7 +7894,6 @@ https://testeloket.winterswijk.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testformulieren.veldhoven.nl
-https://testinhuiz.huizen.nl
 https://testinloggen.haarlemmermeer.nl
 https://testintranet.helmond.nl
 https://testintranet.westerwolde.nl
@@ -8807,6 +8804,7 @@ https://www.horstaandemaas.nl
 https://www.houten.nl
 https://www.huisstijl.landvancuijk.nl
 https://www.huisstijl.zaanstad.nl
+https://www.huizen.nl
 https://www.hulpwijzer.venray.nl
 https://www.idee.roosendaal.nl
 https://www.ideevoordakrand.haarlemmermeer.nl
