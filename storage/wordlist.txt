@@ -21,8 +21,8 @@ probeer
 formulieren
 loket
 open
-test
 eloket
+test
 waarmerk
 dkd
 betalen
@@ -85,6 +85,7 @@ connect
 klantcontact
 simcms-open
 kaarten
+portaal
 parkeren-test
 digikoppeling.test
 mks
@@ -92,7 +93,6 @@ parkeren-acc
 acc-broker
 acc-formulier
 e
-portaal
 piwik
 api.betalen
 acc-contact
@@ -132,6 +132,7 @@ zac
 extranet
 govroam
 verkiezingen
+osbacc
 afvalkalender
 qr
 apps
@@ -145,7 +146,6 @@ connect.acceptatie
 test-cmsintranet
 vergunningintaker
 simform
-osbacc
 mijninkomen
 dali
 preprod
@@ -4531,7 +4531,9 @@ trainersportaal
 trainingsformulier
 gijs-acc
 gijs
+gijscms-acc
 gijscms
+ijsaeo1
 sociaaldomein-acc
 Preprod
 dds-alphen-kaag
