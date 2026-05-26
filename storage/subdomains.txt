@@ -1942,6 +1942,7 @@ autodiscover.horstaandemaas.nl
 autodiscover.houten.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.ijsselstein.nl
+autodiscover.kaagenbraassem.nl
 autodiscover.kampen.nl
 autodiscover.katwijk.nl
 autodiscover.koggenland.nl
@@ -14430,6 +14431,7 @@ wijzer.test.coevorden.nl
 wilbertoord.landvancuijk.nl
 wildcard.doemee.heemstede.nl
 wildcard.hellevoetsluis.nl
+wildcard.kaagenbraassem.nl
 wilkommen.groningen.nl
 willkommen.groningen.nl
 wim2-acc.borne.nl

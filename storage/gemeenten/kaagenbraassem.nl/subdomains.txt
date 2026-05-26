@@ -1,6 +1,7 @@
 Preprod.kaagenbraassem.nl
 acceptatie.kaagenbraassem.nl
 afspraken.kaagenbraassem.nl
+autodiscover.kaagenbraassem.nl
 belastingen.kaagenbraassem.nl
 cryptshare.kaagenbraassem.nl
 dds-alphen-kaag.kaagenbraassem.nl
@@ -41,6 +42,7 @@ testservices.kaagenbraassem.nl
 vth.kaagenbraassem.nl
 webmail.kaagenbraassem.nl
 werkplek.kaagenbraassem.nl
+wildcard.kaagenbraassem.nl
 www.afspraken.kaagenbraassem.nl
 www.cryptshare.kaagenbraassem.nl
 www.iobjecten-acc.kaagenbraassem.nl

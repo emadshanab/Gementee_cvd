@@ -1133,6 +1133,7 @@ WOZ-loket
 vris-brk
 werken
 preprod-meedoen
+wildcard
 www.telewerken
 belasting-loket
 e2s
@@ -4285,7 +4286,6 @@ ucaccess1
 ucav1
 ucweb1-ext
 ucwebcon1
-wildcard
 www.internwifi
 www.ld-01
 www.sip

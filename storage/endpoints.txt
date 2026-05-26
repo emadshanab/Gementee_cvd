@@ -177,6 +177,7 @@ http://autodiscover.hoorn.nl
 http://autodiscover.horstaandemaas.nl
 http://autodiscover.houten.nl
 http://autodiscover.ijsselstein.nl
+http://autodiscover.kaagenbraassem.nl
 http://autodiscover.kampen.nl
 http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
