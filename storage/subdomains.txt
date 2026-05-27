@@ -13,12 +13,14 @@
 2secureacc.breda.nl
 2securecloud.breda.nl
 2securecloudacc.breda.nl
+34.101.kampen.nl
 3d.almere.nl
 3d.amsterdam.nl
 3d.utrecht.nl
 4dekwartaalbrief2019.financielestukken.diemen.nl
 4enieuwsbrief2022.financielestukken.ouder-amstel.nl
 78852ffdb030c56.infra.ede.nl
+90.152.kampen.nl
 Andreas2.acc.amsterdam.nl
 AutoDiscover.brielle.nl
 AutoDiscover.denhaag.nl
@@ -174,6 +176,7 @@ abc.gemert-bakel.nl
 abc.groningen.nl
 abc.hoorn.nl
 abc.horstaandemaas.nl
+abc.kampen.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -199,6 +202,7 @@ acc-abc.groningen.nl
 acc-abc.haarlemmermeer.nl
 acc-abc.hoorn.nl
 acc-abc.horstaandemaas.nl
+acc-abc.kampen.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -283,6 +287,7 @@ acc-ita.groningen.nl
 acc-ita.haarlemmermeer.nl
 acc-ita.hoorn.nl
 acc-ita.horstaandemaas.nl
+acc-ita.kampen.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -417,6 +422,7 @@ acc-office-addin.groningen.nl
 acc-office-addin.haarlemmermeer.nl
 acc-office-addin.hoorn.nl
 acc-office-addin.horstaandemaas.nl
+acc-office-addin.kampen.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -469,6 +475,7 @@ acc-pabc.gemeente-oldambt.nl
 acc-pabc.gemeentemaashorst.nl
 acc-pabc.gemert-bakel.nl
 acc-pabc.groningen.nl
+acc-pabc.kampen.nl
 acc-podiumd-abc.deventer.nl
 acc-podiumd-abc.olst-wijhe.nl
 acc-podiumd-abc.raalte.nl
@@ -3901,6 +3908,7 @@ deurwaardersloketws.sozawe.rotterdam.nl
 dev-apps.haarlemmermeer.nl
 dev-formulieren.haarlemmermeer.nl
 dev.amsterdam.nl
+dev.api.kampen.nl
 dev.denhaag.nl
 dev.fme.amsterdam.nl
 dev.oosterhout.nl
@@ -4465,6 +4473,7 @@ download.lingewaard.nl
 download.roerdalen.nl
 download.webmail.sudwestfryslan.nl
 downloaddomain.gemeentemaashorst.nl
+downloads.kampen.nl
 dpt.purmerend.nl
 draadloos.sittard-geleen.nl
 drc.data.amsterdam.nl
@@ -4487,6 +4496,7 @@ druktebeeld.amsterdam.nl
 drupal.eindhoven.nl
 drupalintranet.bergeijk.nl
 druten.nl
+dsm.kampen.nl
 dsr.maps.amsterdam.nl
 dtestloket.borger-odoorn.nl
 dtestloket.brielle.nl
@@ -5087,6 +5097,7 @@ elokettest.sudwestfryslan.nl
 elokettest.vlissingen.nl
 emagazine2030.rijswijk.nl
 email.bernheze.org
+email.bewustwording.kampen.nl
 email.capelleaandenijssel.nl
 email.cranendonck.nl
 email.eijsden-margraten.nl
@@ -5444,6 +5455,7 @@ filecap.renswoude.nl
 filecap.rozendaal.nl
 filecap.wierden.nl
 filecapacc.breda.nl
+files.kampen.nl
 files.soeb.tst.amsterdam.nl
 fileshare.westerkwartier.nl
 filetransfer.dijkenwaard.nl
@@ -5739,6 +5751,7 @@ ftp.achtkarspelen.nl
 ftp.bodegraven-reeuwijk.nl
 ftp.castricum.nl
 ftp.gemeentebeek.nl
+ftp.kampen.nl
 ftp.krimpenerwaard.nl
 ftp.lopik.nl
 ftp.meerssen.nl
@@ -6503,6 +6516,7 @@ hulpwijzer.venray.nl
 hupextern.acc.denhaag.nl
 huurprijscalculator.rotterdam.nl
 huursportzaal.kampen.nl
+huurtsportzaal.kampen.nl
 hvd.groningen.nl
 hwok-test.gemeentehw.nl
 hwok.gemeentehw.nl
@@ -7444,6 +7458,7 @@ ita.gemert-bakel.nl
 ita.groningen.nl
 ita.hoorn.nl
 ita.horstaandemaas.nl
+ita.kampen.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -9116,6 +9131,7 @@ milieueducatie.denhaag.nl
 mill.landvancuijk.nl
 minimi.vlaardingen.nl
 mintra.mookenmiddelaar.nl
+mirror.kampen.nl
 mis.waterland.nl
 mitel.voorst.nl
 mivbxsrvr.gorinchem.nl
@@ -9278,6 +9294,7 @@ mx1.ede.nl
 mx1.groningen.nl
 mx1.haarlemmermeer.nl
 mx1.horstaandemaas.nl
+mx1.kampen.nl
 mx1.lelystad.nl
 mx1.rucphen.nl
 mx1.s-hertogenbosch.nl
@@ -9507,6 +9524,7 @@ ns1.utrecht.nl
 ns1.webserver.schiedam.nl
 ns2.denhaag.nl
 ns2.hillegom.nl
+ns2.kampen.nl
 ns2.rotterdam.nl
 ns2.utrecht.nl
 ns2.webserver.schiedam.nl
@@ -9652,6 +9670,7 @@ office-addin.gemert-bakel.nl
 office-addin.groningen.nl
 office-addin.hoorn.nl
 office-addin.horstaandemaas.nl
+office-addin.kampen.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -11050,6 +11069,7 @@ projecten.denhaag.nl
 projecten.lansingerland.nl
 projecten.nederbetuwe.nl
 projectenboek.leidschendam-voorburg.nl
+prometheus.kampen.nl
 proto.apeldoorn.nl
 provconnect.hethogeland.nl
 prp.tiel.nl
@@ -11829,6 +11849,7 @@ sftp.heerlen.nl
 sftp3.rotterdam.nl
 sgen.schiedam.nl
 shantou.stadskanaal.nl
+share.kampen.nl
 sharefile.borne.nl
 sharefile.ede.nl
 sharefile.gemeentewestland.nl
@@ -12230,6 +12251,7 @@ smtp.gemeentebeek.nl
 smtp.heemstede.nl
 smtp.heusden.nl
 smtp.hillegom.nl
+smtp.kampen.nl
 smtp.lingewaard.nl
 smtp.moerdijk.nl
 smtp.opsterland.nl
@@ -13809,6 +13831,7 @@ vpn.heusden.nl
 vpn.hillegom.nl
 vpn.horstaandemaas.nl
 vpn.huizen.nl
+vpn.kampen.nl
 vpn.landsmeer.nl
 vpn.leudal.nl
 vpn.lochem.nl

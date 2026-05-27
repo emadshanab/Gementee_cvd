@@ -420,7 +420,6 @@ http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
 http://huisnettest.nieuwegein.nl
 http://hybrid.dalfsen.nl
-http://hybrid.kampen.nl
 http://id-subsidies-login.acceptatie.ede.nl
 http://id-subsidies-login.ede.nl
 http://iko-zgw.denhaag.nl
@@ -454,7 +453,6 @@ http://lvs.denhaag.nl
 http://m.leiden.nl
 http://magazine.schagen.nl
 http://mail.gemeentesluis.nl
-http://mail.kampen.nl
 http://mail.wijdemeren.nl
 http://makelpunt.amsterdam.nl
 http://malengo-cms.gemert-bakel.nl
@@ -586,7 +584,6 @@ http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.twenterand.nl
 http://sluiskwartier.deventer.nl
-http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
 http://snow-license.amsterdam.nl
 http://socialintranet.middendelfland.nl
@@ -795,6 +792,7 @@ https://abc.gemert-bakel.nl
 https://abc.groningen.nl
 https://abc.hoorn.nl
 https://abc.horstaandemaas.nl
+https://abc.kampen.nl
 https://abc.oldenzaal.nl
 https://abc.oostgelre.nl
 https://abc.roermond.nl
@@ -815,6 +813,7 @@ https://acc-abc.groningen.nl
 https://acc-abc.haarlemmermeer.nl
 https://acc-abc.hoorn.nl
 https://acc-abc.horstaandemaas.nl
+https://acc-abc.kampen.nl
 https://acc-abc.laarbeek.nl
 https://acc-abc.oldenzaal.nl
 https://acc-abc.oostgelre.nl
@@ -896,6 +895,7 @@ https://acc-ita.groningen.nl
 https://acc-ita.haarlemmermeer.nl
 https://acc-ita.hoorn.nl
 https://acc-ita.horstaandemaas.nl
+https://acc-ita.kampen.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
 https://acc-keycloak-admin.emmen.nl
@@ -1020,6 +1020,7 @@ https://acc-office-addin.groningen.nl
 https://acc-office-addin.haarlemmermeer.nl
 https://acc-office-addin.hoorn.nl
 https://acc-office-addin.horstaandemaas.nl
+https://acc-office-addin.kampen.nl
 https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
@@ -1067,6 +1068,7 @@ https://acc-pabc.gemeente-oldambt.nl
 https://acc-pabc.gemeentemaashorst.nl
 https://acc-pabc.gemert-bakel.nl
 https://acc-pabc.groningen.nl
+https://acc-pabc.kampen.nl
 https://acc-podiumd-abc.deventer.nl
 https://acc-podiumd-abc.olst-wijhe.nl
 https://acc-podiumd-abc.raalte.nl
@@ -3458,6 +3460,7 @@ https://elokettest.bloemendaal.nl
 https://elokettest.heemstede.nl
 https://elokettest.sudwestfryslan.nl
 https://elokettest.vlissingen.nl
+https://email.bewustwording.kampen.nl
 https://email.capelleaandenijssel.nl
 https://email.cranendonck.nl
 https://email.eijsden-margraten.nl
@@ -4475,7 +4478,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.kampen.nl
 https://ibzpink.kapelle.nl
 https://ibzpink.kerkrade.nl
 https://ibzpink.koggenland.nl
@@ -4843,6 +4845,7 @@ https://ita.gemert-bakel.nl
 https://ita.groningen.nl
 https://ita.hoorn.nl
 https://ita.horstaandemaas.nl
+https://ita.kampen.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -5325,7 +5328,6 @@ https://maatwerk.deventer.nl
 https://maatwerkacc.apeldoorn.nl
 https://magazine.dongen.nl
 https://magazine.goes.nl
-https://magazine.kampen.nl
 https://magazine.landvancuijk.nl
 https://magazines.gooisemeren.nl
 https://magazines.horstaandemaas.nl
@@ -6119,6 +6121,7 @@ https://office-addin.gemeentemaashorst.nl
 https://office-addin.gemert-bakel.nl
 https://office-addin.hoorn.nl
 https://office-addin.horstaandemaas.nl
+https://office-addin.kampen.nl
 https://ogt.rotterdam.nl
 https://oig.deurne.nl
 https://oirschot.nl
@@ -6580,7 +6583,6 @@ https://pencportal.ede.nl
 https://peoplesync.stichtsevecht.nl
 https://persberichten.lansingerland.nl
 https://persberichten.stichtsevecht.nl
-https://personeelsplanning.kampen.nl
 https://personeelsvereniging.helmond.nl
 https://perspectiefnota.gemeente-steenbergen.nl
 https://persportaal.rijssen-holten.nl
