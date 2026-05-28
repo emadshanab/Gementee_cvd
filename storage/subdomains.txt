@@ -2694,6 +2694,7 @@ betalen.harderwijk.nl
 betalen.heiloo.nl
 betalen.hilversum.nl
 betalen.horstaandemaas.nl
+betalen.kapelle.nl
 betalen.laarbeek.nl
 betalen.leeuwarden.nl
 betalen.meppel.nl

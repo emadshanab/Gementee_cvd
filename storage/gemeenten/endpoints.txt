@@ -1423,7 +1423,6 @@ https://afspraken.goes.nl
 https://afspraken.goirle.nl
 https://afspraken.hilversum.nl
 https://afspraken.kampen.nl
-https://afspraken.kapelle.nl
 https://afspraken.landsmeer.nl
 https://afspraken.lelystad.nl
 https://afspraken.middendelfland.nl
@@ -2226,6 +2225,7 @@ https://betalen.harderwijk.nl
 https://betalen.heiloo.nl
 https://betalen.hilversum.nl
 https://betalen.horstaandemaas.nl
+https://betalen.kapelle.nl
 https://betalen.laarbeek.nl
 https://betalen.leeuwarden.nl
 https://betalen.meppel.nl
@@ -4478,7 +4478,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.kapelle.nl
 https://ibzpink.kerkrade.nl
 https://ibzpink.koggenland.nl
 https://ibzpink.laarbeek.nl

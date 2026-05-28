@@ -1,5 +1,6 @@
 acc.kapelle.nl
 afspraken.kapelle.nl
+betalen.kapelle.nl
 grmks02.kapelle.nl
 iburgerzaken.kapelle.nl
 ibzpink.kapelle.nl
