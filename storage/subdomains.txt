@@ -1018,6 +1018,7 @@ admin.openstad.deventer.nl
 admin.openstad.enschede.nl
 admin.openstad.gemeentewestland.nl
 admin.openstad.haarlemmermeer.nl
+admin.openstad.katwijk.nl
 admin.openstad.nijmegen.nl
 admin.openstad.utrecht.nl
 admin.regiomonitor-acc.oosterhout.nl
@@ -1600,6 +1601,7 @@ api.openstad.deventer.nl
 api.openstad.enschede.nl
 api.openstad.gemeentewestland.nl
 api.openstad.haarlemmermeer.nl
+api.openstad.katwijk.nl
 api.openstad.nijmegen.nl
 api.openstad.utrecht.nl
 api.participatiewebshop-test.emmen.nl
@@ -1779,6 +1781,7 @@ auth.openstad.deventer.nl
 auth.openstad.enschede.nl
 auth.openstad.gemeentewestland.nl
 auth.openstad.haarlemmermeer.nl
+auth.openstad.katwijk.nl
 auth.openstad.nijmegen.nl
 auth.peelenmaas.nl
 auth.purmerend.nl
@@ -2194,7 +2197,6 @@ bastion365.dijkenwaard.nl
 bastion365.heusden.nl
 bastion365.hillegom.nl
 bastion365.hollandskroon.nl
-bastion365.katwijk.nl
 bastion365.nederweert.nl
 bastion365.nieuwkoop.nl
 bastion365.roermond.nl
@@ -4638,6 +4640,7 @@ e.mailings.deventer.nl
 e.openstad.enschede.nl
 e.openstad.gemeentewestland.nl
 e.openstad.haarlemmermeer.nl
+e.openstad.katwijk.nl
 e.openstad.nijmegen.nl
 e.oss.nl
 e.papendrecht.nl
@@ -7067,6 +7070,7 @@ img.openstad.deventer.nl
 img.openstad.enschede.nl
 img.openstad.gemeentewestland.nl
 img.openstad.haarlemmermeer.nl
+img.openstad.katwijk.nl
 img.openstad.nijmegen.nl
 img.v2.openstad.haarlemmermeer.nl
 impactmeter.kampen.nl
@@ -10028,6 +10032,7 @@ openstad.emmen.nl
 openstad.enschede.nl
 openstad.gemeentewestland.nl
 openstad.haarlemmermeer.nl
+openstad.katwijk.nl
 openstad.nijmegen.nl
 opentunnel.middendrenthe.nl
 opentunnel.test.middendrenthe.nl
@@ -10707,6 +10712,7 @@ pre-ows-websrvc.groningen.nl
 pre-prod.digitalebalie.pijnacker-nootdorp.nl
 pre-simform.houten.nl
 pre.ie01.signicat.pro.drechterland.nl
+pre.katwijk.nl
 prefill-test.sudwestfryslan.nl
 prefill-test.zaltbommel.nl
 prefill.koggenland.nl
@@ -11309,7 +11315,9 @@ redirect.ede.nl
 redirect.leeuwarden.nl
 reflex.s-hertogenbosch.nl
 regelen-acc.haarlem.nl
+regelen-acc.katwijk.nl
 regelen.haarlem.nl
+regelen.katwijk.nl
 regelgeving.schiermonnikoog.nl
 regelgeving.terschelling.nl
 regelgeving.vlieland.nl
@@ -13448,7 +13456,6 @@ transfer.drechterland.nl
 transfer.eemsdelta.nl
 transfer.enkhuizen.nl
 transfer.gemeentehulst.nl
-transfer.katwijk.nl
 transfer.koggenland.nl
 transfer.medemblik.nl
 transfer.meerssen.nl
@@ -13657,6 +13664,7 @@ veilig.veenendaal.nl
 veiligdelen.alkmaar.nl
 veiligdelen.derondevenen.nl
 veiligdelen.haarlem.nl
+veiligdelen.katwijk.nl
 veiligdelen.landvancuijk.nl
 veiligdelen.meppel.nl
 veiligdelen.montferland.info
@@ -15365,6 +15373,7 @@ www.openstad.apeldoorn.nl
 www.openstad.deventer.nl
 www.openstad.gemeentewestland.nl
 www.openstad.haarlemmermeer.nl
+www.openstad.katwijk.nl
 www.openstad.nijmegen.nl
 www.openzksesba001.sudwestfryslan.nl
 www.operatiebomenbuurt.denhaag.nl

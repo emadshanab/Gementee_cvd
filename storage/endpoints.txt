@@ -1353,6 +1353,7 @@ https://admin.openstad.deventer.nl
 https://admin.openstad.enschede.nl
 https://admin.openstad.gemeentewestland.nl
 https://admin.openstad.haarlemmermeer.nl
+https://admin.openstad.katwijk.nl
 https://admin.openstad.nijmegen.nl
 https://admin.openstad.utrecht.nl
 https://admin.schoolwijzer.amsterdam.nl
@@ -1687,6 +1688,7 @@ https://api.openstad.deventer.nl
 https://api.openstad.enschede.nl
 https://api.openstad.gemeentewestland.nl
 https://api.openstad.haarlemmermeer.nl
+https://api.openstad.katwijk.nl
 https://api.openstad.nijmegen.nl
 https://api.openstad.utrecht.nl
 https://api.schemas.data.amsterdam.nl
@@ -1802,6 +1804,7 @@ https://auth.openstad.deventer.nl
 https://auth.openstad.enschede.nl
 https://auth.openstad.gemeentewestland.nl
 https://auth.openstad.haarlemmermeer.nl
+https://auth.openstad.katwijk.nl
 https://auth.openstad.nijmegen.nl
 https://auth.purmerend.nl
 https://auth.v2.openstad.amsterdam.nl
@@ -1885,7 +1888,6 @@ https://bastion365.dijkenwaard.nl
 https://bastion365.heusden.nl
 https://bastion365.hillegom.nl
 https://bastion365.hollandskroon.nl
-https://bastion365.katwijk.nl
 https://bastion365.nederweert.nl
 https://bastion365.nieuwkoop.nl
 https://bastion365.roermond.nl
@@ -3056,6 +3058,7 @@ https://e.mailings.deventer.nl
 https://e.openstad.enschede.nl
 https://e.openstad.gemeentewestland.nl
 https://e.openstad.haarlemmermeer.nl
+https://e.openstad.katwijk.nl
 https://e.openstad.nijmegen.nl
 https://e.oss.nl
 https://e.stichtsevecht.nl
@@ -4644,6 +4647,7 @@ https://img.openstad.deventer.nl
 https://img.openstad.enschede.nl
 https://img.openstad.gemeentewestland.nl
 https://img.openstad.haarlemmermeer.nl
+https://img.openstad.katwijk.nl
 https://img.openstad.nijmegen.nl
 https://img.v2.openstad.haarlemmermeer.nl
 https://impactmeter.kampen.nl
@@ -6401,6 +6405,7 @@ https://openstad.deventer.nl
 https://openstad.enschede.nl
 https://openstad.gemeentewestland.nl
 https://openstad.haarlemmermeer.nl
+https://openstad.katwijk.nl
 https://openstad.nijmegen.nl
 https://opentunnel.middendrenthe.nl
 https://opentunnel.test.middendrenthe.nl
@@ -6495,6 +6500,7 @@ https://parkeervergunning.leeuwarden.nl
 https://parkeervergunning.nissewaard.nl
 https://parkeervergunningen.harlingen.nl
 https://parkeervergunningenacc.harlingen.nl
+https://parkeren-acc.katwijk.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
@@ -7037,7 +7043,9 @@ https://rdweb01.schagen.nl
 https://reclame.nijmegen.nl
 https://redirect.leeuwarden.nl
 https://reflex.s-hertogenbosch.nl
+https://regelen-acc.katwijk.nl
 https://regelen.haarlem.nl
+https://regelen.katwijk.nl
 https://regenboograad.acc.nijmegen.nl
 https://regentesseplein.denhaag.nl
 https://regieportaal-test.middelburg.nl
@@ -7997,7 +8005,6 @@ https://transfer.drechterland.nl
 https://transfer.eemsdelta.nl
 https://transfer.enkhuizen.nl
 https://transfer.gemeentehulst.nl
-https://transfer.katwijk.nl
 https://transfer.koggenland.nl
 https://transfer.medemblik.nl
 https://transfer.stedebroec.nl
@@ -8089,6 +8096,7 @@ https://veilig.veenendaal.nl
 https://veiligdelen.alkmaar.nl
 https://veiligdelen.derondevenen.nl
 https://veiligdelen.haarlem.nl
+https://veiligdelen.katwijk.nl
 https://veiligdelen.meppel.nl
 https://veiligdelen.montferland.info
 https://veiligdelen.s-hertogenbosch.nl
@@ -8928,6 +8936,7 @@ https://www.openstad.apeldoorn.nl
 https://www.openstad.deventer.nl
 https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
+https://www.openstad.katwijk.nl
 https://www.openstad.nijmegen.nl
 https://www.oracbloemenbuurt.denhaag.nl
 https://www.oss.nl
