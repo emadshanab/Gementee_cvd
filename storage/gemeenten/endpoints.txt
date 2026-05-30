@@ -382,7 +382,6 @@ http://felix.dalfsen.nl
 http://felix.deurne.nl
 http://felix.eemnes.nl
 http://felix.harlingen.nl
-http://felix.kerkrade.nl
 http://felix.landgraaf.nl
 http://felix.leudal.nl
 http://felix.loonopzand.nl
@@ -685,7 +684,6 @@ http://www.ggd.groningen.nl
 http://www.goedterechtin.leeuwarden.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
-http://www.kerkrade.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.middelburg.nl
 http://www.mookenmiddelaar.nl
@@ -1974,6 +1972,7 @@ https://begroting.rijswijk.nl
 https://begroting.venlo.nl
 https://begroting.zoeterwoude.nl
 https://begroting2016.kerkrade.nl
+https://begroting2017.kerkrade.nl
 https://begroting2018.financieelportaal.etten-leur.nl
 https://begroting2018.financien.gouda.nl
 https://begroting2018.hoorn.nl
@@ -3646,6 +3645,7 @@ https://felix.halderberge.nl
 https://felix.heerlen.nl
 https://felix.heeze-leende.nl
 https://felix.heuvelrug.nl
+https://felix.kerkrade.nl
 https://felix.koggenland.nl
 https://felix.lingewaard.nl
 https://felix.lopik.nl
@@ -4481,7 +4481,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.kerkrade.nl
 https://ibzpink.koggenland.nl
 https://ibzpink.laarbeek.nl
 https://ibzpink.landsmeer.nl
@@ -4923,7 +4922,6 @@ https://jobport-dts-acc.venlo.nl
 https://jobport-dts.venlo.nl
 https://jobport-ext.werkeninkomen-acc.amsterdam.nl
 https://jobport.venlo.nl
-https://joep.kerkrade.nl
 https://jogg.zaanstad.nl
 https://johanwagenaarlaan-cesarfrancklaan-old.doemee.heemstede.nl
 https://johanwagenaarlaan-cesarfrancklaan.doemee.heemstede.nl
@@ -5033,6 +5031,7 @@ https://kennisbank.wijdemeren.nl
 https://kenniscentrum-werven.utrecht.nl
 https://kennisportaal.denhaag.nl
 https://kennisportaal.deventer.nl
+https://kerkrade.nl
 https://kernhem.ede.nl
 https://ket.deventer.nl
 https://key2bag-acc.hoorn.nl
@@ -6191,6 +6190,7 @@ https://ondernemend.leeuwarden.nl
 https://ondernemers.bloemendaal.nl
 https://ondernemers.gemeente-steenbergen.nl
 https://ondernemersloket.diemen.nl
+https://ondernemersloket.kerkrade.nl
 https://ondernemersloket.ouder-amstel.nl
 https://ondernemersloket.uithoorn.nl
 https://ondernemersplein.almere.nl
@@ -7294,6 +7294,7 @@ https://simcms-open.zuidplas.nl
 https://simcms-open.zwartewaterland.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-preproductie.bladel.nl
+https://simcms-preproductie.kerkrade.nl
 https://simcms-preproductie.winterswijk.nl
 https://simcms-preproductie.woensdrecht.nl
 https://simcms-raad.zoetermeer.nl
@@ -7330,6 +7331,7 @@ https://simcms.heuvelrug.nl
 https://simcms.huizen.nl
 https://simcms.ijsselstein.nl
 https://simcms.intranet.lopik.nl
+https://simcms.kerkrade.nl
 https://simcms.leudal.nl
 https://simcms.nieuwkoop.nl
 https://simcms.oirschot.nl
@@ -8840,6 +8842,7 @@ https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
 https://www.kennisbank.groningen.nl
+https://www.kerkrade.nl
 https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl

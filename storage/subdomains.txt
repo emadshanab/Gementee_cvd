@@ -2368,6 +2368,7 @@ begroting.venlo.nl
 begroting.zoeterwoude.nl
 begroting2016.kerkrade.nl
 begroting2017.groningen.nl
+begroting2017.kerkrade.nl
 begroting2018.financieelportaal.etten-leur.nl
 begroting2018.financien.gouda.nl
 begroting2018.groningen.nl
@@ -3061,6 +3062,7 @@ byod.gemeentebeek.nl
 byod.groningen.nl
 byod.gulpen-wittem.nl
 byod.heerlen.nl
+byod.kerkrade.nl
 byod.simpelveld.nl
 byod.voerendaal.nl
 byspy.maassluis.nl
@@ -6472,6 +6474,7 @@ horizonvdi.haarlem.nl
 horstaandemaas.nl
 hotspot.gemeentebeek.nl
 hotspot.gulpen-wittem.nl
+hotspot.kerkrade.nl
 hout.almere.nl
 houten.nl
 houtwijkbegroot.denhaag.nl
@@ -10679,6 +10682,16 @@ pp-parkeerapp.acc.denhaag.nl
 pp-parkeerapp.acc.utrecht.nl
 pp-parkeervergunningen.acc.utrecht.nl
 ppmoflprojecten.rotterdam.nl
+pr230121.kerkrade.nl
+pr230122.kerkrade.nl
+pr230123.kerkrade.nl
+pr230124.kerkrade.nl
+pr230125.kerkrade.nl
+pr230126.kerkrade.nl
+pr230127.kerkrade.nl
+pr230128.kerkrade.nl
+pr230129.kerkrade.nl
+pr250003.kerkrade.nl
 praathuis.edam-volendam.nl
 praatmee.alblasserdam.nl
 praatmee.borsele.nl

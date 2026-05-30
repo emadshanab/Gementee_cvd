@@ -218,6 +218,7 @@ onderzoek
 admin.openstad
 nieuwsbrief
 lyncdiscover
+byod
 mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
@@ -249,7 +250,6 @@ openstad
 opendata
 woo
 woz-portaal
-byod
 guest
 publicroam
 jccapi
@@ -698,6 +698,7 @@ gbionlinetest
 geoportaaltest
 squit2gotest
 geo-secure
+hotspot
 ketenportaal.acceptatie
 secudoc
 www.login
@@ -1026,7 +1027,6 @@ digiforms
 organisatie
 director
 exchangehybrid
-hotspot
 ketenportaal
 nedplan
 www.mijnmobiel
@@ -1061,6 +1061,7 @@ webservices-ot
 trobit
 xential-test
 verhuursport
+begroting2017
 begroting2018
 begroting2020
 begroting2021
@@ -3707,7 +3708,6 @@ autodiscover.ombudsman
 autodiscover.opsb
 autodiscover.os
 autodiscover.wij
-begroting2017
 begroting2019
 belastingpraktijkonline
 business
@@ -4614,6 +4614,16 @@ mkstest
 neurontst
 pcoda
 pmakelaar
+pr230121
+pr230122
+pr230123
+pr230124
+pr230125
+pr230126
+pr230127
+pr230128
+pr230129
+pr250003
 tableau
 taxa01
 taxa02
