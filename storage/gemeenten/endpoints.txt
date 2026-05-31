@@ -4481,7 +4481,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.koggenland.nl
 https://ibzpink.laarbeek.nl
 https://ibzpink.landsmeer.nl
 https://ibzpink.laren.nl
@@ -5136,6 +5135,7 @@ https://knowledgebase.sittard-geleen.nl
 https://kofax.winterswijk.nl
 https://kofaxta.apeldoorn.nl
 https://kofaxtaacc.apeldoorn.nl
+https://koggenland.nl
 https://kompas.rotterdam.nl
 https://komverder.krimpenaandenijssel.nl
 https://koppelpoort.amersfoort.nl
@@ -7332,6 +7332,7 @@ https://simcms.huizen.nl
 https://simcms.ijsselstein.nl
 https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
+https://simcms.koggenland.nl
 https://simcms.leudal.nl
 https://simcms.nieuwkoop.nl
 https://simcms.oirschot.nl
@@ -8107,6 +8108,7 @@ https://veiligdelen.stichtsevecht.nl
 https://veiligdelen.zeist.nl
 https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
+https://veiligmailen.koggenland.nl
 https://veiligthuishaaglanden.acc.denhaag.nl
 https://veldhoven.nl
 https://velp.landvancuijk.nl
@@ -8380,6 +8382,7 @@ https://werkenbij.helmond.nl
 https://werkenbij.hilversum.nl
 https://werkenbij.hollandskroon.nl
 https://werkenbij.hoorn.nl
+https://werkenbij.koggenland.nl
 https://werkenbij.leeuwarden.nl
 https://werkenbij.lingewaard.nl
 https://werkenbij.maassluis.nl
@@ -8567,7 +8570,6 @@ https://woz-portaal-test.gemeente-steenbergen.nl
 https://woz-portaal.drimmelen.nl
 https://woz-portaal.gemeente-steenbergen.nl
 https://woz-portaal.huizen.nl
-https://woz-portaal.koggenland.nl
 https://woz-portaal.wierden.nl
 https://wozbalie.pijnacker-nootdorp.nl
 https://wozbezwaar.westerkwartier.nl

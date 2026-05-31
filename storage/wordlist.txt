@@ -43,10 +43,10 @@ iparticipatie
 belastingen
 test-ipa
 ruimtelijkeplannen
+werkenbij
 gemeenteraad
 enterpriseenrollment
 pv
-werkenbij
 zaaksysteem-accept
 api.meldingen-acc
 meldingen-acc
@@ -249,7 +249,6 @@ desktop
 openstad
 opendata
 woo
-woz-portaal
 guest
 publicroam
 jccapi
@@ -283,6 +282,7 @@ www.test
 afval
 e-loket
 img.openstad
+woz-portaal
 support
 data-test
 xential
@@ -351,6 +351,7 @@ toegang
 www.werkenbij
 zoeken
 servicedesk
+veiligmailen
 diensten
 sociaaldomein
 dkd-test
@@ -426,13 +427,11 @@ www.werkplek
 mylex
 gateway
 access
-prefill
 huisstijl
 mijndesktop
 www2
 www.acceptatie
 de
-veiligmailen
 secure-test
 mijnoverzicht
 rpl3
@@ -546,6 +545,7 @@ mijnsociaaldomein-acc
 wonen
 awtunnel
 service
+prefill
 loket.test
 www.praatmee
 edienstenaanvragensd-acceptatie
@@ -1181,8 +1181,6 @@ squit2020.test
 tcorsa
 tkoppelcorsa
 HTA
-lvolo-prod
-lvolo-test
 validsign-prod
 geocortex
 monitor
@@ -4634,15 +4632,10 @@ tcoda
 tmakelaar
 waarstemjijvoor
 belastingen.acc
-goprod
-gotest
 ik-acc
 ik
 inloggen.belastingen.acc
 inloggen.belastingen
-jboss
-mohis
-mohistest
 komverder
 mijnkrimpenwijzer
 test-mijnkrimpenwijzer
@@ -5298,6 +5291,8 @@ www.talentenbank
 LVOLO-PROD
 LVOLO-TEST
 im
+lvolo-prod
+lvolo-test
 ontmoetingscentra
 opmmks01
 simcms-ontmoetingscentra

@@ -6245,9 +6245,7 @@ gogo.denhaag.nl
 goirle.nl
 googleauth.gemeentemaastricht.nl
 gooisemeren.nl
-goprod.koggenland.nl
 gorinchem.nl
-gotest.koggenland.nl
 gouda.nl
 gouw7-acc.hoorn.nl
 gouw7.hoorn.nl
@@ -7528,7 +7526,6 @@ jacot.lev.delft.nl
 janvanzanen-acc.denhaag.nl
 janvanzanen.acc.denhaag.nl
 janvanzanen.denhaag.nl
-jboss.koggenland.nl
 jbt.denhaag.nl
 jbt.dev.denhaag.nl
 jbt.test.denhaag.nl
@@ -8260,9 +8257,7 @@ lvbgt.noordoostpolder.nl
 lvbrk.nissewaard.nl
 lvgeo.acc.capelleaandenijssel.nl
 lvgeo.capelleaandenijssel.nl
-lvolo-prod.koggenland.nl
 lvolo-prod.opmeer.nl
-lvolo-test.koggenland.nl
 lvolo-test.opmeer.nl
 lvs.denhaag.nl
 lvs.hellendoorn.nl
@@ -9226,8 +9221,6 @@ moh.arnhem.nl
 moh.renkum.nl
 moh.rheden.nl
 moh.rozendaal.nl
-mohis.koggenland.nl
-mohistest.koggenland.nl
 molenlanden.nl
 mom-test.groningen.nl
 mom.groningen.nl
@@ -10728,7 +10721,6 @@ pre.ie01.signicat.pro.drechterland.nl
 pre.katwijk.nl
 prefill-test.sudwestfryslan.nl
 prefill-test.zaltbommel.nl
-prefill.koggenland.nl
 prefill.soest.nl
 prefill.sudwestfryslan.nl
 prefill.test.westerwolde.nl
@@ -13688,6 +13680,7 @@ veiligdelen.zeist.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
+veiligmailen.koggenland.nl
 veiligmailen.sudwestfryslan.nl
 veiligthuishaaglanden.acc.denhaag.nl
 veldhoven.nl
@@ -14302,6 +14295,7 @@ werkenbij.helmond.nl
 werkenbij.hilversum.nl
 werkenbij.hollandskroon.nl
 werkenbij.hoorn.nl
+werkenbij.koggenland.nl
 werkenbij.leeuwarden.nl
 werkenbij.lingewaard.nl
 werkenbij.maassluis.nl
@@ -14612,7 +14606,6 @@ woz-portaal.baarn.nl
 woz-portaal.drimmelen.nl
 woz-portaal.gemeente-steenbergen.nl
 woz-portaal.huizen.nl
-woz-portaal.koggenland.nl
 woz-portaal.oisterwijk.nl
 woz-portaal.westerwolde.nl
 woz-portaal.wierden.nl
