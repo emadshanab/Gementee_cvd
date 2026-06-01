@@ -4342,6 +4342,7 @@ dloket.gemert-bakel.nl
 dloket.groningen.nl
 dloket.hellevoetsluis.nl
 dloket.kampen.nl
+dloket.krimpenaandenijssel.nl
 dloket.laarbeek.nl
 dloket.landsmeer.nl
 dloket.nissewaard.nl
@@ -4359,6 +4360,7 @@ dloket.waterland.nl
 dloket.westvoorne.nl
 dloket.zwolle.nl
 dlokettest.capelleaandenijssel.nl
+dlokettest.krimpenaandenijssel.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -4755,6 +4757,7 @@ edienstenburgerzaken-test.hofvantwente.nl
 edienstenburgerzaken-test.houten.nl
 edienstenburgerzaken-test.kaagenbraassem.nl
 edienstenburgerzaken-test.katwijk.nl
+edienstenburgerzaken-test.krimpenaandenijssel.nl
 edienstenburgerzaken-test.krimpenerwaard.nl
 edienstenburgerzaken-test.landgraaf.nl
 edienstenburgerzaken-test.landvancuijk.nl
@@ -4886,6 +4889,7 @@ edienstenburgerzaken.hofvantwente.nl
 edienstenburgerzaken.houten.nl
 edienstenburgerzaken.kaagenbraassem.nl
 edienstenburgerzaken.katwijk.nl
+edienstenburgerzaken.krimpenaandenijssel.nl
 edienstenburgerzaken.krimpenerwaard.nl
 edienstenburgerzaken.landgraaf.nl
 edienstenburgerzaken.landvancuijk.nl
@@ -5991,6 +5995,7 @@ geo.hilversum.nl
 geo.horstaandemaas.nl
 geo.huizen.nl
 geo.koggenland.nl
+geo.krimpenaandenijssel.nl
 geo.krimpenerwaard.nl
 geo.lingewaard.nl
 geo.local.oostgelre.nl
@@ -8196,6 +8201,7 @@ loket.heerde.nl
 loket.heerlen.nl
 loket.hellendoorn.nl
 loket.katwijk.nl
+loket.krimpenaandenijssel.nl
 loket.leeuwarden.nl
 loket.leidschendam-voorburg.nl
 loket.leusden.nl
@@ -8235,6 +8241,7 @@ loket.zwijndrecht.nl
 loket.zwolle.nl
 loketacc.arnhem.nl
 loketacpt.haarlem.nl
+lokettest.krimpenaandenijssel.nl
 lokettest.middendrenthe.nl
 lokettest.texel.nl
 loo-tv.brunssum.nl
@@ -8853,6 +8860,7 @@ mijn.hoorn.nl
 mijn.horstaandemaas.nl
 mijn.houten.nl
 mijn.kampen.nl
+mijn.krimpenaandenijssel.nl
 mijn.laarbeek.nl
 mijn.lansingerland.nl
 mijn.lingewaard.nl
@@ -13297,6 +13305,7 @@ testmarkt1.nunspeet.nl
 testmeldingen.asten.nl
 testmijn.capelleaandenijssel.nl
 testmijn.haarlemmermeer.nl
+testmijn.krimpenaandenijssel.nl
 testmijn.lochem.nl
 testmijngemeente.waddinxveen.nl
 testmijnzaken.derondevenen.nl

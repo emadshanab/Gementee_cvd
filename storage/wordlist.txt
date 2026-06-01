@@ -18,8 +18,8 @@ secure
 acceptatie
 felix
 probeer
-formulieren
 loket
+formulieren
 open
 eloket
 test
@@ -50,9 +50,9 @@ pv
 zaaksysteem-accept
 api.meldingen-acc
 meldingen-acc
+dloket
 dacceptatieloket
 dacceptatiemidoffice
-dloket
 woningbouwkaart
 data
 belastingbalie
@@ -478,6 +478,7 @@ suite4burgerzaken
 sync
 pdc
 clicksfm
+testmijn
 download
 parkeren-siam-test
 grooster
@@ -619,7 +620,6 @@ uitwijk
 www.omgevingsvisie
 mbg
 servicebus
-testmijn
 webcon
 pkio1
 dvg
@@ -751,6 +751,7 @@ bekendmakingen
 hybrid1
 hybrid2
 digitaalloket
+lokettest
 ews
 opentunnel
 digitalebelastingbalie
@@ -927,6 +928,7 @@ womserver
 odrumelding
 siamtest
 preprod-broker
+dlokettest
 link
 osbtest
 qr-acc
@@ -1223,7 +1225,6 @@ ggk-koppeling
 kadernota
 regieportaal
 zorg-acc
-lokettest
 portaaltest
 witgoed
 mymeeting
@@ -2387,7 +2388,6 @@ wmoservice
 woningbouw
 woo-publicaties
 belastingbalietest
-dlokettest
 lvgeo.acc
 lvgeo
 esp

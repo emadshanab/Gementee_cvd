@@ -1,8 +1,17 @@
 https://belastingbalie.krimpenaandenijssel.nl
+https://dloket.krimpenaandenijssel.nl
+https://dlokettest.krimpenaandenijssel.nl
+https://edienstenburgerzaken-test.krimpenaandenijssel.nl
+https://edienstenburgerzaken.krimpenaandenijssel.nl
+https://geo.krimpenaandenijssel.nl
 https://komverder.krimpenaandenijssel.nl
 https://krimpenaandenijssel.nl
+https://loket.krimpenaandenijssel.nl
+https://lokettest.krimpenaandenijssel.nl
+https://mijn.krimpenaandenijssel.nl
 https://mijnkrimpenwijzer.krimpenaandenijssel.nl
 https://post.krimpenaandenijssel.nl
 https://pv.krimpenaandenijssel.nl
+https://testmijn.krimpenaandenijssel.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.krimpenaandenijssel.nl

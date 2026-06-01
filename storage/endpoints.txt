@@ -2918,6 +2918,7 @@ https://dloket.gemeentemaashorst.nl
 https://dloket.gemert-bakel.nl
 https://dloket.groningen.nl
 https://dloket.kampen.nl
+https://dloket.krimpenaandenijssel.nl
 https://dloket.laarbeek.nl
 https://dloket.oldenzaal.nl
 https://dloket.olst-wijhe.nl
@@ -2930,6 +2931,7 @@ https://dloket.veendam.nl
 https://dloket.waterland.nl
 https://dloket.zwolle.nl
 https://dlokettest.capelleaandenijssel.nl
+https://dlokettest.krimpenaandenijssel.nl
 https://dmafunc002.amsterdam.nl
 https://dmpfunc002.amsterdam.nl
 https://dmzsvr02.winterswijk.nl
@@ -3153,6 +3155,7 @@ https://edienstenburgerzaken-test.hofvantwente.nl
 https://edienstenburgerzaken-test.houten.nl
 https://edienstenburgerzaken-test.kaagenbraassem.nl
 https://edienstenburgerzaken-test.katwijk.nl
+https://edienstenburgerzaken-test.krimpenaandenijssel.nl
 https://edienstenburgerzaken-test.krimpenerwaard.nl
 https://edienstenburgerzaken-test.landgraaf.nl
 https://edienstenburgerzaken-test.landvancuijk.nl
@@ -3281,6 +3284,7 @@ https://edienstenburgerzaken.hofvantwente.nl
 https://edienstenburgerzaken.houten.nl
 https://edienstenburgerzaken.kaagenbraassem.nl
 https://edienstenburgerzaken.katwijk.nl
+https://edienstenburgerzaken.krimpenaandenijssel.nl
 https://edienstenburgerzaken.krimpenerwaard.nl
 https://edienstenburgerzaken.landgraaf.nl
 https://edienstenburgerzaken.landvancuijk.nl
@@ -3993,6 +3997,7 @@ https://geo.heerenveen.nl
 https://geo.hilversum.nl
 https://geo.horstaandemaas.nl
 https://geo.huizen.nl
+https://geo.krimpenaandenijssel.nl
 https://geo.krimpenerwaard.nl
 https://geo.middendrenthe.nl
 https://geo.montferland.info
@@ -5271,6 +5276,7 @@ https://loket.hattem.nl
 https://loket.heerde.nl
 https://loket.hellendoorn.nl
 https://loket.katwijk.nl
+https://loket.krimpenaandenijssel.nl
 https://loket.leeuwarden.nl
 https://loket.leusden.nl
 https://loket.noardeast-fryslan.nl
@@ -5301,6 +5307,7 @@ https://loket.zaanstad.nl
 https://loket.zevenaar.nl
 https://loket.zoetermeer.nl
 https://loket.zwijndrecht.nl
+https://lokettest.krimpenaandenijssel.nl
 https://lokettest.texel.nl
 https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
@@ -5626,6 +5633,7 @@ https://mijn.hoorn.nl
 https://mijn.horstaandemaas.nl
 https://mijn.houten.nl
 https://mijn.kampen.nl
+https://mijn.krimpenaandenijssel.nl
 https://mijn.laarbeek.nl
 https://mijn.lansingerland.nl
 https://mijn.lingewaard.nl
@@ -7924,6 +7932,7 @@ https://testloket.nieuwkoop.nl
 https://testloket.oldebroek.nl
 https://testmeldingen.asten.nl
 https://testmijn.capelleaandenijssel.nl
+https://testmijn.krimpenaandenijssel.nl
 https://testmijn.lochem.nl
 https://testmijngemeente.waddinxveen.nl
 https://testmijnzaken.derondevenen.nl
