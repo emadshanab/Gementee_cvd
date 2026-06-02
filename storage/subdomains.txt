@@ -6517,6 +6517,7 @@ huisstijl.moerdijk.nl
 huisstijl.tilburg.nl
 huisstijl.utrecht.nl
 huisstijl.zaanstad.nl
+huisstijlhandleiding.krimpenerwaard.nl
 huisvuilkalender.acc.denhaag.nl
 huisvuilkalender.denhaag.nl
 huisvuilkalender.gemeentewestland.nl
@@ -6987,7 +6988,9 @@ idiensten-contract.rotterdam.nl
 idinloggen.oosterhout.nl
 idinloggenpre.oosterhout.nl
 idocumenten.urk.nl
+idp-test.krimpenerwaard.nl
 idp.hollandskroon.nl
+idp.krimpenerwaard.nl
 idrac1.ovh.gemeentebeek.nl
 idrac10.ovh.gemeentebeek.nl
 idrac2.ovh.gemeentebeek.nl
@@ -7083,6 +7086,7 @@ impactmeter.kampen.nl
 import.regiomonitor-acc.oosterhout.nl
 in.amsterdam.nl
 inc-ons.zwolle.nl
+include.krimpenerwaard.nl
 indica-acc.amsterdam.nl
 indienst.almere.nl
 indienst.wageningen.nl
@@ -7426,6 +7430,7 @@ iparticipatie.heumen.nl
 iparticipatie.hollandskroon.nl
 iparticipatie.huizen.nl
 iparticipatie.katwijk.nl
+iparticipatie.krimpenerwaard.nl
 iparticipatie.leiden.nl
 iparticipatie.leiderdorp.nl
 iparticipatie.lelystad.nl
@@ -13004,6 +13009,7 @@ test-ipa.heumen.nl
 test-ipa.hollandskroon.nl
 test-ipa.huizen.nl
 test-ipa.katwijk.nl
+test-ipa.krimpenerwaard.nl
 test-ipa.leiden.nl
 test-ipa.leiderdorp.nl
 test-ipa.lelystad.nl
@@ -13352,7 +13358,6 @@ tgws4allsuite4werk.heerlen.nl
 tgws4allsuite4zorg.heerlen.nl
 themawebsite.hoorn.nl
 thic.denhaag.nl
-thinclients.krimpenerwaard.nl
 this010.rotterdam.nl
 tholen.nl
 thomas100.rotterdam.nl

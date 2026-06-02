@@ -36,12 +36,12 @@ raad
 api.meldingen
 parkeren
 geo
+iparticipatie
 vpn
 testeloket
 adfs
-iparticipatie
-belastingen
 test-ipa
+belastingen
 ruimtelijkeplannen
 werkenbij
 gemeenteraad
@@ -1164,6 +1164,7 @@ jip
 keyhub
 test-jip
 communicatie
+idp
 test-kaartviewer
 weblogic
 verwerkingsregister
@@ -4410,7 +4411,6 @@ e-notas
 qfact
 testcms-jip
 vpn-sso
-idp
 idselectprd
 sociaaljaarverslag
 verhalenroute
@@ -4644,11 +4644,13 @@ buitendienst-app
 buitendienst-dashboard
 eloket-sociaaldomein
 eloket-test-sociaaldomein
+huisstijlhandleiding
+idp-test
+include
 internekoppelingen
 intranettest
 koppelingen
 koppelingentest
-thinclients
 unjunk
 waardwijzer
 lb-servers
