@@ -2223,6 +2223,7 @@ bb1162.kerkrade.nl
 bb1971.brunssum.nl
 bb1979.kerkrade.nl
 bb2022.kerkrade.nl
+bb2111.landgraaf.nl
 bb523.brunssum.nl
 bb524.brunssum.nl
 bb763.ovh.gemeentebeek.nl
@@ -3066,6 +3067,7 @@ byod.groningen.nl
 byod.gulpen-wittem.nl
 byod.heerlen.nl
 byod.kerkrade.nl
+byod.landgraaf.nl
 byod.simpelveld.nl
 byod.voerendaal.nl
 byspy.maassluis.nl
@@ -7303,7 +7305,6 @@ intranet.hoorn.nl
 intranet.kampen.nl
 intranet.krimpenerwaard.nl
 intranet.laarbeek.nl
-intranet.landgraaf.nl
 intranet.landvancuijk.nl
 intranet.lansingerland.nl
 intranet.leiden.nl

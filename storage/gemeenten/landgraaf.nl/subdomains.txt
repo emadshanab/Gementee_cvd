@@ -5,6 +5,8 @@ afspraken-test.landgraaf.nl
 afspraken.landgraaf.nl
 autorisatiebeheer-test.landgraaf.nl
 autorisatiebeheer.landgraaf.nl
+bb2111.landgraaf.nl
+byod.landgraaf.nl
 cloudadapter-test.landgraaf.nl
 cloudadapter.landgraaf.nl
 digitaalloket.landgraaf.nl
@@ -19,7 +21,6 @@ glow.landgraaf.nl
 govroam.landgraaf.nl
 guest.landgraaf.nl
 inloggen.landgraaf.nl
-intranet.landgraaf.nl
 kassaservice.landgraaf.nl
 key2datadistributie-test.landgraaf.nl
 key2datadistributie.landgraaf.nl

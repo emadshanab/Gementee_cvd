@@ -200,6 +200,7 @@ sip
 test-digikoppeling
 meedoen
 localhost
+byod
 email
 uc
 ro
@@ -219,7 +220,6 @@ admin.openstad
 nieuwsbrief
 woo
 lyncdiscover
-byod
 mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
@@ -4657,6 +4657,7 @@ lb-servers
 solidariteit
 test-cmsembrace
 test-embrace
+bb2111
 glow
 koppelvlakkentst
 lgf002
