@@ -57,7 +57,6 @@ http://amsterdaminbeeld.acc.amsterdam.nl
 http://andreas.acc.amsterdam.nl
 http://andreas.tst.amsterdam.nl
 http://andreasjms.amsterdam.nl
-http://ansvlm2009.landsmeer.nl
 http://aphrodite-am-kiosk.it4d.azure.amsterdam.nl
 http://aphrodite-am-uitslag.it4d.azure.amsterdam.nl
 http://api.acc.meldingen.amsterdam.nl
@@ -1427,7 +1426,6 @@ https://afspraken.goes.nl
 https://afspraken.goirle.nl
 https://afspraken.hilversum.nl
 https://afspraken.kampen.nl
-https://afspraken.landsmeer.nl
 https://afspraken.lelystad.nl
 https://afspraken.middendelfland.nl
 https://afspraken.nissewaard.nl
@@ -2510,9 +2508,7 @@ https://cloud.nieuwsbrief.amsterdam.nl
 https://cloud.wageningen.nl
 https://cloudadapter-acc.waterland.nl
 https://cloudadapter-prd.waterland.nl
-https://cloudadapter-test.landsmeer.nl
 https://cloudadapter-test.meppel.nl
-https://cloudadapter.landsmeer.nl
 https://cloudadapter.meppel.nl
 https://cloudrecorder.denhaag.nl
 https://cms-binnenshuis.bergen.nl
@@ -4492,7 +4488,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.landsmeer.nl
 https://ibzpink.laren.nl
 https://ibzpink.lelystad.nl
 https://ibzpink.leudal.nl

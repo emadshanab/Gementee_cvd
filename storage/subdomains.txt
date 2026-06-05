@@ -1399,7 +1399,6 @@ andreas2.tst.amsterdam.nl
 andreasjms.acc.amsterdam.nl
 andreasjms.amsterdam.nl
 andreasjms.tst.amsterdam.nl
-ansvlm2009.landsmeer.nl
 ansvwl2015.waterland.nl
 ansvwl2016.waterland.nl
 ansvwl2019.waterland.nl
@@ -3238,7 +3237,6 @@ cloudadapter-test.gorinchem.nl
 cloudadapter-test.gulpen-wittem.nl
 cloudadapter-test.hofvantwente.nl
 cloudadapter-test.landgraaf.nl
-cloudadapter-test.landsmeer.nl
 cloudadapter-test.meppel.nl
 cloudadapter-test.nederbetuwe.nl
 cloudadapter-test.purmerend.nl
@@ -3263,7 +3261,6 @@ cloudadapter.gemeenteberkelland.nl
 cloudadapter.gemeentesluis.nl
 cloudadapter.hellendoorn.nl
 cloudadapter.landgraaf.nl
-cloudadapter.landsmeer.nl
 cloudadapter.meppel.nl
 cloudadapter.purmerend.nl
 cloudadapter.simpelveld.nl
@@ -3654,7 +3651,6 @@ dacceptatieloket.groningen.nl
 dacceptatieloket.hellevoetsluis.nl
 dacceptatieloket.kampen.nl
 dacceptatieloket.laarbeek.nl
-dacceptatieloket.landsmeer.nl
 dacceptatieloket.nissewaard.nl
 dacceptatieloket.oldenzaal.nl
 dacceptatieloket.olst-wijhe.nl
@@ -4349,7 +4345,6 @@ dloket.hellevoetsluis.nl
 dloket.kampen.nl
 dloket.krimpenaandenijssel.nl
 dloket.laarbeek.nl
-dloket.landsmeer.nl
 dloket.nissewaard.nl
 dloket.oldenzaal.nl
 dloket.olst-wijhe.nl
@@ -4385,7 +4380,6 @@ dmidoffice.groningen.nl
 dmidoffice.hellevoetsluis.nl
 dmidoffice.kampen.nl
 dmidoffice.laarbeek.nl
-dmidoffice.landsmeer.nl
 dmidoffice.nissewaard.nl
 dmidoffice.oldenzaal.nl
 dmidoffice.olst-wijhe.nl
@@ -4519,7 +4513,6 @@ dtestloket.gemert-bakel.nl
 dtestloket.groningen.nl
 dtestloket.hellevoetsluis.nl
 dtestloket.laarbeek.nl
-dtestloket.landsmeer.nl
 dtestloket.nissewaard.nl
 dtestloket.oldenzaal.nl
 dtestloket.roermond.nl
