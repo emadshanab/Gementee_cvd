@@ -1,10 +1,12 @@
-http://intranet-acc.landvancuijk.nl
+http://intranetcms-acc.landvancuijk.nl
 https://access.landvancuijk.nl
 https://actief.landvancuijk.nl
 https://adverteren.landvancuijk.nl
 https://agenda.landvancuijk.nl
 https://agrifoodtech.landvancuijk.nl
+https://ai.landvancuijk.nl
 https://app.landvancuijk.nl
+https://applicaties.landvancuijk.nl
 https://archief.landvancuijk.nl
 https://arrangementen.landvancuijk.nl
 https://bedrijven.landvancuijk.nl
@@ -27,6 +29,7 @@ https://escharen.landvancuijk.nl
 https://evenementen.landvancuijk.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
+https://fietskalender.landvancuijk.nl
 https://fietsroutes.landvancuijk.nl
 https://fmreturn.landvancuijk.nl
 https://foto.landvancuijk.nl
@@ -38,8 +41,8 @@ https://groeningen.landvancuijk.nl
 https://haps.landvancuijk.nl
 https://holthees.landvancuijk.nl
 https://huisstijl.landvancuijk.nl
+https://intranet-acc.landvancuijk.nl
 https://intranet.landvancuijk.nl
-https://intranetcms-acc.landvancuijk.nl
 https://intranetcms.landvancuijk.nl
 https://katwijk.landvancuijk.nl
 https://kavels.landvancuijk.nl
@@ -57,9 +60,10 @@ https://maasheggen.landvancuijk.nl
 https://magazine.landvancuijk.nl
 https://media.landvancuijk.nl
 https://mill.landvancuijk.nl
+https://monopoly.landvancuijk.nl
+https://nachtbloemen.landvancuijk.nl
 https://nieuws.landvancuijk.nl
 https://oeffelt.landvancuijk.nl
-https://old.landvancuijk.nl
 https://ondernemen.landvancuijk.nl
 https://ons.landvancuijk.nl
 https://ontmoetingskaart.landvancuijk.nl
@@ -78,7 +82,6 @@ https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
 https://sport.landvancuijk.nl
 https://sportloket.landvancuijk.nl
-https://status.landvancuijk.nl
 https://stevensbeek.landvancuijk.nl
 https://streaming.landvancuijk.nl
 https://techniek.landvancuijk.nl
@@ -114,7 +117,9 @@ https://www.beeldbank.landvancuijk.nl
 https://www.fietsroutes.landvancuijk.nl
 https://www.huisstijl.landvancuijk.nl
 https://www.landvancuijk.nl
-https://www.old.landvancuijk.nl
+https://www.monopoly.landvancuijk.nl
+https://www.nachtbloemen.landvancuijk.nl
+https://www.ons.landvancuijk.nl
 https://www.oorlogenvrede.landvancuijk.nl
 https://www.rondleidingen.landvancuijk.nl
 https://www.shops.landvancuijk.nl

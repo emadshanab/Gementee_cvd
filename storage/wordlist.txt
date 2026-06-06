@@ -363,6 +363,7 @@ ns
 wion
 atlas
 api
+applicaties
 beheer
 belastingbalie.acc
 parkeervergunning
@@ -439,7 +440,6 @@ test-zaakloket
 testsiam
 zaakloket
 2secure
-applicaties
 assets
 belastingbalie-acc
 cms.openstad
@@ -1194,7 +1194,6 @@ koppelvlakken
 pre-inloggen
 publieksbalie
 foto
-status
 winkel
 www.huisstijl
 persberichten
@@ -4683,6 +4682,7 @@ actief
 adverteren
 agenda
 agrifoodtech
+ai
 arrangementen
 bedrijven
 bedrijvengids
@@ -4695,6 +4695,7 @@ cultuur
 escharen
 festival
 festivals
+fietskalender
 fietsroutes
 gassel
 genietenzonderzorgen
@@ -4703,6 +4704,8 @@ grave
 groeningen
 haps
 holthees
+jkc-prod
+jkc-test
 katwijk
 klimaat
 landhorst
@@ -4715,14 +4718,17 @@ maashees
 maasheggen
 meldingen-test
 mill
+monopoly
+nachtbloemen
 oeffelt
-old
 ontmoetingskaart
 oorlogenvrede
 oploo
 overloon
 plattegrond
 podcast
+postex-ssd-prod
+postex-ssd-test
 rijkevoort
 rondleidingen
 sambeek
@@ -4756,7 +4762,9 @@ www.agrifoodtech
 www.arrangementen
 www.beeldbank
 www.fietsroutes
-www.old
+www.monopoly
+www.nachtbloemen
+www.ons
 www.oorlogenvrede
 www.rondleidingen
 www.shops
@@ -5275,6 +5283,7 @@ revprox
 revprox01
 revprox02
 staging.intranet
+status
 tsapp05.local
 uag1
 vrijwilligerswerk-oostgelre
