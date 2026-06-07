@@ -105,7 +105,6 @@ acc-openzaak
 podiumd-logs
 belastingloket
 pki
-cmsintranet
 mijnzorg
 siam
 financien
@@ -121,8 +120,8 @@ objecttypen
 openklant
 openzaak
 samen
-test-intranet
 dtestloket
+cmsintranet
 subsidies
 snelbalie
 duurzaam
@@ -132,6 +131,7 @@ keycloak-admin
 zac
 extranet
 govroam
+test-intranet
 verkiezingen
 osbacc
 afvalkalender
@@ -144,7 +144,6 @@ filecap
 dtestmidoffice
 squit2go
 connect.acceptatie
-test-cmsintranet
 vergunningintaker
 ftp
 simform
@@ -153,6 +152,7 @@ dali
 preprod
 acc-office-addin
 obsurv
+test-cmsintranet
 belastingportaal
 web
 preprod-mijn
@@ -181,6 +181,7 @@ bis
 formulieren-test
 auth
 bag
+owa
 gasten
 AutoDiscover
 jaarstukken
@@ -195,7 +196,6 @@ maps
 api.openstad
 mailing
 gis
-owa
 sip
 test-digikoppeling
 meedoen
@@ -209,6 +209,7 @@ zaken.acceptatie
 inproces.acceptatie
 transfer
 bestuur
+acceptatie-open
 squit2020
 mx1
 zaaksysteem
@@ -229,7 +230,6 @@ mobile
 sharefile
 outlook
 vth
-acceptatie-open
 testloket
 www.samen
 mx2
@@ -1144,6 +1144,7 @@ belasting-loket
 e2s
 parkeerproducten
 testintranet
+welkombij
 siem
 geoloket
 coda
@@ -4302,7 +4303,6 @@ parkeerproducten-acc
 personeelsvereniging
 uaghelm01
 uaghelm02
-welkombij
 wootest
 blockchain
 edienstenpubliekszaken-test

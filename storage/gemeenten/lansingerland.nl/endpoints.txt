@@ -1,6 +1,5 @@
 http://autodiscover.lansingerland.nl
-http://cmsintranet.lansingerland.nl
-http://test-intranet.lansingerland.nl
+https://acceptatie-open.lansingerland.nl
 https://buitenoporde.lansingerland.nl
 https://clicks.nieuws.lansingerland.nl
 https://clicks.persberichten.lansingerland.nl
@@ -9,7 +8,6 @@ https://clicksfm.nieuws.lansingerland.nl
 https://clicksfm.persberichten.lansingerland.nl
 https://edienstenburgerzaken-test.lansingerland.nl
 https://edienstenburgerzaken.lansingerland.nl
-https://intranet.lansingerland.nl
 https://jeugdhulp.lansingerland.nl
 https://lansingerland.nl
 https://mailsig.lansingerland.nl
@@ -17,12 +15,13 @@ https://micontentstore.lansingerland.nl
 https://mijn.lansingerland.nl
 https://mijnportaal.lansingerland.nl
 https://nieuws.lansingerland.nl
+https://open.lansingerland.nl
 https://openpdc.lansingerland.nl
 https://openpub.lansingerland.nl
 https://persberichten.lansingerland.nl
 https://preprod-mijnportaal.lansingerland.nl
 https://projecten.lansingerland.nl
 https://sts.lansingerland.nl
-https://test-cmsintranet.lansingerland.nl
+https://welkombij.lansingerland.nl
 https://www.lansingerland.nl
 https://zaaksysteem-accept.lansingerland.nl

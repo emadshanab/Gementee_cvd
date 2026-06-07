@@ -810,6 +810,7 @@ acceptatie-ontwikkelplein.hethogeland.nl
 acceptatie-open.dinkelland.nl
 acceptatie-open.gooisemeren.nl
 acceptatie-open.hofvantwente.nl
+acceptatie-open.lansingerland.nl
 acceptatie-open.moerdijk.nl
 acceptatie-open.oude-ijsselstreek.nl
 acceptatie-open.roosendaal.nl
@@ -3327,7 +3328,6 @@ cmsintranet.gemeentestein.nl
 cmsintranet.gooisemeren.nl
 cmsintranet.groningen.nl
 cmsintranet.heuvelrug.nl
-cmsintranet.lansingerland.nl
 cmsintranet.meierijstad.nl
 cmsintranet.peelenmaas.nl
 cmsintranet.sittard-geleen.nl
@@ -7302,7 +7302,6 @@ intranet.kampen.nl
 intranet.krimpenerwaard.nl
 intranet.laarbeek.nl
 intranet.landvancuijk.nl
-intranet.lansingerland.nl
 intranet.leiden.nl
 intranet.leudal.nl
 intranet.leusden.nl
@@ -9892,6 +9891,7 @@ open.hilversum.nl
 open.hofvantwente.nl
 open.katwijk.nl
 open.krimpenerwaard.nl
+open.lansingerland.nl
 open.leudal.nl
 open.lisse.nl
 open.lochem.nl
@@ -10181,6 +10181,7 @@ owa.epe.nl
 owa.groningen.nl
 owa.helmond.nl
 owa.kampen.nl
+owa.lansingerland.nl
 owa.nederweert.nl
 owa.nieuwegein.nl
 owa.schagen.nl
@@ -12925,7 +12926,6 @@ test-cmsintranet.gemeentestein.nl
 test-cmsintranet.gooisemeren.nl
 test-cmsintranet.groningen.nl
 test-cmsintranet.heuvelrug.nl
-test-cmsintranet.lansingerland.nl
 test-cmsintranet.meierijstad.nl
 test-cmsintranet.sittard-geleen.nl
 test-cmsintranet.steenwijkerland.nl
@@ -12986,7 +12986,6 @@ test-intranet.gemeentebeek.nl
 test-intranet.gemeentestein.nl
 test-intranet.groningen.nl
 test-intranet.heuvelrug.nl
-test-intranet.lansingerland.nl
 test-intranet.meierijstad.nl
 test-intranet.midden-groningen.nl
 test-intranet.sittard-geleen.nl
@@ -14287,6 +14286,7 @@ welkom.ede.nl
 welkom.helmond.nl
 welkom.zeist.nl
 welkombij.helmond.nl
+welkombij.lansingerland.nl
 welstand.venlo.nl
 welstandsnota.lopik.nl
 wenen.stadskanaal.nl

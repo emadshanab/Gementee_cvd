@@ -328,7 +328,6 @@ http://cms.werkenbij.amsterdam.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
 http://cmsintranet.etten-leur.nl
-http://cmsintranet.lansingerland.nl
 http://cmsjip.vijfheerenlanden.nl
 http://cmsoo.enschede.nl
 http://cmssocialintranet.middendelfland.nl
@@ -615,7 +614,6 @@ http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
 http://test-intranet.heuvelrug.nl
-http://test-intranet.lansingerland.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sittard-geleen.nl
@@ -1251,6 +1249,7 @@ https://acceptatie-ontwikkelplein.hethogeland.nl
 https://acceptatie-open.dinkelland.nl
 https://acceptatie-open.gooisemeren.nl
 https://acceptatie-open.hofvantwente.nl
+https://acceptatie-open.lansingerland.nl
 https://acceptatie-open.moerdijk.nl
 https://acceptatie-open.oude-ijsselstreek.nl
 https://acceptatie-open.roosendaal.nl
@@ -4767,7 +4766,6 @@ https://intranet.kampen.nl
 https://intranet.krimpenerwaard.nl
 https://intranet.laarbeek.nl
 https://intranet.landvancuijk.nl
-https://intranet.lansingerland.nl
 https://intranet.leiden.nl
 https://intranet.leusden.nl
 https://intranet.loonopzand.nl
@@ -6283,6 +6281,7 @@ https://open.hilversum.nl
 https://open.hofvantwente.nl
 https://open.katwijk.nl
 https://open.krimpenerwaard.nl
+https://open.lansingerland.nl
 https://open.leudal.nl
 https://open.lisse.nl
 https://open.lochem.nl
@@ -7767,7 +7766,6 @@ https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.gemeentebeek.nl
 https://test-cmsintranet.gooisemeren.nl
-https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.steenwijkerland.nl
@@ -8382,6 +8380,7 @@ https://wegwijsplus.vught.nl
 https://welkom.helmond.nl
 https://welkom.zeist.nl
 https://welkombij.helmond.nl
+https://welkombij.lansingerland.nl
 https://werk.landvancuijk.nl
 https://werkaandewijk.denhaag.nl
 https://werkenbij.alkmaar.nl
