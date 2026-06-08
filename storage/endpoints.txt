@@ -442,6 +442,7 @@ http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://kindregelingen.geertruidenberg.nl
 http://klimaatraad.deventer.nl
+http://laren.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://lingewaard.nl
@@ -2232,6 +2233,7 @@ https://betalen.hilversum.nl
 https://betalen.horstaandemaas.nl
 https://betalen.kapelle.nl
 https://betalen.laarbeek.nl
+https://betalen.laren.nl
 https://betalen.leeuwarden.nl
 https://betalen.meppel.nl
 https://betalen.nieuwegein.nl
@@ -3656,6 +3658,7 @@ https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
 https://felix.landgraaf.nl
+https://felix.laren.nl
 https://felix.lingewaard.nl
 https://felix.lopik.nl
 https://felix.nederweert.nl
@@ -4490,7 +4493,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.laren.nl
 https://ibzpink.lelystad.nl
 https://ibzpink.leudal.nl
 https://ibzpink.lingewaard.nl
@@ -5168,7 +5170,6 @@ https://landvancuijk.nl
 https://langenboom.landvancuijk.nl
 https://langerthuiswonen.zaanstad.nl
 https://lansingerland.nl
-https://laren.nl
 https://ld-01.hellevoetsluis.nl
 https://ledeacker.landvancuijk.nl
 https://leefcor.bergenopzoom.nl
@@ -7499,6 +7500,7 @@ https://socialekaart.echt-susteren.nl
 https://socialekaart.ede.nl
 https://socialekaart.eemnes.nl
 https://socialekaart.huizen.nl
+https://socialekaart.laren.nl
 https://socialekaart.nieuwegein.nl
 https://socialekaart.valkenswaard.nl
 https://socialekaart.westbetuwe.nl

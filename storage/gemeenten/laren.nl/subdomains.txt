@@ -1,6 +1,11 @@
+betalen.laren.nl
 digikoppeling.laren.nl
 digikoppeling.test.laren.nl
+felix.laren.nl
 iburgerzaken.laren.nl
 ibzpink.laren.nl
 laren.nl
+preproductie.laren.nl
+simcms.laren.nl
+socialekaart.laren.nl
 www.laren.nl

@@ -2705,6 +2705,7 @@ betalen.hilversum.nl
 betalen.horstaandemaas.nl
 betalen.kapelle.nl
 betalen.laarbeek.nl
+betalen.laren.nl
 betalen.leeuwarden.nl
 betalen.meppel.nl
 betalen.nieuwegein.nl
@@ -5396,6 +5397,7 @@ felix.heuvelrug.nl
 felix.kerkrade.nl
 felix.koggenland.nl
 felix.landgraaf.nl
+felix.laren.nl
 felix.leudal.nl
 felix.lingewaard.nl
 felix.loonopzand.nl
@@ -10932,6 +10934,7 @@ preproductie.kerkrade.nl
 preproductie.koggenland.nl
 preproductie.krimpenerwaard.nl
 preproductie.landgraaf.nl
+preproductie.laren.nl
 preproductie.leudal.nl
 preproductie.lopik.nl
 preproductie.maassluis.nl
@@ -12029,6 +12032,7 @@ simcms.kerkrade.nl
 simcms.koggenland.nl
 simcms.krimpenerwaard.nl
 simcms.landgraaf.nl
+simcms.laren.nl
 simcms.leudal.nl
 simcms.lingewaard.nl
 simcms.lopik.nl
@@ -12380,6 +12384,7 @@ socialekaart.echt-susteren.nl
 socialekaart.ede.nl
 socialekaart.eemnes.nl
 socialekaart.huizen.nl
+socialekaart.laren.nl
 socialekaart.nieuwegein.nl
 socialekaart.valkenswaard.nl
 socialekaart.westbetuwe.nl
