@@ -290,7 +290,6 @@ http://awm.amsterdam.nl
 http://baarn.nl
 http://becpo.acc.topdesk.denhaag.nl
 http://becpo.topdesk.denhaag.nl
-http://beeldbank.leeuwarden.nl
 http://beheer.acc.amsterdam.nl
 http://beheer.amsterdam.nl
 http://belastingen.almere.nl
@@ -596,8 +595,6 @@ http://status-paginas-zgw.test.denhaag.nl
 http://stembureaus.amsterdam.nl
 http://stoepvrij.groningen.nl
 http://stroomt.deventer.nl
-http://subsidies-backend.leeuwarden.nl
-http://subsidies-login.acceptatie.leeuwarden.nl
 http://surveys3.acc.amsterdam.nl
 http://test-bink.beverwijk.nl
 http://test-binnenshuis.bergen.nl
@@ -680,7 +677,6 @@ http://www.economie.groningen.nl
 http://www.erfgoed.groningen.nl
 http://www.geldrop-mierlo.nl
 http://www.ggd.groningen.nl
-http://www.goedterechtin.leeuwarden.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
@@ -723,7 +719,6 @@ http://www.zomerprogramma070.denhaag.nl
 http://www.zorgloket.druten.nl
 http://www.zuidwestopznbest.denhaag.nl
 http://yutpa.dev.rnd.amsterdam.nl
-http://zaak-acc.leeuwarden.nl
 http://zandweerdstroomt.deventer.nl
 http://zandweteringpark.deventer.nl
 http://zgw.denhaag.nl
@@ -1605,6 +1600,7 @@ https://api.heitje.heerlen.nl
 https://api.horstaandemaas.nl
 https://api.melding.acc.heerlen.nl
 https://api.melding.heerlen.nl
+https://api.meldingen-a.leeuwarden.nl
 https://api.meldingen-a.waadhoeke.nl
 https://api.meldingen-acc.aaenhunze.nl
 https://api.meldingen-acc.almere.nl
@@ -1932,6 +1928,7 @@ https://beeldbank.goirle.nl
 https://beeldbank.haarlemmermeer.nl
 https://beeldbank.hellendoorn.nl
 https://beeldbank.landvancuijk.nl
+https://beeldbank.leeuwarden.nl
 https://beeldbank.leiden.nl
 https://beeldbank.loonopzand.nl
 https://beeldbank.oegstgeest.nl
@@ -3796,6 +3793,7 @@ https://formulier.hoorn.nl
 https://formulier.horstaandemaas.nl
 https://formulier.kampen.nl
 https://formulier.laarbeek.nl
+https://formulier.leeuwarden.nl
 https://formulier.losser.nl
 https://formulier.nijmegen.nl
 https://formulier.oldenzaal.nl
@@ -4143,7 +4141,6 @@ https://gitops.dev.denhaag.nl
 https://gitops.test.denhaag.nl
 https://glanerbrug.openstad.enschede.nl
 https://goedbezig.rotterdam.nl
-https://goedterechtin.leeuwarden.nl
 https://goeree-overflakkee.nl
 https://goes.nl
 https://gogo.acc.denhaag.nl
@@ -5638,6 +5635,7 @@ https://mijn.kampen.nl
 https://mijn.krimpenaandenijssel.nl
 https://mijn.laarbeek.nl
 https://mijn.lansingerland.nl
+https://mijn.leeuwarden.nl
 https://mijn.lingewaard.nl
 https://mijn.lochem.nl
 https://mijn.maasdriel.nl
@@ -6036,6 +6034,7 @@ https://notificaties.hoorn.nl
 https://notificaties.horstaandemaas.nl
 https://notificaties.kampen.nl
 https://notificaties.laarbeek.nl
+https://notificaties.leeuwarden.nl
 https://notificaties.oldenzaal.nl
 https://notificaties.oostgelre.nl
 https://notificaties.roermond.nl
@@ -6505,6 +6504,7 @@ https://parkeerproducten.helmond.nl
 https://parkeerproducten.nijmegen.nl
 https://parkeervergunning-siam-test.nissewaard.nl
 https://parkeervergunning-siam.nissewaard.nl
+https://parkeervergunning-test.leeuwarden.nl
 https://parkeervergunning-test.nissewaard.nl
 https://parkeervergunning.amsterdam.nl
 https://parkeervergunning.enschede.nl
@@ -7674,6 +7674,7 @@ https://subsidies-backend.gemeentemaashorst.nl
 https://subsidies-backend.gemeentewestland.nl
 https://subsidies-backend.harderwijk.nl
 https://subsidies-backend.heerenveen.nl
+https://subsidies-backend.leeuwarden.nl
 https://subsidies-backend.lelystad.nl
 https://subsidies-backend.oosterhout.nl
 https://subsidies-login-test.heerenveen.nl
@@ -7682,7 +7683,6 @@ https://subsidies-login.acceptatie.ede.nl
 https://subsidies-login.acceptatie.maassluis.nl
 https://subsidies-login.debilt.nl
 https://subsidies-login.ede.nl
-https://subsidies-login.leeuwarden.nl
 https://subsidies-login.oosterhout.nl
 https://subsidies-test-login.oosterhout.nl
 https://subsidies-test.heerenveen.nl
@@ -9175,8 +9175,10 @@ https://yivi.accp.nijmegen.nl
 https://yivi.nijmegen.nl
 https://youpp.westerwolde.nl
 https://zaak-acc.barneveld.nl
+https://zaak-acc.leeuwarden.nl
 https://zaak-dev.barneveld.nl
 https://zaak.barneveld.nl
+https://zaak.leeuwarden.nl
 https://zaak.tynaarlo.nl
 https://zaakloket.ameland.nl
 https://zaakloket.schiermonnikoog.nl

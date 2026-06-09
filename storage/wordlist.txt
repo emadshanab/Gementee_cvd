@@ -62,10 +62,10 @@ remote
 dmidoffice
 openpub
 berichten
+formulier
 cmsoo
 loket.acceptatie
 omgevingsvisie
-formulier
 osb
 kaart
 login
@@ -102,6 +102,7 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
+notificaties
 podiumd-logs
 belastingloket
 pki
@@ -114,7 +115,6 @@ acc-zac
 bgt
 contact
 keycloak
-notificaties
 objecten
 objecttypen
 openklant
@@ -589,6 +589,7 @@ vastgoed
 loket-acc
 accdrop
 id
+zaak
 eforms
 acceptatieloket
 webserver
@@ -876,7 +877,6 @@ youpp
 pwa
 solliciterenbij
 zaak-acc
-zaak
 gisibonline
 sentry
 werkomgeving
@@ -1078,7 +1078,6 @@ gpp-zoeken
 koningsdag
 mijngkb
 myprint
-ows-app
 rekentool
 samenwerken
 sso-test
@@ -3796,6 +3795,7 @@ oogst
 ows-ahp-test
 ows-ahp
 ows-app-test
+ows-app
 ows-dmnsapi-test
 ows-dmnsapi
 ows-emssapi-test
@@ -4796,20 +4796,19 @@ ediensten-aanvragen
 flowmailer-tracking.parkeervergunning
 fortiguard
 gisportalnew
-goedterechtin
 integratie-acc
+integratie-tst
 integratie
+kim
+l-p-crp-0002
 nllwd-spider
 notificaties-acc
 ondernemend
-ows-webapi-test
-ows-webapi
 planonmca
 test-digikoppelingjnet
 time
 w-p-exc-0005
-w-p-exc-0006
-www.goedterechtin
+w-p-exc-0102
 www.in
 MiCollab
 acc-beeldbank
