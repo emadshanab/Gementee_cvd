@@ -5,9 +5,11 @@ acc.easyfunders.leiden.nl
 acc.login.subsidie.leiden.nl
 acc.subsidie.leiden.nl
 accept.subsites.leiden.nl
+afspraak.leiden.nl
 afspraken.leiden.nl
 allegroweb.leiden.nl
 anyconnect.leiden.nl
+aovpn.leiden.nl
 api-dev.data.leiden.nl
 api-portal-dev.data.leiden.nl
 api-portal.data.leiden.nl
@@ -31,6 +33,7 @@ easyfunders.leiden.nl
 edienstenburgerzaken-test.leiden.nl
 edienstenburgerzaken.leiden.nl
 formulieren.leiden.nl
+geldzaken.leiden.nl
 gemeente.leiden.nl
 gemeenteraad.leiden.nl
 groenekaart.leiden.nl
@@ -50,6 +53,7 @@ meldingen.leiden.nl
 micollab.leiden.nl
 natuur.leiden.nl
 nieuw.leiden.nl
+nlds.test.subsites.leiden.nl
 o1.afspraak.leiden.nl
 online.leiden.nl
 openpdc.leiden.nl
@@ -59,16 +63,21 @@ parkeren.leiden.nl
 parkeren.reserveren.leiden.nl
 product.leiden.nl
 programmabegroting.leiden.nl
+reserveren.leiden.nl
 ro.leiden.nl
+rondkomen.test.subsites.leiden.nl
 stadsportal.leiden.nl
 subsidie.leiden.nl
 subsites.leiden.nl
+sync1.test.subsites.leiden.nl
+sync2.test.subsites.leiden.nl
 test-ipa.leiden.nl
 test.api.tod.leiden.nl
 test.designsystem.leiden.nl
 test.formulieren.leiden.nl
 test.lab.tod.leiden.nl
 test.leiden.nl
+test.login.formulieren.leiden.nl
 test.subsites.leiden.nl
 tzp.leiden.nl
 uwvergunning.leiden.nl
@@ -78,3 +87,7 @@ werkeninkomen-test.leiden.nl
 werkeninkomen.leiden.nl
 www.doemee.leiden.nl
 www.leiden.nl
+www.rondkomen.test.subsites.leiden.nl
+www.sync1.test.subsites.leiden.nl
+www.sync2.test.subsites.leiden.nl
+www.test.subsites.leiden.nl

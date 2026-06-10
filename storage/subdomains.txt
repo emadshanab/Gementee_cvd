@@ -1094,6 +1094,7 @@ afspraak.halderberge.nl
 afspraak.heemskerk.nl
 afspraak.heusden.nl
 afspraak.katwijk.nl
+afspraak.leiden.nl
 afspraak.lopik.nl
 afspraak.maassluis.nl
 afspraak.moerdijk.nl
@@ -1424,6 +1425,7 @@ aov.smallingerland.nl
 aovpn.amersfoort.nl
 aovpn.bergen.nl
 aovpn.gulpen-wittem.nl
+aovpn.leiden.nl
 ap01.alkmaar.nl
 apeldoorn.nl
 apex.almere.nl
@@ -5860,6 +5862,7 @@ geldmaat.doemee.heemstede.nl
 geldrop-mierlo.nl
 geldwijzer.eemsdelta.nl
 geldwijzer.zaanstad.nl
+geldzaken.leiden.nl
 geldzaken.loonopzand.nl
 gelukkignieuwjaar.zwolle.nl
 gem.overbetuwe.nl
@@ -9485,6 +9488,7 @@ nlb-irma-disclosure.nijmegen.nl
 nlb-irma.nijmegen.nl
 nlb-test-irma-disclosure.nijmegen.nl
 nlb-test-irma.nijmegen.nl
+nlds.test.subsites.leiden.nl
 nlgembek.gemeentebeek.nl
 nlgembrc.blaricum.nl
 nlgembrl.brielle.nl
@@ -11414,6 +11418,7 @@ renswoude.nl
 rep.bronckhorst.nl
 reports.sudwestfryslan.nl
 reprotransfer.denhelder.nl
+reserveren.leiden.nl
 reserveren.vijfheerenlanden.nl
 reservering.oldenzaal.nl
 reserveringen.geertruidenberg.nl
@@ -11493,6 +11498,7 @@ roerdalen.nl
 roermond.nl
 roez.groningen.nl
 rom.authenticatie.alkmaar.nl
+rondkomen.test.subsites.leiden.nl
 rondleidingen.landvancuijk.nl
 rondleidingspoorzone.zwolle.nl
 roonline.westvoorne.nl
@@ -12834,6 +12840,8 @@ sync.landgraaf.nl
 sync.nederbetuwe.nl
 sync.wierden.nl
 sync01.oa.amsterdam.nl
+sync1.test.subsites.leiden.nl
+sync2.test.subsites.leiden.nl
 szc.velsen.nl
 szc.zutphen.nl
 szw-bi.acc.denhaag.nl
@@ -13185,6 +13193,7 @@ test.hoorn.nl
 test.kampen.nl
 test.lab.tod.leiden.nl
 test.leiden.nl
+test.login.formulieren.leiden.nl
 test.loket.oss.nl
 test.maasdriel.nl
 test.middendrenthe.nl
@@ -15513,6 +15522,7 @@ www.rijssen-holten.nl
 www.rijswijk.nl
 www.roerdalen.nl
 www.roermond.nl
+www.rondkomen.test.subsites.leiden.nl
 www.rondleidingen.landvancuijk.nl
 www.roosendaal.nl
 www.roplan.haarlemmermeer.nl
@@ -15621,6 +15631,8 @@ www.suite4burgerzaken-prod.peelenmaas.nl
 www.suite4burgerzaken-test.peelenmaas.nl
 www.suite4sd-prod.peelenmaas.nl
 www.suite4sd-test.peelenmaas.nl
+www.sync1.test.subsites.leiden.nl
+www.sync2.test.subsites.leiden.nl
 www.t-diel.nl
 www.tab0751.sudwestfryslan.nl
 www.talentenbank.ooststellingwerf.nl
@@ -15635,6 +15647,7 @@ www.test.drechterland.nl
 www.test.gulpen-wittem.nl
 www.test.kampen.nl
 www.test.peelenmaas.nl
+www.test.subsites.leiden.nl
 www.test.sudwestfryslan.nl
 www.testafspraken.peelenmaas.nl
 www.testeforms.peelenmaas.nl
