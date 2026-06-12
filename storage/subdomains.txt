@@ -8154,7 +8154,6 @@ lois-acc.losser.nl
 lois.losser.nl
 loket-acc.asten.nl
 loket-acc.gemeentehulst.nl
-loket-acc.leidschendam-voorburg.nl
 loket-ontw.gemeentehulst.nl
 loket.aaenhunze.nl
 loket.aalsmeer.nl
@@ -8218,7 +8217,6 @@ loket.hellendoorn.nl
 loket.katwijk.nl
 loket.krimpenaandenijssel.nl
 loket.leeuwarden.nl
-loket.leidschendam-voorburg.nl
 loket.leusden.nl
 loket.middendrenthe.nl
 loket.mookenmiddelaar.nl

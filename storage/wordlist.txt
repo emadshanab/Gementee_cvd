@@ -18,8 +18,8 @@ secure
 acceptatie
 felix
 probeer
-loket
 formulieren
+loket
 open
 test
 eloket
@@ -586,7 +586,6 @@ stadspas
 digid
 bedrijfsafval
 vastgoed
-loket-acc
 accdrop
 id
 zaak
@@ -866,6 +865,7 @@ www.evenementen
 www.vastgoed
 dk
 dktest
+loket-acc
 raad.acceptatie
 sd
 sdtest
