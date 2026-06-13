@@ -114,6 +114,9 @@ _dmarc.nederweert.nl
 _dmarc.nieuwegein.nl
 _dmarc.vijfheerenlanden.nl
 _dmarc.zoeterwoude.nl
+_sip._tcp.lelystad.nl
+_sip._udp.lelystad.nl
+_sips._tcp.lelystad.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
 a-eformsmidoffice.utrecht.nl
@@ -1678,6 +1681,7 @@ apps.gouda.nl
 apps.haarlemmermeer.nl
 apps.hoogeveen.nl
 apps.katwijk.nl
+apps.lelystad.nl
 apps.nieuwkoop.nl
 apps.sudwestfryslan.nl
 apps.tilburg.nl
@@ -8391,6 +8395,7 @@ mail.kampen.nl
 mail.katwijk.nl
 mail.krimpenerwaard.nl
 mail.landsmeer.nl
+mail.lelystad.nl
 mail.leudal.nl
 mail.lopik.nl
 mail.losser.nl
@@ -9951,6 +9956,7 @@ openformulieren-test.dewolden.nl
 openformulieren-test.drechterland.nl
 openformulieren-test.enkhuizen.nl
 openformulieren-test.hoogeveen.nl
+openformulieren-test.lelystad.nl
 openformulieren-test.stedebroec.nl
 openformulieren-zgw.acc.denhaag.nl
 openformulieren-zgw.test.denhaag.nl
@@ -9959,7 +9965,10 @@ openformulieren.dewolden.nl
 openformulieren.drechterland.nl
 openformulieren.enkhuizen.nl
 openformulieren.hoogeveen.nl
+openformulieren.lelystad.nl
 openformulieren.stedebroec.nl
+openinwoner-test.lelystad.nl
+openinwoner.lelystad.nl
 openkaarten.sittard-geleen.nl
 openklant-beheer-erfpacht-tst.amsterdam.nl
 openklant-beheer-erfpacht.amsterdam.nl
@@ -14394,6 +14403,7 @@ werkplek.hilversum.nl
 werkplek.kaagenbraassem.nl
 werkplek.kampen.nl
 werkplek.landvancuijk.nl
+werkplek.lelystad.nl
 werkplek.leudal.nl
 werkplek.leusden.nl
 werkplek.lingewaard.nl

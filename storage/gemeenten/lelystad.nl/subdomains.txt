@@ -1,4 +1,8 @@
+_sip._tcp.lelystad.nl
+_sip._udp.lelystad.nl
+_sips._tcp.lelystad.nl
 afspraken.lelystad.nl
+apps.lelystad.nl
 auth.lelystad.nl
 belastingbalie.lelystad.nl
 belastingen.lelystad.nl
@@ -16,8 +20,13 @@ kopprd.lelystad.nl
 koptst.lelystad.nl
 lelystad.nl
 livestream.lelystad.nl
+mail.lelystad.nl
 mx1.lelystad.nl
 mx2.lelystad.nl
+openformulieren-test.lelystad.nl
+openformulieren.lelystad.nl
+openinwoner-test.lelystad.nl
+openinwoner.lelystad.nl
 ro.lelystad.nl
 sibp01.lelystad.nl
 sibt01.lelystad.nl
@@ -28,5 +37,6 @@ subsidies.lelystad.nl
 test-ipa.lelystad.nl
 testeloket.lelystad.nl
 werkenvoor.lelystad.nl
+werkplek.lelystad.nl
 wkpb.lelystad.nl
 www.lelystad.nl

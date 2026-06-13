@@ -27,8 +27,8 @@ waarmerk
 dkd
 betalen
 portal
-acc
 werkplek
+acc
 meldingen
 afspraak
 broker
@@ -125,6 +125,7 @@ cmsintranet
 subsidies
 snelbalie
 duurzaam
+apps
 abc
 acc-abc
 keycloak-admin
@@ -136,7 +137,6 @@ verkiezingen
 osbacc
 afvalkalender
 qr
-apps
 bastion365
 gemeente
 www.webmail
@@ -283,6 +283,7 @@ www.test
 afval
 e-loket
 img.openstad
+openformulieren
 woz-portaal
 support
 data-test
@@ -309,7 +310,6 @@ www.openstad
 ns1
 sslvpn
 meet
-openformulieren
 test-mijn
 awmag
 beeldbank-bo
@@ -330,6 +330,7 @@ test-secure
 woz-loket
 burgerloket
 ondernemersloket
+openformulieren-test
 filetransfer
 eformulieren
 aeolus
@@ -411,7 +412,6 @@ subsidies-login
 ns2
 sport
 mijnzaken
-openformulieren-test
 magazine
 webservices
 vergunningen
@@ -4856,10 +4856,15 @@ fortianalyzer
 fortiems
 fortivpn
 projectenboek
+_sip._tcp
+_sip._udp
+_sips._tcp
 dezta
 kopprd
 koptst
 livestream
+openinwoner-test
+openinwoner
 sibp01
 sibt01
 broker.preprod

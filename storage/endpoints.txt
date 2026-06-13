@@ -1726,6 +1726,7 @@ https://apps.dijkenwaard.nl
 https://apps.gouda.nl
 https://apps.haarlemmermeer.nl
 https://apps.katwijk.nl
+https://apps.lelystad.nl
 https://apps.nieuwkoop.nl
 https://apps.sudwestfryslan.nl
 https://apps.tilburg.nl
@@ -4491,7 +4492,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.lelystad.nl
 https://ibzpink.leudal.nl
 https://ibzpink.lingewaard.nl
 https://ibzpink.lochem.nl
@@ -6322,13 +6322,17 @@ https://openformulieren-test.dewolden.nl
 https://openformulieren-test.drechterland.nl
 https://openformulieren-test.enkhuizen.nl
 https://openformulieren-test.hoogeveen.nl
+https://openformulieren-test.lelystad.nl
 https://openformulieren-test.stedebroec.nl
 https://openformulieren-zgw.test.denhaag.nl
 https://openformulieren.dewolden.nl
 https://openformulieren.drechterland.nl
 https://openformulieren.enkhuizen.nl
 https://openformulieren.hoogeveen.nl
+https://openformulieren.lelystad.nl
 https://openformulieren.stedebroec.nl
+https://openinwoner-test.lelystad.nl
+https://openinwoner.lelystad.nl
 https://openkaarten.sittard-geleen.nl
 https://openklant-beheer-erfpacht-tst.amsterdam.nl
 https://openklant-beheer-erfpacht.amsterdam.nl
@@ -8447,6 +8451,7 @@ https://werkplek.gooisemeren.nl
 https://werkplek.halderberge.nl
 https://werkplek.hilversum.nl
 https://werkplek.landvancuijk.nl
+https://werkplek.lelystad.nl
 https://werkplek.leudal.nl
 https://werkplek.leusden.nl
 https://werkplek.meerssen.nl
