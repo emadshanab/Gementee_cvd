@@ -37,10 +37,10 @@ api.meldingen
 parkeren
 geo
 iparticipatie
+test-ipa
 vpn
 testeloket
 adfs
-test-ipa
 belastingen
 ruimtelijkeplannen
 werkenbij
@@ -164,6 +164,7 @@ smtp
 inloggen
 contentbeheer
 begroting
+en
 izaaksuite
 snelbaliepp
 vdi
@@ -175,7 +176,6 @@ mdm
 inproces
 cryptshare
 socialekaart
-en
 gisib
 veiligdelen
 bis

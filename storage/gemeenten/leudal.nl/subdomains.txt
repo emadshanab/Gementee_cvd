@@ -6,6 +6,7 @@ broker.preprod.leudal.nl
 contentbeheer.leudal.nl
 eloket.leudal.nl
 eloket.preprod.leudal.nl
+en.leudal.nl
 felix.leudal.nl
 filecap.leudal.nl
 fs001.leudal.nl
@@ -28,6 +29,7 @@ simcms-open.leudal.nl
 simcms.leudal.nl
 simsite.leudal.nl
 squit2020.leudal.nl
+test-ipa.leudal.nl
 voice.leudal.nl
 vpn.leudal.nl
 webmail.leudal.nl

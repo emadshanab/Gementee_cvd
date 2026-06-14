@@ -5148,6 +5148,7 @@ en.geldrop-mierlo.nl
 en.gemert-bakel.nl
 en.heerlen.nl
 en.kerkrade.nl
+en.leudal.nl
 en.nuenen.nl
 en.opsterland.nl
 en.sonenbreugel.nl
@@ -13039,6 +13040,7 @@ test-ipa.krimpenerwaard.nl
 test-ipa.leiden.nl
 test-ipa.leiderdorp.nl
 test-ipa.lelystad.nl
+test-ipa.leudal.nl
 test-ipa.lingewaard.nl
 test-ipa.lochem.nl
 test-ipa.oldebroek.nl
