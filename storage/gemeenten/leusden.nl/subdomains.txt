@@ -1,6 +1,7 @@
 acceptatie.eloket.leusden.nl
 acceptatie.leusden.nl
 beheer.leusden.nl
+berichten.leusden.nl
 broker.leusden.nl
 digikoppeling-test.leusden.nl
 digikoppeling.leusden.nl

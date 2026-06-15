@@ -2,6 +2,7 @@ http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 https://acceptatie.eloket.leusden.nl
 https://acceptatie.leusden.nl
+https://berichten.leusden.nl
 https://broker.leusden.nl
 https://edienstenburgerzaken-test.leusden.nl
 https://edienstenburgerzaken.leusden.nl

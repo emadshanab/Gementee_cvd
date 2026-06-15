@@ -57,11 +57,11 @@ data
 belastingbalie
 dacceptatieloket
 openpdc
+berichten
 enterpriseregistration
 remote
 dmidoffice
 openpub
-berichten
 formulier
 cmsoo
 loket.acceptatie
