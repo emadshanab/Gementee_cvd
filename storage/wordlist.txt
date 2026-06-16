@@ -78,12 +78,12 @@ doemee
 zaken
 hybrid
 acc-podiumd-logs
+simcms-open
 _autodiscover._tcp
 preprodbroker
 connect
 cloudadapter
 klantcontact
-simcms-open
 kaarten
 portaal
 parkeren-test
@@ -170,6 +170,7 @@ snelbaliepp
 vdi
 ita
 office-addin
+owa
 www.doemee
 fmreturn
 mdm
@@ -182,7 +183,6 @@ bis
 formulieren-test
 auth
 bag
-owa
 gasten
 AutoDiscover
 jaarstukken
@@ -306,6 +306,7 @@ academie
 belastingen-acc
 evenementen
 mozard
+applicaties
 www.openstad
 ns1
 sslvpn
@@ -364,7 +365,6 @@ ns
 wion
 atlas
 api
-applicaties
 beheer
 belastingbalie.acc
 parkeervergunning
@@ -445,7 +445,6 @@ assets
 belastingbalie-acc
 cms.openstad
 dev
-gbi
 moh-acc
 moh
 werk
@@ -580,6 +579,7 @@ parkeervergunningen.acc
 rekenkamer
 www.ruimtelijkeplannen
 digitaleplannen
+gbi
 parkeerapp
 smartdoc
 stadspas
@@ -4879,10 +4879,15 @@ wionklic
 acceptatie.eloket
 leusden-checker-preprod
 leusden-checker
+accommodatiehuur
+adir
+atlantis
+attachments.owa
 iris-acc
 klimaatbestendig
 nat
 simcms-klimaatbestendig
+stats.vlindernet
 vlindernet
 lisse-checker-preprod
 Www

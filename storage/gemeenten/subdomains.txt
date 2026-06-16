@@ -938,6 +938,7 @@ access.oa.amsterdam.nl
 access.peelenmaas.nl
 access.woerden.nl
 accmksprd.ovh.gemeentebeek.nl
+accommodatiehuur.lingewaard.nl
 accommodatieverhuur.gemeentesluis.nl
 accountmanagment.gulpen-wittem.nl
 accp.s-hertogenbosch.nl
@@ -1003,6 +1004,7 @@ adfs.westerkwartier.nl
 adfs01.sudwestfryslan.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
+adir.lingewaard.nl
 adm.afts-test.amsterdam.nl
 adm.afts.amsterdam.nl
 admanager.zaaksysteem.eindhoven.nl
@@ -1670,6 +1672,7 @@ appl03.schiedam.nl
 applicaties.amsterdam.nl
 applicaties.apeldoorn.nl
 applicaties.landvancuijk.nl
+applicaties.lingewaard.nl
 applicaties.tilburg.nl
 applicaties.zwolle.nl
 apps-fat.dijkenwaard.nl
@@ -1747,6 +1750,7 @@ ata.acc.amsterdam.nl
 atelier.boxtel.nl
 ateliers.amsterdam.nl
 atijdschrijven.apeldoorn.nl
+atlantis.lingewaard.nl
 atlas.acc.amsterdam.nl
 atlas.amstelveen.nl
 atlas.amsterdam.nl
@@ -1763,6 +1767,7 @@ ats360-api.groningen.nl
 ats360.groningen.nl
 attachments.echt-susteren.nl
 attachments.gemeentemaasgouw.nl
+attachments.owa.lingewaard.nl
 attachments.roerdalen.nl
 audiocodesbrw.houten.nl
 audiocodeshtn.houten.nl
@@ -5834,7 +5839,6 @@ gbavt.emmen.nl
 gbcultuur.alkmaar.nl
 gbi.apeldoorn.nl
 gbi.gemeentemaashorst.nl
-gbi.lingewaard.nl
 gbi.sudwestfryslan.nl
 gbionline.enschede.nl
 gbionline.houten.nl
@@ -8399,6 +8403,7 @@ mail.krimpenerwaard.nl
 mail.landsmeer.nl
 mail.lelystad.nl
 mail.leudal.nl
+mail.lingewaard.nl
 mail.lopik.nl
 mail.losser.nl
 mail.mailing.haaksbergen.nl
@@ -9909,6 +9914,7 @@ open.katwijk.nl
 open.krimpenerwaard.nl
 open.lansingerland.nl
 open.leudal.nl
+open.lingewaard.nl
 open.lisse.nl
 open.lochem.nl
 open.meerssen.nl
@@ -10202,6 +10208,7 @@ owa.groningen.nl
 owa.helmond.nl
 owa.kampen.nl
 owa.lansingerland.nl
+owa.lingewaard.nl
 owa.nederweert.nl
 owa.nieuwegein.nl
 owa.schagen.nl
@@ -11977,6 +11984,7 @@ simcms-open.gemeentebeek.nl
 simcms-open.gemeentemaasgouw.nl
 simcms-open.halderberge.nl
 simcms-open.leudal.nl
+simcms-open.lingewaard.nl
 simcms-open.meerssen.nl
 simcms-open.nuenen.nl
 simcms-open.oirschot.nl
@@ -12621,6 +12629,7 @@ stats.intranet.delft.nl
 stats.intranet.oostgelre.nl
 stats.purmerend.nl
 stats.utrecht.nl
+stats.vlindernet.lingewaard.nl
 status-paginas-zgw.acc.denhaag.nl
 status-paginas-zgw.denhaag.nl
 status-paginas-zgw.test.denhaag.nl
