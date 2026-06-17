@@ -2213,6 +2213,7 @@ bastion365.dijkenwaard.nl
 bastion365.heusden.nl
 bastion365.hillegom.nl
 bastion365.hollandskroon.nl
+bastion365.lisse.nl
 bastion365.nederweert.nl
 bastion365.nieuwkoop.nl
 bastion365.roermond.nl
@@ -10433,6 +10434,7 @@ pdc-api.cg-intern.ont.utrecht.nl
 pdc-api.cg-intern.utrecht.nl
 pdc.buren.nl
 pdc.hillegom.nl
+pdc.lisse.nl
 pdc.sittard-geleen.nl
 pdc.sudwestfryslan.nl
 pdc.test.sudwestfryslan.nl
@@ -12627,6 +12629,7 @@ stats.gorinchem.nl
 stats.hillegom.nl
 stats.intranet.delft.nl
 stats.intranet.oostgelre.nl
+stats.lisse.nl
 stats.purmerend.nl
 stats.utrecht.nl
 stats.vlindernet.lingewaard.nl

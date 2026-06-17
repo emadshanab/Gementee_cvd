@@ -128,6 +128,7 @@ duurzaam
 apps
 abc
 acc-abc
+bastion365
 keycloak-admin
 zac
 extranet
@@ -137,7 +138,6 @@ verkiezingen
 osbacc
 afvalkalender
 qr
-bastion365
 gemeente
 www.webmail
 filecap
@@ -401,6 +401,7 @@ key2gbavtest
 logilink
 suite4burgerzaken-test
 medewerkers
+pdc
 preprod-formulieren
 www.afspraak
 connect.test
@@ -427,6 +428,7 @@ tim
 www.werkplek
 mylex
 gateway
+stats
 access
 huisstijl
 mijndesktop
@@ -476,7 +478,6 @@ autorisatiebeheer-test
 djumaproxy
 suite4burgerzaken
 sync
-pdc
 clicksfm
 testmijn
 download
@@ -524,7 +525,6 @@ rds
 acceptatie-intranet
 neuron
 nieuwsbrieven
-stats
 mijn-acc
 sso
 gemeentebestuur

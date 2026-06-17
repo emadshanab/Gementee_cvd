@@ -4,6 +4,7 @@ aanvragenprod.lisse.nl
 acceptatie-mobiliteitsplan.lisse.nl
 acceptatie.lisse.nl
 autodiscover.lisse.nl
+bastion365.lisse.nl
 bouwarchief.lisse.nl
 dali.lisse.nl
 edienstenburgerzaken-test.lisse.nl
@@ -13,6 +14,8 @@ lisse-checker-preprod.lisse.nl
 lisse.nl
 mobiliteitsplan.lisse.nl
 open.lisse.nl
+pdc.lisse.nl
+stats.lisse.nl
 website.acceptatie.lisse.nl
 website.lisse.nl
 www.lisse.nl

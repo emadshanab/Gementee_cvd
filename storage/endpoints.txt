@@ -591,6 +591,7 @@ http://sportaccommodaties.nissewaard.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
 http://stadspas.weert.nl
+http://stats.lisse.nl
 http://status-paginas-zgw.test.denhaag.nl
 http://stembureaus.amsterdam.nl
 http://stoepvrij.groningen.nl
@@ -645,6 +646,7 @@ http://web01.deventer.nl
 http://webmail.gooisemeren.nl
 http://webmail.meierijstad.nl
 http://webservice-decosdvl.acc.amsterdam.nl
+http://website.lisse.nl
 http://welkom.ede.nl
 http://werkenbij.t-diel.nl
 http://werkenbij.weststellingwerf.nl
@@ -1241,7 +1243,6 @@ https://acceptatie-formulieren.dronten.nl
 https://acceptatie-intranet.hardenberg.nl
 https://acceptatie-intranet.nederbetuwe.nl
 https://acceptatie-intranet.oosterhout.nl
-https://acceptatie-mobiliteitsplan.lisse.nl
 https://acceptatie-ontwikkelplein.hethogeland.nl
 https://acceptatie-open.dinkelland.nl
 https://acceptatie-open.gooisemeren.nl
@@ -1276,7 +1277,6 @@ https://acceptatie.insite.oisterwijk.nl
 https://acceptatie.intranet.debilt.nl
 https://acceptatie.leiderdorp.nl
 https://acceptatie.leusden.nl
-https://acceptatie.lisse.nl
 https://acceptatie.lochem.nl
 https://acceptatie.loonopzand.nl
 https://acceptatie.midden-groningen.nl
@@ -1892,6 +1892,7 @@ https://bastion365.dijkenwaard.nl
 https://bastion365.heusden.nl
 https://bastion365.hillegom.nl
 https://bastion365.hollandskroon.nl
+https://bastion365.lisse.nl
 https://bastion365.nederweert.nl
 https://bastion365.nieuwkoop.nl
 https://bastion365.roermond.nl
@@ -6598,6 +6599,7 @@ https://pcmonitor.leudal.nl
 https://pcportal.nijmegen.nl
 https://pdc-api.cg-intern.utrecht.nl
 https://pdc.buren.nl
+https://pdc.lisse.nl
 https://pdc.sittard-geleen.nl
 https://pdc.sudwestfryslan.nl
 https://pdcschulddienstverlening.rotterdam.nl
@@ -8377,11 +8379,9 @@ https://webservice-decosdvl.amsterdam.nl
 https://webservices-ot.tilburg.nl
 https://webshop.t-diel.nl
 https://webshopvitaloo.sudwestfryslan.nl
-https://website.acceptatie.lisse.nl
 https://website.alphen-chaam.nl
 https://website.gilzerijen.nl
 https://website.landvancuijk.nl
-https://website.lisse.nl
 https://website.teylingen.nl
 https://website.venlo.nl
 https://websitestatistiek.oude-ijsselstreek.nl
