@@ -6,14 +6,16 @@ digikoppeling-test.lochem.nl
 digikoppeling.lochem.nl
 enterpriseenrollment.lochem.nl
 enterpriseregistration.lochem.nl
-gemeente.lochem.nl
+geo.lochem.nl
 iarchief.lochem.nl
 iburgerzaken.lochem.nl
 ibzpink.lochem.nl
+idp.lochem.nl
 iparticipatie.lochem.nl
 lochem.nl
 m.lochem.nl
 mijn.lochem.nl
+mobiel.lochem.nl
 mobile.lochem.nl
 open.lochem.nl
 remote.lochem.nl

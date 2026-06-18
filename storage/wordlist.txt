@@ -34,8 +34,8 @@ afspraak
 broker
 raad
 api.meldingen
-parkeren
 geo
+parkeren
 iparticipatie
 test-ipa
 vpn
@@ -138,7 +138,6 @@ verkiezingen
 osbacc
 afvalkalender
 qr
-gemeente
 www.webmail
 filecap
 dtestmidoffice
@@ -152,6 +151,7 @@ dali
 preprod
 acc-office-addin
 obsurv
+gemeente
 test-cmsintranet
 belastingportaal
 web
@@ -266,6 +266,7 @@ afspraakmaken
 www.intranet
 kcc
 acc-pabc
+mobiel
 mijnsociaaldomein
 drop
 cloudadapter-prod
@@ -293,7 +294,6 @@ citrix
 publicaties
 bestanden
 squit2020.acceptatie
-mobiel
 midoffice
 geovisia
 gisib-test
@@ -743,6 +743,7 @@ edienstenpreprod
 mobiliteitsplan
 website.acceptatie
 my-lex
+idp
 wijkteam
 stuf
 open-formulieren-test
@@ -1164,7 +1165,6 @@ jip
 keyhub
 test-jip
 communicatie
-idp
 test-kaartviewer
 weblogic
 verwerkingsregister

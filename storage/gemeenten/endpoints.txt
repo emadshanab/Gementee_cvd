@@ -3927,7 +3927,6 @@ https://gemeente.deventer.nl
 https://gemeente.emmen.nl
 https://gemeente.groningen.nl
 https://gemeente.kampen.nl
-https://gemeente.lochem.nl
 https://gemeente.purmerend.nl
 https://gemeente2.groningen.nl
 https://gemeentearchief.alphenaandenrijn.nl
@@ -4498,7 +4497,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.lochem.nl
 https://ibzpink.loonopzand.nl
 https://ibzpink.losser.nl
 https://ibzpink.maasdriel.nl

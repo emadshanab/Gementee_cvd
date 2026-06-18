@@ -5890,7 +5890,6 @@ gemeente.emmen.nl
 gemeente.groningen.nl
 gemeente.kampen.nl
 gemeente.leiden.nl
-gemeente.lochem.nl
 gemeente.nissewaard.nl
 gemeente.purmerend.nl
 gemeente.rucphen.nl
@@ -6017,6 +6016,7 @@ geo.krimpenaandenijssel.nl
 geo.krimpenerwaard.nl
 geo.lingewaard.nl
 geo.local.oostgelre.nl
+geo.lochem.nl
 geo.middendrenthe.nl
 geo.montferland.info
 geo.nunspeet.nl
@@ -7008,6 +7008,7 @@ idocumenten.urk.nl
 idp-test.krimpenerwaard.nl
 idp.hollandskroon.nl
 idp.krimpenerwaard.nl
+idp.lochem.nl
 idrac1.ovh.gemeentebeek.nl
 idrac10.ovh.gemeentebeek.nl
 idrac2.ovh.gemeentebeek.nl
@@ -9215,6 +9216,7 @@ mob.oostgelre.nl
 mobiel.gemeentebeek.nl
 mobiel.groningen.nl
 mobiel.hillegom.nl
+mobiel.lochem.nl
 mobiel.ouder-amstel.nl
 mobiel.peelenmaas.nl
 mobiel.renkum.nl
