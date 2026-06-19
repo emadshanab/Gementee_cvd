@@ -1,4 +1,3 @@
-http://felix.loonopzand.nl
 http://geldzaken.loonopzand.nl
 https://acceptatie.loonopzand.nl
 https://beeldbank.loonopzand.nl
@@ -7,9 +6,8 @@ https://corsa-prod.loonopzand.nl
 https://corsa-test.loonopzand.nl
 https://dali.loonopzand.nl
 https://edienstenburgerzaken-test.loonopzand.nl
-https://edienstenburgerzaken.loonopzand.nl
+https://felix.loonopzand.nl
 https://iburgerzaken.loonopzand.nl
-https://ibzpink.loonopzand.nl
 https://intranet.loonopzand.nl
 https://jcc.loonopzand.nl
 https://klantcontact.loonopzand.nl
