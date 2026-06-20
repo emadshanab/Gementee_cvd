@@ -365,7 +365,6 @@ http://docwerker.amsterdam.nl
 http://duurzaam.woensdrecht.nl
 http://e.papendrecht.nl
 http://ediensten.gemeentehw.nl
-http://ehv-lpi-ap-15.lopik.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
@@ -445,6 +444,7 @@ http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://login.sittard-geleen.nl
 http://loket.gemeentewestland.nl
+http://lopik.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
 http://magazine.schagen.nl
@@ -576,7 +576,6 @@ http://simsite.edam-volendam.nl
 http://simsite.goeree-overflakkee.nl
 http://simsite.heeze-leende.nl
 http://simsite.landgraaf.nl
-http://simsite.lopik.nl
 http://simsite.mookenmiddelaar.nl
 http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
@@ -682,6 +681,7 @@ http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.lingewaard.nl
+http://www.lopik.nl
 http://www.middelburg.nl
 http://www.mookenmiddelaar.nl
 http://www.nijkerk.eu
@@ -3402,6 +3402,7 @@ https://eformulieren.kerkrade.nl
 https://eformulieren.preprod.doetinchem.nl
 https://eformulieren.stichtsevecht.nl
 https://egouwr2-acc.hoorn.nl
+https://ehv-lpi-ap-15.lopik.nl
 https://ehvsubsidie.eindhoven.nl
 https://ehvsubsidie.test.eindhoven.nl
 https://eid-acc.ede.nl
@@ -4769,7 +4770,6 @@ https://intranet.landvancuijk.nl
 https://intranet.leiden.nl
 https://intranet.leusden.nl
 https://intranet.loonopzand.nl
-https://intranet.lopik.nl
 https://intranet.meierijstad.nl
 https://intranet.meppel.nl
 https://intranet.middelburg.nl
@@ -7353,7 +7353,6 @@ https://simcms.heumen.nl
 https://simcms.heuvelrug.nl
 https://simcms.huizen.nl
 https://simcms.ijsselstein.nl
-https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
 https://simcms.koggenland.nl
 https://simcms.landgraaf.nl
@@ -7407,6 +7406,7 @@ https://simsite.heuvelrug.nl
 https://simsite.kerkrade.nl
 https://simsite.koggenland.nl
 https://simsite.leudal.nl
+https://simsite.lopik.nl
 https://simsite.middendelfland.nl
 https://simsite.montferland.info
 https://simsite.nederweert.nl
