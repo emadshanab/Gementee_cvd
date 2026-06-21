@@ -181,6 +181,7 @@ abc.hoorn.nl
 abc.horstaandemaas.nl
 abc.kampen.nl
 abc.laarbeek.nl
+abc.losser.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -208,6 +209,7 @@ acc-abc.hoorn.nl
 acc-abc.horstaandemaas.nl
 acc-abc.kampen.nl
 acc-abc.laarbeek.nl
+acc-abc.losser.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
 acc-abc.roermond.nl
@@ -247,6 +249,7 @@ acc-contact.hoorn.nl
 acc-contact.horstaandemaas.nl
 acc-contact.kampen.nl
 acc-contact.laarbeek.nl
+acc-contact.losser.nl
 acc-contact.oldenzaal.nl
 acc-contact.oostgelre.nl
 acc-contact.roermond.nl
@@ -275,6 +278,7 @@ acc-formulier.oostgelre.nl
 acc-formulier.roermond.nl
 acc-formulier.rotterdam.nl
 acc-formulier.zwolle.nl
+acc-formulieren.losser.nl
 acc-gpp-app.assen.nl
 acc-gpp-burgerportaal.assen.nl
 acc-gpp-publicatiebank.assen.nl
@@ -293,6 +297,7 @@ acc-ita.hoorn.nl
 acc-ita.horstaandemaas.nl
 acc-ita.kampen.nl
 acc-ita.laarbeek.nl
+acc-ita.losser.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -307,6 +312,7 @@ acc-keycloak-admin.hoorn.nl
 acc-keycloak-admin.horstaandemaas.nl
 acc-keycloak-admin.kampen.nl
 acc-keycloak-admin.laarbeek.nl
+acc-keycloak-admin.losser.nl
 acc-keycloak-admin.oldenzaal.nl
 acc-keycloak-admin.oostgelre.nl
 acc-keycloak-admin.roermond.nl
@@ -326,6 +332,7 @@ acc-keycloak.hoorn.nl
 acc-keycloak.horstaandemaas.nl
 acc-keycloak.kampen.nl
 acc-keycloak.laarbeek.nl
+acc-keycloak.losser.nl
 acc-keycloak.oldenzaal.nl
 acc-keycloak.oostgelre.nl
 acc-keycloak.roermond.nl
@@ -349,6 +356,7 @@ acc-mijn.hoorn.nl
 acc-mijn.horstaandemaas.nl
 acc-mijn.kampen.nl
 acc-mijn.laarbeek.nl
+acc-mijn.losser.nl
 acc-mijn.oldenzaal.nl
 acc-mijn.oostgelre.nl
 acc-mijn.roermond.nl
@@ -371,6 +379,7 @@ acc-notificaties.hoorn.nl
 acc-notificaties.horstaandemaas.nl
 acc-notificaties.kampen.nl
 acc-notificaties.laarbeek.nl
+acc-notificaties.losser.nl
 acc-notificaties.oldenzaal.nl
 acc-notificaties.oostgelre.nl
 acc-notificaties.roermond.nl
@@ -391,6 +400,7 @@ acc-objecten.hoorn.nl
 acc-objecten.horstaandemaas.nl
 acc-objecten.kampen.nl
 acc-objecten.laarbeek.nl
+acc-objecten.losser.nl
 acc-objecten.oldenzaal.nl
 acc-objecten.oostgelre.nl
 acc-objecten.roermond.nl
@@ -411,6 +421,7 @@ acc-objecttypen.hoorn.nl
 acc-objecttypen.horstaandemaas.nl
 acc-objecttypen.kampen.nl
 acc-objecttypen.laarbeek.nl
+acc-objecttypen.losser.nl
 acc-objecttypen.oldenzaal.nl
 acc-objecttypen.oostgelre.nl
 acc-objecttypen.roermond.nl
@@ -429,6 +440,7 @@ acc-office-addin.hoorn.nl
 acc-office-addin.horstaandemaas.nl
 acc-office-addin.kampen.nl
 acc-office-addin.laarbeek.nl
+acc-office-addin.losser.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -448,6 +460,7 @@ acc-openklant.hoorn.nl
 acc-openklant.horstaandemaas.nl
 acc-openklant.kampen.nl
 acc-openklant.laarbeek.nl
+acc-openklant.losser.nl
 acc-openklant.oldenzaal.nl
 acc-openklant.oostgelre.nl
 acc-openklant.roermond.nl
@@ -470,6 +483,7 @@ acc-openzaak.hoorn.nl
 acc-openzaak.horstaandemaas.nl
 acc-openzaak.kampen.nl
 acc-openzaak.laarbeek.nl
+acc-openzaak.losser.nl
 acc-openzaak.oldenzaal.nl
 acc-openzaak.oostgelre.nl
 acc-openzaak.roermond.nl
@@ -515,6 +529,7 @@ acc-podiumd-logs.hoorn.nl
 acc-podiumd-logs.horstaandemaas.nl
 acc-podiumd-logs.kampen.nl
 acc-podiumd-logs.laarbeek.nl
+acc-podiumd-logs.losser.nl
 acc-podiumd-logs.oldenzaal.nl
 acc-podiumd-logs.olst-wijhe.nl
 acc-podiumd-logs.oostgelre.nl
@@ -567,6 +582,7 @@ acc-zac.hoorn.nl
 acc-zac.horstaandemaas.nl
 acc-zac.kampen.nl
 acc-zac.laarbeek.nl
+acc-zac.losser.nl
 acc-zac.oldenzaal.nl
 acc-zac.oostgelre.nl
 acc-zac.roermond.nl
@@ -3510,6 +3526,7 @@ contact.hoorn.nl
 contact.horstaandemaas.nl
 contact.kampen.nl
 contact.laarbeek.nl
+contact.losser.nl
 contact.oldenzaal.nl
 contact.oostgelre.nl
 contact.roermond.nl
@@ -5704,6 +5721,7 @@ formulieren.kerkrade.nl
 formulieren.leiden.nl
 formulieren.leiderdorp.nl
 formulieren.lelystad.nl
+formulieren.losser.nl
 formulieren.meierijstad.nl
 formulieren.middendrenthe.nl
 formulieren.montferland.info
@@ -7494,6 +7512,7 @@ ita.hoorn.nl
 ita.horstaandemaas.nl
 ita.kampen.nl
 ita.laarbeek.nl
+ita.losser.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -7854,6 +7873,7 @@ keycloak-admin.hoorn.nl
 keycloak-admin.horstaandemaas.nl
 keycloak-admin.kampen.nl
 keycloak-admin.laarbeek.nl
+keycloak-admin.losser.nl
 keycloak-admin.oldenzaal.nl
 keycloak-admin.oostgelre.nl
 keycloak-admin.roermond.nl
@@ -7870,6 +7890,7 @@ keycloak.hoorn.nl
 keycloak.horstaandemaas.nl
 keycloak.kampen.nl
 keycloak.laarbeek.nl
+keycloak.losser.nl
 keycloak.oldenzaal.nl
 keycloak.oostgelre.nl
 keycloak.roermond.nl
@@ -8893,6 +8914,7 @@ mijn.lansingerland.nl
 mijn.leeuwarden.nl
 mijn.lingewaard.nl
 mijn.lochem.nl
+mijn.losser.nl
 mijn.maasdriel.nl
 mijn.maassluis.nl
 mijn.meierijstad.nl
@@ -9539,6 +9561,7 @@ notificaties.horstaandemaas.nl
 notificaties.kampen.nl
 notificaties.laarbeek.nl
 notificaties.leeuwarden.nl
+notificaties.losser.nl
 notificaties.oldenzaal.nl
 notificaties.oostgelre.nl
 notificaties.openzaak-acc.amsterdam.nl
@@ -9622,6 +9645,7 @@ objecten.hoorn.nl
 objecten.horstaandemaas.nl
 objecten.kampen.nl
 objecten.laarbeek.nl
+objecten.losser.nl
 objecten.oldenzaal.nl
 objecten.oostgelre.nl
 objecten.roermond.nl
@@ -9646,6 +9670,7 @@ objecttypen.hoorn.nl
 objecttypen.horstaandemaas.nl
 objecttypen.kampen.nl
 objecttypen.laarbeek.nl
+objecttypen.losser.nl
 objecttypen.oldenzaal.nl
 objecttypen.oostgelre.nl
 objecttypen.roermond.nl
@@ -9714,6 +9739,7 @@ office-addin.hoorn.nl
 office-addin.horstaandemaas.nl
 office-addin.kampen.nl
 office-addin.laarbeek.nl
+office-addin.losser.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -9999,6 +10025,7 @@ openklant.hoorn.nl
 openklant.horstaandemaas.nl
 openklant.kampen.nl
 openklant.laarbeek.nl
+openklant.losser.nl
 openklant.oldenzaal.nl
 openklant.oostgelre.nl
 openklant.roermond.nl
@@ -10099,6 +10126,7 @@ openzaak.hoorn.nl
 openzaak.horstaandemaas.nl
 openzaak.kampen.nl
 openzaak.laarbeek.nl
+openzaak.losser.nl
 openzaak.oldenzaal.nl
 openzaak.oostgelre.nl
 openzaak.roermond.nl
@@ -10588,6 +10616,7 @@ podiumd-logs.hoorn.nl
 podiumd-logs.horstaandemaas.nl
 podiumd-logs.kampen.nl
 podiumd-logs.laarbeek.nl
+podiumd-logs.losser.nl
 podiumd-logs.oldenzaal.nl
 podiumd-logs.oostgelre.nl
 podiumd-logs.roermond.nl
@@ -16015,6 +16044,7 @@ zac.hoorn.nl
 zac.horstaandemaas.nl
 zac.kampen.nl
 zac.laarbeek.nl
+zac.losser.nl
 zac.oldenzaal.nl
 zac.oostgelre.nl
 zac.roermond.nl
