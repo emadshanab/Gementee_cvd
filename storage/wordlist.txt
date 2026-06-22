@@ -260,6 +260,7 @@ jongin
 www.jongin
 key2gbav
 archief
+publicaties
 topdesk
 internetafspraken
 telewerken
@@ -291,7 +292,6 @@ data-test
 xential
 erfgoed
 citrix
-publicaties
 bestanden
 squit2020.acceptatie
 midoffice
@@ -4910,6 +4910,7 @@ api-test-gemnet
 lois-acc
 lois
 mijnsociaaldomein-test
+secumailer
 byspy
 cloudconnector.acc
 cloudconnector.prod

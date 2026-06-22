@@ -5,6 +5,8 @@ iburgerzaken.maasdriel.nl
 ibzpink.maasdriel.nl
 maasdriel.nl
 mijn.maasdriel.nl
+publicaties.maasdriel.nl
+secumailer.maasdriel.nl
 test.maasdriel.nl
 www.maasdriel.nl
 zaaksysteem-accept.maasdriel.nl

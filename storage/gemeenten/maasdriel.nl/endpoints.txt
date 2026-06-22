@@ -1,7 +1,8 @@
 http://autodiscover.maasdriel.nl
 https://iburgerzaken.maasdriel.nl
-https://ibzpink.maasdriel.nl
 https://maasdriel.nl
 https://mijn.maasdriel.nl
+https://publicaties.maasdriel.nl
+https://secumailer.maasdriel.nl
 https://www.maasdriel.nl
 https://zaaksysteem-accept.maasdriel.nl
