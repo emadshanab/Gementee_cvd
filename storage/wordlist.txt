@@ -101,6 +101,7 @@ acc-openklant
 acc-openzaak
 notificaties
 podiumd-logs
+belastingloket
 e
 piwik
 api.betalen
@@ -113,7 +114,6 @@ objecten
 objecttypen
 openklant
 openzaak
-belastingloket
 pki
 mijnzorg
 siam
@@ -161,6 +161,7 @@ preprod-mijninkomen
 ita
 office-addin
 sts
+fmreturn
 micollab
 smtp
 inloggen
@@ -172,9 +173,7 @@ snelbaliepp
 vdi
 owa
 www.doemee
-fmreturn
 mdm
-inproces
 cryptshare
 socialekaart
 gisib
@@ -187,6 +186,7 @@ gasten
 AutoDiscover
 jaarstukken
 bor
+inproces
 mta-sts
 geoportaal
 college
@@ -206,7 +206,6 @@ uc
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
-inproces.acceptatie
 transfer
 bestuur
 acceptatie-open
@@ -228,6 +227,7 @@ iarchief
 legacy
 mobile
 sharefile
+inproces.acceptatie
 outlook
 vth
 testloket
@@ -302,6 +302,7 @@ gisibapi
 gisibgeoserver-test
 gisibgeoserver
 makelaar
+veiligmailen
 academie
 belastingen-acc
 evenementen
@@ -353,7 +354,6 @@ toegang
 www.werkenbij
 zoeken
 servicedesk
-veiligmailen
 diensten
 sociaaldomein
 dkd-test
@@ -4926,6 +4926,7 @@ hta-stuf
 ibabs-prod
 ibabs-test
 sociaalloket
+test.belastingloket
 www.sociaalloket
 BRK
 digi01

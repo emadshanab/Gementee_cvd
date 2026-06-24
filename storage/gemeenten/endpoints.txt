@@ -698,7 +698,6 @@ http://www.remote.westvoorne.nl
 http://www.samen.drechterland.nl
 http://www.samen.enkhuizen.nl
 http://www.samen.harlingen.nl
-http://www.samen.medemblik.nl
 http://www.samen.schagen.nl
 http://www.samenmet.beesel.nl
 http://www.scheveningen.denhaag.nl
@@ -2123,6 +2122,7 @@ https://belastingloket.emmen.nl
 https://belastingloket.hattem.nl
 https://belastingloket.heerde.nl
 https://belastingloket.lingewaard.nl
+https://belastingloket.medemblik.nl
 https://belastingloket.oldebroek.nl
 https://belastingloket.oude-ijsselstreek.nl
 https://belastingloket.oudewater.nl
@@ -3780,6 +3780,7 @@ https://fmreturn.dienstverlening.utrecht.nl
 https://fmreturn.echt-susteren.nl
 https://fmreturn.hoorn.nl
 https://fmreturn.landvancuijk.nl
+https://fmreturn.medemblik.nl
 https://fmreturn.middendrenthe.nl
 https://fmreturn.vijfheerenlanden.nl
 https://fmreturn.westerwolde.nl
@@ -4515,7 +4516,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.medemblik.nl
 https://ibzpink.meerssen.nl
 https://ibzpink.meppel.nl
 https://ibzpink.middelburg.nl
@@ -7889,6 +7889,7 @@ https://test-zac.enschede.nl
 https://test-zac.gemert-bakel.nl
 https://test.3d.utrecht.nl
 https://test.api.tod.leiden.nl
+https://test.belastingloket.medemblik.nl
 https://test.beverwijk.nl
 https://test.brunssum.nl
 https://test.designsystem.leiden.nl
@@ -8167,6 +8168,7 @@ https://veiligdelen.zeist.nl
 https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://veiligmailen.koggenland.nl
+https://veiligmailen.medemblik.nl
 https://veiligthuishaaglanden.acc.denhaag.nl
 https://veldhoven.nl
 https://velp.landvancuijk.nl

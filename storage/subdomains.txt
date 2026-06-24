@@ -891,7 +891,6 @@ acceptatie.leusden.nl
 acceptatie.lisse.nl
 acceptatie.lochem.nl
 acceptatie.loonopzand.nl
-acceptatie.medemblik.nl
 acceptatie.midden-groningen.nl
 acceptatie.middendrenthe.nl
 acceptatie.mijn.coevorden.nl
@@ -2563,6 +2562,7 @@ belastingloket.emmen.nl
 belastingloket.hattem.nl
 belastingloket.heerde.nl
 belastingloket.lingewaard.nl
+belastingloket.medemblik.nl
 belastingloket.montferland.info
 belastingloket.oldebroek.nl
 belastingloket.oude-ijsselstreek.nl
@@ -5608,6 +5608,7 @@ fmreturn.dienstverlening.utrecht.nl
 fmreturn.echt-susteren.nl
 fmreturn.hoorn.nl
 fmreturn.landvancuijk.nl
+fmreturn.medemblik.nl
 fmreturn.middendrenthe.nl
 fmreturn.vijfheerenlanden.nl
 fmreturn.westerwolde.nl
@@ -7201,7 +7202,6 @@ inproces.acceptatie.drechterland.nl
 inproces.acceptatie.gemeentebeek.nl
 inproces.acceptatie.gemeentewestland.nl
 inproces.acceptatie.kerkrade.nl
-inproces.acceptatie.medemblik.nl
 inproces.acceptatie.oldenzaal.nl
 inproces.acceptatie.overbetuwe.nl
 inproces.acceptatie.peelenmaas.nl
@@ -7211,7 +7211,6 @@ inproces.drechterland.nl
 inproces.gemeentebeek.nl
 inproces.gemeentewestland.nl
 inproces.kerkrade.nl
-inproces.medemblik.nl
 inproces.oldenzaal.nl
 inproces.overbetuwe.nl
 inproces.peelenmaas.nl
@@ -13214,6 +13213,7 @@ test.afspraakmaken.dronten.nl
 test.amstelveen.nl
 test.api.tod.leiden.nl
 test.beesel.nl
+test.belastingloket.medemblik.nl
 test.bernheze.org
 test.beverwijk.nl
 test.borne.nl
@@ -13773,6 +13773,7 @@ veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
 veiligmailen.koggenland.nl
+veiligmailen.medemblik.nl
 veiligmailen.sudwestfryslan.nl
 veiligthuishaaglanden.acc.denhaag.nl
 veldhoven.nl
