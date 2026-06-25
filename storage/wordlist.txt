@@ -8,11 +8,11 @@ edienstenburgerzaken-test
 mijn
 intranet
 webmail
-simsite
 mail
+simsite
 digikoppeling
-preproductie
 afspraken
+preproductie
 simcms
 secure
 acceptatie
@@ -153,6 +153,7 @@ preprod
 acc-ita
 obsurv
 gemeente
+fmreturn
 test-cmsintranet
 belastingportaal
 web
@@ -161,7 +162,6 @@ preprod-mijninkomen
 ita
 office-addin
 sts
-fmreturn
 micollab
 smtp
 inloggen
@@ -294,6 +294,7 @@ erfgoed
 citrix
 bestanden
 squit2020.acceptatie
+aeolus
 midoffice
 geovisia
 gisib-test
@@ -330,12 +331,12 @@ cognos
 dkdtest
 test-secure
 woz-loket
+ris
 burgerloket
 ondernemersloket
 openformulieren-test
 filetransfer
 eformulieren
-aeolus
 squit2020publiceren
 liquit
 radius
@@ -408,13 +409,13 @@ connect.test
 contentbeheer.test
 zaken.test
 parkeren-siam
-ris
 subsidies-login
 ns2
 sport
 mijnzaken
 magazine
 webservices
+router
 vergunningen
 testbelastingloket
 raadsinformatie
@@ -500,7 +501,6 @@ intra
 mijnloket
 parkeeracties
 relay
-router
 digitalebalie
 idbroker
 mobility

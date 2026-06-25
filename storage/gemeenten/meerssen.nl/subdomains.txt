@@ -1,9 +1,12 @@
 BRK.meerssen.nl
+aeolus.meerssen.nl
+afspraken.meerssen.nl
 brk.meerssen.nl
 digi01.meerssen.nl
 djumamks.meerssen.nl
 eloket.meerssen.nl
 filecap.meerssen.nl
+fmreturn.meerssen.nl
 ftp.meerssen.nl
 gemeentewinkel.meerssen.nl
 govroam.meerssen.nl
@@ -12,6 +15,7 @@ iburgerzaken.meerssen.nl
 ibzpink.meerssen.nl
 intranet.meerssen.nl
 login.meerssen.nl
+mail.meerssen.nl
 meerssen.nl
 mform.meerssen.nl
 micollab.meerssen.nl
@@ -21,6 +25,8 @@ mstat.meerssen.nl
 ned03msn.meerssen.nl
 open.meerssen.nl
 outlook.meerssen.nl
+ris.meerssen.nl
+router.meerssen.nl
 rx-mission-publiceren.meerssen.nl
 simcms-open.meerssen.nl
 smtp01.meerssen.nl

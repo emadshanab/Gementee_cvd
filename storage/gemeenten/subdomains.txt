@@ -1073,6 +1073,7 @@ adviesraden.deventer.nl
 aeolus.eijsden-margraten.nl
 aeolus.gulpen-wittem.nl
 aeolus.ijsselstein.nl
+aeolus.meerssen.nl
 aeolus.montfoort.nl
 aeolus.nederbetuwe.nl
 aeolus.westerkwartier.nl
@@ -1207,6 +1208,7 @@ afspraken.landsmeer.nl
 afspraken.leiden.nl
 afspraken.lelystad.nl
 afspraken.lingewaard.nl
+afspraken.meerssen.nl
 afspraken.meierijstad.nl
 afspraken.middendelfland.nl
 afspraken.montferland.info
@@ -5609,6 +5611,7 @@ fmreturn.echt-susteren.nl
 fmreturn.hoorn.nl
 fmreturn.landvancuijk.nl
 fmreturn.medemblik.nl
+fmreturn.meerssen.nl
 fmreturn.middendrenthe.nl
 fmreturn.vijfheerenlanden.nl
 fmreturn.westerwolde.nl
@@ -8430,6 +8433,7 @@ mail.lingewaard.nl
 mail.lopik.nl
 mail.losser.nl
 mail.mailing.haaksbergen.nl
+mail.meerssen.nl
 mail.middendelfland.nl
 mail.nederweert.nl
 mail.noordoostpolder.nl
@@ -11513,6 +11517,7 @@ rijswijk.nl
 rio.rotterdam.nl
 ris.dalfsen.nl
 ris.delft.nl
+ris.meerssen.nl
 ris.nieuwegein.nl
 ris.venlo.nl
 ris.zundert.nl
@@ -11567,6 +11572,7 @@ rotterdam.nl
 routebureau.groningen.nl
 router.dordrecht.nl
 router.ede.nl
+router.meerssen.nl
 router.waalre.nl
 router.winterswijk.nl
 rozendaal.nl
