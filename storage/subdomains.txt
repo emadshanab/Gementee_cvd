@@ -1209,7 +1209,6 @@ afspraken.leiden.nl
 afspraken.lelystad.nl
 afspraken.lingewaard.nl
 afspraken.meerssen.nl
-afspraken.meierijstad.nl
 afspraken.middendelfland.nl
 afspraken.montferland.info
 afspraken.montfoort.nl
@@ -1653,6 +1652,7 @@ apigateway.gemeentewestland.nl
 apigateway.middendelfland.nl
 apigateway2.gemeentewestland.nl
 apigateway2.middendelfland.nl
+apigw.meierijstad.nl
 apim-gw-wpi-o.amsterdam.nl
 apim-gw-wpi-t.amsterdam.nl
 apim-mgmt-wpi-o.amsterdam.nl
@@ -8015,6 +8015,7 @@ kv.heerlen.nl
 kwaliteitsmonitor.utrecht.nl
 l-p-crp-0002.leeuwarden.nl
 laakhavensbepaalt.denhaag.nl
+laar-ollandseweg.meierijstad.nl
 laarbeek.nl
 lab.tod.leiden.nl
 labelwastexl.sudwestfryslan.nl
@@ -8827,6 +8828,7 @@ midofficeprd.velsen.nl
 midofficetst.velsen.nl
 mijn-acc.groningen.nl
 mijn-acc.leeuwarden.nl
+mijn-acc.meierijstad.nl
 mijn-acc.overbetuwe.nl
 mijn-acc.sittard-geleen.nl
 mijn-accept.voorst.nl
@@ -9086,7 +9088,6 @@ mijnsdv.emmen.nl
 mijnsdv.zwolle.nl
 mijnshv.coevorden.nl
 mijnsociaaldomein-acc.koggenland.nl
-mijnsociaaldomein-acc.meierijstad.nl
 mijnsociaaldomein-acc.opmeer.nl
 mijnsociaaldomein-acc.westerkwartier.nl
 mijnsociaaldomein-test.losser.nl
@@ -9094,7 +9095,6 @@ mijnsociaaldomein.gemeentesluis.nl
 mijnsociaaldomein.heerenveen.nl
 mijnsociaaldomein.koggenland.nl
 mijnsociaaldomein.losser.nl
-mijnsociaaldomein.meierijstad.nl
 mijnsociaaldomein.opmeer.nl
 mijnsociaaldomein.staphorst.nl
 mijnsociaaldomein.venlo.nl
@@ -11914,7 +11914,6 @@ servicedesk-t.hethogeland.nl
 servicedesk.almelo.nl
 servicedesk.hethogeland.nl
 servicedesk.leeuwarden.nl
-servicedesk.meierijstad.nl
 servicedesk.montferland.info
 servicegateway.accp.s-hertogenbosch.nl
 servicegateway.haarlem.nl
@@ -14252,7 +14251,6 @@ webmail.lingewaard.nl
 webmail.lopik.nl
 webmail.maassluis.nl
 webmail.meerssen.nl
-webmail.meierijstad.nl
 webmail.middendelfland.nl
 webmail.nederbetuwe.nl
 webmail.nieuwegein.nl

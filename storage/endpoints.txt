@@ -642,7 +642,6 @@ http://vvb.sliedrecht.nl
 http://wassenaar.nl
 http://web01.deventer.nl
 http://webmail.gooisemeren.nl
-http://webmail.meierijstad.nl
 http://webservice-decosdvl.acc.amsterdam.nl
 http://website.lisse.nl
 http://welkom.ede.nl
@@ -5221,6 +5220,7 @@ https://link.socialewegwijzer.meierijstad.nl
 https://lintendijkenpaden.zaanstad.nl
 https://lior.oegstgeest.nl
 https://liquit.gemeentebest.nl
+https://liquit.meierijstad.nl
 https://liquit.montferland.info
 https://liquitsatellite.tilburg.nl
 https://lisse-checker-preprod.lisse.nl
@@ -5577,6 +5577,7 @@ https://midden-groningen.nl
 https://middendrenthe.nl
 https://mijn-acc.groningen.nl
 https://mijn-acc.leeuwarden.nl
+https://mijn-acc.meierijstad.nl
 https://mijn-acc.overbetuwe.nl
 https://mijn-acc.sittard-geleen.nl
 https://mijn-accept.voorst.nl
@@ -5660,6 +5661,7 @@ https://mijn.lochem.nl
 https://mijn.losser.nl
 https://mijn.maasdriel.nl
 https://mijn.maassluis.nl
+https://mijn.meierijstad.nl
 https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
@@ -5788,7 +5790,6 @@ https://mijnsdv.emmen.nl
 https://mijnsdv.zwolle.nl
 https://mijnshv.coevorden.nl
 https://mijnsociaaldomein-acc.koggenland.nl
-https://mijnsociaaldomein-acc.meierijstad.nl
 https://mijnsociaaldomein-acc.opmeer.nl
 https://mijnsociaaldomein-acc.westerkwartier.nl
 https://mijnsociaaldomein-test.losser.nl
@@ -5796,7 +5797,6 @@ https://mijnsociaaldomein.gemeentesluis.nl
 https://mijnsociaaldomein.heerenveen.nl
 https://mijnsociaaldomein.koggenland.nl
 https://mijnsociaaldomein.losser.nl
-https://mijnsociaaldomein.meierijstad.nl
 https://mijnsociaaldomein.opmeer.nl
 https://mijnsociaaldomein.staphorst.nl
 https://mijnsociaaldomein.venlo.nl
@@ -5998,7 +5998,6 @@ https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
 https://neptunus.gemeentesluis.nl
-https://nerdio.meierijstad.nl
 https://netbox.alkmaar.nl
 https://neuron-test.gorinchem.nl
 https://neuron.gorinchem.nl
@@ -7295,7 +7294,6 @@ https://servicebus-t.kampen.nl
 https://servicedesk-t.hethogeland.nl
 https://servicedesk.almelo.nl
 https://servicedesk.hethogeland.nl
-https://servicedesk.meierijstad.nl
 https://servicedesk.montferland.info
 https://services-test.nijmegen.nl
 https://services.dronten.nl

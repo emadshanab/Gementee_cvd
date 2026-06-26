@@ -11,8 +11,8 @@ webmail
 mail
 simsite
 digikoppeling
-afspraken
 preproductie
+afspraken
 simcms
 secure
 acceptatie
@@ -269,7 +269,6 @@ www.intranet
 kcc
 acc-pabc
 mobiel
-mijnsociaaldomein
 cloudadapter-prod
 handhaving
 www.denkmee
@@ -295,6 +294,7 @@ citrix
 bestanden
 squit2020.acceptatie
 aeolus
+mijnsociaaldomein
 midoffice
 geovisia
 gisib-test
@@ -354,7 +354,6 @@ raadsnet
 toegang
 www.werkenbij
 zoeken
-servicedesk
 diensten
 sociaaldomein
 dkd-test
@@ -430,12 +429,14 @@ www.werkplek
 mylex
 gateway
 stats
+mijn-acc
 access
 huisstijl
 mijndesktop
 www2
 www.acceptatie
 de
+servicedesk
 secure-test
 mijnoverzicht
 rpl3
@@ -525,7 +526,6 @@ rds
 acceptatie-intranet
 neuron
 nieuwsbrieven
-mijn-acc
 sso
 gemeentebestuur
 lyncweb
@@ -542,7 +542,6 @@ cars
 bezoekersparkeren-acc
 duoloket
 hta
-mijnsociaaldomein-acc
 wonen
 awtunnel
 service
@@ -752,6 +751,7 @@ bekendmakingen
 hybrid1
 hybrid2
 digitaalloket
+mijnsociaaldomein-acc
 lokettest
 ews
 pda
@@ -4935,6 +4935,8 @@ gs01msn
 mks01msn
 ned03msn
 www.gs01msn
+apigw
+laar-ollandseweg
 link.socialewegwijzer
 mx11
 mx12
