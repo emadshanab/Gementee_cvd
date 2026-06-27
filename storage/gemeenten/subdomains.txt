@@ -1002,7 +1002,6 @@ adfs.kerkrade.nl
 adfs.landgraaf.nl
 adfs.leudal.nl
 adfs.lingewaard.nl
-adfs.meppel.nl
 adfs.midden-groningen.nl
 adfs.montferland.info
 adfs.ommen.nl
@@ -1504,6 +1503,7 @@ api.betalen.zwijndrecht.nl
 api.brp.amsterdam.nl
 api.buurtbudget.amsterdam.nl
 api.buurtbudget.opdr.azure.amsterdam.nl
+api.classifai.meppel.nl
 api.darwin.tilburg.nl
 api.data.amsterdam.nl
 api.data.leiden.nl
@@ -3216,6 +3216,7 @@ civision.werkeninkomen.amsterdam.nl
 cjg.denhaag.nl
 cjg.olst-wijhe.nl
 cjg.scherpenzeel.nl
+classifai.meppel.nl
 clear-tst.groningen.nl
 clear.groningen.nl
 clearpass.zutphen.nl
@@ -4804,7 +4805,6 @@ edienstenburgerzaken-test.lisse.nl
 edienstenburgerzaken-test.loonopzand.nl
 edienstenburgerzaken-test.lopik.nl
 edienstenburgerzaken-test.meierijstad.nl
-edienstenburgerzaken-test.meppel.nl
 edienstenburgerzaken-test.nederweert.nl
 edienstenburgerzaken-test.nieuwegein.nl
 edienstenburgerzaken-test.nijkerk.eu
@@ -5104,7 +5104,6 @@ eloket.lelystad.nl
 eloket.leudal.nl
 eloket.leusden.nl
 eloket.meerssen.nl
-eloket.meppel.nl
 eloket.middelburg.nl
 eloket.midden-groningen.nl
 eloket.nijkerk.eu
@@ -9021,6 +9020,7 @@ mijngkb.groningen.nl
 mijngkb.midden-groningen.nl
 mijnhr.sudwestfryslan.nl
 mijnhulp-test.zaltbommel.nl
+mijnhulp.meppel.nl
 mijnhulp.zaltbommel.nl
 mijnhulpbijschulden.acc.utrecht.nl
 mijnhulpbijschulden.utrecht.nl
@@ -9820,6 +9820,7 @@ omgevingswet.zaanstad.nl
 ommen.nl
 onboarden.haarlemmermeer.nl
 onboarden.houten.nl
+onboarden.meppel.nl
 onboardingambulancezorg.denhaag.nl
 onderhoud.zaanstad.nl
 ondernemen.ede.nl
@@ -11474,6 +11475,7 @@ rep.bronckhorst.nl
 reports.sudwestfryslan.nl
 reprotransfer.denhelder.nl
 reserveren.leiden.nl
+reserveren.meppel.nl
 reserveren.vijfheerenlanden.nl
 reservering.oldenzaal.nl
 reserveringen.geertruidenberg.nl
@@ -13352,7 +13354,6 @@ testeloket.horstaandemaas.nl
 testeloket.ijsselstein.nl
 testeloket.lelystad.nl
 testeloket.meerssen.nl
-testeloket.meppel.nl
 testeloket.midden-groningen.nl
 testeloket.nijkerk.eu
 testeloket.nissewaard.nl

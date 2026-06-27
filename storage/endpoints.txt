@@ -365,7 +365,6 @@ http://docwerker.amsterdam.nl
 http://duurzaam.woensdrecht.nl
 http://e.papendrecht.nl
 http://ediensten.gemeentehw.nl
-http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
 http://epos.staphorst.nl
@@ -584,6 +583,7 @@ http://sluiskwartier.deventer.nl
 http://smtp.moerdijk.nl
 http://snow-license.amsterdam.nl
 http://socialintranet.middendelfland.nl
+http://speciaal.meppel.nl
 http://sport.denhaag.nl
 http://sportaccommodaties.nissewaard.nl
 http://squitxo.goirle.nl
@@ -623,7 +623,6 @@ http://test-topvorm.apeldoorn.nl
 http://test.veere.nl
 http://test.website.westland.gemeentewestland.nl
 http://testeformulieren.rhenen.nl
-http://testeloket.meppel.nl
 http://testtomindebuurt.nieuwkoop.nl
 http://toegang.eindhoven.nl
 http://topdesk.ggd.amsterdam.nl
@@ -1342,7 +1341,6 @@ https://adfs.gorinchem.nl
 https://adfs.hellendoorn.nl
 https://adfs.landgraaf.nl
 https://adfs.leudal.nl
-https://adfs.meppel.nl
 https://adfs.montferland.info
 https://adfs.rijssen-holten.nl
 https://adfs.simpelveld.nl
@@ -1591,6 +1589,7 @@ https://api.betalen.wijdemeren.nl
 https://api.betalen.zundert.nl
 https://api.betalen.zwijndrecht.nl
 https://api.buurtbudget.amsterdam.nl
+https://api.classifai.meppel.nl
 https://api.darwin.tilburg.nl
 https://api.data.amsterdam.nl
 https://api.denhaag.nl
@@ -1814,7 +1813,6 @@ https://auth.doemee.gemeentewestland.nl
 https://auth.doemee.papendrecht.nl
 https://auth.doemee.zwolle.nl
 https://auth.lelystad.nl
-https://auth.meppel.nl
 https://auth.openstad.amsterdam.nl
 https://auth.openstad.apeldoorn.nl
 https://auth.openstad.deventer.nl
@@ -2514,6 +2512,7 @@ https://civision.werkeninkomen.amsterdam.nl
 https://cjg.denhaag.nl
 https://cjg.olst-wijhe.nl
 https://cjg.scherpenzeel.nl
+https://classifai.meppel.nl
 https://clickprotection.haarlem.nl
 https://clicks.helmond.nl
 https://clicks.nieuws.lansingerland.nl
@@ -2887,7 +2886,6 @@ https://deventer.nl
 https://deventerstroomt2.deventer.nl
 https://deventit.breda.nl
 https://devgovrs1.deventer.nl
-https://devices.meppel.nl
 https://devisie2020.deventer.nl
 https://devops.rotterdam.nl
 https://devopstestproject.rotterdam.nl
@@ -3193,7 +3191,6 @@ https://edienstenburgerzaken-test.lisse.nl
 https://edienstenburgerzaken-test.loonopzand.nl
 https://edienstenburgerzaken-test.lopik.nl
 https://edienstenburgerzaken-test.meierijstad.nl
-https://edienstenburgerzaken-test.meppel.nl
 https://edienstenburgerzaken-test.nederweert.nl
 https://edienstenburgerzaken-test.nieuwegein.nl
 https://edienstenburgerzaken-test.nijkerk.eu
@@ -3321,7 +3318,6 @@ https://edienstenburgerzaken.leusden.nl
 https://edienstenburgerzaken.lisse.nl
 https://edienstenburgerzaken.lopik.nl
 https://edienstenburgerzaken.meierijstad.nl
-https://edienstenburgerzaken.meppel.nl
 https://edienstenburgerzaken.nederweert.nl
 https://edienstenburgerzaken.nijkerk.eu
 https://edienstenburgerzaken.nissewaard.nl
@@ -4516,7 +4512,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.meppel.nl
 https://ibzpink.middelburg.nl
 https://ibzpink.midden-groningen.nl
 https://ibzpink.middendrenthe.nl
@@ -5734,6 +5729,7 @@ https://mijngemeente.waddinxveen.nl
 https://mijngkb.groningen.nl
 https://mijngkb.midden-groningen.nl
 https://mijnhulp-test.zaltbommel.nl
+https://mijnhulp.meppel.nl
 https://mijnhulp.zaltbommel.nl
 https://mijnhulpbijschulden.acc.utrecht.nl
 https://mijnhulpbijschulden.utrecht.nl
@@ -6216,6 +6212,7 @@ https://omgevingswet.zaanstad.nl
 https://ommen.nl
 https://onboarden.haarlemmermeer.nl
 https://onboarden.houten.nl
+https://onboarden.meppel.nl
 https://onderhoud.zaanstad.nl
 https://ondernemen.ede.nl
 https://ondernemen.landvancuijk.nl
@@ -6555,6 +6552,7 @@ https://parkeren-test.culemborg.nl
 https://parkeren-test.dijkenwaard.nl
 https://parkeren-test.haarlemmermeer.nl
 https://parkeren-test.leiden.nl
+https://parkeren-test.meppel.nl
 https://parkeren-test.zwijndrecht.nl
 https://parkeren.almelo.nl
 https://parkeren.apeldoorn.nl
@@ -7123,6 +7121,7 @@ https://remote.zaanstad.nl
 https://remote.zoetermeer.nl
 https://renkum.nl
 https://reprotransfer.denhelder.nl
+https://reserveren.meppel.nl
 https://reserveren.vijfheerenlanden.nl
 https://reserveringen.geertruidenberg.nl
 https://reserveringen.tilburg.nl
@@ -7550,7 +7549,6 @@ https://someren.nl
 https://sp.brielle.nl
 https://spa4.tst.amsterdam.nl
 https://spa4dweb.amsterdam.nl
-https://speciaal.meppel.nl
 https://spelenapp.loonopzand.nl
 https://speleninoost.amsterdam.nl
 https://spf-wind.asten.nl
@@ -8144,7 +8142,6 @@ https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
 https://vdi.delft.nl
 https://vdi.deventer.nl
-https://vdi.meppel.nl
 https://vdi.rijswijk.nl
 https://vdi.rotterdam.nl
 https://vdi.westmaasenwaal.nl
@@ -8180,7 +8177,6 @@ https://vergunningen.duiven.nl
 https://vergunningen.groningen.nl
 https://vergunningen.leiden.nl
 https://vergunningen.westervoort.nl
-https://vergunningentoets.meppel.nl
 https://vergunningintaker-acceptatie.oldenzaal.nl
 https://vergunningintaker-preprod.aalten.nl
 https://vergunningintaker-preprod.eemsdelta.nl
