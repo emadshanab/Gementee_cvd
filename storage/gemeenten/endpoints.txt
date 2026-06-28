@@ -680,7 +680,6 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.lingewaard.nl
 http://www.lopik.nl
-http://www.middelburg.nl
 http://www.mookenmiddelaar.nl
 http://www.nijkerk.eu
 http://www.omgevingsvisie.denhaag.nl
@@ -4512,7 +4511,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.middelburg.nl
 https://ibzpink.midden-groningen.nl
 https://ibzpink.middendrenthe.nl
 https://ibzpink.moerdijk.nl
@@ -7383,6 +7381,7 @@ https://simcms.koggenland.nl
 https://simcms.landgraaf.nl
 https://simcms.leudal.nl
 https://simcms.maassluis.nl
+https://simcms.middelburg.nl
 https://simcms.nieuwkoop.nl
 https://simcms.oirschot.nl
 https://simcms.opmeer.nl
@@ -8930,6 +8929,7 @@ https://www.meerssen.nl
 https://www.meierijstad.nl
 https://www.meppel.nl
 https://www.merk.denhaag.nl
+https://www.middelburg.nl
 https://www.midden-groningen.nl
 https://www.middendelfland.nl
 https://www.middendrenthe.nl
