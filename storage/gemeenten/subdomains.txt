@@ -1290,6 +1290,7 @@ agis.apeldoorn.nl
 agrifoodtech.landvancuijk.nl
 agwp01.azweu.alkmaar.nl
 ai.landvancuijk.nl
+ai.midden-groningen.nl
 aik.almere.nl
 aip.amsterdam.nl
 aip.ont.amsterdam.nl
@@ -2994,6 +2995,7 @@ broker.leudal.nl
 broker.leusden.nl
 broker.losser.nl
 broker.meppel.nl
+broker.midden-groningen.nl
 broker.noordwijk.nl
 broker.nunspeet.nl
 broker.olst-wijhe.nl
@@ -3192,6 +3194,7 @@ cg-intern.acc.utrecht.nl
 cg-intern.ont.utrecht.nl
 cg-intern.utrecht.nl
 chat.amsterdam.nl
+chat.midden-groningen.nl
 checklist.rotterdam.nl
 cicd010.rotterdam.nl
 cijfers.zaanstad.nl
@@ -5688,6 +5691,7 @@ formulieren-test.westerkwartier.nl
 formulieren-test.westervoort.nl
 formulieren-test.zevenaar.nl
 formulieren.acc.amsterdam.nl
+formulieren.acceptatie.midden-groningen.nl
 formulieren.almelo.nl
 formulieren.almere.nl
 formulieren.amersfoort.nl
@@ -5726,6 +5730,7 @@ formulieren.leiderdorp.nl
 formulieren.lelystad.nl
 formulieren.losser.nl
 formulieren.meierijstad.nl
+formulieren.midden-groningen.nl
 formulieren.middendrenthe.nl
 formulieren.montferland.info
 formulieren.nissewaard.nl
@@ -6273,7 +6278,6 @@ glapp27.local.oostgelre.nl
 glapp39.local.oostgelre.nl
 glexc01.local.oostgelre.nl
 glexc02.local.oostgelre.nl
-globalprotect.midden-groningen.nl
 glow.landgraaf.nl
 gms.boekel.nl
 gms.gilzerijen.nl
@@ -6324,6 +6328,7 @@ gp.midden-groningen.nl
 gp.tilburg.nl
 gpa.apeldoorn.nl
 gpa.edam-volendam.nl
+gpa.midden-groningen.nl
 gpg.apeldoorn.nl
 gplan-app.veere.nl
 gplan.renkum.nl
@@ -9211,7 +9216,6 @@ mks.haarlemmermeer.nl
 mks.hethogeland.nl
 mks.hoogeveen.nl
 mks.kerkrade.nl
-mks.midden-groningen.nl
 mks.nieuwkoop.nl
 mks.overbetuwe.nl
 mks.putten.nl
@@ -9226,7 +9230,6 @@ mksacc.breda.nl
 mksggk.nieuwkoop.nl
 mksora.rijssen-holten.nl
 mksp01bkl.boekel.nl
-mksprod.midden-groningen.nl
 mkstest.kerkrade.nl
 mldapp.heuvelrug.nl
 mlo-ws.acc.rotterdam.nl
@@ -9428,6 +9431,7 @@ navigus.landgraaf.nl
 navisiondestoep-acc.nissewaard.nl
 navisiondestoep.nissewaard.nl
 nawservice.coevorden.nl
+nc.midden-groningen.nl
 ndbu-acc.utrecht.nl
 ndbu-tst.utrecht.nl
 ndbu.utrecht.nl
@@ -9759,6 +9763,7 @@ oirschot.nl
 ois.accp.s-hertogenbosch.nl
 ois.s-hertogenbosch.nl
 oisterwijk.nl
+okta.midden-groningen.nl
 old-dbmanager.acc.denhaag.nl
 old-dbmanager.test.denhaag.nl
 old-grafana.denhaag.nl
@@ -10929,6 +10934,7 @@ preprodbroker.horstaandemaas.nl
 preprodbroker.leeuwarden.nl
 preprodbroker.leusden.nl
 preprodbroker.meppel.nl
+preprodbroker.midden-groningen.nl
 preprodbroker.nunspeet.nl
 preprodbroker.overbetuwe.nl
 preprodbroker.stichtsevecht.nl

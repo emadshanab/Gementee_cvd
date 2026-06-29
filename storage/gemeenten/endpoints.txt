@@ -334,6 +334,7 @@ http://collecties.dantumadiel.frl
 http://connect.acceptatie.dordrecht.nl
 http://connect.acceptatie.goirle.nl
 http://connect.acceptatie.hardinxveld-giessendam.nl
+http://consul.midden-groningen.nl
 http://contactregistratie.acc.amsterdam.nl
 http://contactregistratie.amsterdam.nl
 http://contactregistratie.tst.amsterdam.nl
@@ -622,6 +623,7 @@ http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
 http://test.veere.nl
 http://test.website.westland.gemeentewestland.nl
+http://testcms-intranet.midden-groningen.nl
 http://testeformulieren.rhenen.nl
 http://testtomindebuurt.nieuwkoop.nl
 http://toegang.eindhoven.nl
@@ -1483,6 +1485,7 @@ https://agile-bi-dashboard.denhaag.nl
 https://agrifoodtech.landvancuijk.nl
 https://agwp01.azweu.alkmaar.nl
 https://ai.landvancuijk.nl
+https://ai.midden-groningen.nl
 https://aip.tst.amsterdam.nl
 https://airflow.dataplatform.accp.s-hertogenbosch.nl
 https://airflow.dataplatform.s-hertogenbosch.nl
@@ -2408,6 +2411,7 @@ https://broker.leudal.nl
 https://broker.leusden.nl
 https://broker.losser.nl
 https://broker.meppel.nl
+https://broker.midden-groningen.nl
 https://broker.noordwijk.nl
 https://broker.nunspeet.nl
 https://broker.olst-wijhe.nl
@@ -2499,6 +2503,7 @@ https://centricbelastingen.amsterdam.nl
 https://centrum.heerlen.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://chat.amsterdam.nl
+https://chat.midden-groningen.nl
 https://checklist.rotterdam.nl
 https://cicd010.rotterdam.nl
 https://cimot.almelo.nl
@@ -2650,7 +2655,6 @@ https://connect.veendam.nl
 https://connect.winterswijk.nl
 https://consent.sarphati.acc.amsterdam.nl
 https://consent.sarphati.amsterdam.nl
-https://consul.midden-groningen.nl
 https://contact.antwoord.amsterdam.nl
 https://contact.assen.nl
 https://contact.borger-odoorn.nl
@@ -3837,6 +3841,7 @@ https://formulieren-test.westbetuwe.nl
 https://formulieren-test.westerkwartier.nl
 https://formulieren-test.westervoort.nl
 https://formulieren-test.zevenaar.nl
+https://formulieren.acceptatie.midden-groningen.nl
 https://formulieren.almelo.nl
 https://formulieren.almere.nl
 https://formulieren.beesel.nl
@@ -3862,6 +3867,7 @@ https://formulieren.huizen.nl
 https://formulieren.leiden.nl
 https://formulieren.lelystad.nl
 https://formulieren.losser.nl
+https://formulieren.midden-groningen.nl
 https://formulieren.middendrenthe.nl
 https://formulieren.noordoostpolder.nl
 https://formulieren.nunspeet.nl
@@ -4511,7 +4517,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.midden-groningen.nl
 https://ibzpink.middendrenthe.nl
 https://ibzpink.moerdijk.nl
 https://ibzpink.molenlanden.nl
@@ -6160,6 +6165,7 @@ https://oirschot.nl
 https://ois.accp.s-hertogenbosch.nl
 https://ois.s-hertogenbosch.nl
 https://oisterwijk.nl
+https://okta.midden-groningen.nl
 https://old-dbmanager.acc.denhaag.nl
 https://old-grafana.denhaag.nl
 https://old-grafana.test.denhaag.nl
@@ -6862,6 +6868,7 @@ https://preprodbroker.horstaandemaas.nl
 https://preprodbroker.leeuwarden.nl
 https://preprodbroker.leusden.nl
 https://preprodbroker.meppel.nl
+https://preprodbroker.midden-groningen.nl
 https://preprodbroker.nunspeet.nl
 https://preprodbroker.overbetuwe.nl
 https://preprodbroker.stichtsevecht.nl
@@ -7917,7 +7924,6 @@ https://testbelastingloket.oldebroek.nl
 https://testcms-binnenshuis.bergen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
-https://testcms-intranet.midden-groningen.nl
 https://testcms-jip.hofvantwente.nl
 https://testdigikoppeling.haarlemmermeer.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
