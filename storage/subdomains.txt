@@ -9958,6 +9958,7 @@ open.lisse.nl
 open.lochem.nl
 open.meerssen.nl
 open.meppel.nl
+open.middendelfland.nl
 open.middendrenthe.nl
 open.moerdijk.nl
 open.nijmegen.nl
@@ -12035,6 +12036,7 @@ simcms-open.halderberge.nl
 simcms-open.leudal.nl
 simcms-open.lingewaard.nl
 simcms-open.meerssen.nl
+simcms-open.middendelfland.nl
 simcms-open.nuenen.nl
 simcms-open.oirschot.nl
 simcms-open.sonenbreugel.nl
@@ -13697,6 +13699,7 @@ uitvaartagenda.westerkwartier.nl
 uitvaartplanner.sittard-geleen.nl
 uitwijk.bunschoten.nl
 uitwijk.gemeentewestland.nl
+uitwijk.middendelfland.nl
 uitwijk.stichtsevecht.nl
 uitwisseling.drimmelen.nl
 umbrella-test.peelenmaas.nl

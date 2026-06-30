@@ -19,8 +19,8 @@ acceptatie
 felix
 probeer
 formulieren
-loket
 open
+loket
 test
 eloket
 waarmerk
@@ -77,9 +77,9 @@ flowmailer-tracking
 doemee
 zaken
 acc-podiumd-logs
+simcms-open
 preprodbroker
 hybrid
-simcms-open
 _autodiscover._tcp
 connect
 cloudadapter
@@ -480,6 +480,7 @@ autorisatiebeheer-test
 djumaproxy
 suite4burgerzaken
 sync
+uitwijk
 clicksfm
 testmijn
 download
@@ -616,7 +617,6 @@ adsync
 kassaservice
 ssd
 test-eloket
-uitwijk
 www.omgevingsvisie
 mbg
 servicebus

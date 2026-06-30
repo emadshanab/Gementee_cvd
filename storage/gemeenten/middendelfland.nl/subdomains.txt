@@ -18,10 +18,12 @@ mail.middendelfland.nl
 md-app-p-01.middendelfland.nl
 middendelfland.nl
 mijn.middendelfland.nl
+open.middendelfland.nl
 preproductie.middendelfland.nl
 probeer.middendelfland.nl
 remotewerken.middendelfland.nl
 secure.middendelfland.nl
+simcms-open.middendelfland.nl
 simcms.middendelfland.nl
 simsite.middendelfland.nl
 socialintranet.middendelfland.nl
@@ -30,6 +32,7 @@ test-cmssocialintranet.middendelfland.nl
 test-socialintranet.middendelfland.nl
 testdigikoppeling.middendelfland.nl
 thuiswerken.middendelfland.nl
+uitwijk.middendelfland.nl
 wcf.middendelfland.nl
 weblogic-prod.middendelfland.nl
 weblogic-test.middendelfland.nl
