@@ -7002,6 +7002,7 @@ ibzpink.zwartewaterland.nl
 ibzpink.zwolle.nl
 ica.winterswijk.nl
 icm-ast.asten.nl
+iconnect.middendrenthe.nl
 icontroler-api.zwolle.nl
 icontroler.zwolle.nl
 icontrolertest-api.zwolle.nl
@@ -8595,7 +8596,6 @@ mbg2.waadhoeke.nl
 md-app-p-01.middendelfland.nl
 md.groningen.nl
 md02.middendrenthe.nl
-md04.middendrenthe.nl
 mdesk.renkum.nl
 mdfg01.middendrenthe.nl
 mdjcc.middendrenthe.nl
@@ -10114,8 +10114,6 @@ openstad.gemeentewestland.nl
 openstad.haarlemmermeer.nl
 openstad.katwijk.nl
 openstad.nijmegen.nl
-opentunnel.middendrenthe.nl
-opentunnel.test.middendrenthe.nl
 opentunnel.wormerland.nl
 opentunnel.zaanstad.nl
 opentunneltest.zaanstad.nl
@@ -11555,7 +11553,6 @@ ro.winterswijk.nl
 ro.zwolle.nl
 roadi.rotterdam.nl
 robuust.westmaasenwaal.nl
-roel.middendrenthe.nl
 roemte.hethogeland.nl
 roerdalen-checker-preprod.roerdalen.nl
 roerdalen-checker.roerdalen.nl
@@ -12959,6 +12956,7 @@ tcorsa.landgraaf.nl
 td.gemeentehulst.nl
 tdk.veldhoven.nl
 teamplan.huizen.nl
+teams.middendrenthe.nl
 teams.nijkerk.eu
 teams.zwolle.nl
 teamurenplanninggezondheidmilieu.rotterdam.nl
@@ -13210,7 +13208,6 @@ test-trefpunt.deurne.nl
 test-urknet.urk.nl
 test-vergoedingen.nijmegen.nl
 test-website-westland.gemeentewestland.nl
-test-witgoed.middendrenthe.nl
 test-wiz.zaanstad.nl
 test-zaakloket.ameland.nl
 test-zaakloket.schiermonnikoog.nl
@@ -13269,7 +13266,6 @@ test.leiderdorp.nl
 test.login.formulieren.leiden.nl
 test.loket.oss.nl
 test.maasdriel.nl
-test.middendrenthe.nl
 test.mijn.sociaal.voorst.nl
 test.mijnhulpvraag.rijswijk.nl
 test.mijnloket.vlaardingen.nl
@@ -14077,6 +14073,7 @@ waarmerk.kampen.nl
 waarmerk.kerkrade.nl
 waarmerk.krimpenaandenijssel.nl
 waarmerk.landgraaf.nl
+waarmerk.middendrenthe.nl
 waarmerk.nissewaard.nl
 waarmerk.oldenzaal.nl
 waarmerk.ooststellingwerf.nl
@@ -14604,7 +14601,6 @@ wion.woensdrecht.nl
 wionklic.leudal.nl
 wireless.peelenmaas.nl
 wise-accept.bibliotheek.rotterdam.nl
-witgoed.middendrenthe.nl
 witgoed.veldhoven.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
@@ -14615,7 +14611,6 @@ wlan.venlo.nl
 wlc.denhaag.nl
 wlc01.waterland.nl
 wmo.bloemendaal.nl
-wmo.middendrenthe.nl
 wmo.veenendaal.nl
 wmoloket.gemeentesluis.nl
 wmoloket.heuvelrug.nl
@@ -14667,6 +14662,7 @@ woningbouwkaart.helmond.nl
 woningbouwkaart.hoogeveen.nl
 woningbouwkaart.laarbeek.nl
 woningbouwkaart.landvancuijk.nl
+woningbouwkaart.middendrenthe.nl
 woningbouwkaart.nuenen.nl
 woningbouwkaart.oirschot.nl
 woningbouwkaart.reuseldemierden.nl

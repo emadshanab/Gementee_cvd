@@ -4516,7 +4516,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.middendrenthe.nl
 https://ibzpink.moerdijk.nl
 https://ibzpink.molenlanden.nl
 https://ibzpink.montferland.info
@@ -6118,7 +6117,6 @@ https://obsurv-acc.rotterdam.nl
 https://obsurv-t.sittard-geleen.nl
 https://obsurv.heerde.nl
 https://obsurv.loonopzand.nl
-https://obsurv.middendrenthe.nl
 https://obsurv.oss.nl
 https://obsurv.purmerend.nl
 https://obsurv.rotterdam.nl
@@ -6447,8 +6445,6 @@ https://openstad.gemeentewestland.nl
 https://openstad.haarlemmermeer.nl
 https://openstad.katwijk.nl
 https://openstad.nijmegen.nl
-https://opentunnel.middendrenthe.nl
-https://opentunnel.test.middendrenthe.nl
 https://openwave.beverwijk.nl
 https://openwave.hollandskroon.nl
 https://openzaak-zgw.acc.denhaag.nl
@@ -7158,7 +7154,6 @@ https://ro.valkenburg.nl
 https://ro.vlissingen.nl
 https://ro.winterswijk.nl
 https://roadi.rotterdam.nl
-https://roel.middendrenthe.nl
 https://roemte.hethogeland.nl
 https://roerdalen-checker-preprod.roerdalen.nl
 https://roerdalen-checker.roerdalen.nl
@@ -7880,7 +7875,6 @@ https://test-topdesk.venlo.nl
 https://test-trefpunt.deurne.nl
 https://test-vergoedingen.nijmegen.nl
 https://test-website-westland.gemeentewestland.nl
-https://test-witgoed.middendrenthe.nl
 https://test-zaakloket.ameland.nl
 https://test-zaakloket.schiermonnikoog.nl
 https://test-zaakloket.terschelling.nl
@@ -8548,11 +8542,9 @@ https://winkelen.landvancuijk.nl
 https://winkelsteeg.acc.nijmegen.nl
 https://winkelsteeg.nijmegen.nl
 https://winterswijk.nl
-https://witgoed.middendrenthe.nl
 https://witgoed.veldhoven.nl
 https://wiz.zaanstad.nl
 https://wlc01.waterland.nl
-https://wmo.middendrenthe.nl
 https://wmoloket.olst-wijhe.nl
 https://woa.geertruidenberg.nl
 https://woa2.geertruidenberg.nl
@@ -8589,6 +8581,7 @@ https://woningbouwkaart.helmond.nl
 https://woningbouwkaart.hoogeveen.nl
 https://woningbouwkaart.laarbeek.nl
 https://woningbouwkaart.landvancuijk.nl
+https://woningbouwkaart.middendrenthe.nl
 https://woningbouwkaart.nuenen.nl
 https://woningbouwkaart.oirschot.nl
 https://woningbouwkaart.reuseldemierden.nl

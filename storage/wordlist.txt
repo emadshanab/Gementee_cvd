@@ -602,7 +602,6 @@ preprod.vergunningintaker
 testcms-intranet
 digid-parkeervergunningen
 simcms-duurzaam
-wmo
 testformulieren
 automator
 mijnzorg-test
@@ -758,7 +757,7 @@ lokettest
 ews
 reserveren
 pda
-opentunnel
+teams
 digitalebelastingbalie
 regelgeving
 parkeerloket
@@ -901,6 +900,7 @@ begraafplaatsen
 demo.doemee
 idselect-preprod
 ondernemers
+wmo
 zonneparking.doemee
 oud
 gms
@@ -1232,7 +1232,6 @@ kadernota
 regieportaal
 zorg-acc
 portaaltest
-witgoed
 mymeeting
 scep
 social
@@ -1243,7 +1242,6 @@ exch
 huisnet
 raadzaam
 domain-admin
-teams
 formulier.accp
 insite
 Snelbalie
@@ -1286,6 +1284,7 @@ content
 wsn-mail
 parkeerlokettest
 spamfilter
+opentunnel
 testbelastingen
 webapps
 email.mail.participatie
@@ -5002,17 +5001,14 @@ www.remotewerken
 belastingtest
 burgerpanel
 formtest
+iconnect
 link.burgerpanel
 md02
-md04
 mdfg01
 mdjcc
 mdliquit
 mdmks
 mdtel01
-opentunnel.test
-roel
-test-witgoed
 leef-test
 e2s-test
 kaarten-test
@@ -6528,6 +6524,7 @@ vicky-stats
 vicky-tv
 vicky
 vicky2
+witgoed
 djuma-mks-prd
 djuma-mks-tst
 midofficeacc
