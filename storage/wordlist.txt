@@ -32,8 +32,8 @@ acc
 meldingen
 broker
 afspraak
-raad
 api.meldingen
+raad
 geo
 parkeren
 iparticipatie
@@ -59,10 +59,10 @@ dacceptatieloket
 openpdc
 berichten
 enterpriseregistration
+formulier
 remote
 dmidoffice
 openpub
-formulier
 cmsoo
 loket.acceptatie
 omgevingsvisie
@@ -163,7 +163,6 @@ ita
 office-addin
 sts
 micollab
-smtp
 inloggen
 contentbeheer
 begroting
@@ -174,6 +173,7 @@ vdi
 owa
 www.doemee
 mdm
+smtp
 cryptshare
 socialekaart
 gisib
@@ -277,6 +277,7 @@ documenten
 vergunningintaker-preprod
 subsidies-backend.acceptatie
 subsidies.acceptatie
+academie
 cms
 exchange
 mozardtest
@@ -304,7 +305,6 @@ gisibgeoserver-test
 gisibgeoserver
 makelaar
 veiligmailen
-academie
 belastingen-acc
 evenementen
 mozard
@@ -510,6 +510,7 @@ services
 mta-sts.raad
 edge
 gt-loket
+formulier-acc
 ondernemen
 fme
 duo
@@ -683,7 +684,6 @@ authenticatiedienst.preprod
 vergunningintaker.preprod
 www.piwik
 corsa
-formulier-acc
 welkom
 www.belastingbalie
 burgerportaal
@@ -879,6 +879,8 @@ spf-wind
 geoserver-test
 youpp
 pwa
+mijnondersteuning-acc
+mijnondersteuning
 solliciterenbij
 zaak-acc
 gisibonline
@@ -1155,6 +1157,7 @@ sfbaccess
 sfbwebconf
 wlan
 return
+vinden
 beta
 blog
 help
@@ -2200,8 +2203,6 @@ dkt
 ggi
 id-acc
 jongerenraad
-mijnondersteuning-acc
-mijnondersteuning
 patternlab
 zaak-dev
 alarm
@@ -4378,7 +4379,6 @@ timtotalmobile-prod
 timtotalmobile-test
 tslogin
 vicrea
-vinden
 www.cars
 www.wmoloket
 alpha
@@ -5009,6 +5009,7 @@ mdjcc
 mdliquit
 mdmks
 mdtel01
+email.academie
 leef-test
 e2s-test
 kaarten-test
