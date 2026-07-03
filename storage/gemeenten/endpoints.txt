@@ -437,6 +437,7 @@ http://kennisquiz.deventer.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://kindregelingen.geertruidenberg.nl
+http://klimaatadaptatie.molenlanden.nl
 http://klimaatraad.deventer.nl
 http://laren.nl
 http://leusden-checker-preprod.leusden.nl
@@ -4519,7 +4520,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.molenlanden.nl
 https://ibzpink.montferland.info
 https://ibzpink.mookenmiddelaar.nl
 https://ibzpink.nederbetuwe.nl
@@ -8331,6 +8331,7 @@ https://wanroij.landvancuijk.nl
 https://warmrijsenhout.haarlemmermeer.nl
 https://warmtenet.acc.nijmegen.nl
 https://warmtenet.nijmegen.nl
+https://warmteprogramma.molenlanden.nl
 https://warmtetransitie.urk.nl
 https://warp.gulpen-wittem.nl
 https://water.deventer.nl

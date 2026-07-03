@@ -4,8 +4,8 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-edienstenburgerzaken-test
 mijn
+edienstenburgerzaken-test
 intranet
 webmail
 mail
@@ -286,6 +286,7 @@ afval
 e-loket
 img.openstad
 openformulieren
+test-mijn
 woz-portaal
 support
 data-test
@@ -313,7 +314,6 @@ www.openstad
 ns1
 sslvpn
 meet
-test-mijn
 awmag
 beeldbank-bo
 geoserver
@@ -5013,6 +5013,8 @@ email.academie
 leef-test
 e2s-test
 kaarten-test
+klimaatadaptatie
+warmteprogramma
 webformulieren-test
 appapi
 cmssocial
