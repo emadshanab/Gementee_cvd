@@ -1,6 +1,9 @@
 acc.montferland.info
+addin.schrijfkader.extranet.montferland.info
 adfs.montferland.info
 afspraken.montferland.info
+airflow.montferland.info
+apim.schrijfkader.extranet.montferland.info
 appapi.montferland.info
 bag.montferland.info
 begroting.montferland.info
@@ -16,6 +19,7 @@ filter.montferland.info
 flowise.montferland.info
 formulieren.montferland.info
 geo.montferland.info
+gitlab.montferland.info
 ibabs.montferland.info
 iburgerzaken.montferland.info
 ibzpink.montferland.info
@@ -25,14 +29,13 @@ liquit.montferland.info
 mdm.montferland.info
 meldingen.montferland.info
 montferland.info
-mymeeting.montferland.info
 nedplan.montferland.info
-obsurv.montferland.info
 orbit.montferland.info
 preproductie.montferland.info
 rap.montferland.info
 remote.montferland.info
 scep.montferland.info
+schrijfkader.extranet.montferland.info
 secure.montferland.info
 servicedesk.montferland.info
 simsite.montferland.info
@@ -43,6 +46,7 @@ test-cmssocial.montferland.info
 test-social.montferland.info
 validsign.montferland.info
 veiligdelen.montferland.info
+virtuele-assistent.montferland.info
 w2kmks.montferland.info
 w2kzmm.montferland.info
 werkplek.montferland.info

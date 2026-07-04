@@ -973,6 +973,7 @@ activesync.rhenen.nl
 activesync.sittard-geleen.nl
 activiteiten.amsterdam.nl
 adccallback.ovh.gemeentebeek.nl
+addin.schrijfkader.extranet.montferland.info
 addin.schrijfkader.extranet.tilburg.nl
 adeptiaconnect.acc.denhaag.nl
 adeptiaconnect.denhaag.nl
@@ -1297,6 +1298,7 @@ aip.ont.amsterdam.nl
 aip.tst.amsterdam.nl
 airflow.dataplatform.accp.s-hertogenbosch.nl
 airflow.dataplatform.s-hertogenbosch.nl
+airflow.montferland.info
 aiz.zoetermeer.nl
 alarm.beekdaelen.nl
 alarmfilter.rotterdam.nl
@@ -1664,6 +1666,7 @@ apim-portal-wpi-o.amsterdam.nl
 apim-portal-wpi-t.amsterdam.nl
 apim-scm-wpi-o.amsterdam.nl
 apim-scm-wpi-t.amsterdam.nl
+apim.schrijfkader.extranet.montferland.info
 apim.schrijfkader.extranet.tilburg.nl
 apint.almere.nl
 apint2.almere.nl
@@ -6271,6 +6274,7 @@ gisweb.overbetuwe.nl
 git.heerlen.nl
 git.hillegom.nl
 git.sudwestfryslan.nl
+gitlab.montferland.info
 gitops.acc.denhaag.nl
 gitops.denhaag.nl
 gitops.dev.denhaag.nl
@@ -9406,7 +9410,6 @@ mylex.waterland.nl
 mylex.zwartewaterland.nl
 mylex1.gem.overbetuwe.nl
 mymeeting-ris.gulpen-wittem.nl
-mymeeting.montferland.info
 mymeeting.veldhoven.nl
 mymeeting20.gulpen-wittem.nl
 myprint.groningen.nl
@@ -9705,7 +9708,6 @@ obsurv.gorinchem.nl
 obsurv.heerde.nl
 obsurv.loonopzand.nl
 obsurv.middendrenthe.nl
-obsurv.montferland.info
 obsurv.oss.nl
 obsurv.purmerend.nl
 obsurv.rotterdam.nl
@@ -11757,6 +11759,7 @@ scholenwijzer.denhaag.nl
 school.bibliotheek.rotterdam.nl
 schoondoenwegewoon.acc.denhaag.nl
 schouwen-duiveland.nl
+schrijfkader.extranet.montferland.info
 schrijfkader.extranet.tilburg.nl
 scim.deurne.nl
 scim.noordwijk.nl
@@ -13904,6 +13907,7 @@ vinden.heuvelrug.nl
 vinden.moerdijk.nl
 violix.apeldoorn.nl
 violixacc.apeldoorn.nl
+virtuele-assistent.montferland.info
 virusscanning.groningen.nl
 vis.gouda.nl
 visnet-acc.vlissingen.nl

@@ -151,7 +151,6 @@ mijninkomen
 dali
 preprod
 acc-ita
-obsurv
 gemeente
 fmreturn
 test-cmsintranet
@@ -162,6 +161,7 @@ preprod-mijninkomen
 ita
 office-addin
 sts
+obsurv
 micollab
 inloggen
 contentbeheer
@@ -1235,8 +1235,10 @@ kadernota
 regieportaal
 zorg-acc
 portaaltest
-mymeeting
+addin.schrijfkader.extranet
+apim.schrijfkader.extranet
 scep
+schrijfkader.extranet
 social
 login-pre
 services-test
@@ -5016,15 +5018,18 @@ kaarten-test
 klimaatadaptatie
 warmteprogramma
 webformulieren-test
+airflow
 appapi
 cmssocial
 datamask
 filter
 flowise
+gitlab
 orbit
 squitxo-server-service
 test-cmssocial
 test-social
+virtuele-assistent
 w2kmks
 w2kzmm
 xworks-acc
@@ -6188,14 +6193,12 @@ teylingen-checker-preprod
 ucserver
 prp
 wonenwelzijnenzorg
-addin.schrijfkader.extranet
 analytics.gis
 api-acceptatie
 api-gateway-ot
 api-gateway
 api-pkio-acceptatie
 api.darwin
-apim.schrijfkader.extranet
 auth.darwin
 authenticatie-preprod
 beeldbank.extranet
@@ -6232,7 +6235,6 @@ printen
 programmabegroting-2026
 recast-citrixapps
 samenwerking
-schrijfkader.extranet
 secfs
 suppliers-ot
 suppliers
@@ -6521,6 +6523,7 @@ Fmiskoppeling-prod
 Fmiskoppeling-test
 fmiskoppeling-prod
 fmiskoppeling-test
+mymeeting
 pdk
 tdk
 vicky-stats
