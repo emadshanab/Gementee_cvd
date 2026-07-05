@@ -78,9 +78,9 @@ doemee
 zaken
 acc-podiumd-logs
 simcms-open
+_autodiscover._tcp
 preprodbroker
 hybrid
-_autodiscover._tcp
 connect
 cloudadapter
 klantcontact
@@ -519,6 +519,7 @@ cca-acc
 cca
 gemeentewinkel
 mijnmobiel
+secudoc
 authenticatie
 pip
 www.mail
@@ -699,7 +700,6 @@ squit2gotest
 geo-secure
 hotspot
 ketenportaal.acceptatie
-secudoc
 www.login
 post
 www.parkeren

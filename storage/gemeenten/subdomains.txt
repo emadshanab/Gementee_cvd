@@ -96,6 +96,7 @@ _autodiscover._tcp.haarlem.nl
 _autodiscover._tcp.heerde.nl
 _autodiscover._tcp.hethogeland.nl
 _autodiscover._tcp.lisse.nl
+_autodiscover._tcp.montfoort.nl
 _autodiscover._tcp.oude-ijsselstreek.nl
 _autodiscover._tcp.reimerswaal.nl
 _autodiscover._tcp.schiermonnikoog.nl
@@ -11786,6 +11787,7 @@ search.amsterdam.nl
 sec.gemeentemaasgouw.nl
 secfs.tilburg.nl
 secudoc.gemeentebeek.nl
+secudoc.montfoort.nl
 secudoc.nederbetuwe.nl
 secudoc.texel.nl
 secumailer.maasdriel.nl
