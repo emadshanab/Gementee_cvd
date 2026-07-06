@@ -5041,6 +5041,8 @@ dgp
 groenlinks
 mintra
 natuurlijkgroen
+pvda
+vvd
 intraweb
 telewerkentest
 wachtwoordvergeten
