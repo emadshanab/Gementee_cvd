@@ -55,11 +55,11 @@ dacceptatiemidoffice
 dloket
 data
 belastingbalie
+formulier
 dacceptatieloket
 openpdc
 berichten
 enterpriseregistration
-formulier
 remote
 dmidoffice
 openpub
@@ -417,6 +417,7 @@ webservices
 router
 vergunningen
 testbelastingloket
+formulier-acc
 raadsinformatie
 mijnuitkering
 stemvan
@@ -510,7 +511,6 @@ services
 mta-sts.raad
 edge
 gt-loket
-formulier-acc
 ondernemen
 fme
 duo

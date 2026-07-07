@@ -3805,6 +3805,7 @@ https://formulier-acc.ede.nl
 https://formulier-acc.hellendoorn.nl
 https://formulier-acc.leeuwarden.nl
 https://formulier-acc.moerdijk.nl
+https://formulier-acc.nederbetuwe.nl
 https://formulier-test.hethogeland.nl
 https://formulier.accp.nijmegen.nl
 https://formulier.accp.s-hertogenbosch.nl
@@ -3828,6 +3829,7 @@ https://formulier.laarbeek.nl
 https://formulier.leeuwarden.nl
 https://formulier.losser.nl
 https://formulier.moerdijk.nl
+https://formulier.nederbetuwe.nl
 https://formulier.nijmegen.nl
 https://formulier.oldenzaal.nl
 https://formulier.oostgelre.nl
@@ -4317,7 +4319,6 @@ https://huursportzaal.kampen.nl
 https://hwok-test.gemeentehw.nl
 https://hwok.gemeentehw.nl
 https://hybrid.gooisemeren.nl
-https://hybrid.nederbetuwe.nl
 https://hybrid.purmerend.nl
 https://hybrid.sittard-geleen.nl
 https://iam-acc.almere.nl
@@ -4525,7 +4526,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.nederbetuwe.nl
 https://ibzpink.nieuwegein.nl
 https://ibzpink.nieuwkoop.nl
 https://ibzpink.noord-beveland.nl

@@ -6,6 +6,8 @@ autodiscover.nederbetuwe.nl
 cloudadapter-prod.nederbetuwe.nl
 cloudadapter-test.nederbetuwe.nl
 decos.nederbetuwe.nl
+formulier-acc.nederbetuwe.nl
+formulier.nederbetuwe.nl
 hybrid.nederbetuwe.nl
 iburgerzaken.nederbetuwe.nl
 ibzpink.nederbetuwe.nl
