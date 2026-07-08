@@ -8,8 +8,8 @@ mijn
 edienstenburgerzaken-test
 intranet
 webmail
-mail
 simsite
+mail
 digikoppeling
 preproductie
 afspraken
@@ -170,7 +170,6 @@ en
 izaaksuite
 snelbaliepp
 vdi
-owa
 www.doemee
 mdm
 smtp
@@ -182,6 +181,7 @@ bis
 formulieren-test
 auth
 bag
+owa
 gasten
 AutoDiscover
 jaarstukken
@@ -1242,7 +1242,6 @@ schrijfkader.extranet
 social
 login-pre
 services-test
-awmail
 exch
 huisnet
 raadzaam
@@ -6708,6 +6707,7 @@ www.ansvwl2903
 www.anwebintwl2008
 www.mis
 adproxy
+awmail
 geoportal
 klicwion
 secure1ev

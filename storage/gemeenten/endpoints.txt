@@ -470,7 +470,6 @@ http://mijntomindebuurt.nieuwkoop.nl
 http://mijnwerkplek.schagen.nl
 http://mijnwoonomgeving.deventer.nl
 http://mookenmiddelaar.nl
-http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nieuweburgemeester.deventer.nl
@@ -560,7 +559,6 @@ http://simcms.bronckhorst.nl
 http://simcms.bunschoten.nl
 http://simcms.halderberge.nl
 http://simcms.lingewaard.nl
-http://simcms.nederweert.nl
 http://simcms.roerdalen.nl
 http://simcms.schiermonnikoog.nl
 http://simcms.urk.nl
@@ -1878,7 +1876,6 @@ https://autodiscover.veere.nl
 https://autodiscover.wij.groningen.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
-https://awmail.nederweert.nl
 https://awtunnel.nederweert.nl
 https://awtunnel.roermond.nl
 https://awtunnel.venlo.nl
@@ -4303,7 +4300,6 @@ https://hub.gemeentemaastricht.nl
 https://huishoudboekje.acc.utrecht.nl
 https://huishoudboekje.amersfoort.nl
 https://huishoudboekje.utrecht.nl
-https://huisnet.nederweert.nl
 https://huisnet.nieuwegein.nl
 https://huisstijl.landvancuijk.nl
 https://huisstijl.moerdijk.nl
@@ -6003,6 +5999,7 @@ https://nedbrowser.twenterand.nl
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
+https://nederweert.nl
 https://neptunus.gemeentesluis.nl
 https://netbox.alkmaar.nl
 https://neuron-test.gorinchem.nl
@@ -7396,6 +7393,7 @@ https://simcms.leudal.nl
 https://simcms.maassluis.nl
 https://simcms.middelburg.nl
 https://simcms.mookenmiddelaar.nl
+https://simcms.nederweert.nl
 https://simcms.nieuwkoop.nl
 https://simcms.oirschot.nl
 https://simcms.opmeer.nl
@@ -8490,6 +8488,7 @@ https://werkplek.leudal.nl
 https://werkplek.leusden.nl
 https://werkplek.moerdijk.nl
 https://werkplek.montferland.info
+https://werkplek.nederweert.nl
 https://werkplek.roosendaal.nl
 https://werkplek.rucphen.nl
 https://werkplek.schagen.nl
@@ -8958,6 +8957,7 @@ https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
 https://www.nde.groningen.nl
 https://www.nederbetuwe.nl
+https://www.nederweert.nl
 https://www.neptunus.gemeentesluis.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl

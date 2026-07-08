@@ -2020,7 +2020,6 @@ autodiscover.montfoort.nl
 autodiscover.mookenmiddelaar.nl
 autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 autodiscover.nederbetuwe.nl
-autodiscover.nederweert.nl
 autodiscover.nieuwegein.nl
 autodiscover.nieuwkoop.nl
 autodiscover.nijkerk.eu
@@ -2169,7 +2168,6 @@ awmag.roermond.nl
 awmag.someren.nl
 awmag.venlo.nl
 awmag.weert.nl
-awmail.nederweert.nl
 awmail.weert.nl
 awp.haarlem.nl
 awtunnel.nederweert.nl
@@ -8454,7 +8452,6 @@ mail.losser.nl
 mail.mailing.haaksbergen.nl
 mail.meerssen.nl
 mail.middendelfland.nl
-mail.nederweert.nl
 mail.noordoostpolder.nl
 mail.oostgelre.nl
 mail.opsterland.nl
@@ -10265,7 +10262,6 @@ owa.helmond.nl
 owa.kampen.nl
 owa.lansingerland.nl
 owa.lingewaard.nl
-owa.nederweert.nl
 owa.nieuwegein.nl
 owa.schagen.nl
 owa.valkenburg.nl
@@ -14497,6 +14493,7 @@ werkplek.meerssen.nl
 werkplek.meierijstad.nl
 werkplek.moerdijk.nl
 werkplek.montferland.info
+werkplek.nederweert.nl
 werkplek.overbetuwe.nl
 werkplek.ovh.gemeentebeek.nl
 werkplek.peelenmaas.nl

@@ -1,8 +1,6 @@
 _dmarc.nederweert.nl
 afspraak.nederweert.nl
-autodiscover.nederweert.nl
 awmag.nederweert.nl
-awmail.nederweert.nl
 awtunnel.nederweert.nl
 bastion365.nederweert.nl
 dkd.nederweert.nl
@@ -14,15 +12,14 @@ exch.nederweert.nl
 felix.nederweert.nl
 gateway.nederweert.nl
 huisnet.nederweert.nl
-mail.nederweert.nl
 nederweert.nl
 osb.nederweert.nl
 osbacc.nederweert.nl
-owa.nederweert.nl
 preproductie.nederweert.nl
 probeer.nederweert.nl
 secure.nederweert.nl
 simcms.nederweert.nl
 simsite.nederweert.nl
 test-secure.nederweert.nl
+werkplek.nederweert.nl
 www.nederweert.nl
