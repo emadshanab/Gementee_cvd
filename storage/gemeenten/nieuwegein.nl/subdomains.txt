@@ -1,5 +1,11 @@
+Smtp1.nieuwegein.nl
+Smtp2.nieuwegein.nl
 _dmarc.nieuwegein.nl
 acc.nieuwegein.nl
+admin.doemee.nieuwegein.nl
+api.doemee.nieuwegein.nl
+apps.nieuwegein.nl
+auth.doemee.nieuwegein.nl
 autodiscover.nieuwegein.nl
 betalen.nieuwegein.nl
 cmshuisnet.nieuwegein.nl
@@ -8,6 +14,8 @@ ddrouter-p.nieuwegein.nl
 ddrouter-t.nieuwegein.nl
 digikoppeling-p.nieuwegein.nl
 digikoppeling-t.nieuwegein.nl
+doemee.nieuwegein.nl
+e.doemee.nieuwegein.nl
 edienstenburgerzaken-test.nieuwegein.nl
 edienstenburgerzaken.nieuwegein.nl
 efactuur.nieuwegein.nl
@@ -16,6 +24,7 @@ huisnet.nieuwegein.nl
 huisnettest.nieuwegein.nl
 iburgerzaken.nieuwegein.nl
 ibzpink.nieuwegein.nl
+img.doemee.nieuwegein.nl
 klooster.nieuwegein.nl
 login.nieuwegein.nl
 mailing.nieuwegein.nl

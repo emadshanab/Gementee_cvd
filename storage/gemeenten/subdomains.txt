@@ -75,6 +75,8 @@ NLGEMBRC.blaricum.nl
 PKIoverheid.woensdrecht.nl
 Parkeren.zutphen.nl
 Preprod.kaagenbraassem.nl
+Smtp1.nieuwegein.nl
+Smtp2.nieuwegein.nl
 Snelbalie.nissewaard.nl
 Snelbalie.terneuzen.nl
 SnelbaliePP.nissewaard.nl
@@ -1033,6 +1035,7 @@ admin.denkmee.brummen.nl
 admin.doemee.assen.nl
 admin.doemee.bloemendaal.nl
 admin.doemee.gemeentewestland.nl
+admin.doemee.nieuwegein.nl
 admin.doemee.papendrecht.nl
 admin.doemee.zwolle.nl
 admin.gezondleven.utrecht.nl
@@ -1519,6 +1522,7 @@ api.design.hoorn.nl
 api.doemee.assen.nl
 api.doemee.bloemendaal.nl
 api.doemee.gemeentewestland.nl
+api.doemee.nieuwegein.nl
 api.doemee.papendrecht.nl
 api.doemee.zwolle.nl
 api.erfgoedregister.amsterdam.nl
@@ -1709,6 +1713,7 @@ apps.haarlemmermeer.nl
 apps.hoogeveen.nl
 apps.katwijk.nl
 apps.lelystad.nl
+apps.nieuwegein.nl
 apps.nieuwkoop.nl
 apps.sudwestfryslan.nl
 apps.tilburg.nl
@@ -1807,6 +1812,7 @@ auth.denkmee.brummen.nl
 auth.doemee.assen.nl
 auth.doemee.bloemendaal.nl
 auth.doemee.gemeentewestland.nl
+auth.doemee.nieuwegein.nl
 auth.doemee.papendrecht.nl
 auth.doemee.zwolle.nl
 auth.gemeentewestland.nl
@@ -4490,6 +4496,7 @@ doemee.gulpen-wittem.nl
 doemee.heemstede.nl
 doemee.huizen.nl
 doemee.leiden.nl
+doemee.nieuwegein.nl
 doemee.oegstgeest.nl
 doemee.oosterhout.nl
 doemee.papendrecht.nl
@@ -4675,6 +4682,7 @@ e.borger-odoorn.nl
 e.denkmee.tilburg.nl
 e.dewolden.nl
 e.doemee.gemeentewestland.nl
+e.doemee.nieuwegein.nl
 e.doemee.zwolle.nl
 e.eemsdelta.nl
 e.groningen.nl
@@ -7128,6 +7136,7 @@ img.denkmee.brummen.nl
 img.doemee.assen.nl
 img.doemee.bloemendaal.nl
 img.doemee.gemeentewestland.nl
+img.doemee.nieuwegein.nl
 img.doemee.papendrecht.nl
 img.doemee.zwolle.nl
 img.openstad.apeldoorn.nl

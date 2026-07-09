@@ -118,6 +118,7 @@ pki
 mijnzorg
 siam
 financien
+apps
 abc
 acc-abc
 bgt
@@ -129,7 +130,6 @@ cmsintranet
 subsidies
 snelbalie
 duurzaam
-apps
 bastion365
 extranet
 govroam
@@ -313,6 +313,10 @@ applicaties
 www.openstad
 ns1
 sslvpn
+admin.doemee
+api.doemee
+auth.doemee
+img.doemee
 meet
 awmag
 beeldbank-bo
@@ -371,11 +375,7 @@ parkeervergunning
 mijngeldzaken
 aanmelden
 rooster
-admin.doemee
-api.doemee
-auth.doemee
 dialin
-img.doemee
 media
 test-formulier
 test-notificaties
@@ -706,6 +706,7 @@ www.parkeren
 testafspraken
 wmoloket
 berichtenverkeer
+e.doemee
 www.kaarten
 www.mdm
 www.sharefile
@@ -1056,7 +1057,6 @@ eformulier
 digikoppelingjnet
 apigateway
 apigateway2
-e.doemee
 mailgate
 securetest
 geovisiaonline
@@ -5045,6 +5045,8 @@ vvd
 intraweb
 telewerkentest
 wachtwoordvergeten
+Smtp1
+Smtp2
 cmshuisnet
 cmshuisnettest
 ddrouter-p

@@ -411,7 +411,6 @@ http://gws-prod.gemeente-steenbergen.nl
 http://histor-web.acc.amsterdam.nl
 http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
-http://huisnettest.nieuwegein.nl
 http://hybrid.dalfsen.nl
 http://id-subsidies-login.acceptatie.ede.nl
 http://id-subsidies-login.ede.nl
@@ -581,6 +580,7 @@ http://simsite.pijnacker-nootdorp.nl
 http://simsite.twenterand.nl
 http://sluiskwartier.deventer.nl
 http://snow-license.amsterdam.nl
+http://socialekaart.nieuwegein.nl
 http://socialintranet.middendelfland.nl
 http://speciaal.meppel.nl
 http://sport.denhaag.nl
@@ -1350,6 +1350,7 @@ https://admin.denkmee.brummen.nl
 https://admin.doemee.assen.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.doemee.gemeentewestland.nl
+https://admin.doemee.nieuwegein.nl
 https://admin.doemee.papendrecht.nl
 https://admin.doemee.zwolle.nl
 https://admin.gezondleven.utrecht.nl
@@ -1597,6 +1598,7 @@ https://api.design.hoorn.nl
 https://api.doemee.assen.nl
 https://api.doemee.bloemendaal.nl
 https://api.doemee.gemeentewestland.nl
+https://api.doemee.nieuwegein.nl
 https://api.doemee.papendrecht.nl
 https://api.doemee.zwolle.nl
 https://api.erfpachtmedewerkers-acc.amsterdam.nl
@@ -1743,6 +1745,7 @@ https://apps.gouda.nl
 https://apps.haarlemmermeer.nl
 https://apps.katwijk.nl
 https://apps.lelystad.nl
+https://apps.nieuwegein.nl
 https://apps.nieuwkoop.nl
 https://apps.sudwestfryslan.nl
 https://apps.tilburg.nl
@@ -1811,6 +1814,7 @@ https://auth.denkmee.brummen.nl
 https://auth.doemee.assen.nl
 https://auth.doemee.bloemendaal.nl
 https://auth.doemee.gemeentewestland.nl
+https://auth.doemee.nieuwegein.nl
 https://auth.doemee.papendrecht.nl
 https://auth.doemee.zwolle.nl
 https://auth.lelystad.nl
@@ -2987,6 +2991,7 @@ https://doemee.gemeentewestland.nl
 https://doemee.gulpen-wittem.nl
 https://doemee.huizen.nl
 https://doemee.leiden.nl
+https://doemee.nieuwegein.nl
 https://doemee.oegstgeest.nl
 https://doemee.oosterhout.nl
 https://doemee.papendrecht.nl
@@ -3074,6 +3079,7 @@ https://e.borger-odoorn.nl
 https://e.denkmee.tilburg.nl
 https://e.dewolden.nl
 https://e.doemee.gemeentewestland.nl
+https://e.doemee.nieuwegein.nl
 https://e.doemee.zwolle.nl
 https://e.eemsdelta.nl
 https://e.groningen.nl
@@ -4301,6 +4307,7 @@ https://huishoudboekje.acc.utrecht.nl
 https://huishoudboekje.amersfoort.nl
 https://huishoudboekje.utrecht.nl
 https://huisnet.nieuwegein.nl
+https://huisnettest.nieuwegein.nl
 https://huisstijl.landvancuijk.nl
 https://huisstijl.moerdijk.nl
 https://huisstijl.tilburg.nl
@@ -4522,7 +4529,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.nieuwegein.nl
 https://ibzpink.nieuwkoop.nl
 https://ibzpink.noord-beveland.nl
 https://ibzpink.noordoostpolder.nl
@@ -4657,6 +4663,7 @@ https://img.denkmee.brummen.nl
 https://img.doemee.assen.nl
 https://img.doemee.bloemendaal.nl
 https://img.doemee.gemeentewestland.nl
+https://img.doemee.nieuwegein.nl
 https://img.doemee.papendrecht.nl
 https://img.doemee.zwolle.nl
 https://img.openstad.apeldoorn.nl
@@ -7545,7 +7552,6 @@ https://socialekaart.ede.nl
 https://socialekaart.eemnes.nl
 https://socialekaart.huizen.nl
 https://socialekaart.laren.nl
-https://socialekaart.nieuwegein.nl
 https://socialekaart.valkenswaard.nl
 https://socialekaart.westbetuwe.nl
 https://socialeteams.deventer.nl
@@ -8077,7 +8083,6 @@ https://trefpunt.deurne.nl
 https://triavium.acc.nijmegen.nl
 https://triavium.nijmegen.nl
 https://tripleforms.nieuwegein.nl
-https://tripleformst.nieuwegein.nl
 https://trobit.gooisemeren.nl
 https://trobit.gorinchem.nl
 https://tsiam.oostzaan.nl
