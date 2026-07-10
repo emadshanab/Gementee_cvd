@@ -9240,7 +9240,6 @@ mks.haarlemmermeer.nl
 mks.hethogeland.nl
 mks.hoogeveen.nl
 mks.kerkrade.nl
-mks.nieuwkoop.nl
 mks.overbetuwe.nl
 mks.putten.nl
 mks.rheden.nl
@@ -9251,7 +9250,6 @@ mks.westerkwartier.nl
 mks.zwolle.nl
 mks01msn.meerssen.nl
 mksacc.breda.nl
-mksggk.nieuwkoop.nl
 mksora.rijssen-holten.nl
 mksp01bkl.boekel.nl
 mkstest.kerkrade.nl

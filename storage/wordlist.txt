@@ -104,7 +104,6 @@ belastingloket
 e
 piwik
 api.betalen
-mks
 acc-keycloak-admin
 acc-keycloak
 acc-zac
@@ -119,6 +118,7 @@ mijnzorg
 siam
 financien
 apps
+mks
 abc
 acc-abc
 bgt
@@ -5062,7 +5062,6 @@ services-t
 sportlocaties
 tripleformst
 mijntomindebuurt
-mksggk
 nwk-djm02
 testtomindebuurt
 vaarvergunningen

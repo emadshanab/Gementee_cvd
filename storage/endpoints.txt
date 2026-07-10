@@ -465,7 +465,6 @@ http://mijn.wassenaar.nl
 http://mijn.zoetermeer.nl
 http://mijn.zwartewaterland.nl
 http://mijnafspraak.scherpenzeel.nl
-http://mijntomindebuurt.nieuwkoop.nl
 http://mijnwerkplek.schagen.nl
 http://mijnwoonomgeving.deventer.nl
 http://mookenmiddelaar.nl
@@ -622,7 +621,6 @@ http://test.veere.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-intranet.midden-groningen.nl
 http://testeformulieren.rhenen.nl
-http://testtomindebuurt.nieuwkoop.nl
 http://toegang.eindhoven.nl
 http://topdesk.ggd.amsterdam.nl
 http://transform.deventer.nl
@@ -662,7 +660,6 @@ http://www.bronckhorst.nl
 http://www.cranendonck.nl
 http://www.dalfsen.nl
 http://www.denkmee.hollandskroon.nl
-http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
@@ -4529,7 +4526,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.nieuwkoop.nl
 https://ibzpink.noord-beveland.nl
 https://ibzpink.noordoostpolder.nl
 https://ibzpink.noordwijk.nl
@@ -5847,6 +5843,7 @@ https://mijntalentcenter.gemeentehulst.nl
 https://mijntest.bergenopzoom.nl
 https://mijntexeltest.texel.nl
 https://mijntoegang.zutphen.nl
+https://mijntomindebuurt.nieuwkoop.nl
 https://mijnuitkering.emmen.nl
 https://mijnuitkering.nissewaard.nl
 https://mijnuitkering.s-hertogenbosch.nl
@@ -5978,7 +5975,6 @@ https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mylex.gemeentesluis.nl
 https://mylex.gemeentewesterveld.nl
-https://mylex.nieuwkoop.nl
 https://mylex.test.gemeentewesterveld.nl
 https://mylex.waterland.nl
 https://mylex.zwartewaterland.nl
@@ -6022,6 +6018,7 @@ https://nieuwbouwzwembad.rijssen-holten.nl
 https://nieuwegein.nl
 https://nieuwkomers.arnhem.nl
 https://nieuwkomers.zaanstad.nl
+https://nieuwkoop.nl
 https://nieuws.breda.nl
 https://nieuws.hoorn.nl
 https://nieuws.landvancuijk.nl
@@ -7999,6 +7996,7 @@ https://testsiam.schiermonnikoog.nl
 https://testsiam.terschelling.nl
 https://testsiam.vlieland.nl
 https://testsim.westmaasenwaal.nl
+https://testtomindebuurt.nieuwkoop.nl
 https://testwebsite.losser.nl
 https://testwebsite.meierijstad.nl
 https://testwozloket.borger-odoorn.nl
