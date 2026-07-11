@@ -42,8 +42,8 @@ vpn
 belastingen
 testeloket
 adfs
-ruimtelijkeplannen
 werkenbij
+ruimtelijkeplannen
 gemeenteraad
 enterpriseenrollment
 pv
@@ -598,6 +598,7 @@ webserver
 intranetcms-acc
 www.raad
 identity
+simcms-werkenbij
 zorgmail
 intranet-stats
 preprod.vergunningintaker
@@ -735,6 +736,7 @@ git
 key2datadistributie
 vacatures
 monitoring
+wildcard
 wozportaal
 aanvragenpreprod
 aanvragenprod
@@ -758,7 +760,6 @@ lokettest
 ews
 reserveren
 pda
-teams
 digitalebelastingbalie
 regelgeving
 parkeerloket
@@ -890,7 +891,6 @@ werkomgeving
 koppelvlak
 testberichten
 helloid
-simcms-werkenbij
 joost
 acc-openwave
 corona
@@ -1143,7 +1143,6 @@ WOZ-loket
 vris-brk
 werken
 preprod-meedoen
-wildcard
 www.telewerken
 belasting-loket
 e2s
@@ -1235,6 +1234,7 @@ kadernota
 regieportaal
 zorg-acc
 portaaltest
+teams
 addin.schrijfkader.extranet
 apim.schrijfkader.extranet
 scep
@@ -5066,10 +5066,12 @@ nwk-djm02
 testtomindebuurt
 vaarvergunningen
 www.vaarvergunningen
+hetgesprekvan
 samenaanzet
 securenetwork
 wegwijzer
 www.wegwijzer
+wwww
 aardgasvrij.acc
 aardgasvrij
 app1-test

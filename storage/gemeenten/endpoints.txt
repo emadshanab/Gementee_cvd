@@ -471,6 +471,7 @@ http://mookenmiddelaar.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nieuweburgemeester.deventer.nl
+http://nijkerk.eu
 http://objecten-zgw.test.denhaag.nl
 http://octopus-webdav.amsterdam.nl
 http://octopus.denhaag.nl
@@ -548,6 +549,7 @@ http://simcms-open.meerssen.nl
 http://simcms-open.oirschot.nl
 http://simcms-open.wierden.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
+http://simcms-werkenbij.nijkerk.eu
 http://simcms-werkenbij.t-diel.nl
 http://simcms-werkenvoor.westerkwartier.nl
 http://simcms.beekdaelen.nl
@@ -677,7 +679,6 @@ http://www.ld-01.hellevoetsluis.nl
 http://www.lingewaard.nl
 http://www.lopik.nl
 http://www.middendelfland.nl
-http://www.nijkerk.eu
 http://www.omgevingsvisie.denhaag.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
@@ -4267,6 +4268,7 @@ https://helpmij.noordoostpolder.nl
 https://hengelo.nl
 https://her-app.rotterdam.nl
 https://hetgeldvan.deventer.nl
+https://hetgesprekvan.nijkerk.eu
 https://hethogeland.nl
 https://hetsociaalplein-acc.dijkenwaard.nl
 https://hetsociaalplein.dijkenwaard.nl
@@ -6032,7 +6034,6 @@ https://nieuwsbrief.stichtsevecht.nl
 https://nieuwsbrieven.hengelo.nl
 https://nieuwsbrieven.utrecht.nl
 https://nieuwsbrieven.zwolle.nl
-https://nijkerk.eu
 https://nijmegen.nl
 https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
@@ -7122,7 +7123,6 @@ https://remote.gorinchem.nl
 https://remote.hethogeland.nl
 https://remote.lochem.nl
 https://remote.montferland.info
-https://remote.nijkerk.eu
 https://remote.nunspeet.nl
 https://remote.waalwijk.nl
 https://remote.westmaasenwaal.nl
@@ -7399,6 +7399,7 @@ https://simcms.middelburg.nl
 https://simcms.mookenmiddelaar.nl
 https://simcms.nederweert.nl
 https://simcms.nieuwkoop.nl
+https://simcms.nijkerk.eu
 https://simcms.oirschot.nl
 https://simcms.opmeer.nl
 https://simcms.renswoude.nl
@@ -7450,7 +7451,6 @@ https://simsite.leudal.nl
 https://simsite.lopik.nl
 https://simsite.mookenmiddelaar.nl
 https://simsite.nederweert.nl
-https://simsite.nijkerk.eu
 https://simsite.ooststellingwerf.nl
 https://simsite.pekela.nl
 https://simsite.scherpenzeel.nl
@@ -8966,6 +8966,7 @@ https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
+https://www.nijkerk.eu
 https://www.nijmegen.nl
 https://www.nimmaleert.nijmegen.nl
 https://www.nissewaard.nl

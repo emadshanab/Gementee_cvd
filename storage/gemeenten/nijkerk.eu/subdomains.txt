@@ -9,6 +9,7 @@ eloket.nijkerk.eu
 enterpriseenrollment.nijkerk.eu
 enterpriseregistration.nijkerk.eu
 felix.nijkerk.eu
+hetgesprekvan.nijkerk.eu
 intranet.nijkerk.eu
 login-pre.nijkerk.eu
 login.nijkerk.eu
@@ -23,12 +24,15 @@ secure.nijkerk.eu
 securenetwork.nijkerk.eu
 selector1._domainkey.nijkerk.eu
 siam.nijkerk.eu
+simcms-werkenbij.nijkerk.eu
 simcms.nijkerk.eu
 simsite.nijkerk.eu
-teams.nijkerk.eu
 testeloket.nijkerk.eu
 toegang.nijkerk.eu
 vpn.nijkerk.eu
 wegwijzer.nijkerk.eu
+werkenbij.nijkerk.eu
+wildcard.nijkerk.eu
 www.nijkerk.eu
 www.wegwijzer.nijkerk.eu
+wwww.nijkerk.eu
