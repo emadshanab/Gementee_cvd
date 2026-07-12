@@ -19,6 +19,7 @@
 3d.utrecht.nl
 4dekwartaalbrief2019.financielestukken.diemen.nl
 4enieuwsbrief2022.financielestukken.ouder-amstel.nl
+50pluspartij.nijmegen.nl
 78852ffdb030c56.infra.ede.nl
 90.152.kampen.nl
 Andreas2.acc.amsterdam.nl
@@ -109,6 +110,7 @@ _autodiscover._tcp.vlieland.nl
 _autodiscover._tcp.westbetuwe.nl
 _autodiscover._tcp.wijkbijduurstede.nl
 _citrixreceiver._tcp.gennep.nl
+_citrixreceiver._tcp.nijmegen.nl
 _dmarc.amsterdam.nl
 _dmarc.delft.nl
 _dmarc.helmond.nl
@@ -1300,6 +1302,8 @@ aik.almere.nl
 aip.amsterdam.nl
 aip.ont.amsterdam.nl
 aip.tst.amsterdam.nl
+airflow-acc.nijmegen.nl
+airflow-dev.nijmegen.nl
 airflow.dataplatform.accp.s-hertogenbosch.nl
 airflow.dataplatform.s-hertogenbosch.nl
 airflow.montferland.info
@@ -2671,6 +2675,8 @@ bermod.amsterdam.nl
 bermod2-acc.amsterdam.nl
 bermod2.amsterdam.nl
 bernheze.org
+besluitenapv.accp.nijmegen.nl
+besluitenapv.nijmegen.nl
 besluitvorming.doetinchem.nl
 besluitvorming.purmerend.nl
 besluitvorming.veendam.nl
@@ -2958,6 +2964,7 @@ bppl.denhaag.nl
 bptl.cg-intern.acc.utrecht.nl
 bptl.cg-intern.ont.utrecht.nl
 bptl.ot.denhaag.nl
+brakkefort.acc.nijmegen.nl
 brandportal.gorinchem.nl
 brandweer.almelo.nl
 breda.nl
@@ -3183,6 +3190,7 @@ cca.pekela.nl
 cca.veendam.nl
 cca.westerwolde.nl
 cctst.apeldoorn.nl
+cda.nijmegen.nl
 cdn.oude-ijsselstreek.nl
 cdn1.tilburg.nl
 centraal-wonen.deventer.nl
@@ -3422,7 +3430,6 @@ cmsoo.zwolle.nl
 cmssamenatwork.stichtsevecht.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
-cmstest-insite.nijmegen.nl
 cmstestintranet.westerwolde.nl
 cmsurknet.urk.nl
 cmswhatsepe.epe.nl
@@ -3680,6 +3687,7 @@ cvdr.zwolle.nl
 cxportal.heusden.nl
 cyclomedia.gulpen-wittem.nl
 cyclorama.utrecht.nl
+d66.nijmegen.nl
 da.deurne.nl
 daalder-dash.makkelijkemarkt.amsterdam.nl
 daalder.makkelijkemarkt.amsterdam.nl
@@ -3812,6 +3820,9 @@ dataacc.breda.nl
 datab.drechterland.nl
 databridge-tst.brunssum.nl
 databridge.brunssum.nl
+datacatalogus-acc.nijmegen.nl
+datacatalogus-dev.nijmegen.nl
+datacatalogus.nijmegen.nl
 datadis.rucphen.nl
 datadis.test.rucphen.nl
 datagit.sudwestfryslan.nl
@@ -3890,6 +3901,7 @@ decoswonen.amsterdam.nl
 deef.deventer.nl
 deelscooters.doemee.bloemendaal.nl
 defryskemarren.nl
+deleemkuil.acc.nijmegen.nl
 delft.nl
 delfzijl.groningen.nl
 delhi.stadskanaal.nl
@@ -3909,6 +3921,7 @@ denhaagfietst-acc.denhaag.nl
 denhaagfietst.acc.denhaag.nl
 denhaagfietst.denhaag.nl
 denhelder.nl
+denijmeegsefractie.nijmegen.nl
 denkendoemee.deventer.nl
 denkmee.aalsmeer.nl
 denkmee.achtkarspelen.nl
@@ -6017,6 +6030,7 @@ gemnet.digikoppeling.test.veenendaal.nl
 gemnet.digikoppeling.veenendaal.nl
 gemnps01.eijsden-margraten.nl
 gemnps01.intern.eijsden-margraten.nl
+gemwaalsprong.nijmegen.nl
 gen1.alkmaar.nl
 gen2.alkmaar.nl
 genealogie.oldenzaal.nl
@@ -6176,6 +6190,7 @@ geowebtest.haarlemmermeer.nl
 geoxchange-prod.woerden.nl
 geoxchange-test.woerden.nl
 geuzenstatenkwartierfietst.denhaag.nl
+gewoonnijmegen.nijmegen.nl
 gezinscoach.deventer.nl
 gezondelucht.amsterdam.nl
 gezondheid.landvancuijk.nl
@@ -6376,6 +6391,7 @@ groenekaart.leiden.nl
 groenervijfhuizen.haarlemmermeer.nl
 groeningen.landvancuijk.nl
 groenlinks.mookenmiddelaar.nl
+groenlinks.nijmegen.nl
 grofvuil.westvoorne.nl
 grondwater.dronten.nl
 grondwater.krimpenerwaard.nl
@@ -7038,7 +7054,6 @@ idbroker.drechterland.nl
 idbroker.enkhuizen.nl
 idbroker.stedebroec.nl
 idbroker.tynaarlo.nl
-idcontact-accp.nijmegen.nl
 idee.roosendaal.nl
 ideevoordakrand.haarlemmermeer.nl
 ideevoormijnbuurt.emmen.nl
@@ -8113,6 +8128,7 @@ lgfpki.landgraaf.nl
 liber-test.kerkrade.nl
 liber.kerkrade.nl
 liber.landgraaf.nl
+liberaal.nijmegen.nl
 liberportaalprod.kerkrade.nl
 liberportaaltest.kerkrade.nl
 libertest.landgraaf.nl
@@ -9496,6 +9512,7 @@ neuron.test.baarn.nl
 neuron.zandvoort.nl
 neurontst.kerkrade.nl
 news.heerlen.nl
+newsroom.nijmegen.nl
 nextcloud.apeldoorn.nl
 nextcloud.ede.nl
 ngdw-acc.hoorn.nl
@@ -9541,6 +9558,8 @@ nieuwwest.amsterdam.nl
 nige.denhaag.nl
 nijkerk.eu
 nijmegen.nl
+nimmai.accp.nijmegen.nl
+nimmai.nijmegen.nl
 nimmaleert.nijmegen.nl
 nip.brummen.nl
 niptest.brummen.nl
@@ -9911,6 +9930,7 @@ ontology.regiomonitor-acc.oosterhout.nl
 ontvangsten.rotterdam.nl
 ontw.gemeentewestland.nl
 ontwikkelplein.hethogeland.nl
+onzestad.acc.nijmegen.nl
 onzestad.nijmegen.nl
 oober-acc.amsterdam.nl
 oogst.groningen.nl
@@ -10470,6 +10490,7 @@ participatietool-acc.nijmegen.nl
 participatietool.nijmegen.nl
 participatiewebshop-test.emmen.nl
 participatiewebshop.emmen.nl
+partijvoordedieren.nijmegen.nl
 passbolt.terneuzen.nl
 passion.groningen.nl
 password.almere.nl
@@ -10616,6 +10637,7 @@ platform.culemborg.nl
 plato.rotterdam.nl
 plattegrond.landvancuijk.nl
 plattegronden.gooisemeren.nl
+pleegzorg.acc.nijmegen.nl
 plein1.heemstede.nl
 plek.wijkbijduurstede.nl
 plo.zutphen.nl
@@ -11279,6 +11301,7 @@ pv.vlaardingen.nl
 pv.zaanstad.nl
 pv.zwolle.nl
 pvda.mookenmiddelaar.nl
+pvda.nijmegen.nl
 pveopenbareruimte.deventer.nl
 pveopenbareruiomte.deventer.nl
 pvh.hoorn.nl
@@ -11793,6 +11816,8 @@ sdv.haarlem.nl
 search.amsterdam.nl
 sec.gemeentemaasgouw.nl
 secfs.tilburg.nl
+secret-nijm-acc.nijmegen.nl
+secret-nijm-dev.nijmegen.nl
 secudoc.gemeentebeek.nl
 secudoc.montfoort.nl
 secudoc.nederbetuwe.nl
@@ -12499,6 +12524,7 @@ sophos.beverwijk.nl
 sophos.vlaardingen.nl
 sophos01.achtkarspelen.nl
 sp.brielle.nl
+sp.nijmegen.nl
 spa4.tst.amsterdam.nl
 spa4dweb.amsterdam.nl
 spam.gennep.nl
@@ -12666,6 +12692,7 @@ stadskrant-acc.denhaag.nl
 stadskrant.acc.denhaag.nl
 stadskrant.denhaag.nl
 stadspark.apeldoorn.nl
+stadspartijdnf.nijmegen.nl
 stadspas.apeldoorn.nl
 stadspas.venlo.nl
 stadspas.weert.nl
@@ -13081,7 +13108,6 @@ test-formulier.zwolle.nl
 test-formulieren.haarlemmermeer.nl
 test-hofnet.coevorden.nl
 test-inkomensondersteuning.nijmegen.nl
-test-insite.nijmegen.nl
 test-intra.gooisemeren.nl
 test-intranet.beuningen.nl
 test-intranet.drimmelen.nl
@@ -13598,7 +13624,6 @@ traveler.hellevoetsluis.nl
 trefnet.hellevoetsluis.nl
 trefpunt.deurne.nl
 triavium.acc.nijmegen.nl
-triavium.nijmegen.nl
 tripleacceptatie.heerlen.nl
 tripleforms.heerlen.nl
 tripleforms.nieuwegein.nl
@@ -14024,6 +14049,7 @@ vs62hulst.gemeentehulst.nl
 vsnwutg.velsen.nl
 vsp.denhelder.nl
 vsp.heemskerk.nl
+vsp.nijmegen.nl
 vsp.terneuzen.nl
 vth.deventer.nl
 vth.gemeente-oldambt.nl
@@ -14042,6 +14068,7 @@ vthpublicaties.peelenmaas.nl
 vught.nl
 vvb.sliedrecht.nl
 vvd.mookenmiddelaar.nl
+vvd.nijmegen.nl
 vvv.deventer.nl
 w-p-exc-0005.leeuwarden.nl
 w-p-exc-0102.leeuwarden.nl
@@ -14151,7 +14178,6 @@ wanroij.landvancuijk.nl
 warenhuis.groningen.nl
 warmrijsenhout.haarlemmermeer.nl
 warmtenet.acc.nijmegen.nl
-warmtenet.nijmegen.nl
 warmteprogramma.molenlanden.nl
 warmtetransitie.urk.nl
 warp.gulpen-wittem.nl
@@ -14604,6 +14630,7 @@ wijzer.opmeer.nl
 wijzer.test.coevorden.nl
 wilbertoord.landvancuijk.nl
 wildcard.doemee.heemstede.nl
+wildcard.evenementen.nijmegen.nl
 wildcard.hellevoetsluis.nl
 wildcard.kaagenbraassem.nl
 wildcard.nijkerk.eu
@@ -14641,7 +14668,9 @@ wlan.venlo.nl
 wlc.denhaag.nl
 wlc01.waterland.nl
 wmo.bloemendaal.nl
+wmo.nijmegen.nl
 wmo.veenendaal.nl
+wmoacc.nijmegen.nl
 wmoloket.gemeentesluis.nl
 wmoloket.heuvelrug.nl
 wmoloket.olst-wijhe.nl
@@ -15500,7 +15529,6 @@ www.onlinestadsgesprek.harderwijk.nl
 www.ons.landvancuijk.nl
 www.onsovermorgen.zwolle.nl
 www.ontwikkelplein.hethogeland.nl
-www.onzestad.nijmegen.nl
 www.oogst.groningen.nl
 www.oorlogenvrede.landvancuijk.nl
 www.oosterhout.nl
