@@ -724,6 +724,7 @@ acc.mijnsubsidies.amsterdam.nl
 acc.montferland.info
 acc.nieuwegein.nl
 acc.nijmegen.nl
+acc.nissewaard.nl
 acc.nlx.amsterdam.nl
 acc.noardeast-fryslan.nl
 acc.noord-beveland.nl
@@ -2610,6 +2611,7 @@ belastingportaal.hethogeland.nl
 belastingportaal.hilvarenbeek.nl
 belastingportaal.hollandskroon.nl
 belastingportaal.midden-groningen.nl
+belastingportaal.nissewaard.nl
 belastingportaal.oisterwijk.nl
 belastingportaal.sint-michielsgestel.nl
 belastingportaal.tubbergen.nl
@@ -13275,6 +13277,7 @@ test.amstelveen.nl
 test.api.tod.leiden.nl
 test.beesel.nl
 test.belastingloket.medemblik.nl
+test.belastingportaal.nissewaard.nl
 test.bernheze.org
 test.beverwijk.nl
 test.borne.nl
@@ -14634,6 +14637,7 @@ wildcard.evenementen.nijmegen.nl
 wildcard.hellevoetsluis.nl
 wildcard.kaagenbraassem.nl
 wildcard.nijkerk.eu
+wildcard.nissewaard.nl
 wilkommen.groningen.nl
 willkommen.groningen.nl
 wim2-acc.borne.nl

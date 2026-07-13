@@ -144,6 +144,7 @@ filecap
 dtestmidoffice
 squit2go
 connect.acceptatie
+belastingportaal
 vergunningintaker
 ftp
 simform
@@ -154,7 +155,6 @@ acc-ita
 gemeente
 fmreturn
 test-cmsintranet
-belastingportaal
 web
 preprod-mijn
 preprod-mijninkomen
@@ -542,6 +542,7 @@ rxlaunch-signicat-preprod
 vthbroker
 digitaal
 teleweb
+wildcard
 cars
 bezoekersparkeren-acc
 duoloket
@@ -737,7 +738,6 @@ git
 key2datadistributie
 vacatures
 monitoring
-wildcard
 wozportaal
 aanvragenpreprod
 aanvragenprod
@@ -5229,6 +5229,7 @@ prodwizraapl
 redactie
 telgids
 test-redactie
+test.belastingportaal
 testsuitewiz
 testwizaccept
 testwizraapl

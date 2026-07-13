@@ -1,6 +1,7 @@
 AutoDiscover.nissewaard.nl
 Snelbalie.nissewaard.nl
 SnelbaliePP.nissewaard.nl
+acc.nissewaard.nl
 acceptatieformulieren.nissewaard.nl
 afspraakformulier.nissewaard.nl
 afspraken.nissewaard.nl
@@ -12,6 +13,7 @@ api.betalen.nissewaard.nl
 autodiscover.nissewaard.nl
 belastingbalie.acc.nissewaard.nl
 belastingbalie.nissewaard.nl
+belastingportaal.nissewaard.nl
 betalen.nissewaard.nl
 cloud.nissewaard.nl
 coda-acc.nissewaard.nl
@@ -92,6 +94,7 @@ sportaccommodaties.nissewaard.nl
 telgids.nissewaard.nl
 test-digikoppeling.nissewaard.nl
 test-redactie.nissewaard.nl
+test.belastingportaal.nissewaard.nl
 test.nissewaard.nl
 testafspraken.nissewaard.nl
 testeloket.nissewaard.nl
@@ -101,5 +104,6 @@ testwizraapl.nissewaard.nl
 valuecare.nissewaard.nl
 waarmerk.nissewaard.nl
 webmail.nissewaard.nl
+wildcard.nissewaard.nl
 workforce.nissewaard.nl
 www.nissewaard.nl
