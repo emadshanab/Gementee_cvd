@@ -2353,7 +2353,6 @@ https://bomen.ont.amsterdam.nl
 https://bomen.tst.amsterdam.nl
 https://bor.extranet.tilburg.nl
 https://bor.hilvarenbeek.nl
-https://bor.noardeast-fryslan.nl
 https://bor.oisterwijk.nl
 https://bor.oosterhout.nl
 https://bor.test.oosterhout.nl
@@ -3208,6 +3207,7 @@ https://edienstenburgerzaken-test.nederweert.nl
 https://edienstenburgerzaken-test.nieuwegein.nl
 https://edienstenburgerzaken-test.nijkerk.eu
 https://edienstenburgerzaken-test.nissewaard.nl
+https://edienstenburgerzaken-test.noardeast-fryslan.nl
 https://edienstenburgerzaken-test.oegstgeest.nl
 https://edienstenburgerzaken-test.oldenzaal.nl
 https://edienstenburgerzaken-test.oostzaan.nl
@@ -3334,6 +3334,7 @@ https://edienstenburgerzaken.meierijstad.nl
 https://edienstenburgerzaken.nederweert.nl
 https://edienstenburgerzaken.nijkerk.eu
 https://edienstenburgerzaken.nissewaard.nl
+https://edienstenburgerzaken.noardeast-fryslan.nl
 https://edienstenburgerzaken.oegstgeest.nl
 https://edienstenburgerzaken.oldenzaal.nl
 https://edienstenburgerzaken.oostzaan.nl

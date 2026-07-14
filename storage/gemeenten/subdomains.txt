@@ -4839,6 +4839,7 @@ edienstenburgerzaken-test.nederweert.nl
 edienstenburgerzaken-test.nieuwegein.nl
 edienstenburgerzaken-test.nijkerk.eu
 edienstenburgerzaken-test.nissewaard.nl
+edienstenburgerzaken-test.noardeast-fryslan.nl
 edienstenburgerzaken-test.oegstgeest.nl
 edienstenburgerzaken-test.oldenzaal.nl
 edienstenburgerzaken-test.oostzaan.nl
@@ -4971,6 +4972,7 @@ edienstenburgerzaken.nederweert.nl
 edienstenburgerzaken.nieuwegein.nl
 edienstenburgerzaken.nijkerk.eu
 edienstenburgerzaken.nissewaard.nl
+edienstenburgerzaken.noardeast-fryslan.nl
 edienstenburgerzaken.oegstgeest.nl
 edienstenburgerzaken.oldenzaal.nl
 edienstenburgerzaken.oostzaan.nl
@@ -8973,6 +8975,7 @@ mijn.moerdijk.nl
 mijn.molenlanden.nl
 mijn.montfoort.nl
 mijn.nijmegen.nl
+mijn.noardeast-fryslan.nl
 mijn.noordwijk.nl
 mijn.nunspeet.nl
 mijn.oldenzaal.nl
@@ -11100,6 +11103,8 @@ preview.hillegom.nl
 pric.rotterdam.nl
 prifill-test.sudwestfryslan.nl
 prijsvraag-zwembad.apeldoorn.nl
+primavera-acc.noardeast-fryslan.nl
+primavera.noardeast-fryslan.nl
 printen.tilburg.nl
 printenverzend.denhaag.nl
 privacybewustzijn.bergendal.nl
@@ -13193,6 +13198,7 @@ test-mijn.enschede.nl
 test-mijn.gemert-bakel.nl
 test-mijn.hoorn.nl
 test-mijn.molenlanden.nl
+test-mijn.noardeast-fryslan.nl
 test-mijn.rotterdam.nl
 test-mijn.zwolle.nl
 test-mijnbbsuo.soest.nl

@@ -250,6 +250,7 @@ auth.openstad
 desktop
 openstad
 opendata
+test-mijn
 guest
 publicroam
 jccapi
@@ -286,7 +287,6 @@ afval
 e-loket
 img.openstad
 openformulieren
-test-mijn
 woz-portaal
 support
 data-test
@@ -5236,6 +5236,8 @@ testwizraapl
 valuecare
 workforce
 lv-brk
+primavera-acc
+primavera
 grmks05
 bbv-acceptatie
 bbv
