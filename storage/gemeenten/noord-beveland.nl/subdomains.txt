@@ -1,5 +1,6 @@
 acc.noord-beveland.nl
 afspraken.noord-beveland.nl
+betalen.noord-beveland.nl
 denkmee.noord-beveland.nl
 grmks05.noord-beveland.nl
 gt-loket.noord-beveland.nl
@@ -9,5 +10,7 @@ jcccloud.noord-beveland.nl
 mailing.noord-beveland.nl
 noord-beveland.nl
 omgevingsvisie.noord-beveland.nl
+wizportaal.noord-beveland.nl
+wizportaaltest.noord-beveland.nl
 www.denkmee.noord-beveland.nl
 www.noord-beveland.nl

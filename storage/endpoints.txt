@@ -664,7 +664,6 @@ http://www.bronckhorst.nl
 http://www.cranendonck.nl
 http://www.dalfsen.nl
 http://www.denkmee.hollandskroon.nl
-http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
 http://www.devgovrs1.deventer.nl
@@ -1435,7 +1434,6 @@ https://afspraken.hilversum.nl
 https://afspraken.kampen.nl
 https://afspraken.lelystad.nl
 https://afspraken.nissewaard.nl
-https://afspraken.noord-beveland.nl
 https://afspraken.oegstgeest.nl
 https://afspraken.olst-wijhe.nl
 https://afspraken.pekela.nl
@@ -2264,6 +2262,7 @@ https://betalen.leeuwarden.nl
 https://betalen.meppel.nl
 https://betalen.nieuwegein.nl
 https://betalen.nissewaard.nl
+https://betalen.noord-beveland.nl
 https://betalen.noordoostpolder.nl
 https://betalen.ouder-amstel.nl
 https://betalen.papendrecht.nl
@@ -4536,7 +4535,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.noord-beveland.nl
 https://ibzpink.noordoostpolder.nl
 https://ibzpink.noordwijk.nl
 https://ibzpink.nuenen.nl
@@ -8564,6 +8562,7 @@ https://winkelsteeg.nijmegen.nl
 https://winterswijk.nl
 https://witgoed.veldhoven.nl
 https://wiz.zaanstad.nl
+https://wizportaal.noord-beveland.nl
 https://wlc01.waterland.nl
 https://wmo.nijmegen.nl
 https://wmoacc.nijmegen.nl

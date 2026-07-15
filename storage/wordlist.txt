@@ -24,8 +24,8 @@ loket
 test
 eloket
 waarmerk
-dkd
 betalen
+dkd
 portal
 werkplek
 acc
@@ -5239,6 +5239,8 @@ lv-brk
 primavera-acc
 primavera
 grmks05
+wizportaal
+wizportaaltest
 bbv-acceptatie
 bbv
 beheer.belastingbalie-acc

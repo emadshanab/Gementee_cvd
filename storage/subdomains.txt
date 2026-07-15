@@ -2760,6 +2760,7 @@ betalen.leeuwarden.nl
 betalen.meppel.nl
 betalen.nieuwegein.nl
 betalen.nissewaard.nl
+betalen.noord-beveland.nl
 betalen.noordoostpolder.nl
 betalen.ouder-amstel.nl
 betalen.papendrecht.nl
@@ -14671,6 +14672,8 @@ wise-accept.bibliotheek.rotterdam.nl
 witgoed.veldhoven.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
+wizportaal.noord-beveland.nl
+wizportaaltest.noord-beveland.nl
 wkpb.haarlem.nl
 wkpb.lelystad.nl
 wlan.heusden.nl
