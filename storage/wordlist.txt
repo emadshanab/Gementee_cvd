@@ -182,12 +182,14 @@ formulieren-test
 auth
 bag
 owa
+meedoen
 gasten
 AutoDiscover
 jaarstukken
 bor
 inproces
 mta-sts
+acceptatie-open
 geoportaal
 college
 geodata
@@ -198,17 +200,16 @@ mailing
 gis
 sip
 test-digikoppeling
-meedoen
 localhost
 byod
 email
 uc
+iarchief
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
 transfer
 bestuur
-acceptatie-open
 squit2020
 mx1
 zaaksysteem
@@ -223,7 +224,6 @@ lyncdiscover
 mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
-iarchief
 legacy
 mobile
 sharefile
@@ -738,6 +738,7 @@ git
 key2datadistributie
 vacatures
 monitoring
+preprod-meedoen
 wozportaal
 aanvragenpreprod
 aanvragenprod
@@ -1144,7 +1145,6 @@ v2
 WOZ-loket
 vris-brk
 werken
-preprod-meedoen
 www.telewerken
 belasting-loket
 e2s
@@ -5262,6 +5262,7 @@ test-nopnet
 tportal
 zs
 zst
+email.mail.samen
 modern
 cmsmarkt1
 handleiding
