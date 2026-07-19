@@ -2,13 +2,13 @@ https://acceptatie.nunspeet.nl
 https://broker.nunspeet.nl
 https://denkmee.nunspeet.nl
 https://eloket.nunspeet.nl
+https://email.denkmee.nunspeet.nl
 https://filecap.nunspeet.nl
 https://formulieren.nunspeet.nl
 https://geo.nunspeet.nl
 https://geodata.nunspeet.nl
 https://handleiding.nunspeet.nl
 https://iburgerzaken.nunspeet.nl
-https://ibzpink.nunspeet.nl
 https://markt1.nunspeet.nl
 https://nln.nunspeet.nl
 https://nunspeet-checker-preprod.nunspeet.nl
@@ -19,6 +19,5 @@ https://preprodbroker.nunspeet.nl
 https://remote.nunspeet.nl
 https://test-eloket.nunspeet.nl
 https://vergunningintaker.nunspeet.nl
-https://webmail.nunspeet.nl
 https://woo.nunspeet.nl
 https://www.nunspeet.nl

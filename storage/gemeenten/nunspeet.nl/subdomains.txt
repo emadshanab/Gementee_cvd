@@ -7,9 +7,11 @@ denkmee.nunspeet.nl
 digikoppeling-test.nunspeet.nl
 digikoppeling.nunspeet.nl
 eloket.nunspeet.nl
+email.denkmee.nunspeet.nl
 embrace.nunspeet.nl
 filecap.nunspeet.nl
 formulieren.nunspeet.nl
+gem.nunspeet.nl
 geo.nunspeet.nl
 geodata.nunspeet.nl
 handleiding.nunspeet.nl
@@ -38,7 +40,9 @@ testcms-embrace.nunspeet.nl
 testcms-markt1.nunspeet.nl
 testembrace.nunspeet.nl
 testmarkt1.nunspeet.nl
+utm.nunspeet.nl
 vergunningintaker.nunspeet.nl
+vrijwilligers.nunspeet.nl
 webmail.nunspeet.nl
 woo.nunspeet.nl
 www.nunspeet.nl
