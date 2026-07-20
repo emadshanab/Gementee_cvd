@@ -161,6 +161,7 @@ web
 preprod-mijn
 preprod-mijninkomen
 sts
+www.doemee
 obsurv
 micollab
 inloggen
@@ -170,7 +171,6 @@ en
 izaaksuite
 snelbaliepp
 vdi
-www.doemee
 mdm
 smtp
 cryptshare
@@ -1175,6 +1175,7 @@ communicatie
 test-kaartviewer
 weblogic
 verwerkingsregister
+sociaalteam
 veilig
 spf
 ssp
@@ -4512,7 +4513,6 @@ gisdata
 pre-formulieren
 pre-simform
 sociaalteam-acc
-sociaalteam
 ucweb01-ext
 zaaksysteem.acceptatie
 zorgned-refreshtool
@@ -5283,6 +5283,7 @@ vrijwilligers
 www.zorgwijzer
 zorgwijzer
 bisgemeenteraad
+digitaalfotoarchief
 lior
 regelingen
 www.digitaalfotoarchief
