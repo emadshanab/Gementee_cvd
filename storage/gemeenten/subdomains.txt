@@ -850,6 +850,7 @@ acceptatie-intranet.oosterhout.nl
 acceptatie-mobiliteitsplan.hillegom.nl
 acceptatie-mobiliteitsplan.lisse.nl
 acceptatie-mobiliteitsplan.teylingen.nl
+acceptatie-omgevingsvisie.oisterwijk.nl
 acceptatie-ontwikkelplein.hethogeland.nl
 acceptatie-open.dinkelland.nl
 acceptatie-open.gooisemeren.nl
@@ -14784,6 +14785,7 @@ woningbouwkaart.landvancuijk.nl
 woningbouwkaart.middendrenthe.nl
 woningbouwkaart.nuenen.nl
 woningbouwkaart.oirschot.nl
+woningbouwkaart.oisterwijk.nl
 woningbouwkaart.reuseldemierden.nl
 woningbouwkaart.sonenbreugel.nl
 woningbouwkaart.tynaarlo.nl

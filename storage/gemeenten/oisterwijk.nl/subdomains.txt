@@ -1,3 +1,4 @@
+acceptatie-omgevingsvisie.oisterwijk.nl
 acceptatie.insite.oisterwijk.nl
 acceptatie.oisterwijk.nl
 afspraken.oisterwijk.nl
@@ -13,5 +14,6 @@ preprod-belastingportaal.oisterwijk.nl
 pv.oisterwijk.nl
 test.haarendossiers.oisterwijk.nl
 website.oisterwijk.nl
+woningbouwkaart.oisterwijk.nl
 woz-portaal.oisterwijk.nl
 www.oisterwijk.nl
