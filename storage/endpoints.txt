@@ -2503,6 +2503,7 @@ https://buurtbudget.opdr.azure.amsterdam.nl
 https://buurtbudgetnoord.amsterdam.nl
 https://buurtbudgetnw.amsterdam.nl
 https://buurtbudgetzuidoost.amsterdam.nl
+https://bwgn2.oldebroek.nl
 https://bzg1-acc.hellevoetsluis.nl
 https://cairo.rotterdam.nl
 https://camera.sliedrecht.nl
@@ -4562,7 +4563,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.oldebroek.nl
 https://ibzpink.olst-wijhe.nl
 https://ibzpink.ommen.nl
 https://ibzpink.oosterhout.nl
@@ -8492,6 +8492,7 @@ https://werkenbij.maassluis.nl
 https://werkenbij.medemblik.nl
 https://werkenbij.midden-groningen.nl
 https://werkenbij.noardeast-fryslan.nl
+https://werkenbij.oldebroek.nl
 https://werkenbij.oudewater.nl
 https://werkenbij.schagen.nl
 https://werkenbij.scherpenzeel.nl

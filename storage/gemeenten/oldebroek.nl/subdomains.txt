@@ -2,6 +2,7 @@ api.meldingen-acc.oldebroek.nl
 api.meldingen.oldebroek.nl
 autodiscover.oldebroek.nl
 belastingloket.oldebroek.nl
+bwgn2.oldebroek.nl
 digikoppeling.oldebroek.nl
 grooster.oldebroek.nl
 iburgerzaken.oldebroek.nl
@@ -11,6 +12,7 @@ koppeling-test.oldebroek.nl
 loket.oldebroek.nl
 meldingen-acc.oldebroek.nl
 meldingen.oldebroek.nl
+mks.oldebroek.nl
 oldebroek.nl
 omgevingsvisie.oldebroek.nl
 preprod.oldebroek.nl
@@ -20,4 +22,5 @@ ruimtelijkeplannen.oldebroek.nl
 test-ipa.oldebroek.nl
 testbelastingloket.oldebroek.nl
 testloket.oldebroek.nl
+werkenbij.oldebroek.nl
 www.oldebroek.nl

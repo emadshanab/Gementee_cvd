@@ -2,8 +2,8 @@ http://autodiscover.oldebroek.nl
 https://api.meldingen-acc.oldebroek.nl
 https://api.meldingen.oldebroek.nl
 https://belastingloket.oldebroek.nl
+https://bwgn2.oldebroek.nl
 https://iburgerzaken.oldebroek.nl
-https://ibzpink.oldebroek.nl
 https://loket.oldebroek.nl
 https://meldingen-acc.oldebroek.nl
 https://meldingen.oldebroek.nl
@@ -14,4 +14,5 @@ https://pv.oldebroek.nl
 https://raad.oldebroek.nl
 https://testbelastingloket.oldebroek.nl
 https://testloket.oldebroek.nl
+https://werkenbij.oldebroek.nl
 https://www.oldebroek.nl
