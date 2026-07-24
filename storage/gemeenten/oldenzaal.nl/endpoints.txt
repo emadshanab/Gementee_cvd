@@ -2,14 +2,17 @@ https://abc.oldenzaal.nl
 https://acc-abc.oldenzaal.nl
 https://acc-contact.oldenzaal.nl
 https://acc-formulier.oldenzaal.nl
+https://acc-ita.oldenzaal.nl
 https://acc-keycloak-admin.oldenzaal.nl
 https://acc-keycloak.oldenzaal.nl
 https://acc-mijn.oldenzaal.nl
 https://acc-notificaties.oldenzaal.nl
 https://acc-objecten.oldenzaal.nl
 https://acc-objecttypen.oldenzaal.nl
+https://acc-office-addin.oldenzaal.nl
 https://acc-openklant.oldenzaal.nl
 https://acc-openzaak.oldenzaal.nl
+https://acc-pabc.oldenzaal.nl
 https://acc-podiumd-logs.oldenzaal.nl
 https://acc-zac.oldenzaal.nl
 https://api.meldingen-acc.oldenzaal.nl
@@ -19,6 +22,7 @@ https://contact.oldenzaal.nl
 https://dacceptatieloket.oldenzaal.nl
 https://dloket.oldenzaal.nl
 https://dtestloket.oldenzaal.nl
+https://e.stemvan.oldenzaal.nl
 https://edienstenburgerzaken-test.oldenzaal.nl
 https://edienstenburgerzaken.oldenzaal.nl
 https://formulier.oldenzaal.nl
@@ -26,6 +30,7 @@ https://genealogie.oldenzaal.nl
 https://inloggen-acceptatie.oldenzaal.nl
 https://inloggen.oldenzaal.nl
 https://intranet.oldenzaal.nl
+https://ita.oldenzaal.nl
 https://keycloak-admin.oldenzaal.nl
 https://keycloak.oldenzaal.nl
 https://meldingen-acc.oldenzaal.nl
@@ -34,6 +39,7 @@ https://mijn.oldenzaal.nl
 https://notificaties.oldenzaal.nl
 https://objecten.oldenzaal.nl
 https://objecttypen.oldenzaal.nl
+https://office-addin.oldenzaal.nl
 https://oldenzaal-checker-preprod.oldenzaal.nl
 https://oldenzaal-checker.oldenzaal.nl
 https://oldenzaal.nl
