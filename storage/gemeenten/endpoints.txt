@@ -4573,7 +4573,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.ommen.nl
 https://ibzpink.oosterhout.nl
 https://ibzpink.oostgelre.nl
 https://ibzpink.ooststellingwerf.nl
@@ -4830,7 +4829,6 @@ https://intranet.nissewaard.nl
 https://intranet.noordwijk.nl
 https://intranet.oegstgeest.nl
 https://intranet.oldenzaal.nl
-https://intranet.ommen.nl
 https://intranet.oosterhout.nl
 https://intranet.peelenmaas.nl
 https://intranet.rucphen.nl
@@ -6855,6 +6853,7 @@ https://preprod-belastingportaal.goirle.nl
 https://preprod-belastingportaal.hilvarenbeek.nl
 https://preprod-belastingportaal.oisterwijk.nl
 https://preprod-broker.gemeentesluis.nl
+https://preprod-burgerportaal.ommen.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-edienstensociaaldomein.heerenveen.nl
 https://preprod-edienstsociaal-mijnaanvraag.zaanstad.nl
