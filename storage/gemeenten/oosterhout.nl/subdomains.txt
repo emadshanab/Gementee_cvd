@@ -19,6 +19,7 @@ ontology.regiomonitor-acc.oosterhout.nl
 oosterhout.nl
 plugin.regiomonitor-acc.oosterhout.nl
 regiomonitor-acc.oosterhout.nl
+robuust.oosterhout.nl
 sportbedrijf.oosterhout.nl
 sts.regiomonitor-acc.oosterhout.nl
 subsidies-backend-test.oosterhout.nl
@@ -27,6 +28,7 @@ subsidies-login.oosterhout.nl
 subsidies-test-login.oosterhout.nl
 subsidies-test.oosterhout.nl
 subsidies.oosterhout.nl
+test.oosterhout.nl
 webkassa.sportbedrijf.oosterhout.nl
 webmail.koo.oosterhout.nl
 www.doemee.oosterhout.nl

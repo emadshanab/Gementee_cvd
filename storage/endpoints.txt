@@ -667,7 +667,6 @@ http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
 http://www.devgovrs1.deventer.nl
 http://www.doemee.denhaag.nl
-http://www.doemee.oosterhout.nl
 http://www.doemee.vlissingen.nl
 http://www.economie.groningen.nl
 http://www.erfgoed.groningen.nl
@@ -4573,7 +4572,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.oosterhout.nl
 https://ibzpink.oostgelre.nl
 https://ibzpink.ooststellingwerf.nl
 https://ibzpink.opmeer.nl
@@ -8837,6 +8835,7 @@ https://www.doemee.bloemendaal.nl
 https://www.doemee.deventer.nl
 https://www.doemee.gemeentewestland.nl
 https://www.doemee.leiden.nl
+https://www.doemee.oosterhout.nl
 https://www.doemee.papendrecht.nl
 https://www.doemee.terneuzen.nl
 https://www.doemee.zwolle.nl

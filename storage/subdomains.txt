@@ -11683,6 +11683,7 @@ ro.vlissingen.nl
 ro.winterswijk.nl
 ro.zwolle.nl
 roadi.rotterdam.nl
+robuust.oosterhout.nl
 robuust.westmaasenwaal.nl
 roemte.hethogeland.nl
 roerdalen-checker-preprod.roerdalen.nl
@@ -13415,6 +13416,7 @@ test.moerdijk.nl
 test.nissewaard.nl
 test.nuenen.nl
 test.oegstgeest.nl
+test.oosterhout.nl
 test.open-formulieren.noordoostpolder.nl
 test.open-formulieren.vught.nl
 test.oss.nl
