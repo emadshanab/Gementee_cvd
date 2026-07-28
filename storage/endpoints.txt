@@ -896,6 +896,7 @@ https://acc-ita.laarbeek.nl
 https://acc-ita.losser.nl
 https://acc-ita.noordoostpolder.nl
 https://acc-ita.oldenzaal.nl
+https://acc-ita.oostgelre.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
 https://acc-keycloak-admin.emmen.nl
@@ -1037,6 +1038,7 @@ https://acc-office-addin.laarbeek.nl
 https://acc-office-addin.losser.nl
 https://acc-office-addin.noordoostpolder.nl
 https://acc-office-addin.oldenzaal.nl
+https://acc-office-addin.oostgelre.nl
 https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
@@ -1092,6 +1094,7 @@ https://acc-pabc.kampen.nl
 https://acc-pabc.laarbeek.nl
 https://acc-pabc.noordoostpolder.nl
 https://acc-pabc.oldenzaal.nl
+https://acc-pabc.oostgelre.nl
 https://acc-podiumd-abc.deventer.nl
 https://acc-podiumd-abc.olst-wijhe.nl
 https://acc-podiumd-abc.raalte.nl
@@ -2188,6 +2191,7 @@ https://belastingtest.middendrenthe.nl
 https://beleidsatlas.rotterdam.nl
 https://belevingsroute.gooisemeren.nl
 https://benk.data.amsterdam.nl
+https://beppie.oostgelre.nl
 https://bereikbaarhoofddorpzuid.haarlemmermeer.nl
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.acc.denhaag.nl
@@ -4572,7 +4576,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.oostgelre.nl
 https://ibzpink.ooststellingwerf.nl
 https://ibzpink.opmeer.nl
 https://ibzpink.opsterland.nl
@@ -4901,6 +4904,7 @@ https://ita.laarbeek.nl
 https://ita.losser.nl
 https://ita.noordoostpolder.nl
 https://ita.oldenzaal.nl
+https://ita.oostgelre.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -6210,6 +6214,7 @@ https://office-addin.laarbeek.nl
 https://office-addin.losser.nl
 https://office-addin.noordoostpolder.nl
 https://office-addin.oldenzaal.nl
+https://office-addin.oostgelre.nl
 https://ogt.rotterdam.nl
 https://oig.deurne.nl
 https://ois.accp.s-hertogenbosch.nl
@@ -6557,6 +6562,7 @@ https://ows-app.groningen.nl
 https://ows-emssapi-test.groningen.nl
 https://ows.gis.rotterdam.nl
 https://p.amsterdam.nl
+https://pabc.oostgelre.nl
 https://papendrecht-checker-preprod.papendrecht.nl
 https://papendrecht-checker.papendrecht.nl
 https://papendrecht.nl

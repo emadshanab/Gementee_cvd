@@ -116,23 +116,25 @@ api.betalen
 mks
 abc
 acc-abc
+acc-office-addin
 keycloak-admin
 zac
 pki
+dtestloket
 mijnzorg
 siam
 financien
 apps
-acc-office-addin
+acc-ita
 bgt
 samen
-dtestloket
 cmsintranet
 subsidies
 snelbalie
 duurzaam
-acc-ita
 bastion365
+ita
+office-addin
 extranet
 govroam
 test-intranet
@@ -140,8 +142,6 @@ verkiezingen
 osbacc
 afvalkalender
 qr
-ita
-office-addin
 www.webmail
 filecap
 dtestmidoffice
@@ -191,6 +191,7 @@ bor
 inproces
 mta-sts
 acceptatie-open
+acc-pabc
 college
 geodata
 subsidies-backend
@@ -213,7 +214,6 @@ bestuur
 squit2020
 mx1
 zaaksysteem
-acc-pabc
 simform-preproductie
 belastingbalie-test
 gemeentearchief
@@ -757,6 +757,7 @@ bekendmakingen
 hybrid1
 hybrid2
 digitaalloket
+baglv
 mijnsociaaldomein-acc
 lokettest
 ews
@@ -1202,7 +1203,6 @@ brk
 servicegatewayt
 www.woz
 parkeernormen
-baglv
 liber
 pcorsa
 pkoppelcorsa
@@ -1279,6 +1279,8 @@ helpmij
 test.open-formulieren
 gem
 robuust
+docs
+www.dloket
 smtp10
 smtp20
 www.afspraakmaken
@@ -5342,6 +5344,7 @@ subsidies-test-login
 webkassa.sportbedrijf
 webmail.koo
 www.webkassa.sportbedrijf
+beppie
 digikoppeling.local
 geo.local
 glapp05.local
@@ -5354,6 +5357,7 @@ klickwion
 local
 mks-prod
 mob
+pabc
 revprox-acc
 revprox
 revprox01
@@ -6092,7 +6096,6 @@ dataland
 datalandprod
 datalandtest
 devtest
-docs
 download.webmail
 enterpriseregistration.adfs01
 evmail
@@ -7006,7 +7009,6 @@ toegankelijkestad
 uni4
 unit4
 webconfedge
-www.dloket
 www.gelukkignieuwjaar
 www.noorderkwartier
 www.onsovermorgen
