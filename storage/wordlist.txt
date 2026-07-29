@@ -14,8 +14,8 @@ digikoppeling
 preproductie
 afspraken
 simcms
-secure
 acceptatie
+secure
 felix
 probeer
 formulieren
@@ -27,8 +27,8 @@ waarmerk
 betalen
 dkd
 acc
-portal
 werkplek
+portal
 meldingen
 broker
 afspraak
@@ -205,13 +205,11 @@ localhost
 byod
 email
 uc
-iarchief
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
 transfer
 bestuur
-squit2020
 mx1
 zaaksysteem
 simform-preproductie
@@ -227,6 +225,7 @@ mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
 www.gemeenteraad
+iarchief
 legacy
 mobile
 sharefile
@@ -235,8 +234,8 @@ outlook
 vth
 testloket
 www.samen
+squit2020
 mx2
-www.portal
 mijn-preproductie
 drop
 kennisbank
@@ -266,10 +265,10 @@ publicaties
 topdesk
 internetafspraken
 telewerken
-afspraakmaken
 www.intranet
 kcc
 mobiel
+www.portal
 cloudadapter-prod
 handhaving
 www.denkmee
@@ -295,6 +294,7 @@ erfgoed
 citrix
 bestanden
 squit2020.acceptatie
+afspraakmaken
 aeolus
 mijnsociaaldomein
 midoffice
@@ -1281,10 +1281,6 @@ gem
 robuust
 docs
 www.dloket
-smtp10
-smtp20
-www.afspraakmaken
-www.iarchief
 psiam
 tloket
 tsiam
@@ -5369,16 +5365,6 @@ uag1
 vrijwilligerswerk-oostgelre
 wabo
 www.mob
-iobjects
-nlwmoosw
-stempasfonds
-stwapp02
-stwidocosw02
-stwmksoost01
-talentenbank
-www.stempasfonds
-www.stwidocosw02
-www.talentenbank
 LVOLO-PROD
 LVOLO-TEST
 im
@@ -5395,6 +5381,8 @@ kantoor
 olwmks01
 ops-fw1
 ops-fw2
+smtp10
+smtp20
 archie
 archie.test
 bas
@@ -5602,6 +5590,7 @@ mobilitytest
 s2go
 s2gotest
 werkplek-test
+www.afspraakmaken
 baliealarm
 bestemmingsplan
 cpanel.samen
@@ -6304,6 +6293,7 @@ svrnedgeo
 svrxentialprd
 webmail3
 www.automator2
+www.iarchief
 www.iarchieftest
 www.kofax
 acc-idbroker

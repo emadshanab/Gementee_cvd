@@ -1184,7 +1184,6 @@ afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
 afspraakmaken.gemert-bakel.nl
 afspraakmaken.losser.nl
-afspraakmaken.ooststellingwerf.nl
 afspraakmaken.renkum.nl
 afspraakmaken.rheden.nl
 afspraakmaken.zoetermeer.nl
@@ -6707,7 +6706,6 @@ iarchief.gooisemeren.nl
 iarchief.hilversum.nl
 iarchief.lochem.nl
 iarchief.noordwijk.nl
-iarchief.ooststellingwerf.nl
 iarchief.twenterand.nl
 iarchief.zutphen.nl
 iarchieftest.twenterand.nl
@@ -7459,7 +7457,6 @@ intranet.oldenzaal.nl
 intranet.ommen.nl
 intranet.oosterhout.nl
 intranet.oostgelre.nl
-intranet.ooststellingwerf.nl
 intranet.peelenmaas.nl
 intranet.renswoude.nl
 intranet.rheden.nl
@@ -7542,7 +7539,6 @@ inzamelkalender.arnhem.nl
 inzamelwijzer.arnhem.nl
 io.amsterdam.nl
 iobjecten-acc.kaagenbraassem.nl
-iobjects.ooststellingwerf.nl
 ip1060.kerkrade.nl
 iparticipatie.accp.s-hertogenbosch.nl
 iparticipatie.achtkarspelen.nl
@@ -9650,7 +9646,6 @@ nlgemzdv.intern.zandvoort.nl
 nllwd-spider.leeuwarden.nl
 nlmwlkeb.kaagenbraassem.nl
 nln.nunspeet.nl
-nlwmoosw.ooststellingwerf.nl
 nlx-management.cg-intern.acc.utrecht.nl
 nlx-management.cg-intern.ont.utrecht.nl
 nlx.buren.nl
@@ -10837,7 +10832,6 @@ portal.kampen.nl
 portal.noordoostpolder.nl
 portal.office.com.westmaasenwaal.nl
 portal.olst-wijhe.nl
-portal.ooststellingwerf.nl
 portal.oss.nl
 portal.overbetuwe.nl
 portal.peelenmaas.nl
@@ -11987,7 +11981,6 @@ secure.nederweert.nl
 secure.nieuwkoop.nl
 secure.nijkerk.eu
 secure.nunspeet.nl
-secure.ooststellingwerf.nl
 secure.opmeer.nl
 secure.ot.denhaag.nl
 secure.peelenmaas.nl
@@ -12521,14 +12514,12 @@ smtp1.denhaag.nl
 smtp1.hoorn.nl
 smtp1.nieuwegein.nl
 smtp1.zwolle.nl
-smtp10.ooststellingwerf.nl
 smtp10.opsterland.nl
 smtp1s.denhaag.nl
 smtp2.denhaag.nl
 smtp2.hoorn.nl
 smtp2.nieuwegein.nl
 smtp2.zwolle.nl
-smtp20.ooststellingwerf.nl
 smtp20.opsterland.nl
 smtp2s.denhaag.nl
 smtpe.denhaag.nl
@@ -12688,7 +12679,6 @@ squit2020.gemeentewestland.nl
 squit2020.kerkrade.nl
 squit2020.leudal.nl
 squit2020.oldenzaal.nl
-squit2020.ooststellingwerf.nl
 squit2020.opsterland.nl
 squit2020.peelenmaas.nl
 squit2020.test.kerkrade.nl
@@ -12839,7 +12829,6 @@ stedebroec.nl
 steenwijkerland.nl
 stembureaus.amsterdam.nl
 stembureaus.utrecht.nl
-stempasfonds.ooststellingwerf.nl
 stemvan.emmen.nl
 stemvan.groningen.nl
 stemvan.midden-groningen.nl
@@ -12906,9 +12895,6 @@ stuf3zstest.schouwen-duiveland.nl
 stufddsprod.schouwen-duiveland.nl
 stufddstest.schouwen-duiveland.nl
 stuftest.peelenmaas.nl
-stwapp02.ooststellingwerf.nl
-stwidocosw02.ooststellingwerf.nl
-stwmksoost01.ooststellingwerf.nl
 subsidie-acc.denhaag.nl
 subsidie-api.utrecht.nl
 subsidie-backend.maassluis.nl
@@ -13083,7 +13069,6 @@ tabsign.bergen-nh.nl
 talent.apeldoorn.nl
 talentcenter.almere.nl
 talentcenter2.almere.nl
-talentenbank.ooststellingwerf.nl
 talentencoach.gemeentewestland.nl
 taskflow.t-diel.nl
 tasman375.groningen.nl
@@ -14237,7 +14222,6 @@ waarmerk.landgraaf.nl
 waarmerk.middendrenthe.nl
 waarmerk.nissewaard.nl
 waarmerk.oldenzaal.nl
-waarmerk.ooststellingwerf.nl
 waarmerk.oss.nl
 waarmerk.overbetuwe.nl
 waarmerk.peelenmaas.nl
@@ -14978,7 +14962,6 @@ www.afspraak.gemeentehulst.nl
 www.afspraak.haarlemmermeer.nl
 www.afspraak.peelenmaas.nl
 www.afspraak.zandvoort.nl
-www.afspraakmaken.ooststellingwerf.nl
 www.afspraakmaken.rheden.nl
 www.afspraken-abs.groningen.nl
 www.afspraken-tst.groningen.nl
@@ -15410,7 +15393,6 @@ www.hulpwijzer.venray.nl
 www.huursportzaal.kampen.nl
 www.hvd.groningen.nl
 www.hyperdrive.peelenmaas.nl
-www.iarchief.ooststellingwerf.nl
 www.iarchief.twenterand.nl
 www.iarchieftest.twenterand.nl
 www.ibabs-acc.gemeente-oldambt.nl
@@ -15712,7 +15694,6 @@ www.portal.groningen.nl
 www.portal.haarlemmermeer.nl
 www.portal.kaagenbraassem.nl
 www.portal.olst-wijhe.nl
-www.portal.ooststellingwerf.nl
 www.portal.overbetuwe.nl
 www.portal.peelenmaas.nl
 www.portal.twenterand.nl
@@ -15859,7 +15840,6 @@ www.staphorst.nl
 www.stationsdistrict.nijmegen.nl
 www.stedebroec.nl
 www.steenwijkerland.nl
-www.stempasfonds.ooststellingwerf.nl
 www.stemvan.groningen.nl
 www.stemvan.opsterland.nl
 www.stichtsevecht.nl
@@ -15869,7 +15849,6 @@ www.sts.sudwestfryslan.nl
 www.stuf-topicus.sudwestfryslan.nl
 www.stuf.peelenmaas.nl
 www.stuftest.peelenmaas.nl
-www.stwidocosw02.ooststellingwerf.nl
 www.subsidies.sudwestfryslan.nl
 www.sudwestfryslan.nl
 www.suikerkwartier.groningen.nl
@@ -15881,7 +15860,6 @@ www.sync1.test.subsites.leiden.nl
 www.sync2.test.subsites.leiden.nl
 www.t-diel.nl
 www.tab0751.sudwestfryslan.nl
-www.talentenbank.ooststellingwerf.nl
 www.telewerken.hellevoetsluis.nl
 www.telewerken.peelenmaas.nl
 www.terneuzen.nl
