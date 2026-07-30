@@ -110,6 +110,7 @@ objecttypen
 openklant
 openzaak
 belastingloket
+mijnzorg
 e
 piwik
 api.betalen
@@ -121,7 +122,6 @@ keycloak-admin
 zac
 pki
 dtestloket
-mijnzorg
 siam
 financien
 apps
@@ -1281,6 +1281,7 @@ gem
 robuust
 docs
 www.dloket
+mijnzorgacc
 psiam
 tloket
 tsiam
@@ -6828,7 +6829,6 @@ site2008
 geoxchange-prod
 geoxchange-test
 relay2
-mijnzorgacc
 sat
 uat
 acc-loket

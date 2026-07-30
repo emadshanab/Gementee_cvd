@@ -5,6 +5,8 @@ edienstenburgerzaken-test.oostzaan.nl
 edienstenburgerzaken.oostzaan.nl
 formulieren.oostzaan.nl
 lyncdiscover.oostzaan.nl
+mijnzorg.oostzaan.nl
+mijnzorgacc.oostzaan.nl
 oostzaan.nl
 psiam.oostzaan.nl
 sip.oostzaan.nl
