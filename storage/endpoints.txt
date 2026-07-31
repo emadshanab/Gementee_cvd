@@ -480,6 +480,7 @@ http://octopus.denhaag.nl
 http://old-dbmanager.test.denhaag.nl
 http://omgevingswet.deventer.nl
 http://ontheffingen-acc.amsterdam.nl
+http://ontmoetingscentra.opmeer.nl
 http://open.dalfsen.nl
 http://open.doetinchem.nl
 http://open.echt-susteren.nl
@@ -547,7 +548,6 @@ http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-omgevingswet.bronckhorst.nl
-http://simcms-ontmoetingscentra.opmeer.nl
 http://simcms-open.meerssen.nl
 http://simcms-open.wierden.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
@@ -578,6 +578,7 @@ http://simsite.goeree-overflakkee.nl
 http://simsite.heeze-leende.nl
 http://simsite.landgraaf.nl
 http://simsite.montferland.info
+http://simsite.opmeer.nl
 http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.twenterand.nl
@@ -682,7 +683,6 @@ http://www.omgevingsvisie.denhaag.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
 http://www.open.denhaag.nl
-http://www.opmeer.nl
 http://www.opsterland.nl
 http://www.overbetuwe.nl
 http://www.praatmee.borsele.nl
@@ -2184,6 +2184,7 @@ https://belastingportaal.hollandskroon.nl
 https://belastingportaal.midden-groningen.nl
 https://belastingportaal.nissewaard.nl
 https://belastingportaal.oisterwijk.nl
+https://belastingportaal.opmeer.nl
 https://belastingportaal.sint-michielsgestel.nl
 https://belastingportaal.tubbergen.nl
 https://belastingportaal.tynaarlo.nl
@@ -3740,6 +3741,7 @@ https://felix.nissewaard.nl
 https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.ooststellingwerf.nl
+https://felix.opmeer.nl
 https://felix.reuseldemierden.nl
 https://felix.terschelling.nl
 https://felix.urk.nl
@@ -3835,6 +3837,7 @@ https://fmreturn.landvancuijk.nl
 https://fmreturn.medemblik.nl
 https://fmreturn.meerssen.nl
 https://fmreturn.middendrenthe.nl
+https://fmreturn.opmeer.nl
 https://fmreturn.vijfheerenlanden.nl
 https://fmreturn.westerwolde.nl
 https://fmreturn.zevenaar.nl
@@ -4576,7 +4579,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.opmeer.nl
 https://ibzpink.opsterland.nl
 https://ibzpink.ouder-amstel.nl
 https://ibzpink.overbetuwe.nl
@@ -6534,6 +6536,7 @@ https://openzaak.zwolle.nl
 https://openzaakbrug-zgw.acc.denhaag.nl
 https://openzaakbrug-zgw.denhaag.nl
 https://oploo.landvancuijk.nl
+https://opmeer.nl
 https://opname.eindhoven.nl
 https://opsterland.nl
 https://oranjeplein.goirle.nl
@@ -6988,6 +6991,7 @@ https://preproductie.lopik.nl
 https://preproductie.montferland.info
 https://preproductie.mookenmiddelaar.nl
 https://preproductie.oirschot.nl
+https://preproductie.opmeer.nl
 https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.scherpenzeel.nl
 https://preproductie.steenwijkerland.nl
@@ -7409,6 +7413,7 @@ https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.waalwijk.nl
 https://simcms-kunstencultuur.harlingen.nl
+https://simcms-ontmoetingscentra.opmeer.nl
 https://simcms-open.beverwijk.nl
 https://simcms-open.bronckhorst.nl
 https://simcms-open.dalfsen.nl
@@ -7974,6 +7979,7 @@ https://test.3d.utrecht.nl
 https://test.api.tod.leiden.nl
 https://test.belastingloket.medemblik.nl
 https://test.belastingportaal.nissewaard.nl
+https://test.belastingportaal.opmeer.nl
 https://test.beverwijk.nl
 https://test.brunssum.nl
 https://test.designsystem.leiden.nl
@@ -8249,6 +8255,7 @@ https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://veiligmailen.koggenland.nl
 https://veiligmailen.medemblik.nl
+https://veiligmailen.opmeer.nl
 https://veiligthuishaaglanden.acc.denhaag.nl
 https://veldhoven.nl
 https://velp.landvancuijk.nl
@@ -8781,6 +8788,7 @@ https://www.begroting.soest.nl
 https://www.belastingbalie.ede.nl
 https://www.belastingloket.lingewaard.nl
 https://www.belastingloket.overbetuwe.nl
+https://www.belastingportaal.opmeer.nl
 https://www.bereikbaarhoofddorpzuid.haarlemmermeer.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergeijk.nl
@@ -9094,6 +9102,7 @@ https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
 https://www.openstad.katwijk.nl
 https://www.openstad.nijmegen.nl
+https://www.opmeer.nl
 https://www.oracbloemenbuurt.denhaag.nl
 https://www.oss.nl
 https://www.oude-ijsselstreek.nl
@@ -9187,6 +9196,7 @@ https://www.sync1.test.subsites.leiden.nl
 https://www.sync2.test.subsites.leiden.nl
 https://www.t-diel.nl
 https://www.terneuzen.nl
+https://www.test.belastingportaal.opmeer.nl
 https://www.test.subsites.leiden.nl
 https://www.texel.nl
 https://www.teylingen.nl

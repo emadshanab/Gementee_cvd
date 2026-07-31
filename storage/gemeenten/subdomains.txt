@@ -2645,6 +2645,7 @@ belastingportaal.hollandskroon.nl
 belastingportaal.midden-groningen.nl
 belastingportaal.nissewaard.nl
 belastingportaal.oisterwijk.nl
+belastingportaal.opmeer.nl
 belastingportaal.sint-michielsgestel.nl
 belastingportaal.tubbergen.nl
 belastingportaal.tynaarlo.nl
@@ -3647,12 +3648,10 @@ corsa-acc.ad.ede.nl
 corsa-acc.ede.nl
 corsa-prod.gemeente-steenbergen.nl
 corsa-prod.loonopzand.nl
-corsa-prod.opmeer.nl
 corsa-prod.woensdrecht.nl
 corsa-prod.zundert.nl
 corsa-test.gemeente-steenbergen.nl
 corsa-test.loonopzand.nl
-corsa-test.opmeer.nl
 corsa-test.woensdrecht.nl
 corsa-test.zundert.nl
 corsa.ad.ede.nl
@@ -5691,6 +5690,7 @@ fmreturn.landvancuijk.nl
 fmreturn.medemblik.nl
 fmreturn.meerssen.nl
 fmreturn.middendrenthe.nl
+fmreturn.opmeer.nl
 fmreturn.vijfheerenlanden.nl
 fmreturn.westerwolde.nl
 fmreturn.zevenaar.nl
@@ -6146,6 +6146,7 @@ geo.wijkbijduurstede.nl
 geo.zeewolde.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
+geoapps.opmeer.nl
 geobeheer.voorst.nl
 geobrowser.enschede.nl
 geocatalogus.haarlemmermeer.nl
@@ -13366,6 +13367,7 @@ test.api.tod.leiden.nl
 test.beesel.nl
 test.belastingloket.medemblik.nl
 test.belastingportaal.nissewaard.nl
+test.belastingportaal.opmeer.nl
 test.bernheze.org
 test.beverwijk.nl
 test.borne.nl
@@ -13868,8 +13870,6 @@ vacatures.landvancuijk.nl
 vacatures.nijmegen.nl
 vakantie.landvancuijk.nl
 validsign-prod.koggenland.nl
-validsign-prod.opmeer.nl
-validsign-test.opmeer.nl
 validsign.gulpen-wittem.nl
 validsign.landgraaf.nl
 validsign.montferland.info
@@ -13927,6 +13927,7 @@ veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
 veiligmailen.koggenland.nl
 veiligmailen.medemblik.nl
+veiligmailen.opmeer.nl
 veiligmailen.sudwestfryslan.nl
 veiligthuishaaglanden.acc.denhaag.nl
 veldhoven.nl
@@ -15031,6 +15032,7 @@ www.belastingbalie.gemeentewestland.nl
 www.belastingbalie.rhenen.nl
 www.belastingloket.lingewaard.nl
 www.belastingloket.overbetuwe.nl
+www.belastingportaal.opmeer.nl
 www.bereikbaarhoofddorpzuid.haarlemmermeer.nl
 www.bereikbarestad.denhaag.nl
 www.bergeijk.nl
@@ -15868,6 +15870,7 @@ www.terneuzen.nl
 www.terschelling.nl
 www.test-topicus.sudwestfryslan.nl
 www.test.amersfoort.nl
+www.test.belastingportaal.opmeer.nl
 www.test.denhaag.nl
 www.test.drechterland.nl
 www.test.gulpen-wittem.nl

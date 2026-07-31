@@ -138,16 +138,17 @@ office-addin
 extranet
 govroam
 test-intranet
+belastingportaal
 verkiezingen
 osbacc
 afvalkalender
 qr
+fmreturn
 www.webmail
 filecap
 dtestmidoffice
 squit2go
 connect.acceptatie
-belastingportaal
 vergunningintaker
 ftp
 simform
@@ -155,7 +156,6 @@ mijninkomen
 dali
 preprod
 gemeente
-fmreturn
 test-cmsintranet
 web
 preprod-mijn
@@ -277,6 +277,7 @@ documenten
 vergunningintaker-preprod
 subsidies-backend.acceptatie
 subsidies.acceptatie
+veiligmailen
 academie
 cms
 exchange
@@ -305,7 +306,6 @@ gisibapi
 gisibgeoserver-test
 gisibgeoserver
 makelaar
-veiligmailen
 belastingen-acc
 evenementen
 mozard
@@ -425,8 +425,6 @@ raadsinformatie
 mijnuitkering
 e.openstad
 ibabs
-corsa-prod
-corsa-test
 tim
 www.werkplek
 mylex
@@ -520,6 +518,8 @@ duo
 gbionline
 cca-acc
 cca
+corsa-prod
+corsa-test
 gemeentewinkel
 mijnmobiel
 secudoc
@@ -1210,7 +1210,6 @@ squit2020.test
 tcorsa
 tkoppelcorsa
 HTA
-validsign-prod
 geocortex
 monitor
 tickets
@@ -1274,6 +1273,7 @@ formulier.accp
 insite
 Snelbalie
 preprod-mijnuitkering
+test.belastingportaal
 eformulieren-test
 helpmij
 test.open-formulieren
@@ -4642,6 +4642,7 @@ ik-acc
 ik
 inloggen.belastingen.acc
 inloggen.belastingen
+validsign-prod
 komverder
 mijnkrimpenwijzer
 test-mijnkrimpenwijzer
@@ -5229,7 +5230,6 @@ prodwizraapl
 redactie
 telgids
 test-redactie
-test.belastingportaal
 testsuitewiz
 testwizaccept
 testwizraapl
@@ -5368,14 +5368,16 @@ wabo
 www.mob
 LVOLO-PROD
 LVOLO-TEST
+geoapps
 im
 lvolo-prod
 lvolo-test
 ontmoetingscentra
 opmmks01
 simcms-ontmoetingscentra
-validsign-test
 wijzer-acc
+www.belastingportaal
+www.test.belastingportaal
 acc.stemvan
 batched
 kantoor
