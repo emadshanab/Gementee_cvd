@@ -8,8 +8,8 @@ mijn
 edienstenburgerzaken-test
 intranet
 webmail
-mail
 simsite
+mail
 digikoppeling
 preproductie
 afspraken
@@ -43,10 +43,10 @@ werkenbij
 belastingen
 testeloket
 adfs
-ruimtelijkeplannen
 gemeenteraad
 enterpriseenrollment
 pv
+ruimtelijkeplannen
 zaaksysteem-accept
 api.meldingen-acc
 meldingen-acc
@@ -150,13 +150,13 @@ dtestmidoffice
 squit2go
 connect.acceptatie
 vergunningintaker
-ftp
 simform
 mijninkomen
 dali
 preprod
 gemeente
 test-cmsintranet
+ftp
 web
 preprod-mijn
 preprod-mijninkomen
@@ -172,7 +172,6 @@ izaaksuite
 snelbaliepp
 vdi
 mdm
-smtp
 cryptshare
 geoportaal
 socialekaart
@@ -185,6 +184,7 @@ bag
 owa
 meedoen
 gasten
+smtp
 AutoDiscover
 jaarstukken
 bor
@@ -234,7 +234,6 @@ outlook
 vth
 testloket
 www.samen
-squit2020
 mx2
 mijn-preproductie
 drop
@@ -242,7 +241,6 @@ kennisbank
 praatmee
 wachtwoord
 subsidie
-melddesk
 thuiswerken
 website
 mail2
@@ -264,6 +262,7 @@ archief
 publicaties
 topdesk
 internetafspraken
+squit2020
 telewerken
 www.intranet
 kcc
@@ -279,6 +278,7 @@ subsidies-backend.acceptatie
 subsidies.acceptatie
 veiligmailen
 academie
+melddesk
 cms
 exchange
 mozardtest
@@ -1013,7 +1013,6 @@ podiumd-office-addin
 podiumd-openklant
 podiumd-openzaak
 podiumd-zac
-pop
 www.staging
 zorgaanbieders
 begraven
@@ -3006,6 +3005,7 @@ openbareruimte
 oranjekwartier
 podiumd-pabc
 podiumd-podiumd-logs
+pop
 pveopenbareruimte
 pveopenbareruiomte
 qcalendar
@@ -5380,8 +5380,6 @@ www.belastingportaal
 www.test.belastingportaal
 acc.stemvan
 batched
-kantoor
-olwmks01
 ops-fw1
 ops-fw2
 smtp10

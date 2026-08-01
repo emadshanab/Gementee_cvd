@@ -5892,7 +5892,6 @@ ftp.krimpenerwaard.nl
 ftp.lopik.nl
 ftp.meerssen.nl
 ftp.nijmegen.nl
-ftp.opsterland.nl
 ftp.rp.heerlen.nl
 ftp.sudwestfryslan.nl
 ftp.tilburg.nl
@@ -7846,7 +7845,6 @@ kadernota2025.financieelportaal.etten-leur.nl
 kadernota2025.oss.nl
 kampen.nl
 kansshop.eemsdelta.nl
-kantoor.opsterland.nl
 kapelle.nl
 kassaservice.brunssum.nl
 kassaservice.landgraaf.nl
@@ -8539,7 +8537,6 @@ mail.middendelfland.nl
 mail.noordoostpolder.nl
 mail.oldenzaal.nl
 mail.oostgelre.nl
-mail.opsterland.nl
 mail.overbetuwe.nl
 mail.participatie.aalsmeer.nl
 mail.peelenmaas.nl
@@ -8762,7 +8759,6 @@ melddesk.almere.nl
 melddesk.bodegraven-reeuwijk.nl
 melddesk.huizen.nl
 melddesk.loonopzand.nl
-melddesk.opsterland.nl
 melddesk.peelenmaas.nl
 melddesk.renkum.nl
 melddesk.zuidplas.nl
@@ -9889,7 +9885,6 @@ oldenzaal.nl
 olo-test.heusden.nl
 olo.heusden.nl
 olst-wijhe.nl
-olwmks01.opsterland.nl
 ombudsman-acc.denhaag.nl
 ombudsman.acc.denhaag.nl
 ombudsman.acc.nijmegen.nl
@@ -10778,7 +10773,6 @@ podiumd-zac.olst-wijhe.nl
 point.assen.nl
 pollerscs.rotterdam.nl
 pop.deventer.nl
-pop.opsterland.nl
 portaal.achtkarspelen.nl
 portaal.almelo.nl
 portaal.dijkenwaard.nl
@@ -11757,7 +11751,6 @@ ruimtelijkeplannen.oldebroek.nl
 ruimtelijkeplannen.oldenzaal.nl
 ruimtelijkeplannen.olst-wijhe.nl
 ruimtelijkeplannen.oostgelre.nl
-ruimtelijkeplannen.opsterland.nl
 ruimtelijkeplannen.ouder-amstel.nl
 ruimtelijkeplannen.raalte.nl
 ruimtelijkeplannen.rheden.nl
@@ -12508,7 +12501,6 @@ smtp.heusden.nl
 smtp.hillegom.nl
 smtp.kampen.nl
 smtp.lingewaard.nl
-smtp.opsterland.nl
 smtp.zwolle.nl
 smtp01.meerssen.nl
 smtp01.nunspeet.nl
@@ -12682,7 +12674,6 @@ squit2020.gemeentewestland.nl
 squit2020.kerkrade.nl
 squit2020.leudal.nl
 squit2020.oldenzaal.nl
-squit2020.opsterland.nl
 squit2020.peelenmaas.nl
 squit2020.test.kerkrade.nl
 squit2020.test.winterswijk.nl
