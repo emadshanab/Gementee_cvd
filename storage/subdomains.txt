@@ -2266,8 +2266,6 @@ bam.zandvoort.nl
 barendrecht.nl
 barneveld.nl
 bars.emmen.nl
-bas.oss.nl
-bas.test.oss.nl
 basis.werkeninkomen-acc.amsterdam.nl
 basis.werkeninkomen.amsterdam.nl
 basisregistraties.gemeentewestland.nl
@@ -5259,7 +5257,6 @@ en.sonenbreugel.nl
 en.t-diel.nl
 en.wassenaar.nl
 en.zoetermeer.nl
-endpoint.oss.nl
 energiebespaaradvies.overbetuwe.nl
 energiek.beuningen.nl
 energieklussers.rotterdam.nl
@@ -6187,8 +6184,6 @@ geoportaal.groningen.nl
 geoportaal.haarlemmermeer.nl
 geoportaal.katwijk.nl
 geoportaal.oldenzaal.nl
-geoportaal.oss.nl
-geoportaal.test.oss.nl
 geoportaal.waalwijk.nl
 geoportaal.wageningen.nl
 geoportaal.woerden.nl
@@ -6234,9 +6229,7 @@ geovisiaonlinetest.schiedam.nl
 geovisiatest.sudwestfryslan.nl
 geoweb.haarlemmermeer.nl
 geoweb.oldenzaal.nl
-geoweb.oss.nl
 geoweb.stadskanaal.nl
-geoweb.test.oss.nl
 geoweb.vught.nl
 geowebint.haarlemmermeer.nl
 geowebinttest.haarlemmermeer.nl
@@ -6615,7 +6608,6 @@ hout.almere.nl
 houten.nl
 houtwijkbegroot.denhaag.nl
 hpdm.gooisemeren.nl
-hpdm.oss.nl
 hpdm.purmerend.nl
 hrplus.rotterdam.nl
 hrpr.dev.denhaag.nl
@@ -7347,7 +7339,6 @@ internetafspraken.diemen.nl
 internetafspraken.gemeentebeek.nl
 internetafspraken.heerlen.nl
 internetafspraken.nunspeet.nl
-internetafspraken.oss.nl
 internetafspraken.ouder-amstel.nl
 internetafspraken.overbetuwe.nl
 internetafspraken.twenterand.nl
@@ -9800,7 +9791,6 @@ obsurv.gorinchem.nl
 obsurv.heerde.nl
 obsurv.loonopzand.nl
 obsurv.middendrenthe.nl
-obsurv.oss.nl
 obsurv.purmerend.nl
 obsurv.rotterdam.nl
 obsurv.sittard-geleen.nl
@@ -11614,6 +11604,7 @@ reports.sudwestfryslan.nl
 reprotransfer.denhelder.nl
 reserveren.leiden.nl
 reserveren.meppel.nl
+reserveren.oss.nl
 reserveren.vijfheerenlanden.nl
 reservering.oldenzaal.nl
 reserveringen.geertruidenberg.nl
@@ -12933,6 +12924,7 @@ subsidies-backend.acceptatie.harderwijk.nl
 subsidies-backend.acceptatie.leeuwarden.nl
 subsidies-backend.acceptatie.lelystad.nl
 subsidies-backend.acceptatie.maassluis.nl
+subsidies-backend.acceptatie.oss.nl
 subsidies-backend.almelo.nl
 subsidies-backend.debilt.nl
 subsidies-backend.ede.nl
@@ -12965,6 +12957,7 @@ subsidies.acceptatie.harderwijk.nl
 subsidies.acceptatie.leeuwarden.nl
 subsidies.acceptatie.lelystad.nl
 subsidies.acceptatie.maassluis.nl
+subsidies.acceptatie.oss.nl
 subsidies.almelo.nl
 subsidies.almere.nl
 subsidies.backoffice.nijmegen.nl
@@ -13397,7 +13390,6 @@ test.lab.tod.leiden.nl
 test.leiden.nl
 test.leiderdorp.nl
 test.login.formulieren.leiden.nl
-test.loket.oss.nl
 test.maasdriel.nl
 test.mijn.sociaal.voorst.nl
 test.mijnhulpvraag.rijswijk.nl
@@ -14095,7 +14087,6 @@ vpn.meerssen.nl
 vpn.nieuwegein.nl
 vpn.nijkerk.eu
 vpn.oostgelre.nl
-vpn.oss.nl
 vpn.overbetuwe.nl
 vpn.peelenmaas.nl
 vpn.rotterdam.nl

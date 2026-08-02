@@ -162,7 +162,6 @@ preprod-mijn
 preprod-mijninkomen
 sts
 www.doemee
-obsurv
 micollab
 inloggen
 contentbeheer
@@ -171,9 +170,9 @@ en
 izaaksuite
 snelbaliepp
 vdi
+obsurv
 mdm
 cryptshare
-geoportaal
 socialekaart
 gisib
 veiligdelen
@@ -192,6 +191,7 @@ inproces
 mta-sts
 acceptatie-open
 acc-pabc
+geoportaal
 college
 geodata
 subsidies-backend
@@ -241,6 +241,8 @@ kennisbank
 praatmee
 wachtwoord
 subsidie
+subsidies-backend.acceptatie
+subsidies.acceptatie
 thuiswerken
 website
 mail2
@@ -261,7 +263,6 @@ key2gbav
 archief
 publicaties
 topdesk
-internetafspraken
 squit2020
 telewerken
 www.intranet
@@ -274,8 +275,6 @@ www.denkmee
 mijnzorg-acc
 documenten
 vergunningintaker-preprod
-subsidies-backend.acceptatie
-subsidies.acceptatie
 veiligmailen
 academie
 melddesk
@@ -293,6 +292,7 @@ data-test
 xential
 erfgoed
 citrix
+internetafspraken
 bestanden
 squit2020.acceptatie
 afspraakmaken
@@ -431,7 +431,6 @@ mylex
 gateway
 stats
 mijn-acc
-geoweb
 wildcard
 access
 huisstijl
@@ -537,6 +536,7 @@ sso
 gemeentebestuur
 lyncweb
 servicegateway
+geoweb
 testdigikoppeling
 www.vpn
 ons
@@ -549,6 +549,7 @@ bezoekersparkeren-acc
 duoloket
 hta
 wonen
+reserveren
 awtunnel
 service
 prefill
@@ -717,7 +718,6 @@ www.sharefile
 aaa
 preprod-belastingportaal
 squitxo
-hpdm
 magazines
 online
 handhavingtest
@@ -761,7 +761,6 @@ baglv
 mijnsociaaldomein-acc
 lokettest
 ews
-reserveren
 pda
 digitalebelastingbalie
 regelgeving
@@ -1088,6 +1087,7 @@ snelbalievergunningen
 pkioverheid
 vergaderingen
 webservices-ot
+hpdm
 trobit
 xential-test
 verhuursport
@@ -5386,24 +5386,18 @@ smtp10
 smtp20
 archie
 archie.test
-bas
-bas.test
 betaallink
 cms-internoss-test
 cms-internoss
 cms-internoss.test
-endpoint
 formulieren.test
-geoportaal.test
 geoportaaloss
-geoweb.test
 internoss-test
 internoss
 internoss.test
 jaarverslag2023
 kadernota2025
 portal.test
-test.loket
 uem
 uem.test
 belastingloket.test

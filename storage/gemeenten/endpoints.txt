@@ -1789,8 +1789,6 @@ https://arcgis.groningen.nl
 https://archeologie-acc.denhaag.nl
 https://archeologie.acc.denhaag.nl
 https://archeologie.denhaag.nl
-https://archie.oss.nl
-https://archie.test.oss.nl
 https://archief-zaaksysteem.soest.nl
 https://archief.afs.amsterdam.nl
 https://archief.deventer.nl
@@ -4127,8 +4125,6 @@ https://geoportaal.enschede.nl
 https://geoportaal.gorinchem.nl
 https://geoportaal.haarlemmermeer.nl
 https://geoportaal.katwijk.nl
-https://geoportaal.oss.nl
-https://geoportaal.test.oss.nl
 https://geoportaal.waalwijk.nl
 https://geoportaal.wageningen.nl
 https://geoportaal.zoetermeer.nl
@@ -4151,8 +4147,6 @@ https://geovisia.harlingen.nl
 https://geovisia.sudwestfryslan.nl
 https://geovisiaonline.schiedam.nl
 https://geoweb.haarlemmermeer.nl
-https://geoweb.oss.nl
-https://geoweb.test.oss.nl
 https://geoweb.vught.nl
 https://geuzenstatenkwartierfietst.denhaag.nl
 https://gezinscoach.deventer.nl
@@ -4770,7 +4764,6 @@ https://intens-acc.enschede.nl
 https://intens.enschede.nl
 https://interflex.twenterand.nl
 https://intern.formulieren.acc.amsterdam.nl
-https://internetafspraken.oss.nl
 https://internetprod.veenendaal.nl
 https://internettest.veenendaal.nl
 https://internoss.oss.nl
@@ -6174,7 +6167,6 @@ https://obsurv-acc.rotterdam.nl
 https://obsurv-t.sittard-geleen.nl
 https://obsurv.heerde.nl
 https://obsurv.loonopzand.nl
-https://obsurv.oss.nl
 https://obsurv.purmerend.nl
 https://obsurv.rotterdam.nl
 https://obsurv.sittard-geleen.nl
@@ -7207,6 +7199,7 @@ https://remote.zoetermeer.nl
 https://renkum.nl
 https://reprotransfer.denhelder.nl
 https://reserveren.meppel.nl
+https://reserveren.oss.nl
 https://reserveren.vijfheerenlanden.nl
 https://reserveringen.geertruidenberg.nl
 https://reserveringen.tilburg.nl
@@ -7793,6 +7786,7 @@ https://subsidies-backend.acceptatie.harderwijk.nl
 https://subsidies-backend.acceptatie.leeuwarden.nl
 https://subsidies-backend.acceptatie.lelystad.nl
 https://subsidies-backend.acceptatie.maassluis.nl
+https://subsidies-backend.acceptatie.oss.nl
 https://subsidies-backend.almelo.nl
 https://subsidies-backend.debilt.nl
 https://subsidies-backend.ede.nl
@@ -7822,6 +7816,7 @@ https://subsidies.acceptatie.harderwijk.nl
 https://subsidies.acceptatie.leeuwarden.nl
 https://subsidies.acceptatie.lelystad.nl
 https://subsidies.acceptatie.maassluis.nl
+https://subsidies.acceptatie.oss.nl
 https://subsidies.almelo.nl
 https://subsidies.almere.nl
 https://subsidies.backoffice.nijmegen.nl
