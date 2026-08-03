@@ -293,7 +293,6 @@ http://becpo.topdesk.denhaag.nl
 http://beheer.acc.amsterdam.nl
 http://beheer.amsterdam.nl
 http://belastingen.almere.nl
-http://belastingloket.test.oude-ijsselstreek.nl
 http://bergeijk.nl
 http://bermod2-acc.amsterdam.nl
 http://bestuursakkoord.s-hertogenbosch.nl
@@ -2158,6 +2157,7 @@ https://belastingloket.oudewater.nl
 https://belastingloket.overbetuwe.nl
 https://belastingloket.purmerend.nl
 https://belastingloket.s-hertogenbosch.nl
+https://belastingloket.test.oude-ijsselstreek.nl
 https://belastingloket.vijfheerenlanden.nl
 https://belastingloket.waalwijk.nl
 https://belastingloket.woerden.nl
