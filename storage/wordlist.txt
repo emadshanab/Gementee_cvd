@@ -305,6 +305,7 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
+www.werkenbij
 makelaar
 belastingen-acc
 evenementen
@@ -357,7 +358,6 @@ inloggen.belastingportaal.acc
 participatie
 raadsnet
 toegang
-www.werkenbij
 zoeken
 diensten
 sociaaldomein
