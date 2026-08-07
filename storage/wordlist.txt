@@ -81,8 +81,8 @@ hybrid
 simcms-open
 _autodiscover._tcp
 preprodbroker
-podiumd-logs
 connect
+podiumd-logs
 acc-broker
 acc-contact
 acc-formulier
@@ -138,6 +138,7 @@ office-addin
 extranet
 govroam
 test-intranet
+connect.acceptatie
 belastingportaal
 vergunningintaker
 verkiezingen
@@ -149,7 +150,6 @@ www.webmail
 filecap
 dtestmidoffice
 squit2go
-connect.acceptatie
 simform
 mijninkomen
 dali

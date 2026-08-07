@@ -1,3 +1,4 @@
+acceptatie.papendrecht.nl
 admin.doemee.papendrecht.nl
 api.betalen.papendrecht.nl
 api.doemee.papendrecht.nl
@@ -6,6 +7,8 @@ autodiscover.papendrecht.nl
 betalen.papendrecht.nl
 college.papendrecht.nl
 collegeprogramma.papendrecht.nl
+connect.acceptatie.papendrecht.nl
+connect.papendrecht.nl
 doemee.papendrecht.nl
 e.papendrecht.nl
 edienstenburgerzaken-test.papendrecht.nl

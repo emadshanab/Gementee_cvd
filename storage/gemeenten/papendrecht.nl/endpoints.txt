@@ -1,4 +1,6 @@
 http://autodiscover.papendrecht.nl
+http://connect.acceptatie.papendrecht.nl
+http://connect.papendrecht.nl
 http://e.papendrecht.nl
 https://admin.doemee.papendrecht.nl
 https://api.betalen.papendrecht.nl

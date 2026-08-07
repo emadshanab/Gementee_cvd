@@ -945,6 +945,7 @@ acceptatie.oosterhout.nl
 acceptatie.oostgelre.nl
 acceptatie.ouder-amstel.nl
 acceptatie.overbetuwe.nl
+acceptatie.papendrecht.nl
 acceptatie.participatiewebshop.emmen.nl
 acceptatie.peelenmaas.nl
 acceptatie.pekela.nl
@@ -3546,6 +3547,7 @@ connect.acceptatie.hardinxveld-giessendam.nl
 connect.acceptatie.kerkrade.nl
 connect.acceptatie.oldenzaal.nl
 connect.acceptatie.overbetuwe.nl
+connect.acceptatie.papendrecht.nl
 connect.acceptatie.peelenmaas.nl
 connect.acceptatie.steenwijkerland.nl
 connect.acceptatie.winterswijk.nl
@@ -3563,6 +3565,7 @@ connect.goirle.nl
 connect.kerkrade.nl
 connect.oldenzaal.nl
 connect.overbetuwe.nl
+connect.papendrecht.nl
 connect.peelenmaas.nl
 connect.pekela.nl
 connect.smallingerland.nl
