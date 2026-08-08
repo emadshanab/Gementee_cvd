@@ -48,9 +48,9 @@ enterpriseenrollment
 pv
 ruimtelijkeplannen
 zaaksysteem-accept
+woningbouwkaart
 api.meldingen-acc
 meldingen-acc
-woningbouwkaart
 formulier
 dacceptatiemidoffice
 dloket
@@ -136,6 +136,7 @@ bastion365
 ita
 office-addin
 extranet
+fmreturn
 govroam
 test-intranet
 connect.acceptatie
@@ -145,7 +146,6 @@ verkiezingen
 osbacc
 afvalkalender
 qr
-fmreturn
 www.webmail
 filecap
 dtestmidoffice
@@ -5467,9 +5467,11 @@ zaken.staging
 collegeprogramma
 papendrecht-checker-preprod
 papendrecht-checker
+apim.slimgesprek
 autorisatie-bagprod
 autorisatie-bagtest
 bw
+gerrian
 hyperdrive
 key2gbav-prod
 key2gbav-test
@@ -5480,6 +5482,7 @@ mijnpeno
 mt
 pakketvergunning
 raadextra
+slimgesprek
 stuftest
 suite4sd-prod
 suite4sd-test
@@ -5495,8 +5498,10 @@ werkplek2018
 werkplek2021
 wireless
 www.afvalkalender
+www.autorisatie-bagtest
 www.bw
 www.cmsintranet
+www.gerrian
 www.hyperdrive
 www.key2gbav-prod
 www.key2gbav-test
@@ -5522,6 +5527,7 @@ www.werkplek2014
 www.werkplek2018
 www.werkplek2021
 www.wireless
+www.woningbouwkaart
 bag-vpek21
 dds-vpek21
 iis-vpek01

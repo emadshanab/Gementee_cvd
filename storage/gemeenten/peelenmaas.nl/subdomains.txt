@@ -4,6 +4,7 @@ adfs.peelenmaas.nl
 afspraak.peelenmaas.nl
 afspraken.peelenmaas.nl
 afvalkalender.peelenmaas.nl
+apim.slimgesprek.peelenmaas.nl
 auth.peelenmaas.nl
 autodiscover.peelenmaas.nl
 autorisatie-bagprod.peelenmaas.nl
@@ -20,7 +21,9 @@ doemee.peelenmaas.nl
 eforms.peelenmaas.nl
 eloket.peelenmaas.nl
 enterpriseregistration.peelenmaas.nl
+fmreturn.peelenmaas.nl
 gba.peelenmaas.nl
+gerrian.peelenmaas.nl
 gisib.peelenmaas.nl
 gisibtest.peelenmaas.nl
 hyperdrive.peelenmaas.nl
@@ -53,6 +56,7 @@ peelenmaas.nl
 portal.peelenmaas.nl
 raadextra.peelenmaas.nl
 secure.peelenmaas.nl
+slimgesprek.peelenmaas.nl
 squit2020.acceptatie.peelenmaas.nl
 squit2020.peelenmaas.nl
 stuf.peelenmaas.nl
@@ -80,13 +84,16 @@ werkplek2014.peelenmaas.nl
 werkplek2018.peelenmaas.nl
 werkplek2021.peelenmaas.nl
 wireless.peelenmaas.nl
+woningbouwkaart.peelenmaas.nl
 www.afspraak.peelenmaas.nl
 www.afspraken.peelenmaas.nl
 www.afvalkalender.peelenmaas.nl
 www.auth.peelenmaas.nl
+www.autorisatie-bagtest.peelenmaas.nl
 www.bw.peelenmaas.nl
 www.cmsintranet.peelenmaas.nl
 www.doemee.peelenmaas.nl
+www.gerrian.peelenmaas.nl
 www.gisib.peelenmaas.nl
 www.gisibtest.peelenmaas.nl
 www.hyperdrive.peelenmaas.nl
@@ -123,5 +130,6 @@ www.werkplek2014.peelenmaas.nl
 www.werkplek2018.peelenmaas.nl
 www.werkplek2021.peelenmaas.nl
 www.wireless.peelenmaas.nl
+www.woningbouwkaart.peelenmaas.nl
 zaken.acceptatie.peelenmaas.nl
 zaken.peelenmaas.nl
