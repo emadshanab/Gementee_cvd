@@ -26,6 +26,7 @@ secure.pekela.nl
 simsite.pekela.nl
 test.pekela.nl
 waarmerk.pekela.nl
+wildcard.pekela.nl
 www.afspraken.pekela.nl
 www.pekela.nl
 zaken.pekela.nl
