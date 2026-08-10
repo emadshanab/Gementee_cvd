@@ -584,7 +584,6 @@ http://simsite.heeze-leende.nl
 http://simsite.landgraaf.nl
 http://simsite.montferland.info
 http://simsite.opmeer.nl
-http://simsite.pijnacker-nootdorp.nl
 http://simsite.twenterand.nl
 http://sluiskwartier.deventer.nl
 http://snow-license.amsterdam.nl
@@ -3699,6 +3698,7 @@ https://evenementenvergunning.rotterdam.nl
 https://ews.lopik.nl
 https://exchange.defryskemarren.nl
 https://exchangehybrid.tilburg.nl
+https://extern.pijnacker-nootdorp.nl
 https://extra.katwijk.nl
 https://extranet.eemsdelta.nl
 https://extranet.hengelo.nl
@@ -7351,6 +7351,7 @@ https://secure.delft.nl
 https://secure.denhelder.nl
 https://secure.gemeentestein.nl
 https://secure.pekela.nl
+https://secure.pijnacker-nootdorp.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
 https://secure.valkenburg.nl
@@ -7532,6 +7533,7 @@ https://simsite.nederweert.nl
 https://simsite.oirschot.nl
 https://simsite.ooststellingwerf.nl
 https://simsite.pekela.nl
+https://simsite.pijnacker-nootdorp.nl
 https://simsite.scherpenzeel.nl
 https://simsite.simpelveld.nl
 https://simsite.staphorst.nl
@@ -8297,6 +8299,7 @@ https://vergunningintaker.zwijndrecht.nl
 https://verhalenroute.hollandskroon.nl
 https://verhuur.gemeente-oldambt.nl
 https://verhuur.heerlen.nl
+https://verhuur.pijnacker-nootdorp.nl
 https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
 https://verkeersbesluiten.denhaag.nl

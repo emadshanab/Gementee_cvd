@@ -9,9 +9,12 @@ betalen.pijnacker-nootdorp.nl
 bgt.pijnacker-nootdorp.nl
 buitenoporde.pijnacker-nootdorp.nl
 denkmee.pijnacker-nootdorp.nl
+digikoppeling.pijnacker-nootdorp.nl
+digitalebalie.pijnacker-nootdorp.nl
 extern.pijnacker-nootdorp.nl
 financien.pijnacker-nootdorp.nl
 formulieren.pijnacker-nootdorp.nl
+idp.pijnacker-nootdorp.nl
 iparticipatie.pijnacker-nootdorp.nl
 izaaksuite.pijnacker-nootdorp.nl
 jaarstukken.pijnacker-nootdorp.nl
@@ -44,5 +47,7 @@ test-ipa.pijnacker-nootdorp.nl
 test-kaartviewer.pijnacker-nootdorp.nl
 test.digikoppeling.pijnacker-nootdorp.nl
 tsecure.pijnacker-nootdorp.nl
+verhuur.pijnacker-nootdorp.nl
 wozbalie.pijnacker-nootdorp.nl
+www.denkmee.pijnacker-nootdorp.nl
 www.pijnacker-nootdorp.nl

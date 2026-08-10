@@ -237,6 +237,7 @@ www.samen
 mx2
 mijn-preproductie
 drop
+www.denkmee
 kennisbank
 praatmee
 wachtwoord
@@ -271,7 +272,6 @@ mobiel
 www.portal
 cloudadapter-prod
 handhaving
-www.denkmee
 mijnzorg-acc
 documenten
 vergunningintaker-preprod
@@ -419,6 +419,7 @@ mijnzaken
 magazine
 webservices
 router
+digitalebalie
 vergunningen
 testbelastingloket
 formulier-acc
@@ -433,6 +434,7 @@ gateway
 stats
 mijn-acc
 access
+idp
 huisstijl
 mijndesktop
 www2
@@ -505,7 +507,6 @@ intra
 mijnloket
 parkeeracties
 relay
-digitalebalie
 idbroker
 mobility
 services
@@ -546,7 +547,6 @@ vthbroker
 digitaal
 teleweb
 cars
-idp
 bezoekersparkeren-acc
 duoloket
 hta
@@ -704,6 +704,7 @@ gbionlinetest
 geoportaaltest
 squit2gotest
 geo-secure
+verhuur
 hotspot
 ketenportaal.acceptatie
 www.login
@@ -1052,7 +1053,6 @@ zoek
 financieelportaal
 intake
 reserveringen
-verhuur
 digiforms
 organisatie
 director
