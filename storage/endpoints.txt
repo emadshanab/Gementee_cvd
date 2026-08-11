@@ -726,6 +726,10 @@ http://zorgloket.druten.nl
 http://zuidplas.nl
 https://1.hoorn.nl
 https://1221.hilversum.nl
+https://1etussenrapportage2019.financien.purmerend.nl
+https://1etussenrapportage2020.financien.purmerend.nl
+https://2etussenrapportage2019.financien.purmerend.nl
+https://2etussenrapportage2020.financien.purmerend.nl
 https://3d.almere.nl
 https://3d.utrecht.nl
 https://4dekwartaalbrief2019.financielestukken.diemen.nl
@@ -2940,7 +2944,6 @@ https://devopstestproject.rotterdam.nl
 https://dewolden.nl
 https://diemen.nl
 https://diensten-acc.rotterdam.nl
-https://diensten.purmerend.nl
 https://diensten.rotterdam.nl
 https://dieuwke.defryskemarren.nl
 https://digiform-fa.amsterdam.nl
@@ -4348,6 +4351,7 @@ https://horstaandemaas.nl
 https://hout.almere.nl
 https://houten.nl
 https://houtwijkbegroot.denhaag.nl
+https://hpdm.purmerend.nl
 https://hrplus.rotterdam.nl
 https://hrpr.dev.denhaag.nl
 https://hta.waalwijk.nl
@@ -4372,7 +4376,6 @@ https://huursportzaal.kampen.nl
 https://hwok-test.gemeentehw.nl
 https://hwok.gemeentehw.nl
 https://hybrid.gooisemeren.nl
-https://hybrid.purmerend.nl
 https://hybrid.sittard-geleen.nl
 https://iam-acc.almere.nl
 https://iam-forms.denhaag.nl
@@ -5049,6 +5052,7 @@ https://kaartviewer.hoorn.nl
 https://kaartviewer.pijnacker-nootdorp.nl
 https://kadbrkwkpd.deventer.nl
 https://kaderbrief.leiden.nl
+https://kaderbrief2023.financien.purmerend.nl
 https://kadernota.middelburg.nl
 https://kadernota.pijnacker-nootdorp.nl
 https://kadernota2020.financieelportaal.etten-leur.nl
@@ -6169,7 +6173,6 @@ https://obsurv-acc.rotterdam.nl
 https://obsurv-t.sittard-geleen.nl
 https://obsurv.heerde.nl
 https://obsurv.loonopzand.nl
-https://obsurv.purmerend.nl
 https://obsurv.rotterdam.nl
 https://obsurv.sittard-geleen.nl
 https://obsurv.someren.nl
@@ -7015,15 +7018,26 @@ https://programmabegroting.gemeente-steenbergen.nl
 https://programmabegroting.haarlemmermeer.nl
 https://programmabegroting.leiden.nl
 https://programmabegroting.oegstgeest.nl
+https://programmabegroting2017.financien.purmerend.nl
+https://programmabegroting2018.financien.purmerend.nl
+https://programmabegroting2019.financien.purmerend.nl
+https://programmabegroting2020.financien.purmerend.nl
 https://programmabegroting2021.financielestukken.diemen.nl
 https://programmabegroting2021.financielestukken.ouder-amstel.nl
+https://programmabegroting2021.financien.purmerend.nl
 https://programmabegroting2022.bronckhorst.nl
 https://programmabegroting2023.bronckhorst.nl
 https://programmabegroting2023.financielestukken.ouder-amstel.nl
+https://programmabegroting2023.financien.purmerend.nl
 https://programmabegroting2024.bronckhorst.nl
 https://programmabegroting2024.financielestukken.diemen.nl
 https://programmabegroting2024.financielestukken.ouder-amstel.nl
 https://programmabegroting2025.financielestukken.ouder-amstel.nl
+https://programmabegroting2025.financien.purmerend.nl
+https://programmarekening.financien.purmerend.nl
+https://programmarekening2016.financien.purmerend.nl
+https://programmarekening2017.financien.purmerend.nl
+https://programmarekening2018.financien.purmerend.nl
 https://programmavan.bergendal.nl
 https://projecten.lansingerland.nl
 https://projecten.nederbetuwe.nl
@@ -8342,6 +8356,9 @@ https://vm156.denhelder.nl
 https://voerendaal.nl
 https://voice.leudal.nl
 https://voorjaarsnota.rijswijk.nl
+https://voorjaarsnota2023.financien.purmerend.nl
+https://voorjaarsnota2024.financien.purmerend.nl
+https://voorjaarsnota2025.financien.purmerend.nl
 https://voorjaarsrapportage.haarlemmermeer.nl
 https://voorschool.almere.nl
 https://voorschoten.nl
