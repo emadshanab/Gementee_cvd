@@ -38,9 +38,9 @@ geo
 parkeren
 iparticipatie
 test-ipa
+belastingen
 vpn
 werkenbij
-belastingen
 testeloket
 adfs
 gemeenteraad
@@ -142,7 +142,6 @@ test-intranet
 connect.acceptatie
 belastingportaal
 vergunningintaker
-verkiezingen
 osbacc
 afvalkalender
 qr
@@ -151,6 +150,7 @@ filecap
 dtestmidoffice
 squit2go
 simform
+verkiezingen
 mijninkomen
 dali
 preprod
@@ -1210,6 +1210,8 @@ squit2020.test
 tcorsa
 tkoppelcorsa
 HTA
+belastingen.acc
+inloggen.belastingen.acc
 geocortex
 idp-test
 monitor
@@ -4640,10 +4642,8 @@ taxa05
 tcoda
 tmakelaar
 waarstemjijvoor
-belastingen.acc
 ik-acc
 ik
-inloggen.belastingen.acc
 inloggen.belastingen
 validsign-prod
 komverder
@@ -5598,8 +5598,6 @@ toekomstig
 voorjaarsnota2023.financien
 voorjaarsnota2024.financien
 voorjaarsnota2025.financien
-dgpp
-dgpt
 historischbeeldarchief
 jccafsprakencloud
 oudebeeldbank

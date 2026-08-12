@@ -1270,7 +1270,6 @@ afspraken.peelenmaas.nl
 afspraken.pekela.nl
 afspraken.pijnacker-nootdorp.nl
 afspraken.purmerend.nl
-afspraken.putten.nl
 afspraken.raalte.nl
 afspraken.reimerswaal.nl
 afspraken.rijssen-holten.nl
@@ -2571,6 +2570,7 @@ belastingen-preprod.stadskanaal.nl
 belastingen-test.gilzerijen.nl
 belastingen-test.molenlanden.nl
 belastingen.acc.koggenland.nl
+belastingen.acc.putten.nl
 belastingen.accp.s-hertogenbosch.nl
 belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
@@ -2593,6 +2593,7 @@ belastingen.middendrenthe.nl
 belastingen.molenlanden.nl
 belastingen.mookenmiddelaar.nl
 belastingen.nijmegen.nl
+belastingen.putten.nl
 belastingen.renkum.nl
 belastingen.rheden.nl
 belastingen.rhenen.nl
@@ -4058,8 +4059,6 @@ dgdialog.amsterdam.nl
 dgk-prd.zutphen.nl
 dgk-tst.zutphen.nl
 dgp.mookenmiddelaar.nl
-dgpp.putten.nl
-dgpt.putten.nl
 dhsbc01.denhelder.nl
 dhsbc02.denhelder.nl
 dialin.acc.amsterdam.nl
@@ -7265,6 +7264,7 @@ inloggen-acc.hoorn.nl
 inloggen-acceptatie.oldenzaal.nl
 inloggen-preprod.geertruidenberg.nl
 inloggen.belastingen.acc.koggenland.nl
+inloggen.belastingen.acc.putten.nl
 inloggen.belastingen.koggenland.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
@@ -10847,7 +10847,6 @@ portal.oss.nl
 portal.overbetuwe.nl
 portal.peelenmaas.nl
 portal.pekela.nl
-portal.putten.nl
 portal.reuseldemierden.nl
 portal.rijssen-holten.nl
 portal.roerdalen.nl
@@ -14022,7 +14021,6 @@ verkiezingen.heerlen.nl
 verkiezingen.krimpenerwaard.nl
 verkiezingen.landgraaf.nl
 verkiezingen.nuenen.nl
-verkiezingen.putten.nl
 verkiezingen.ridderkerk.nl
 verkiezingen.sonenbreugel.nl
 verkiezingen.sudwestfryslan.nl

@@ -2126,6 +2126,7 @@ https://belastingen-acceptatie.eemsdelta.nl
 https://belastingen-preprod.stadskanaal.nl
 https://belastingen-test.molenlanden.nl
 https://belastingen.acc.koggenland.nl
+https://belastingen.acc.putten.nl
 https://belastingen.accp.s-hertogenbosch.nl
 https://belastingen.arnhem.nl
 https://belastingen.duiven.nl
@@ -2140,6 +2141,7 @@ https://belastingen.lelystad.nl
 https://belastingen.middendrenthe.nl
 https://belastingen.molenlanden.nl
 https://belastingen.nijmegen.nl
+https://belastingen.putten.nl
 https://belastingen.renkum.nl
 https://belastingen.rheden.nl
 https://belastingen.rozendaal.nl
@@ -4582,7 +4584,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.putten.nl
 https://ibzpink.raalte.nl
 https://ibzpink.reimerswaal.nl
 https://ibzpink.reuseldemierden.nl
@@ -4734,6 +4735,7 @@ https://inloggen-acc.hoorn.nl
 https://inloggen-acceptatie.oldenzaal.nl
 https://inloggen-preprod.geertruidenberg.nl
 https://inloggen.belastingen.acc.koggenland.nl
+https://inloggen.belastingen.acc.putten.nl
 https://inloggen.belastingen.koggenland.nl
 https://inloggen.belastingportaal.aaenhunze.nl
 https://inloggen.belastingportaal.acc.aaenhunze.nl
