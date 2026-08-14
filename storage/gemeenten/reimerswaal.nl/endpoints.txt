@@ -1,8 +1,9 @@
+http://afspraken.reimerswaal.nl
 https://acc.reimerswaal.nl
-https://afspraken.reimerswaal.nl
-https://grooster.reimerswaal.nl
+https://betalen.reimerswaal.nl
 https://iburgerzaken.reimerswaal.nl
-https://ibzpink.reimerswaal.nl
 https://jcccloud.reimerswaal.nl
 https://reimerswaal.nl
+https://wizportaal.reimerswaal.nl
+https://wizportaaltest.reimerswaal.nl
 https://www.reimerswaal.nl

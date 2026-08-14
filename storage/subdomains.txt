@@ -2814,6 +2814,7 @@ betalen.noordoostpolder.nl
 betalen.ouder-amstel.nl
 betalen.papendrecht.nl
 betalen.pijnacker-nootdorp.nl
+betalen.reimerswaal.nl
 betalen.rhenen.nl
 betalen.rijswijk.nl
 betalen.scherpenzeel.nl
@@ -6448,7 +6449,6 @@ griffie.rotterdam.nl
 grip.denhaag.nl
 grmks01.goes.nl
 grmks02.kapelle.nl
-grmks03.reimerswaal.nl
 grmks05.noord-beveland.nl
 grmks06.borsele.nl
 grnlm035.groningen.nl
@@ -6469,7 +6469,6 @@ groningen.nl
 grooster.dalfsen.nl
 grooster.hoogeveen.nl
 grooster.oldebroek.nl
-grooster.reimerswaal.nl
 grootklooster.doemee.heemstede.nl
 growinggreencities.almere.nl
 gs01msn.meerssen.nl
@@ -14813,7 +14812,9 @@ witgoed.veldhoven.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
 wizportaal.noord-beveland.nl
+wizportaal.reimerswaal.nl
 wizportaaltest.noord-beveland.nl
+wizportaaltest.reimerswaal.nl
 wkpb.haarlem.nl
 wkpb.lelystad.nl
 wlan.heusden.nl

@@ -43,6 +43,7 @@ http://afspraken.brunssum.nl
 http://afspraken.dalfsen.nl
 http://afspraken.gemeente-oldambt.nl
 http://afspraken.huizen.nl
+http://afspraken.reimerswaal.nl
 http://afspraken.rijssen-holten.nl
 http://afspraken.vaals.nl
 http://afspraken.zwartewaterland.nl
@@ -1480,7 +1481,6 @@ https://afspraken.olst-wijhe.nl
 https://afspraken.pekela.nl
 https://afspraken.purmerend.nl
 https://afspraken.raalte.nl
-https://afspraken.reimerswaal.nl
 https://afspraken.someren.nl
 https://afspraken.tholen.nl
 https://afspraken.tynaarlo.nl
@@ -2316,6 +2316,7 @@ https://betalen.noordoostpolder.nl
 https://betalen.ouder-amstel.nl
 https://betalen.papendrecht.nl
 https://betalen.pijnacker-nootdorp.nl
+https://betalen.reimerswaal.nl
 https://betalen.rhenen.nl
 https://betalen.rijswijk.nl
 https://betalen.scherpenzeel.nl
@@ -4276,7 +4277,6 @@ https://grondwater.dronten.nl
 https://grondwater.krimpenerwaard.nl
 https://grondwater.noordoostpolder.nl
 https://groningen.nl
-https://grooster.reimerswaal.nl
 https://grootklooster.doemee.heemstede.nl
 https://growinggreencities.almere.nl
 https://guido.asten.nl
@@ -4592,7 +4592,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.reimerswaal.nl
 https://ibzpink.reuseldemierden.nl
 https://ibzpink.rheden.nl
 https://ibzpink.rijssen-holten.nl
@@ -8692,6 +8691,8 @@ https://winterswijk.nl
 https://witgoed.veldhoven.nl
 https://wiz.zaanstad.nl
 https://wizportaal.noord-beveland.nl
+https://wizportaal.reimerswaal.nl
+https://wizportaaltest.reimerswaal.nl
 https://wlc01.waterland.nl
 https://wmo.nijmegen.nl
 https://wmoacc.nijmegen.nl

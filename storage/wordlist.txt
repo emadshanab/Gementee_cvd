@@ -488,7 +488,6 @@ uitwijk
 testmijn
 download
 parkeren-siam-test
-grooster
 collecties
 inproces.test
 subsidies-login.acceptatie
@@ -630,6 +629,7 @@ servicebus
 webcon
 pkio1
 dvg
+grooster
 mbg2
 suite4burgerzaken-prod
 buitenoporde
@@ -1278,6 +1278,8 @@ insite
 Snelbalie
 preprod-mijnuitkering
 test.belastingportaal
+wizportaal
+wizportaaltest
 eformulieren-test
 helpmij
 test.open-formulieren
@@ -5240,8 +5242,6 @@ lv-brk
 primavera-acc
 primavera
 grmks05
-wizportaal
-wizportaaltest
 bbv-acceptatie
 bbv
 beheer.belastingbalie-acc
@@ -5603,7 +5603,6 @@ jccafsprakencloud
 oudebeeldbank
 acc-podiumd-pabc
 cms.doemee
-grmks03
 intercontent
 mdesk
 melddesk-test
