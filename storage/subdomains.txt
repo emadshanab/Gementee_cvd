@@ -957,6 +957,7 @@ acceptatie.participatiewebshop.emmen.nl
 acceptatie.peelenmaas.nl
 acceptatie.pekela.nl
 acceptatie.reimerswaal.nl
+acceptatie.renkum.nl
 acceptatie.rijssen-holten.nl
 acceptatie.rijswijk.nl
 acceptatie.schagen.nl
@@ -14278,6 +14279,7 @@ waarmerk.oss.nl
 waarmerk.overbetuwe.nl
 waarmerk.peelenmaas.nl
 waarmerk.pekela.nl
+waarmerk.renkum.nl
 waarmerk.roerdalen.nl
 waarmerk.scherpenzeel.nl
 waarmerk.simpelveld.nl
