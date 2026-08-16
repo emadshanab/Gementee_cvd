@@ -1,5 +1,7 @@
 http://autodiscover.renswoude.nl
+http://felix.renswoude.nl
 http://renswoude.nl
+http://simsite.renswoude.nl
 https://edienstenburgerzaken-test.renswoude.nl
 https://edienstenburgerzaken.renswoude.nl
 https://simcms.renswoude.nl

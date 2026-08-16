@@ -8,6 +8,7 @@ intranet.renswoude.nl
 mijndesktop.renswoude.nl
 preproductie.renswoude.nl
 renswoude.nl
+rwdvpn.renswoude.nl
 secure.renswoude.nl
 simcms.renswoude.nl
 simsite.renswoude.nl

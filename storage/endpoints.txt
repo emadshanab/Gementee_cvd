@@ -383,6 +383,7 @@ http://felix.deurne.nl
 http://felix.eemnes.nl
 http://felix.harlingen.nl
 http://felix.lingewaard.nl
+http://felix.renswoude.nl
 http://felix.sonenbreugel.nl
 http://felix.staphorst.nl
 http://felix.t-diel.nl
@@ -588,6 +589,7 @@ http://simsite.heeze-leende.nl
 http://simsite.landgraaf.nl
 http://simsite.montferland.info
 http://simsite.opmeer.nl
+http://simsite.renswoude.nl
 http://simsite.twenterand.nl
 http://sluiskwartier.deventer.nl
 http://snow-license.amsterdam.nl
