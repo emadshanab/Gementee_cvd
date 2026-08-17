@@ -106,6 +106,7 @@ _autodiscover._tcp.lisse.nl
 _autodiscover._tcp.montfoort.nl
 _autodiscover._tcp.oude-ijsselstreek.nl
 _autodiscover._tcp.reimerswaal.nl
+_autodiscover._tcp.reuseldemierden.nl
 _autodiscover._tcp.schiermonnikoog.nl
 _autodiscover._tcp.tubbergen.nl
 _autodiscover._tcp.urk.nl

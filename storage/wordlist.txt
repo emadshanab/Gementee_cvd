@@ -76,11 +76,11 @@ doemee
 denkmee
 flowmailer-tracking
 acc-podiumd-logs
+_autodiscover._tcp
 zaken
 hybrid
 podiumd-logs
 simcms-open
-_autodiscover._tcp
 preprodbroker
 connect
 acc-broker
