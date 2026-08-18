@@ -28,9 +28,9 @@ betalen
 dkd
 acc
 werkplek
+broker
 portal
 meldingen
-broker
 afspraak
 api.meldingen
 raad
@@ -55,14 +55,14 @@ formulier
 dacceptatiemidoffice
 dloket
 data
+openpdc
 belastingbalie
 dacceptatieloket
-openpdc
+openpub
 berichten
 enterpriseregistration
 remote
 dmidoffice
-openpub
 cmsoo
 loket.acceptatie
 omgevingsvisie
@@ -77,11 +77,11 @@ denkmee
 flowmailer-tracking
 acc-podiumd-logs
 _autodiscover._tcp
+preprodbroker
 zaken
 hybrid
 podiumd-logs
 simcms-open
-preprodbroker
 connect
 acc-broker
 acc-contact
@@ -92,6 +92,7 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
+keycloak
 notificaties
 cloudadapter
 klantcontact
@@ -105,7 +106,6 @@ acc-keycloak-admin
 acc-keycloak
 acc-zac
 contact
-keycloak
 objecten
 objecttypen
 openklant
@@ -199,6 +199,7 @@ maps
 api.openstad
 mailing
 gis
+woo
 sip
 test-digikoppeling
 localhost
@@ -219,7 +220,6 @@ onderzoek
 werkenvoor
 admin.openstad
 nieuwsbrief
-woo
 lyncdiscover
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -342,6 +342,7 @@ ondernemersloket
 openformulieren-test
 filetransfer
 eformulieren
+vergunningen
 squit2020publiceren
 stemvan
 liquit
@@ -420,7 +421,6 @@ magazine
 webservices
 router
 digitalebalie
-vergunningen
 testbelastingloket
 formulier-acc
 raadsinformatie
@@ -5611,6 +5611,9 @@ mijncultuurdocument
 mobilemail
 mobilemailtest
 mobilitytest
+preprod.vergunningen
+rheden-checker-preprod
+rheden-checker
 s2go
 s2gotest
 werkplek-test

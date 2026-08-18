@@ -3078,6 +3078,7 @@ broker.overbetuwe.nl
 broker.preprod.leudal.nl
 broker.purmerend.nl
 broker.raalte.nl
+broker.rheden.nl
 broker.roermond.nl
 broker.rotterdam.nl
 broker.stichtsevecht.nl
@@ -6073,6 +6074,7 @@ gemeenteraad.leiden.nl
 gemeenteraad.oegstgeest.nl
 gemeenteraad.olst-wijhe.nl
 gemeenteraad.oudewater.nl
+gemeenteraad.rheden.nl
 gemeenteraad.rotterdam.nl
 gemeenteraad.soest.nl
 gemeenteraad.stadskanaal.nl
@@ -8013,6 +8015,7 @@ keycloak.losser.nl
 keycloak.noordoostpolder.nl
 keycloak.oldenzaal.nl
 keycloak.oostgelre.nl
+keycloak.rheden.nl
 keycloak.roermond.nl
 keycloak.rotterdam.nl
 keycloak.zwolle.nl
@@ -10197,6 +10200,7 @@ openpdc.leiden.nl
 openpdc.noordwijk.nl
 openpdc.ommen.nl
 openpdc.pijnacker-nootdorp.nl
+openpdc.rheden.nl
 openpdc.ridderkerk.nl
 openpdc.rijssen-holten.nl
 openpdc.rozendaal.nl
@@ -10228,6 +10232,7 @@ openpub.leiden.nl
 openpub.noordwijk.nl
 openpub.ommen.nl
 openpub.pijnacker-nootdorp.nl
+openpub.rheden.nl
 openpub.ridderkerk.nl
 openpub.rijssen-holten.nl
 openpub.rozendaal.nl
@@ -11086,6 +11091,7 @@ preprod.rheden.nl
 preprod.smallingerland.nl
 preprod.terneuzen.nl
 preprod.tma.utrecht.nl
+preprod.vergunningen.rheden.nl
 preprod.vergunningintaker.bernheze.org
 preprod.vergunningintaker.hellendoorn.nl
 preprod.vergunningintaker.nunspeet.nl
@@ -11104,6 +11110,7 @@ preprodbroker.meppel.nl
 preprodbroker.midden-groningen.nl
 preprodbroker.nunspeet.nl
 preprodbroker.overbetuwe.nl
+preprodbroker.rheden.nl
 preprodbroker.stichtsevecht.nl
 preprodbroker.venray.nl
 preprodbroker.voorst.nl
@@ -11695,6 +11702,8 @@ rexs4sd.acceptatie.dantumadiel.frl
 rexs4sd.dantumadiel.frl
 rexs4sr.acceptatie.dantumadiel.frl
 rexs4sr.dantumadiel.frl
+rheden-checker-preprod.rheden.nl
+rheden-checker.rheden.nl
 rheden.nl
 rhenen.nl
 rhn-batch.rhenen.nl
@@ -14000,6 +14009,7 @@ vergunningen.dronten.nl
 vergunningen.duiven.nl
 vergunningen.groningen.nl
 vergunningen.leiden.nl
+vergunningen.rheden.nl
 vergunningen.westervoort.nl
 vergunningentoets.meppel.nl
 vergunningintaker-acceptatie.oldenzaal.nl
@@ -14905,6 +14915,7 @@ woo.hilversum.nl
 woo.krimpenerwaard.nl
 woo.laarbeek.nl
 woo.nunspeet.nl
+woo.rheden.nl
 woo.westerkwartier.nl
 wooloket.bernheze.org
 wooninstrumenten.almelo.nl
