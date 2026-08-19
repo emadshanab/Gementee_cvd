@@ -2755,7 +2755,6 @@ https://corsa-test.gemeente-steenbergen.nl
 https://corsa-test.loonopzand.nl
 https://corsa-test.woensdrecht.nl
 https://corsa-test.zundert.nl
-https://corsa.rhenen.nl
 https://cranendonck.nl
 https://crediteurenapp.rotterdam.nl
 https://crisis.hoorn.nl

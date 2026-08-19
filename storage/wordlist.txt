@@ -367,6 +367,7 @@ dkd-test
 msoid
 ro-online
 www.duurzaam
+testsiam
 mail1
 ns
 wion
@@ -445,7 +446,6 @@ secure-test
 mijnoverzicht
 rpl3
 test-zaakloket
-testsiam
 zaakloket
 2secure
 aovpn
@@ -475,6 +475,7 @@ preprod.vergunningintaker
 csc
 mbg1
 elokettest
+wmo
 wozloket
 jcccloud
 belastingportaal-test
@@ -529,6 +530,7 @@ www.mail
 prtg
 preprod-mijnsociaaldomein
 rds
+wmoloket
 acceptatie-intranet
 neuron
 nieuwsbrieven
@@ -608,7 +610,6 @@ intranet-stats
 testcms-intranet
 digid-parkeervergunningen
 simcms-duurzaam
-wmo
 testformulieren
 automator
 mijnzorg-test
@@ -726,7 +727,6 @@ www.login
 post
 www.parkeren
 testafspraken
-wmoloket
 berichtenverkeer
 e.doemee
 www.kaarten
@@ -756,6 +756,7 @@ key2datadistributie
 vacatures
 monitoring
 preprod-meedoen
+coda
 wozportaal
 cars
 aanvragenpreprod
@@ -1172,7 +1173,6 @@ testintranet
 welkombij
 siem
 geoloket
-coda
 sfbaccess
 sfbwebconf
 wlan
@@ -5620,9 +5620,11 @@ werkplek-test
 www.afspraakmaken
 baliealarm
 bestemmingsplan
+corsa01
 cpanel.samen
 cpcalendars.samen
 cpcontacts.samen
+dienstverlening
 mail.samen
 rhn-batch
 scans

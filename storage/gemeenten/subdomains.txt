@@ -3502,6 +3502,7 @@ coalitieprogramma.oldenzaal.nl
 coda-acc.nissewaard.nl
 coda.heusden.nl
 coda.nissewaard.nl
+coda.rhenen.nl
 code.intern.zandvoort.nl
 code.zandvoort.nl
 code2.zandvoort.nl
@@ -3679,6 +3680,7 @@ corsa.ad.ede.nl
 corsa.ede.nl
 corsa.montferland.info
 corsa.rhenen.nl
+corsa01.rhenen.nl
 corsa2022.gulpen-wittem.nl
 corsa2022tst.gulpen-wittem.nl
 corsa2023.gulpen-wittem.nl
@@ -4087,6 +4089,7 @@ diensten.ommen.nl
 diensten.purmerend.nl
 diensten.rotterdam.nl
 diensten.westmaasenwaal.nl
+dienstverlening.rhenen.nl
 dieuwke.defryskemarren.nl
 digeplan-inproces.overbetuwe.nl
 digi01.meerssen.nl
@@ -13481,6 +13484,7 @@ test.oss.nl
 test.ouder-amstel.nl
 test.peelenmaas.nl
 test.pekela.nl
+test.rhenen.nl
 test.rijssen-holten.nl
 test.rijswijk.nl
 test.schiedam.nl
@@ -13617,6 +13621,7 @@ testportal.utrecht.nl
 testsecure.lansingerland.nl
 testservices.kaagenbraassem.nl
 testsiam.ameland.nl
+testsiam.rhenen.nl
 testsiam.schiermonnikoog.nl
 testsiam.terschelling.nl
 testsiam.vlieland.nl
@@ -14837,11 +14842,13 @@ wlc.denhaag.nl
 wlc01.waterland.nl
 wmo.bloemendaal.nl
 wmo.nijmegen.nl
+wmo.rhenen.nl
 wmo.veenendaal.nl
 wmoacc.nijmegen.nl
 wmoloket.gemeentesluis.nl
 wmoloket.heuvelrug.nl
 wmoloket.olst-wijhe.nl
+wmoloket.rhenen.nl
 wmonedtest.veenendaal.nl
 wmonedversie.veenendaal.nl
 wmoservice.buren.nl
