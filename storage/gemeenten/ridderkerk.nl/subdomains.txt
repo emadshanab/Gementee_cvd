@@ -1,4 +1,5 @@
 college.ridderkerk.nl
+doemee.ridderkerk.nl
 edienstenaanvragensd-acceptatie.ridderkerk.nl
 edienstenaanvragensd.ridderkerk.nl
 edienstenburgerzaken-test.ridderkerk.nl
@@ -13,6 +14,7 @@ mijn.ridderkerk.nl
 openagenda.ridderkerk.nl
 openpdc.ridderkerk.nl
 openpub.ridderkerk.nl
+preprod-doemee.ridderkerk.nl
 preprod-mijn.ridderkerk.nl
 preproductie.ridderkerk.nl
 probeer.ridderkerk.nl

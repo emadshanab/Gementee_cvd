@@ -1,4 +1,5 @@
 https://college.ridderkerk.nl
+https://doemee.ridderkerk.nl
 https://edienstenaanvragensd-acceptatie.ridderkerk.nl
 https://edienstenaanvragensd.ridderkerk.nl
 https://edienstenburgerzaken-test.ridderkerk.nl
@@ -9,9 +10,11 @@ https://edienstverlening-preprod.ridderkerk.nl
 https://edienstverlening.ridderkerk.nl
 https://loket.acceptatie.ridderkerk.nl
 https://loket.ridderkerk.nl
+https://mijn.ridderkerk.nl
 https://openagenda.ridderkerk.nl
 https://openpdc.ridderkerk.nl
 https://openpub.ridderkerk.nl
+https://preprod-doemee.ridderkerk.nl
 https://preprod-mijn.ridderkerk.nl
 https://pv.ridderkerk.nl
 https://pwa.ridderkerk.nl
