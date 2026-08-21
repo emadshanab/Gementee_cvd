@@ -28,9 +28,9 @@ betalen
 dkd
 acc
 werkplek
+meldingen
 broker
 portal
-meldingen
 afspraak
 api.meldingen
 raad
@@ -41,9 +41,9 @@ test-ipa
 belastingen
 vpn
 werkenbij
+gemeenteraad
 testeloket
 adfs
-gemeenteraad
 enterpriseenrollment
 pv
 ruimtelijkeplannen
@@ -127,6 +127,7 @@ financien
 apps
 acc-ita
 bgt
+extranet
 samen
 cmsintranet
 subsidies
@@ -135,7 +136,6 @@ duurzaam
 bastion365
 ita
 office-addin
-extranet
 fmreturn
 govroam
 test-intranet
@@ -148,7 +148,6 @@ qr
 www.webmail
 filecap
 dtestmidoffice
-squit2go
 simform
 verkiezingen
 mijninkomen
@@ -156,6 +155,7 @@ dali
 preprod
 www.doemee
 gemeente
+squit2go
 test-cmsintranet
 ftp
 web
@@ -171,6 +171,7 @@ izaaksuite
 snelbaliepp
 vdi
 owa
+meedoen
 mdm
 cryptshare
 socialekaart
@@ -181,7 +182,6 @@ formulieren-test
 auth
 bag
 obsurv
-meedoen
 gasten
 smtp
 AutoDiscover
@@ -340,7 +340,6 @@ ris
 burgerloket
 ondernemersloket
 openformulieren-test
-filetransfer
 eformulieren
 vergunningen
 squit2020publiceren
@@ -418,6 +417,7 @@ subsidies-login
 ns2
 sport
 mijnzaken
+filetransfer
 magazine
 webservices
 router
@@ -547,6 +547,7 @@ rxlaunch-signicat-preprod
 vthbroker
 digitaal
 teleweb
+preprod-meedoen
 bezoekersparkeren-acc
 duoloket
 hta
@@ -734,7 +735,6 @@ www.mdm
 www.sharefile
 aaa
 preprod-belastingportaal
-squitxo
 magazines
 online
 handhavingtest
@@ -755,7 +755,6 @@ git
 key2datadistributie
 vacatures
 monitoring
-preprod-meedoen
 coda
 wozportaal
 cars
@@ -1038,7 +1037,9 @@ betaal
 mx3
 redirect
 geldwijzer
+api.meldingen.acceptatie
 mediabank
+meldingen.acceptatie
 mx
 allegro
 bijeenkomsten
@@ -1087,6 +1088,7 @@ belastingen-test
 test-meedoen
 snelbalievergunningen
 pkioverheid
+squitxo
 vergaderingen
 webservices-ot
 hpdm
@@ -3190,7 +3192,6 @@ www.gemnps01.intern
 www.infonet
 Inkomensbalie
 admanager.zaaksysteem
-api.meldingen.acceptatie
 beeldmateriaal
 buurt
 drupal
@@ -3202,7 +3203,6 @@ inloggen.mijnsubsidie
 inloggen.mijnsubsidie.test
 lv
 lv.test
-meldingen.acceptatie
 mijnsubsidie.test
 oco
 opname
@@ -5644,18 +5644,17 @@ www.zmm
 openagenda
 preprod-doemee
 bbty
+exo
 jcc-api
+jijmaakt
 mksora
 nieuwbouwzwembad
 omgevingsdocumenten
 persportaal
 pw-specificatie
-safenet
 sportenbeweeg
-squit2go-test
 taxivooriedereen
 timetell
-vpngw2.ns.portal
 afspraak-test
 berichten-test
 cloudconnector-test

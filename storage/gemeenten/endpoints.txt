@@ -45,7 +45,6 @@ http://afspraken.dalfsen.nl
 http://afspraken.gemeente-oldambt.nl
 http://afspraken.huizen.nl
 http://afspraken.reimerswaal.nl
-http://afspraken.rijssen-holten.nl
 http://afspraken.vaals.nl
 http://afspraken.zwartewaterland.nl
 http://aip.amsterdam.nl
@@ -231,6 +230,7 @@ http://autodiscover.renkum.nl
 http://autodiscover.renswoude.nl
 http://autodiscover.rheden.nl
 http://autodiscover.rhenen.nl
+http://autodiscover.rijssen-holten.nl
 http://autodiscover.rijswijk.nl
 http://autodiscover.roermond.nl
 http://autodiscover.roosendaal.nl
@@ -1386,7 +1386,6 @@ https://adfs.gorinchem.nl
 https://adfs.hellendoorn.nl
 https://adfs.landgraaf.nl
 https://adfs.leudal.nl
-https://adfs.rijssen-holten.nl
 https://adfs.simpelveld.nl
 https://adfs.voerendaal.nl
 https://adfslogin.defryskemarren.nl
@@ -1700,6 +1699,7 @@ https://api.meldingen-acc.zoeterwoude.nl
 https://api.meldingen-acc.zundert.nl
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.acceptatie.eindhoven.nl
+https://api.meldingen.acceptatie.rijssen-holten.nl
 https://api.meldingen.accp.s-hertogenbosch.nl
 https://api.meldingen.almere.nl
 https://api.meldingen.alphenaandenrijn.nl
@@ -1735,6 +1735,7 @@ https://api.meldingen.oostgelre.nl
 https://api.meldingen.oss.nl
 https://api.meldingen.purmerend.nl
 https://api.meldingen.raalte.nl
+https://api.meldingen.rijssen-holten.nl
 https://api.meldingen.roermond.nl
 https://api.meldingen.s-hertogenbosch.nl
 https://api.meldingen.test.purmerend.nl
@@ -1922,7 +1923,6 @@ https://autodiscover.losser.nl
 https://autodiscover.ombudsman.groningen.nl
 https://autodiscover.os.groningen.nl
 https://autodiscover.peelenmaas.nl
-https://autodiscover.rijssen-holten.nl
 https://autodiscover.sittard-geleen.nl
 https://autodiscover.tynaarlo.nl
 https://autodiscover.valkenburg.nl
@@ -1967,7 +1967,6 @@ https://bastion365.teylingen.nl
 https://bastion365.tilburg.nl
 https://bastion365.venlo.nl
 https://bastion365.weert.nl
-https://bbty.rijssen-holten.nl
 https://bbz-ioaz.rotterdam.nl
 https://bec.acc.topdesk.denhaag.nl
 https://bec.ot.topdesk.denhaag.nl
@@ -3795,7 +3794,6 @@ https://filecap.wierden.nl
 https://filecapacc.breda.nl
 https://files.soeb.tst.amsterdam.nl
 https://filetransfer.gennep.nl
-https://filetransfer.rijssen-holten.nl
 https://financials-acc.apeldoorn.nl
 https://financials.apeldoorn.nl
 https://financialstest.derondevenen.nl
@@ -4079,6 +4077,7 @@ https://gemeenteraad.oegstgeest.nl
 https://gemeenteraad.olst-wijhe.nl
 https://gemeenteraad.oudewater.nl
 https://gemeenteraad.rheden.nl
+https://gemeenteraad.rijssen-holten.nl
 https://gemeenteraad.rotterdam.nl
 https://gemeenteraad.soest.nl
 https://gemeenteraad.stadskanaal.nl
@@ -4599,7 +4598,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.rijssen-holten.nl
 https://ibzpink.rozendaal.nl
 https://ibzpink.schagen.nl
 https://ibzpink.smallingerland.nl
@@ -4958,7 +4956,6 @@ https://janvanzanen.denhaag.nl
 https://jbt.denhaag.nl
 https://jbt.dev.denhaag.nl
 https://jbt.test.denhaag.nl
-https://jcc-api.rijssen-holten.nl
 https://jcc.bergenopzoom.nl
 https://jcc.heerlen.nl
 https://jcc.loonopzand.nl
@@ -4977,6 +4974,7 @@ https://jeugdombudsman.acc.denhaag.nl
 https://jeugdombudsman.denhaag.nl
 https://jeugdplein.veendam.nl
 https://jf.doemee.heemstede.nl
+https://jijmaakt.rijssen-holten.nl
 https://jijmaaktdebuurt.openstad.enschede.nl
 https://jip.hofvantwente.nl
 https://jip.vijfheerenlanden.nl
@@ -5418,7 +5416,6 @@ https://mail.gennep.nl
 https://mail.heemstede.nl
 https://mail.lopik.nl
 https://mail.peelenmaas.nl
-https://mail.rijssen-holten.nl
 https://mail.vlaardingen.nl
 https://mail.vught.nl
 https://mail2.vught.nl
@@ -5497,6 +5494,7 @@ https://meedoen.hellendoorn.nl
 https://meedoen.hollandskroon.nl
 https://meedoen.losser.nl
 https://meedoen.noordwijk.nl
+https://meedoen.rijssen-holten.nl
 https://meedoen.schagen.nl
 https://meedoen.venray.nl
 https://meedoen.waalwijk.nl
@@ -5545,6 +5543,7 @@ https://meldingen.aaenhunze.nl
 https://meldingen.acc.almelo.nl
 https://meldingen.acc.denhaag.nl
 https://meldingen.acceptatie.eindhoven.nl
+https://meldingen.acceptatie.rijssen-holten.nl
 https://meldingen.accp.s-hertogenbosch.nl
 https://meldingen.almelo.nl
 https://meldingen.almere.nl
@@ -5583,6 +5582,7 @@ https://meldingen.oostgelre.nl
 https://meldingen.oss.nl
 https://meldingen.purmerend.nl
 https://meldingen.raalte.nl
+https://meldingen.rijssen-holten.nl
 https://meldingen.roermond.nl
 https://meldingen.s-hertogenbosch.nl
 https://meldingen.test.purmerend.nl
@@ -5957,7 +5957,6 @@ https://mivbxsrvr.gorinchem.nl
 https://mk01.hellevoetsluis.nl
 https://mks.amsterdam.nl
 https://mks.test.amsterdam.nl
-https://mksora.rijssen-holten.nl
 https://mlo-ws.acc.rotterdam.nl
 https://mlo-ws.rotterdam.nl
 https://mmc.formulieren.acc.amsterdam.nl
@@ -6070,7 +6069,6 @@ https://ngsrv02.ad.winterswijk.nl
 https://nicewfm.utrecht.nl
 https://nietrnaast.rotterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
-https://nieuwbouwzwembad.rijssen-holten.nl
 https://nieuwegein.nl
 https://nieuwkomers.arnhem.nl
 https://nieuwkomers.zaanstad.nl
@@ -6839,7 +6837,6 @@ https://portal.heerenveen.nl
 https://portal.helmond.nl
 https://portal.olst-wijhe.nl
 https://portal.pekela.nl
-https://portal.rijssen-holten.nl
 https://portal.sittard-geleen.nl
 https://portal.stadskanaal.nl
 https://portal.sudwestfryslan.nl
@@ -6903,6 +6900,7 @@ https://preprod-loket.gemeenteberkelland.nl
 https://preprod-meedoen.hellendoorn.nl
 https://preprod-meedoen.hollandskroon.nl
 https://preprod-meedoen.noordwijk.nl
+https://preprod-meedoen.rijssen-holten.nl
 https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
 https://preprod-mijn.defryskemarren.nl
@@ -7727,7 +7725,6 @@ https://squit2020publiceren.winterswijk.nl
 https://squit2go.valkenburg.nl
 https://squit2go.wijdemeren.nl
 https://squitxo-test.schagen.nl
-https://squitxo.rijssen-holten.nl
 https://squitxo.schagen.nl
 https://ssdbeheer-acc.hoorn.nl
 https://ssdbeheer.hoorn.nl
@@ -8173,7 +8170,6 @@ https://tiles.zaanstad.nl
 https://tim-app.veere.nl
 https://tim.maassluis.nl
 https://tim.woensdrecht.nl
-https://timetell.rijssen-holten.nl
 https://tjooner.gulpen-wittem.nl
 https://tloket.oostzaan.nl
 https://tloket.wormerland.nl
@@ -8415,7 +8411,6 @@ https://vpn.rotterdam.nl
 https://vpn.terneuzen.nl
 https://vpn.zoetermeer.nl
 https://vpn365.denhelder.nl
-https://vpngw2.ns.portal.rijssen-holten.nl
 https://vpsweb.veere.nl
 https://vraagbaak.doesburg.nl
 https://vraaghulp.acc.nijmegen.nl

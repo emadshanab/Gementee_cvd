@@ -1059,7 +1059,6 @@ adfs.overbetuwe.nl
 adfs.peelenmaas.nl
 adfs.pijnacker-nootdorp.nl
 adfs.purmerend.nl
-adfs.rijssen-holten.nl
 adfs.simpelveld.nl
 adfs.voerendaal.nl
 adfs.voorst.nl
@@ -1633,6 +1632,7 @@ api.meldingen-acc.zoeterwoude.nl
 api.meldingen-acc.zundert.nl
 api.meldingen.aaenhunze.nl
 api.meldingen.acceptatie.eindhoven.nl
+api.meldingen.acceptatie.rijssen-holten.nl
 api.meldingen.accp.s-hertogenbosch.nl
 api.meldingen.almere.nl
 api.meldingen.alphenaandenrijn.nl
@@ -1670,6 +1670,7 @@ api.meldingen.oostgelre.nl
 api.meldingen.oss.nl
 api.meldingen.purmerend.nl
 api.meldingen.raalte.nl
+api.meldingen.rijssen-holten.nl
 api.meldingen.roermond.nl
 api.meldingen.s-hertogenbosch.nl
 api.meldingen.test.purmerend.nl
@@ -5462,6 +5463,7 @@ exo-mrs02.rotterdam.nl
 exo-mrs03.rotterdam.nl
 exo-mrs04.rotterdam.nl
 exo-smtp.rotterdam.nl
+exo.rijssen-holten.nl
 exoconnect.denhaag.nl
 extern.borger-odoorn.nl
 extern.emmen.nl
@@ -5483,6 +5485,7 @@ extranet.hethogeland.nl
 extranet.heuvelrug.nl
 extranet.montferland.info
 extranet.opmeer.nl
+extranet.rijssen-holten.nl
 extranet.tholen.nl
 extranet.valkenburg.nl
 extranet.valkenswaard.nl
@@ -5610,7 +5613,6 @@ fileshare.westerkwartier.nl
 filetransfer.dijkenwaard.nl
 filetransfer.gennep.nl
 filetransfer.middendelfland.nl
-filetransfer.rijssen-holten.nl
 filetransfer.scherpenzeel.nl
 filetransfer.waddinxveen.nl
 filr.derondevenen.nl
@@ -6079,6 +6081,7 @@ gemeenteraad.oegstgeest.nl
 gemeenteraad.olst-wijhe.nl
 gemeenteraad.oudewater.nl
 gemeenteraad.rheden.nl
+gemeenteraad.rijssen-holten.nl
 gemeenteraad.rotterdam.nl
 gemeenteraad.soest.nl
 gemeenteraad.stadskanaal.nl
@@ -7735,6 +7738,7 @@ jeugdombudsman.acc.denhaag.nl
 jeugdombudsman.denhaag.nl
 jeugdplein.veendam.nl
 jf.doemee.heemstede.nl
+jijmaakt.rijssen-holten.nl
 jijmaaktdebuurt.openstad.enschede.nl
 jimintranet.middendelfland.nl
 jip.hofvantwente.nl
@@ -8768,6 +8772,7 @@ meedoen.hellendoorn.nl
 meedoen.hollandskroon.nl
 meedoen.losser.nl
 meedoen.noordwijk.nl
+meedoen.rijssen-holten.nl
 meedoen.schagen.nl
 meedoen.venray.nl
 meedoen.waalwijk.nl
@@ -8836,6 +8841,7 @@ meldingen.aaenhunze.nl
 meldingen.acc.almelo.nl
 meldingen.acc.denhaag.nl
 meldingen.acceptatie.eindhoven.nl
+meldingen.acceptatie.rijssen-holten.nl
 meldingen.accp.s-hertogenbosch.nl
 meldingen.almelo.nl
 meldingen.almere.nl
@@ -8878,6 +8884,7 @@ meldingen.oostgelre.nl
 meldingen.oss.nl
 meldingen.purmerend.nl
 meldingen.raalte.nl
+meldingen.rijssen-holten.nl
 meldingen.roermond.nl
 meldingen.s-hertogenbosch.nl
 meldingen.test.purmerend.nl
@@ -10882,7 +10889,6 @@ portal.overbetuwe.nl
 portal.peelenmaas.nl
 portal.pekela.nl
 portal.reuseldemierden.nl
-portal.rijssen-holten.nl
 portal.roerdalen.nl
 portal.roermond.nl
 portal.sittard-geleen.nl
@@ -11015,6 +11021,7 @@ preprod-loket.gemeenteberkelland.nl
 preprod-meedoen.hellendoorn.nl
 preprod-meedoen.hollandskroon.nl
 preprod-meedoen.noordwijk.nl
+preprod-meedoen.rijssen-holten.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
 preprod-mijn.defryskemarren.nl
@@ -11855,7 +11862,6 @@ s4.gemeentesluis.nl
 saaedepot-1.tst.amsterdam.nl
 saaedepot-storage.amsterdam.nl
 saas.vught.nl
-safenet.rijssen-holten.nl
 salto.heerlen.nl
 sambeek.landvancuijk.nl
 samen.beekdaelen.nl
@@ -12755,7 +12761,6 @@ squit2go-acc.waadhoeke.nl
 squit2go-backoffice.castricum.nl
 squit2go-backoffice.enschede.nl
 squit2go-beheer-acc.waadhoeke.nl
-squit2go-test.rijssen-holten.nl
 squit2go.castricum.nl
 squit2go.enschede.nl
 squit2go.gemeentebest.nl
@@ -12766,7 +12771,6 @@ squit2go.medemblik.nl
 squit2go.montferland.info
 squit2go.oldenzaal.nl
 squit2go.purmerend.nl
-squit2go.rijssen-holten.nl
 squit2go.twenterand.nl
 squit2go.valkenburg.nl
 squit2go.veere.nl
@@ -12785,7 +12789,6 @@ squitxo-server-service.montferland.info
 squitxo-test.schagen.nl
 squitxo-tst.gemeentewestland.nl
 squitxo.goirle.nl
-squitxo.rijssen-holten.nl
 squitxo.schagen.nl
 squitxotest.goirle.nl
 srmvaprd.ovh.gemeentebeek.nl
@@ -14189,7 +14192,6 @@ vpn.zuid.amsterdam.nl
 vpn.zwartewaterland.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
-vpngw2.ns.portal.rijssen-holten.nl
 vps.gemeentemaasgouw.nl
 vpsweb.veere.nl
 vraagbaak.doesburg.nl
