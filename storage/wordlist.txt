@@ -59,10 +59,10 @@ openpdc
 belastingbalie
 dacceptatieloket
 openpub
-berichten
 enterpriseregistration
 remote
 dmidoffice
+berichten
 cmsoo
 loket.acceptatie
 omgevingsvisie
@@ -211,6 +211,7 @@ contentbeheer.acceptatie
 zaken.acceptatie
 transfer
 bestuur
+www.samen
 mx1
 zaaksysteem
 simform-preproductie
@@ -233,7 +234,6 @@ inproces.acceptatie
 outlook
 vth
 testloket
-www.samen
 mx2
 mijn-preproductie
 drop
@@ -442,9 +442,7 @@ www2
 www.acceptatie
 de
 servicedesk
-secure-test
 mijnoverzicht
-rpl3
 test-zaakloket
 zaakloket
 2secure
@@ -570,10 +568,12 @@ mijn-test
 3d
 english
 planon
+secure-test
 stadsarchief
 subsidies-acc
 digitaalnachtregister
 css.openstad
+rpl3
 activesync
 crl
 energieloket
@@ -779,6 +779,8 @@ mijnsociaaldomein-acc
 lokettest
 ews
 pda
+kadernota
+raadzaam
 digitalebelastingbalie
 regelgeving
 parkeerloket
@@ -1256,7 +1258,6 @@ smtp01
 qr-test
 mijnhulp
 ggk-koppeling
-kadernota
 regieportaal
 zorg-acc
 portaaltest
@@ -1273,7 +1274,6 @@ services-test
 vvd
 exch
 huisnet
-raadzaam
 domain-admin
 formulier.accp
 insite
@@ -1298,6 +1298,7 @@ ondernemersloket.acceptatie
 mijnwerkplek
 www.auth
 mijnpost
+najaarsnota
 gplan
 analytics
 cloudconnector
@@ -5536,7 +5537,6 @@ anyware
 jaarstukken2019
 kadernota2020
 kadernota2021
-najaarsnota
 najaarsnota2019
 najaarsnota2020
 pre-prod.digitalebalie
@@ -5656,13 +5656,14 @@ sportenbeweeg
 taxivooriedereen
 timetell
 afspraak-test
-berichten-test
 cloudconnector-test
 emagazine2030
 foto-bo
 keerpunt
 mijnhulpvraag
 simform-test
+slechtvalk
+slotwijziging
 test.mijnhulpvraag
 voorjaarsnota
 krachtigedorpen
