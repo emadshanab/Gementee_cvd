@@ -9339,6 +9339,8 @@ minimi.vlaardingen.nl
 mintra.mookenmiddelaar.nl
 mirror.kampen.nl
 mis.waterland.nl
+misentry.roerdalen.nl
+misentry2.roerdalen.nl
 mitel.voorst.nl
 mivbxsrvr.gorinchem.nl
 mk01.hellevoetsluis.nl
@@ -10112,6 +10114,7 @@ open.oirschot.nl
 open.oude-ijsselstreek.nl
 open.oudewater.nl
 open.rhenen.nl
+open.roerdalen.nl
 open.roosendaal.nl
 open.schouwen-duiveland.nl
 open.sint-michielsgestel.nl
@@ -12242,6 +12245,7 @@ simcms-open.meerssen.nl
 simcms-open.middendelfland.nl
 simcms-open.nuenen.nl
 simcms-open.oirschot.nl
+simcms-open.roerdalen.nl
 simcms-open.sonenbreugel.nl
 simcms-open.staphorst.nl
 simcms-open.westmaasenwaal.nl

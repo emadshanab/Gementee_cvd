@@ -11,6 +11,9 @@ edienstenburgerzaken.roerdalen.nl
 intranet.roerdalen.nl
 krachtigedorpen.roerdalen.nl
 mail.roerdalen.nl
+misentry.roerdalen.nl
+misentry2.roerdalen.nl
+open.roerdalen.nl
 outlook.roerdalen.nl
 portal.roerdalen.nl
 preproductie.roerdalen.nl
@@ -20,6 +23,7 @@ roerdalen-checker.roerdalen.nl
 roerdalen.nl
 secure.roerdalen.nl
 service.roerdalen.nl
+simcms-open.roerdalen.nl
 simcms.roerdalen.nl
 simsite.roerdalen.nl
 vergunningintaker.preprod.roerdalen.nl

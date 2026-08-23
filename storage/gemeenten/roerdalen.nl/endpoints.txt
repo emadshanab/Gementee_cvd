@@ -1,3 +1,5 @@
+http://autodiscover.roerdalen.nl
+http://open.roerdalen.nl
 http://simcms.roerdalen.nl
 https://authenticatiedienst.preprod.roerdalen.nl
 https://authenticatiedienst.roerdalen.nl
@@ -6,6 +8,7 @@ https://edienstenburgerzaken.roerdalen.nl
 https://roerdalen-checker-preprod.roerdalen.nl
 https://roerdalen-checker.roerdalen.nl
 https://roerdalen.nl
+https://simcms-open.roerdalen.nl
 https://vergunningintaker.preprod.roerdalen.nl
 https://vergunningintaker.roerdalen.nl
 https://www.roerdalen.nl

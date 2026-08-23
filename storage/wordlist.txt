@@ -76,12 +76,12 @@ beeldbank
 denkmee
 flowmailer-tracking
 acc-podiumd-logs
+simcms-open
 _autodiscover._tcp
 preprodbroker
 zaken
 hybrid
 podiumd-logs
-simcms-open
 connect
 acc-broker
 acc-contact
@@ -5667,6 +5667,8 @@ slotwijziging
 test.mijnhulpvraag
 voorjaarsnota
 krachtigedorpen
+misentry
+misentry2
 roerdalen-checker-preprod
 roerdalen-checker
 ws013

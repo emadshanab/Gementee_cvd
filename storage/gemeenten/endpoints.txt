@@ -232,6 +232,7 @@ http://autodiscover.rheden.nl
 http://autodiscover.rhenen.nl
 http://autodiscover.rijssen-holten.nl
 http://autodiscover.rijswijk.nl
+http://autodiscover.roerdalen.nl
 http://autodiscover.roermond.nl
 http://autodiscover.roosendaal.nl
 http://autodiscover.rozendaal.nl
@@ -494,6 +495,7 @@ http://open.echt-susteren.nl
 http://open.gemeentebeek.nl
 http://open.lingewaard.nl
 http://open.oirschot.nl
+http://open.roerdalen.nl
 http://open.sonenbreugel.nl
 http://open.staphorst.nl
 http://open.wierden.nl
@@ -7477,6 +7479,7 @@ https://simcms-open.lingewaard.nl
 https://simcms-open.middendelfland.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.oirschot.nl
+https://simcms-open.roerdalen.nl
 https://simcms-open.staphorst.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
