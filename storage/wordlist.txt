@@ -26,8 +26,8 @@ eloket
 waarmerk
 betalen
 dkd
-acc
 werkplek
+acc
 meldingen
 broker
 portal
@@ -104,6 +104,7 @@ api.betalen
 parkeren-acc
 acc-keycloak-admin
 acc-keycloak
+acc-office-addin
 acc-zac
 contact
 objecten
@@ -117,7 +118,7 @@ piwik
 mks
 abc
 acc-abc
-acc-office-addin
+acc-ita
 keycloak-admin
 zac
 pki
@@ -125,8 +126,9 @@ dtestloket
 siam
 financien
 apps
-acc-ita
 bgt
+ita
+office-addin
 extranet
 samen
 cmsintranet
@@ -134,8 +136,6 @@ subsidies
 snelbalie
 duurzaam
 bastion365
-ita
-office-addin
 fmreturn
 govroam
 test-intranet
@@ -174,6 +174,7 @@ owa
 meedoen
 mdm
 cryptshare
+acc-pabc
 socialekaart
 gisib
 veiligdelen
@@ -190,7 +191,6 @@ bor
 inproces
 mta-sts
 acceptatie-open
-acc-pabc
 geoportaal
 college
 geodata
@@ -1288,6 +1288,7 @@ test.open-formulieren
 gem
 robuust
 docs
+pabc
 www.dloket
 mijnzorgacc
 psiam
@@ -5356,7 +5357,6 @@ klickwion
 local
 mks-prod
 mob
-pabc
 revprox-acc
 revprox
 revprox01
@@ -5678,11 +5678,13 @@ intro-acc
 intro
 introcms-acc
 introcms
+mijnberichtenbox
 museumcollecties
 securegemnet
 ssl
 stadswinkel
 teradek
+www.belastingen
 www.historiehuis
 idee
 login-acc

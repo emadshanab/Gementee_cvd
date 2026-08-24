@@ -317,6 +317,7 @@ acc-ita.losser.nl
 acc-ita.noordoostpolder.nl
 acc-ita.oldenzaal.nl
 acc-ita.oostgelre.nl
+acc-ita.roermond.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -469,6 +470,7 @@ acc-office-addin.losser.nl
 acc-office-addin.noordoostpolder.nl
 acc-office-addin.oldenzaal.nl
 acc-office-addin.oostgelre.nl
+acc-office-addin.roermond.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -530,6 +532,7 @@ acc-pabc.laarbeek.nl
 acc-pabc.noordoostpolder.nl
 acc-pabc.oldenzaal.nl
 acc-pabc.oostgelre.nl
+acc-pabc.roermond.nl
 acc-podiumd-abc.deventer.nl
 acc-podiumd-abc.olst-wijhe.nl
 acc-podiumd-abc.raalte.nl
@@ -7638,6 +7641,7 @@ ita.losser.nl
 ita.noordoostpolder.nl
 ita.oldenzaal.nl
 ita.oostgelre.nl
+ita.roermond.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -8578,7 +8582,6 @@ mail.rhenen.nl
 mail.rijssen-holten.nl
 mail.rijswijk.nl
 mail.roerdalen.nl
-mail.roermond.nl
 mail.rotterdam.nl
 mail.s-hertogenbosch.nl
 mail.samen.rhenen.nl
@@ -9132,6 +9135,7 @@ mijnafval.valkenburg.nl
 mijnbbsuo.soest.nl
 mijnbelastingen.vught.nl
 mijnbereikbaarheid.rotterdam.nl
+mijnberichtenbox.roermond.nl
 mijnbetaling.sudwestfryslan.nl
 mijncultuurdocument.rheden.nl
 mijndesktop.renswoude.nl
@@ -9890,6 +9894,7 @@ office-addin.losser.nl
 office-addin.noordoostpolder.nl
 office-addin.oldenzaal.nl
 office-addin.oostgelre.nl
+office-addin.roermond.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -10430,6 +10435,7 @@ p.amsterdam.nl
 p8-test.zwolle.nl
 p8.zwolle.nl
 pabc.oostgelre.nl
+pabc.roermond.nl
 packages.sudwestfryslan.nl
 pakketvergunning.peelenmaas.nl
 panel.almere.nl
@@ -10893,7 +10899,6 @@ portal.peelenmaas.nl
 portal.pekela.nl
 portal.reuseldemierden.nl
 portal.roerdalen.nl
-portal.roermond.nl
 portal.sittard-geleen.nl
 portal.stadskanaal.nl
 portal.sudwestfryslan.nl
@@ -14706,6 +14711,7 @@ werkplek.overbetuwe.nl
 werkplek.ovh.gemeentebeek.nl
 werkplek.peelenmaas.nl
 werkplek.rheden.nl
+werkplek.roermond.nl
 werkplek.roosendaal.nl
 werkplek.rucphen.nl
 werkplek.schagen.nl
@@ -15115,6 +15121,7 @@ www.belastingbalie.acc.rhenen.nl
 www.belastingbalie.ede.nl
 www.belastingbalie.gemeentewestland.nl
 www.belastingbalie.rhenen.nl
+www.belastingen.roermond.nl
 www.belastingloket.lingewaard.nl
 www.belastingloket.overbetuwe.nl
 www.belastingportaal.opmeer.nl

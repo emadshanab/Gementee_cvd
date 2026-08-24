@@ -406,7 +406,6 @@ http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
 http://geo.krimpenerwaard.nl
 http://geo.rheden.nl
-http://geo.roermond.nl
 http://geocortex.krimpenerwaard.nl
 http://geoportal.weert.nl
 http://gisib-a.utrecht.nl
@@ -431,7 +430,6 @@ http://intranet.leudal.nl
 http://intranet.peelenmaas.nl
 http://intranetcms-acc.landvancuijk.nl
 http://intranetcms-test.nissewaard.nl
-http://intro-acc.roermond.nl
 http://intunecollector.amsterdam.nl
 http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
@@ -915,6 +913,7 @@ https://acc-ita.losser.nl
 https://acc-ita.noordoostpolder.nl
 https://acc-ita.oldenzaal.nl
 https://acc-ita.oostgelre.nl
+https://acc-ita.roermond.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
 https://acc-keycloak-admin.emmen.nl
@@ -1057,6 +1056,7 @@ https://acc-office-addin.losser.nl
 https://acc-office-addin.noordoostpolder.nl
 https://acc-office-addin.oldenzaal.nl
 https://acc-office-addin.oostgelre.nl
+https://acc-office-addin.roermond.nl
 https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
@@ -1113,6 +1113,7 @@ https://acc-pabc.laarbeek.nl
 https://acc-pabc.noordoostpolder.nl
 https://acc-pabc.oldenzaal.nl
 https://acc-pabc.oostgelre.nl
+https://acc-pabc.roermond.nl
 https://acc-podiumd-abc.deventer.nl
 https://acc-podiumd-abc.olst-wijhe.nl
 https://acc-podiumd-abc.raalte.nl
@@ -4881,6 +4882,7 @@ https://intranetcms.waalwijk.nl
 https://intranetdekompanjie.veendam.nl
 https://intranetprod.wageningen.nl
 https://intraweb.nederbetuwe.nl
+https://intro-acc.roermond.nl
 https://intro.roermond.nl
 https://introcms-acc.roermond.nl
 https://introcms.roermond.nl
@@ -4917,6 +4919,7 @@ https://ita.losser.nl
 https://ita.noordoostpolder.nl
 https://ita.oldenzaal.nl
 https://ita.oostgelre.nl
+https://ita.roermond.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -5781,6 +5784,7 @@ https://mijnafval.meerssen.nl
 https://mijnafval.valkenburg.nl
 https://mijnbbsuo.soest.nl
 https://mijnbelastingen.vught.nl
+https://mijnberichtenbox.roermond.nl
 https://mijnbetaling.sudwestfryslan.nl
 https://mijnevenement-authenticatie-staging.gemeente-steenbergen.nl
 https://mijnevenement-authenticatie.gemeente-steenbergen.nl
@@ -6025,7 +6029,6 @@ https://mta-sts.vught.nl
 https://mta-sts.westervoort.nl
 https://mta-sts.woudenberg.nl
 https://mta-sts.zevenaar.nl
-https://museumcollecties.roermond.nl
 https://mx.oss.nl
 https://mx01.haarlem.nl
 https://my-lex.hofvantwente.nl
@@ -6231,6 +6234,7 @@ https://office-addin.losser.nl
 https://office-addin.noordoostpolder.nl
 https://office-addin.oldenzaal.nl
 https://office-addin.oostgelre.nl
+https://office-addin.roermond.nl
 https://ogt.rotterdam.nl
 https://oig.deurne.nl
 https://ois.accp.s-hertogenbosch.nl
@@ -6583,6 +6587,7 @@ https://ows-emssapi-test.groningen.nl
 https://ows.gis.rotterdam.nl
 https://p.amsterdam.nl
 https://pabc.oostgelre.nl
+https://pabc.roermond.nl
 https://papendrecht-checker-preprod.papendrecht.nl
 https://papendrecht-checker.papendrecht.nl
 https://papendrecht.nl
@@ -7415,7 +7420,6 @@ https://secure1ev.weert.nl
 https://secure1t.weert.nl
 https://securenetwork.nijkerk.eu
 https://securetest.gemeentewestland.nl
-https://securetest.roermond.nl
 https://seg.leudal.nl
 https://selfserviceportal.westerkwartier.nl
 https://seniorenraad.acc.nijmegen.nl
@@ -7739,7 +7743,6 @@ https://squitxo-test.schagen.nl
 https://squitxo.schagen.nl
 https://ssdbeheer-acc.hoorn.nl
 https://ssdbeheer.hoorn.nl
-https://ssl.roermond.nl
 https://sslvpn.geertruidenberg.nl
 https://sslvpn.haarlem.nl
 https://sso.ir.rotterdam.nl
@@ -8642,6 +8645,7 @@ https://werkplek.leusden.nl
 https://werkplek.moerdijk.nl
 https://werkplek.montferland.info
 https://werkplek.nederweert.nl
+https://werkplek.roermond.nl
 https://werkplek.roosendaal.nl
 https://werkplek.rucphen.nl
 https://werkplek.schagen.nl
