@@ -725,6 +725,7 @@ http://www.zomerprogramma070.denhaag.nl
 http://www.zorgloket.druten.nl
 http://www.zuidwestopznbest.denhaag.nl
 http://yutpa.dev.rnd.amsterdam.nl
+http://zaaksysteem-accept.roosendaal.nl
 http://zandweerdstroomt.deventer.nl
 http://zandweteringpark.deventer.nl
 http://zgw.denhaag.nl
@@ -5464,7 +5465,6 @@ https://mataf.rotterdam.nl
 https://matenpark.apeldoorn.nl
 https://matomo.breda.nl
 https://matomo.haarlem.nl
-https://matomo.roosendaal.nl
 https://mbg1.beverwijk.nl
 https://mbg1.dantumadiel.frl
 https://mbg1.noardeast-fryslan.nl
@@ -6693,6 +6693,7 @@ https://participatie.aalsmeer.nl
 https://participatie.hollandskroon.nl
 https://participatie.meierijstad.nl
 https://participatie.nederbetuwe.nl
+https://participatie.roosendaal.nl
 https://participatietool-acc.nijmegen.nl
 https://participatietool.nijmegen.nl
 https://passbolt.terneuzen.nl
@@ -9185,6 +9186,7 @@ https://www.ouder-amstel.nl
 https://www.oudewater.nl
 https://www.papendrecht.nl
 https://www.parkeren.sudwestfryslan.nl
+https://www.participatie.roosendaal.nl
 https://www.peelenmaas.nl
 https://www.pekela.nl
 https://www.pijnacker-nootdorp.nl
@@ -9430,7 +9432,6 @@ https://zaaksysteem-accept.moerdijk.nl
 https://zaaksysteem-accept.noordwijk.nl
 https://zaaksysteem-accept.ommen.nl
 https://zaaksysteem-accept.oude-ijsselstreek.nl
-https://zaaksysteem-accept.roosendaal.nl
 https://zaaksysteem-accept.schiedam.nl
 https://zaaksysteem-accept.schouwen-duiveland.nl
 https://zaaksysteem-accept.stichtsevecht.nl

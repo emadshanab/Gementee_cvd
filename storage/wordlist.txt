@@ -304,6 +304,7 @@ afspraakmaken
 aeolus
 mijnsociaaldomein
 midoffice
+participatie
 geovisia
 gisib-test
 gisibapi-test
@@ -356,7 +357,6 @@ woz
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
-participatie
 raadsnet
 toegang
 zoeken
@@ -1288,6 +1288,7 @@ test.open-formulieren
 gem
 robuust
 docs
+local
 pabc
 www.dloket
 mijnzorgacc
@@ -5354,7 +5355,6 @@ glapp39.local
 glexc01.local
 glexc02.local
 klickwion
-local
 mks-prod
 mob
 revprox-acc
@@ -5689,6 +5689,7 @@ www.historiehuis
 idee
 login-acc
 www.idee
+www.participatie
 acc.stadsarchief
 acceptatie.mijnkbr
 acis005.ise

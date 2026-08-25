@@ -8259,6 +8259,7 @@ lliam-test.zoetermeer.nl
 lliam.zoetermeer.nl
 lms.veere.nl
 local.oostgelre.nl
+local.roosendaal.nl
 localhost.barneveld.nl
 localhost.borger-odoorn.nl
 localhost.ede.nl
@@ -10606,6 +10607,7 @@ participatie.haarlemmermeer.nl
 participatie.hollandskroon.nl
 participatie.meierijstad.nl
 participatie.nederbetuwe.nl
+participatie.roosendaal.nl
 participatieprikbord.denhaag.nl
 participatietool-acc.nijmegen.nl
 participatietool.nijmegen.nl
@@ -15773,6 +15775,7 @@ www.parkeren-test.zandvoort.nl
 www.parkeren.gemeentehulst.nl
 www.parkeren.sudwestfryslan.nl
 www.parkeren.waadhoeke.nl
+www.participatie.roosendaal.nl
 www.participatiewebshop.emmen.nl
 www.passion.groningen.nl
 www.pda.loonopzand.nl

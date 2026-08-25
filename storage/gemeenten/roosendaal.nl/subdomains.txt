@@ -8,6 +8,7 @@ enterpriseregistration.roosendaal.nl
 iburgerzaken.roosendaal.nl
 ibzpink.roosendaal.nl
 idee.roosendaal.nl
+local.roosendaal.nl
 login-acc.roosendaal.nl
 login.roosendaal.nl
 matomo.roosendaal.nl
@@ -18,6 +19,7 @@ open.roosendaal.nl
 opendata.roosendaal.nl
 osb.roosendaal.nl
 osbtest.roosendaal.nl
+participatie.roosendaal.nl
 piwik.roosendaal.nl
 pv.roosendaal.nl
 raad.roosendaal.nl
@@ -27,6 +29,7 @@ werkplek.roosendaal.nl
 www.acc.piwik.roosendaal.nl
 www.acc.roosendaal.nl
 www.idee.roosendaal.nl
+www.participatie.roosendaal.nl
 www.piwik.roosendaal.nl
 www.roosendaal.nl
 zaaksysteem-accept.roosendaal.nl
