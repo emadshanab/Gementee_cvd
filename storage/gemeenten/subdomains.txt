@@ -120,6 +120,7 @@ _dmarc.amsterdam.nl
 _dmarc.delft.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl
+_dmarc.mail.rotterdam.nl
 _dmarc.nederweert.nl
 _dmarc.nieuwegein.nl
 _dmarc.vijfheerenlanden.nl
@@ -196,6 +197,7 @@ abc.noordoostpolder.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
+abc.rotterdam.nl
 abc.zwolle.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
@@ -226,6 +228,7 @@ acc-abc.noordoostpolder.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
 acc-abc.roermond.nl
+acc-abc.rotterdam.nl
 acc-afvalkalender.goes.nl
 acc-beeldbank.leiden.nl
 acc-broker.assen.nl
@@ -246,6 +249,7 @@ acc-broker.olst-wijhe.nl
 acc-broker.oostgelre.nl
 acc-broker.raalte.nl
 acc-broker.roermond.nl
+acc-broker.rotterdam.nl
 acc-broker.waterland.nl
 acc-broker.zwolle.nl
 acc-contact.assen.nl
@@ -268,8 +272,8 @@ acc-contact.noordoostpolder.nl
 acc-contact.oldenzaal.nl
 acc-contact.oostgelre.nl
 acc-contact.roermond.nl
-acc-contact.rotterdam.nl
 acc-contact.zwolle.nl
+acc-datamigratie.rotterdam.nl
 acc-digiforms.heerlen.nl
 acc-eformulier.heerlen.nl
 acc-formulier.assen.nl
@@ -337,6 +341,7 @@ acc-keycloak-admin.noordoostpolder.nl
 acc-keycloak-admin.oldenzaal.nl
 acc-keycloak-admin.oostgelre.nl
 acc-keycloak-admin.roermond.nl
+acc-keycloak-admin.rotterdam.nl
 acc-keycloak-admin.zwolle.nl
 acc-keycloak.assen.nl
 acc-keycloak.borger-odoorn.nl
@@ -358,6 +363,7 @@ acc-keycloak.noordoostpolder.nl
 acc-keycloak.oldenzaal.nl
 acc-keycloak.oostgelre.nl
 acc-keycloak.roermond.nl
+acc-keycloak.rotterdam.nl
 acc-keycloak.zwolle.nl
 acc-loket.zaanstad.nl
 acc-maps.almere.nl
@@ -385,6 +391,7 @@ acc-mijn.oostgelre.nl
 acc-mijn.roermond.nl
 acc-mijn.rotterdam.nl
 acc-mijn.zwolle.nl
+acc-mijnloket.rotterdam.nl
 acc-nieuwsbrief.amsterdam.nl
 acc-nieuwsbrief.utrecht.nl
 acc-notificaties.assen.nl
@@ -471,8 +478,10 @@ acc-office-addin.noordoostpolder.nl
 acc-office-addin.oldenzaal.nl
 acc-office-addin.oostgelre.nl
 acc-office-addin.roermond.nl
+acc-office-addin.rotterdam.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
+acc-openbeheer.rotterdam.nl
 acc-openformulieren.assen.nl
 acc-openformulieren.gemert-bakel.nl
 acc-openklant.assen.nl
@@ -604,6 +613,7 @@ acc-podiumd-zac.deventer.nl
 acc-podiumd-zac.olst-wijhe.nl
 acc-podiumd-zac.raalte.nl
 acc-podiumd.sschosting.nl.assen.nl
+acc-referentielijsten.rotterdam.nl
 acc-subsidie.delft.nl
 acc-subsidiebeheer.delft.nl
 acc-tripleforms.heerlen.nl
@@ -1436,6 +1446,7 @@ alwaysonvpn.derondevenen.nl
 alwaysonvpn.veere.nl
 am-dev.rotterdam.nl
 am-preprod.rotterdam.nl
+am-preprodinternal.rotterdam.nl
 am.rotterdam.nl
 amalogcollector.breda.nl
 amaps.amsterdam.nl
@@ -1513,6 +1524,7 @@ aphrodite-am-oproepscherm.it4d.azure.amsterdam.nl
 aphrodite-am-toilet.it4d.azure.amsterdam.nl
 aphrodite-am-uitslag.it4d.azure.amsterdam.nl
 aphrodite-am.it4d.azure.amsterdam.nl
+api-acc.rotterdam.nl
 api-acceptatie.tilburg.nl
 api-dev.data.leiden.nl
 api-dev.rotterdam.nl
@@ -1527,11 +1539,11 @@ api-meldingen.almelo.nl
 api-meldingen.cg-intern.acc.utrecht.nl
 api-meldingen.cg-intern.ont.utrecht.nl
 api-meldingen.denhaag.nl
-api-mtls.rotterdam.nl
 api-pkio-acceptatie.tilburg.nl
 api-portal-dev.data.leiden.nl
 api-portal.data.leiden.nl
 api-test-gemnet.losser.nl
+api-tst.rotterdam.nl
 api.acc.meldingen.amsterdam.nl
 api.acc.meldingen.groningen.nl
 api.acc.meldingen.kampen.nl
@@ -1697,6 +1709,7 @@ api.openstad.utrecht.nl
 api.participatiewebshop-test.emmen.nl
 api.participatiewebshop.emmen.nl
 api.pingping.amsterdam.nl
+api.rotterdam.nl
 api.schemas.data.amsterdam.nl
 api.straatnotes.amsterdam.nl
 api.tilburg.nl
@@ -1718,6 +1731,10 @@ apigateway2.middendelfland.nl
 apigw.meierijstad.nl
 apim-gw-wpi-o.amsterdam.nl
 apim-gw-wpi-t.amsterdam.nl
+apim-hip-acc.rotterdam.nl
+apim-hip-dev.rotterdam.nl
+apim-hip-prd.rotterdam.nl
+apim-hip-tst.rotterdam.nl
 apim-mgmt-wpi-o.amsterdam.nl
 apim-mgmt-wpi-t.amsterdam.nl
 apim-portal-wpi-o.amsterdam.nl
@@ -2676,6 +2693,7 @@ beleidsatlas.rotterdam.nl
 belevingsroute.gooisemeren.nl
 benk.acc.data.amsterdam.nl
 benk.data.amsterdam.nl
+benuttinglocaties.rotterdam.nl
 beppie.oostgelre.nl
 bereikbaar.wageningen.nl
 bereikbaarheid.amsterdam.nl
@@ -3038,6 +3056,7 @@ brk.meerssen.nl
 brlcmg.brielle.nl
 bro.katwijk.nl
 bro.pre.katwijk.nl
+brobeheer.rotterdam.nl
 broker-mijn.texel.nl
 broker-preprod-mijn.texel.nl
 broker-preprod.eemsdelta.nl
@@ -3235,6 +3254,7 @@ casa.acc.topdesk.denhaag.nl
 casa.topdesk.denhaag.nl
 casarray.heerlen.nl
 castricum.nl
+casusregiewoonproblematiek.rotterdam.nl
 catalogus.data.amsterdam.nl
 catalogus.dataplatform.accp.s-hertogenbosch.nl
 catalogus.dataplatform.s-hertogenbosch.nl
@@ -3274,7 +3294,6 @@ cg-intern.utrecht.nl
 chat.amsterdam.nl
 chat.midden-groningen.nl
 checklist.rotterdam.nl
-cicd010.rotterdam.nl
 cijfers.zaanstad.nl
 cimot.almelo.nl
 cios.acam.amsterdam.nl
@@ -3400,6 +3419,7 @@ cloudtunnel.terneuzen.nl
 cluster-cg.test.denhaag.nl
 clv.echt-susteren.nl
 cmh.denhaag.nl
+cmoprojecten.rotterdam.nl
 cms-acc.olst-wijhe.nl
 cms-archief.leiden.nl
 cms-binnenshuis.bergen.nl
@@ -3412,6 +3432,7 @@ cms-intranet.eemsdelta.nl
 cms-joost.beuningen.nl
 cms.alphenaandenrijn.nl
 cms.bernheze.org
+cms.bibliotheek.rotterdam.nl
 cms.doemee.raalte.nl
 cms.dordrecht.nl
 cms.gemeentewestland.nl
@@ -3620,7 +3641,6 @@ contact.noordoostpolder.nl
 contact.oldenzaal.nl
 contact.oostgelre.nl
 contact.roermond.nl
-contact.rotterdam.nl
 contact.zwolle.nl
 contactregistratie-fa.amsterdam.nl
 contactregistratie-ft.amsterdam.nl
@@ -3701,6 +3721,7 @@ cranendonck.nl
 crdp.twenterand.nl
 crediteurenapp.rotterdam.nl
 crisis.hoorn.nl
+crisis.rotterdam.nl
 crk.amsterdam.nl
 crl.amersfoort.nl
 crl.denhaag.nl
@@ -3837,6 +3858,7 @@ dali.wassenaar.nl
 dali.zoeterwoude.nl
 dantumadiel.frl
 dap.amsterdam.nl
+dapo.rotterdam.nl
 darwin.tilburg.nl
 dashboard-iav-api.goeree-overflakkee.nl
 dashboard-iav.goeree-overflakkee.nl
@@ -3892,6 +3914,7 @@ datacatalogus.nijmegen.nl
 datadis.rucphen.nl
 datadis.test.rucphen.nl
 datagit.sudwestfryslan.nl
+datakluis.rotterdam.nl
 datakluis.utrecht.nl
 datalab.alkmaar.nl
 datalab.purmerend.nl
@@ -4060,7 +4083,6 @@ devgovrs1.deventer.nl
 devices.meppel.nl
 devis.deventer.nl
 devisie2020.deventer.nl
-devops.rotterdam.nl
 devopstestproject.rotterdam.nl
 devportal.api.amsterdam.nl
 devtest.sudwestfryslan.nl
@@ -4604,6 +4626,7 @@ domain-admin.waterland.nl
 dongen.nl
 dopleidingloket.rotterdam.nl
 dopleidingmidoffice.rotterdam.nl
+dora.rotterdam.nl
 dordrecht.nl
 dowc.cg-intern.acc.utrecht.nl
 dowc.cg-intern.ont.utrecht.nl
@@ -5159,6 +5182,7 @@ eformulieren.stichtsevecht.nl
 eformulieren.waterland.nl
 egemeente.urk.nl
 egemeente.westvoorne.nl
+eglo.rotterdam.nl
 egouwr2-acc.hoorn.nl
 egress-repro.alkmaar.nl
 ehv-lpi-ap-15.lopik.nl
@@ -5590,6 +5614,7 @@ festivals.landvancuijk.nl
 fg-api-pkio.haven.tst.sittard-geleen.nl
 fgt.amstelveen.nl
 fietsen.groningen.nl
+fietshandhaaf.rotterdam.nl
 fietskalender.landvancuijk.nl
 fietsroutes.landvancuijk.nl
 filecap.breda.nl
@@ -5648,6 +5673,7 @@ financien.velsen.nl
 financien.zaanstad.nl
 firewall.lopik.nl
 firewall.servers1.bergen-nh.nl
+fiscalecontroleapplicatie.rotterdam.nl
 fisha.rotterdam.nl
 fit.venlo.nl
 fixxx17.amsterdam.nl
@@ -6280,6 +6306,7 @@ gezondleven.utrecht.nl
 gezondreizen.groningen.nl
 ggd.groningen.nl
 ggd.rotterdam.nl
+ggdmedewerkers.rotterdam.nl
 ggexo.groningen.nl
 ggexoopsrv1.groningen.nl
 ggexoopsrv2.groningen.nl
@@ -6448,6 +6475,7 @@ gpg.apeldoorn.nl
 gplan-app.veere.nl
 gplan.renkum.nl
 gplan.rheden.nl
+gpp-app-acc.woo-accp.rotterdam.nl
 gpp-app.groningen.nl
 gpp-app.zaanstad.nl
 gpp-publicatiebank.groningen.nl
@@ -6508,6 +6536,7 @@ gvt.haarlemmermeer.nl
 gvz2digikoppeling.landsmeer.nl
 gvzdigikoppeling.amsterdam.nl
 gvzdigikoppeling.landsmeer.nl
+gw.rotterdam.nl
 gw.servers1.bergen-nh.nl
 gwm-orawls-01.middendelfland.nl
 gwm-orawls-02.middendelfland.nl
@@ -6676,6 +6705,7 @@ huisstijl.tilburg.nl
 huisstijl.utrecht.nl
 huisstijl.zaanstad.nl
 huisstijlhandleiding.krimpenerwaard.nl
+huisvestingkwetsbaredoelgroep.rotterdam.nl
 huisvuilkalender.acc.denhaag.nl
 huisvuilkalender.denhaag.nl
 huisvuilkalender.gemeentewestland.nl
@@ -7612,6 +7642,7 @@ iparticipatie.waddinxveen.nl
 iparticipatie.weststellingwerf.nl
 iparticipatie.wierden.nl
 ipp.haarlem.nl
+ir.rotterdam.nl
 iris-acc.lingewaard.nl
 iris.acc.denhaag.nl
 iris.denhaag.nl
@@ -8009,6 +8040,7 @@ keycloak-admin.noordoostpolder.nl
 keycloak-admin.oldenzaal.nl
 keycloak-admin.oostgelre.nl
 keycloak-admin.roermond.nl
+keycloak-admin.rotterdam.nl
 keycloak-admin.zwolle.nl
 keycloak.assen.nl
 keycloak.borger-odoorn.nl
@@ -8069,6 +8101,7 @@ klantcontact.zundert.nl
 klanten.heemskerk.nl
 klantgeleiding-test.noordoostpolder.nl
 klantgeleiding.gorinchem.nl
+klantgeleiding.rotterdam.nl
 klantmodule-centric-ot.extranet.tilburg.nl
 klantmodule.extranet.tilburg.nl
 klantportaal-zgw.acc.denhaag.nl
@@ -8080,6 +8113,7 @@ klantportaal.denhaag.nl
 klantportaal.drechterland.nl
 klantportaal.enkhuizen.nl
 klantportaal.stedebroec.nl
+klantportaalvm.rotterdam.nl
 klemmi.rotterdam.nl
 klickwion.oostgelre.nl
 kliconline.haarlemmermeer.nl
@@ -8431,6 +8465,7 @@ lokettest.middendrenthe.nl
 lokettest.texel.nl
 loo-tv.brunssum.nl
 loonkostensubsidie-acc.utrecht.nl
+loonkostensubsidie.rotterdam.nl
 loonkostensubsidie.utrecht.nl
 loonkostensubsidies-acc.breda.nl
 loonkostensubsidies.breda.nl
@@ -8925,6 +8960,7 @@ mfa.voorschoten.nl
 mfa.wassenaar.nl
 mform.meerssen.nl
 mform.valkenburg.nl
+mft.rotterdam.nl
 mft.vlaardingen.nl
 mgapp.heuvelrug.nl
 mh-vwes21.westerwolde.nl
@@ -9196,6 +9232,7 @@ mijnloket.deventer.nl
 mijnloket.edam-volendam.nl
 mijnloket.ir.rotterdam.nl
 mijnloket.nieuwkoop.nl
+mijnloket.rotterdam.nl
 mijnloket.vlaardingen.nl
 mijnloonkostensubsidie-acc.utrecht.nl
 mijnloonkostensubsidie.utrecht.nl
@@ -9725,6 +9762,7 @@ notificaties.zwolle.nl
 notubiz-recorder.voerendaal.nl
 notubiz.alkmaar.nl
 notubiz.gulpen-wittem.nl
+nova.rotterdam.nl
 nrga.amsterdam.nl
 nrobsubsidies.rotterdam.nl
 ns.amersfoort.nl
@@ -9896,6 +9934,7 @@ office-addin.noordoostpolder.nl
 office-addin.oldenzaal.nl
 office-addin.oostgelre.nl
 office-addin.roermond.nl
+office-addin.rotterdam.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -9935,6 +9974,7 @@ omgevingsdocumenten.rijssen-holten.nl
 omgevingsloket-acc.hoorn.nl
 omgevingsloket.hoorn.nl
 omgevingsplan.nunspeet.nl
+omgevingsvergunningen.accp.rotterdam.nl
 omgevingsvergunningen.rotterdam.nl
 omgevingsvisie.almelo.nl
 omgevingsvisie.borger-odoorn.nl
@@ -9971,6 +10011,7 @@ omgevingswet.heemskerk.nl
 omgevingswet.meierijstad.nl
 omgevingswet.zaanstad.nl
 ommen.nl
+ona.rotterdam.nl
 onboarden.haarlemmermeer.nl
 onboarden.houten.nl
 onboarden.meppel.nl
@@ -9995,6 +10036,7 @@ ondernemersloket.uithoorn.nl
 ondernemersplein.almere.nl
 ondernemersportaal-acc.denhaag.nl
 ondernemersportaal.denhaag.nl
+ondernemerswinkel.rotterdam.nl
 ondersteuning.olst-wijhe.nl
 ondertekenen.trouwen.tilburg.nl
 onderzoek.amersfoort.nl
@@ -10031,6 +10073,7 @@ ontdek.tynaarlo.nl
 ontheffingen-acc.amsterdam.nl
 ontheffingen-mz.acc.denhaag.nl
 ontheffingen-mz.denhaag.nl
+ontheffingen.rotterdam.nl
 ontheffingen.wijdemeren.nl
 ontheffingmilieuzone-acc.utrecht.nl
 ontheffingmilieuzone.utrecht.nl
@@ -10042,6 +10085,7 @@ ontw.gemeentewestland.nl
 ontwikkelplein.hethogeland.nl
 onzestad.acc.nijmegen.nl
 onzestad.nijmegen.nl
+onzestijl.rotterdam.nl
 oober-acc.amsterdam.nl
 oogst.groningen.nl
 oorlogenvrede.landvancuijk.nl
@@ -10439,6 +10483,7 @@ pabc.oostgelre.nl
 pabc.roermond.nl
 packages.sudwestfryslan.nl
 pakketvergunning.peelenmaas.nl
+pam.rotterdam.nl
 panel.almere.nl
 panoviewer.data.amsterdam.nl
 papendrecht-checker-preprod.papendrecht.nl
@@ -10744,6 +10789,7 @@ planning.westmaasenwaal.nl
 planningencontrol.haarlemmermeer.nl
 planningsassistent.stadswerken.amsterdam.nl
 planningsmanagement.amsterdam.nl
+planningstool.rotterdam.nl
 planon-acc.almere.nl
 planon-test.almere.nl
 planon.almere.nl
@@ -11110,6 +11156,7 @@ preprod.noordwijk.nl
 preprod.oldebroek.nl
 preprod.overbetuwe.nl
 preprod.rheden.nl
+preprod.rotterdam.nl
 preprod.smallingerland.nl
 preprod.terneuzen.nl
 preprod.tma.utrecht.nl
@@ -11587,7 +11634,6 @@ raadzaam.nieuwegein.nl
 raadzaam.nijmegen.nl
 raadzaam.rijswijk.nl
 raalte.nl
-raas.rotterdam.nl
 radar.rotterdam.nl
 radius.gemeenteberkelland.nl
 radius.kampen.nl
@@ -11647,6 +11693,7 @@ regiomonitor-acc.oosterhout.nl
 register.venlo.nl
 registratie.rotterdam.nl
 reimerswaal.nl
+reject.dmarc.rotterdam.nl
 reject.dmarc.vijfheerenlanden.nl
 rekenkamer.amsterdam.nl
 rekenkamer.rotterdam.nl
@@ -11748,6 +11795,7 @@ riv.apeldoorn.nl
 riviewer.apeldoorn.nl
 rmm.terneuzen.nl
 rmts.edam-volendam.nl
+rnm010.rotterdam.nl
 ro-online.alphenaandenrijn.nl
 ro-online.bergen-nh.nl
 ro-online.harlingen.nl
@@ -11791,6 +11839,7 @@ roplan.haarlemmermeer.nl
 roplannen.gemeentewestland.nl
 rosmolen.westervoort.nl
 rostar.goes.nl
+roteb.rotterdam.nl
 rotterdam.nl
 routebureau.groningen.nl
 router.dordrecht.nl
@@ -11798,6 +11847,7 @@ router.ede.nl
 router.meerssen.nl
 router.waalre.nl
 router.winterswijk.nl
+roza.rotterdam.nl
 rozendaal.nl
 rp.beverwijk.nl
 rp.heerlen.nl
@@ -11850,6 +11900,7 @@ ruimtevoorjou.groningen.nl
 ruimtevoorwerken.stichtsevecht.nl
 rvw.stichtsevecht.nl
 rwdvpn.renswoude.nl
+rwm010.rotterdam.nl
 rx-mission-publiceren.borne.nl
 rx-mission-publiceren.meerssen.nl
 rx-mission-publiceren.urk.nl
@@ -12531,6 +12582,7 @@ sleutelkwartier.waddinxveen.nl
 sliedrecht-checker-preprod.sliedrecht.nl
 sliedrecht-checker.sliedrecht.nl
 sliedrecht.nl
+slim.rotterdam.nl
 slimbereikbaar.assen.nl
 slimgesprek.peelenmaas.nl
 slimmeapparaten.amsterdam.nl
@@ -12694,6 +12746,7 @@ sophos.beverwijk.nl
 sophos.vlaardingen.nl
 sophos01.achtkarspelen.nl
 sow.olst-wijhe.nl
+sozawe.rotterdam.nl
 sp.brielle.nl
 sp.nijmegen.nl
 spa4.tst.amsterdam.nl
@@ -12807,6 +12860,7 @@ srmvauitwijk.ovh.gemeentebeek.nl
 srv-dmz-01.middendelfland.nl
 srv4587.veere.nl
 srvmksbur.buren.nl
+ssccri.rotterdam.nl
 ssd-test.drimmelen.nl
 ssd.brunssum.nl
 ssd.drimmelen.nl
@@ -12962,6 +13016,7 @@ stswigo4it-acc.utrecht.nl
 stswigo4it.rotterdam.nl
 stswigo4it.utrecht.nl
 studiezaal.nijmegen.nl
+studio.bibliotheek.rotterdam.nl
 stuf-hermes-integratie.amsterdam.nl
 stuf-topicus.sudwestfryslan.nl
 stuf.hoorn.nl
@@ -13138,6 +13193,7 @@ t-diel.nl
 t-eforms.utrecht.nl
 t2.data.amsterdam.nl
 t3.data.amsterdam.nl
+ta-twd.rotterdam.nl
 taakveldenbegroting2023.bronckhorst.nl
 taakveldenrekening2022.bronckhorst.nl
 tab0751.sudwestfryslan.nl
@@ -13242,7 +13298,6 @@ test-cmszaanzoeker.zaanstad.nl
 test-contact.assen.nl
 test-contact.enschede.nl
 test-contact.gemert-bakel.nl
-test-contact.rotterdam.nl
 test-dieuwke.defryskemarren.nl
 test-digikoppeling.assen.nl
 test-digikoppeling.beesel.nl
@@ -13364,6 +13419,7 @@ test-mijn.rotterdam.nl
 test-mijn.zwolle.nl
 test-mijnbbsuo.soest.nl
 test-mijnkrimpenwijzer.krimpenaandenijssel.nl
+test-mijnloket.rotterdam.nl
 test-mijnoverzicht.alphenaandenrijn.nl
 test-mijnzi.beuningen.nl
 test-nopnet.noordoostpolder.nl
@@ -13384,6 +13440,7 @@ test-objecttypen.rotterdam.nl
 test-objecttypen.zwolle.nl
 test-office-addin.assen.nl
 test-office-addin.enschede.nl
+test-office-addin.rotterdam.nl
 test-open.haarlem.nl
 test-open.zandvoort.nl
 test-openklant.assen.nl
@@ -13435,7 +13492,6 @@ test-zaanzoeker.zaanstad.nl
 test-zac.assen.nl
 test-zac.enschede.nl
 test-zac.gemert-bakel.nl
-test-zac.rotterdam.nl
 test.3d.utrecht.nl
 test.aalsmeer.nl
 test.achtkarspelen.nl
@@ -13673,7 +13729,6 @@ this010.rotterdam.nl
 tholen.nl
 thomas100.rotterdam.nl
 thomas111.rotterdam.nl
-thomas112.rotterdam.nl
 thomas115.rotterdam.nl
 thomas117.rotterdam.nl
 thomas118.rotterdam.nl
@@ -13774,6 +13829,7 @@ topdesk.zwolle.nl
 topdesktest.sudwestfryslan.nl
 topicus.sudwestfryslan.nl
 topvorm.apeldoorn.nl
+tori.rotterdam.nl
 tportal.noordoostpolder.nl
 tra.hengelo.nl
 tradities.doemee.bloemendaal.nl
@@ -13947,6 +14003,7 @@ vacatures.acc.nijmegen.nl
 vacatures.heerlen.nl
 vacatures.landvancuijk.nl
 vacatures.nijmegen.nl
+vago.rotterdam.nl
 vakantie.landvancuijk.nl
 validsign-prod.koggenland.nl
 validsign.gulpen-wittem.nl
@@ -14244,6 +14301,7 @@ vthbroker.sliedrecht.nl
 vthbroker.zwijndrecht.nl
 vthpublicaties.peelenmaas.nl
 vught.nl
+vuistregels.rotterdam.nl
 vvb.sliedrecht.nl
 vvd.mookenmiddelaar.nl
 vvd.nijmegen.nl
@@ -14606,6 +14664,7 @@ welkombij.helmond.nl
 welkombij.lansingerland.nl
 welstand.venlo.nl
 welstandsnota.lopik.nl
+welstandsnota.rotterdam.nl
 wenen.stadskanaal.nl
 wepresent.sudwestfryslan.nl
 werk.arnhem.nl
@@ -14779,6 +14838,7 @@ wijchen.nl
 wijdemeren.hilversum.nl
 wijdemeren.nl
 wijkaanpak.deventer.nl
+wijkaanzet.rotterdam.nl
 wijkagenda-archipelwillemspark.denhaag.nl
 wijkagenda.denhaag.nl
 wijkberichten.utrecht.nl
@@ -14789,6 +14849,7 @@ wijkbudgetvruchtenbuurt.denhaag.nl
 wijkbudgetwaldeck.denhaag.nl
 wijkbudgetypenburg.denhaag.nl
 wijken.dordrecht.nl
+wijkfocus.rotterdam.nl
 wijkmanagement.zaanstad.nl
 wijkparkdelftlanden.emmen.nl
 wijkprofiel.rotterdam.nl
@@ -14841,8 +14902,10 @@ wion.ouder-amstel.nl
 wion.twenterand.nl
 wion.woensdrecht.nl
 wionklic.leudal.nl
+wirekentool.rotterdam.nl
 wireless.peelenmaas.nl
 wise-accept.bibliotheek.rotterdam.nl
+wise-web.bibliotheek.rotterdam.nl
 witgoed.veldhoven.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
@@ -15006,6 +15069,7 @@ wsgateway1-extern.ot.denhaag.nl
 wsgateway2-extern.acc.denhaag.nl
 wsn-mail.voorschoten.nl
 wsn-mail.wassenaar.nl
+wsone-acc.rotterdam.nl
 wsone.rotterdam.nl
 wsone2.rotterdam.nl
 wsr.groningen.nl
@@ -15021,6 +15085,7 @@ wwng01.winterswijk.nl
 wwt.groningen.nl
 www-acceptatie.tilburg.nl
 www-cache.gemeentesluis.nl
+www-test.bibliotheek.rotterdam.nl
 www-wim.gemeente-oldambt.nl
 www.aaenhunze.nl
 www.aag-corsa.groningen.nl
@@ -15487,6 +15552,7 @@ www.hoorn.nl
 www.horstaandemaas.nl
 www.houten.nl
 www.houtwijkbegroot.denhaag.nl
+www.huiselijkgeweld.rotterdam.nl
 www.huisstijl.landvancuijk.nl
 www.huisstijl.zaanstad.nl
 www.huizen.nl
@@ -15501,6 +15567,7 @@ www.ibabs.gemeente-oldambt.nl
 www.ibo.borger-odoorn.nl
 www.iburgerzaken.overbetuwe.nl
 www.ibzpink.overbetuwe.nl
+www.iclei-decist.rotterdam.nl
 www.idee.roosendaal.nl
 www.ideevoordakrand.haarlemmermeer.nl
 www.ihandhaving.sudwestfryslan.nl
@@ -15858,6 +15925,7 @@ www.roplan.haarlemmermeer.nl
 www.roteb.rotterdam.nl
 www.rotterdam.nl
 www.rozendaal.nl
+www.rpl3.pzr.rotterdam.nl
 www.rucphen.nl
 www.ruimtelijkeplannen.amsterdam.nl
 www.ruimtelijkeplannen.dronten.nl
@@ -15915,6 +15983,7 @@ www.socialekaart.westbetuwe.nl
 www.soest.nl
 www.someren.nl
 www.sonenbreugel.nl
+www.sozawe.rotterdam.nl
 www.sport.nijmegen.nl
 www.sportdag.sudwestfryslan.nl
 www.sportencultuur.gorinchem.nl
@@ -16040,6 +16109,7 @@ www.veldhoven.nl
 www.velsen.nl
 www.venlo.nl
 www.venray.nl
+www.verslavingsinfo.rotterdam.nl
 www.vibe.rhenen.nl
 www.vijfheerenlanden.nl
 www.vlaardingen.nl
@@ -16220,6 +16290,7 @@ xential.urk.nl
 xentialtest.gulpen-wittem.nl
 xentialtest.montferland.info
 xentialtest.veendam.nl
+xmlgw.preprod.rotterdam.nl
 xmlgw.rotterdam.nl
 xmstore.rotterdam.nl
 xmstoreacc.rotterdam.nl
@@ -16374,6 +16445,7 @@ zeewolde.nl
 zeist.nl
 zendto.schiedam.nl
 zepcam.sudwestfryslan.nl
+zeroemission.rotterdam.nl
 zevenaar.nl
 zgt.lev.delft.nl
 zgw.denhaag.nl
@@ -16419,6 +16491,7 @@ zorgnedrefresh-acc.etten-leur.nl
 zorgnedrefresh.etten-leur.nl
 zorgplein.doetinchem.nl
 zorgprofessionals.utrecht.nl
+zorgstartwijzer010.rotterdam.nl
 zorgvlied.acceptatie.amstelveen.nl
 zorgvlied.amstelveen.nl
 zorgvraag.heerde.nl
