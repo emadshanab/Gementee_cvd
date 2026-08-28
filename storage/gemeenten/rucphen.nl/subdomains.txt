@@ -14,6 +14,8 @@ mx2.rucphen.nl
 oig.rucphen.nl
 omgevingsvisie.rucphen.nl
 rucphen.nl
+samen.rucphen.nl
+test.rucphen.nl
 testwww.rucphen.nl
 vpn.rucphen.nl
 werkplek.rucphen.nl

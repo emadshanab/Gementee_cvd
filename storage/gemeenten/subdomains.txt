@@ -11939,6 +11939,7 @@ samen.noordwijk.nl
 samen.putten.nl
 samen.rhenen.nl
 samen.rijswijk.nl
+samen.rucphen.nl
 samen.s-hertogenbosch.nl
 samen.schagen.nl
 samen.stedebroec.nl
@@ -13559,6 +13560,7 @@ test.pekela.nl
 test.rhenen.nl
 test.rijssen-holten.nl
 test.rijswijk.nl
+test.rucphen.nl
 test.schiedam.nl
 test.services.dronten.nl
 test.sint-michielsgestel.nl

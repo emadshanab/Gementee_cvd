@@ -122,6 +122,7 @@ acc-ita
 contact
 office-addin
 zac
+samen
 pki
 dtestloket
 siam
@@ -130,7 +131,6 @@ apps
 bgt
 ita
 extranet
-samen
 cmsintranet
 subsidies
 snelbalie
