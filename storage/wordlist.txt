@@ -113,7 +113,6 @@ objecten
 objecttypen
 openklant
 openzaak
-belastingloket
 mijnzorg
 e
 piwik
@@ -122,6 +121,7 @@ acc-ita
 contact
 office-addin
 zac
+belastingloket
 samen
 pki
 dtestloket
@@ -212,7 +212,6 @@ zaken.acceptatie
 transfer
 bestuur
 www.samen
-mx1
 zaaksysteem
 simform-preproductie
 belastingbalie-test
@@ -234,7 +233,7 @@ inproces.acceptatie
 outlook
 vth
 testloket
-mx2
+mx1
 mijn-preproductie
 drop
 www.denkmee
@@ -268,6 +267,7 @@ squit2020
 telewerken
 www.intranet
 kcc
+mx2
 mobiel
 www.portal
 cloudadapter-prod
@@ -317,6 +317,7 @@ belastingen-acc
 evenementen
 mozard
 api
+mijngeldzaken
 www.openstad
 ns1
 sslvpn
@@ -375,7 +376,6 @@ atlas
 beheer
 belastingbalie.acc
 parkeervergunning
-mijngeldzaken
 aanmelden
 rooster
 dialin
@@ -426,7 +426,6 @@ digitalebalie
 testbelastingloket
 formulier-acc
 raadsinformatie
-mijnuitkering
 e.openstad
 ibabs
 tim
@@ -512,6 +511,7 @@ gt-loket
 ondernemen
 fme
 duo
+mijnuitkering
 gbionline
 cca-acc
 cca
@@ -1042,6 +1042,7 @@ geldwijzer
 api.meldingen.acceptatie
 mediabank
 meldingen.acceptatie
+vragenlijst
 mx
 allegro
 bijeenkomsten
@@ -3223,7 +3224,6 @@ test-opname
 test-qr
 uitelkaarmetkinderen
 uitkeringen
-vragenlijst
 www.oco
 GBAV
 GBAVT
@@ -6003,12 +6003,13 @@ api.toegang.dataplatform.accp
 api.toegang.dataplatform
 b2b.oso
 belastingen.accp
-bestuursakkoord
-betalen.belastingloket
+bewindvoering.accp
+bewindvoering
 borportaal
 catalogus.dataplatform.accp
 catalogus.dataplatform
 ctr
+dashboard
 flex1
 flex2
 flex3
@@ -6017,9 +6018,13 @@ flex5
 flex6
 flex7
 flexg
-flextest
+flexg2
 geoproxy
+grafana.dataplatform.accp
+grafana.dataplatform
 iburgerzaken.accp
+idbroker.inlog.accp
+idbroker.inlog
 idefix
 idselect.accp
 interconnect-rtr
@@ -6029,6 +6034,8 @@ iparticipatie.accp
 kredietbank.accp
 kredietbank
 meldingen.accp
+mijngeldzaken.accp
+mijngeldzaken.inlog.accp
 mijnzorg.accp
 mp1
 ntp1
@@ -6037,13 +6044,15 @@ office.oso
 ois.accp
 ois
 oso
-overdrachtsdocument2022
 parkeren.accp
+publicatieplatform
 qr.belastingen.accp
-reflex
+qr.belastingen
+reqon
 servicegateway.accp
 toegang.dataplatform.accp
 toegang.dataplatform
+workflow.oso
 www.publicaties
 gemnet-dkd
 gemnet-dkdtest
