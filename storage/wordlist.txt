@@ -28,8 +28,8 @@ betalen
 dkd
 werkplek
 acc
-meldingen
 broker
+meldingen
 portal
 afspraak
 api.meldingen
@@ -68,17 +68,17 @@ loket.acceptatie
 omgevingsvisie
 osb
 kaart
-login
 doemee
 cloudadapter-test
 digikoppeling-test
+login
 beeldbank
 denkmee
 flowmailer-tracking
+preprodbroker
 acc-podiumd-logs
 simcms-open
 _autodiscover._tcp
-preprodbroker
 zaken
 hybrid
 podiumd-logs
@@ -169,7 +169,6 @@ begroting
 en
 izaaksuite
 snelbaliepp
-vdi
 owa
 meedoen
 mdm
@@ -180,6 +179,7 @@ gisib
 veiligdelen
 bis
 formulieren-test
+vdi
 auth
 bag
 obsurv
@@ -6054,6 +6054,7 @@ toegang.dataplatform.accp
 toegang.dataplatform
 workflow.oso
 www.publicaties
+account
 gemnet-dkd
 gemnet-dkdtest
 lan

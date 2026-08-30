@@ -238,6 +238,7 @@ http://autodiscover.roosendaal.nl
 http://autodiscover.rozendaal.nl
 http://autodiscover.rucphen.nl
 http://autodiscover.s-hertogenbosch.nl
+http://autodiscover.schagen.nl
 http://autodiscover.scherpenzeel.nl
 http://autodiscover.schiedam.nl
 http://autodiscover.schiermonnikoog.nl
@@ -713,7 +714,6 @@ http://www.remote.westvoorne.nl
 http://www.samen.drechterland.nl
 http://www.samen.enkhuizen.nl
 http://www.samen.harlingen.nl
-http://www.samen.schagen.nl
 http://www.samenmet.beesel.nl
 http://www.scheveningen.denhaag.nl
 http://www.simpelveld.nl
@@ -1388,6 +1388,7 @@ https://access.hethogeland.nl
 https://access.landvancuijk.nl
 https://accommodatiehuur.lingewaard.nl
 https://accommodatieverhuur.gemeentesluis.nl
+https://account.schagen.nl
 https://acd.lopik.nl
 https://acpt.3d.utrecht.nl
 https://actief.landvancuijk.nl
@@ -2520,6 +2521,7 @@ https://broker.raalte.nl
 https://broker.rheden.nl
 https://broker.roermond.nl
 https://broker.rotterdam.nl
+https://broker.schagen.nl
 https://broker.stichtsevecht.nl
 https://broker.test.purmerend.nl
 https://broker.venray.nl
@@ -4640,7 +4642,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.schagen.nl
 https://ibzpink.smallingerland.nl
 https://ibzpink.someren.nl
 https://ibzpink.sonenbreugel.nl
@@ -5340,7 +5341,6 @@ https://login.denkmee.tilburg.nl
 https://login.groningen.nl
 https://login.mookenmiddelaar.nl
 https://login.nijkerk.eu
-https://login.schagen.nl
 https://login.subsidie.leiden.nl
 https://login.veere.nl
 https://login.waterland.nl
@@ -7022,6 +7022,7 @@ https://preprodbroker.midden-groningen.nl
 https://preprodbroker.nunspeet.nl
 https://preprodbroker.overbetuwe.nl
 https://preprodbroker.rheden.nl
+https://preprodbroker.schagen.nl
 https://preprodbroker.stichtsevecht.nl
 https://preprodbroker.venray.nl
 https://preprodbroker.voorst.nl

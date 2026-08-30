@@ -1017,6 +1017,7 @@ access.woerden.nl
 accmksprd.ovh.gemeentebeek.nl
 accommodatiehuur.lingewaard.nl
 accommodatieverhuur.gemeentesluis.nl
+account.schagen.nl
 accountmanagment.gulpen-wittem.nl
 accp.s-hertogenbosch.nl
 accpki.utrecht.nl
@@ -3101,6 +3102,7 @@ broker.raalte.nl
 broker.rheden.nl
 broker.roermond.nl
 broker.rotterdam.nl
+broker.schagen.nl
 broker.stichtsevecht.nl
 broker.test.purmerend.nl
 broker.venray.nl
@@ -8348,7 +8350,6 @@ login.nieuwegein.nl
 login.nijkerk.eu
 login.regiomonitor-acc.oosterhout.nl
 login.roosendaal.nl
-login.schagen.nl
 login.sittard-geleen.nl
 login.subsidie.leiden.nl
 login.tynaarlo.nl
@@ -8625,6 +8626,7 @@ mail.roerdalen.nl
 mail.rotterdam.nl
 mail.s-hertogenbosch.nl
 mail.samen.rhenen.nl
+mail.schagen.nl
 mail.schouwen-duiveland.nl
 mail.sittard-geleen.nl
 mail.smallingerland.nl
@@ -11183,6 +11185,7 @@ preprodbroker.midden-groningen.nl
 preprodbroker.nunspeet.nl
 preprodbroker.overbetuwe.nl
 preprodbroker.rheden.nl
+preprodbroker.schagen.nl
 preprodbroker.stichtsevecht.nl
 preprodbroker.venray.nl
 preprodbroker.voorst.nl
@@ -14041,7 +14044,6 @@ vdi.landgraaf.nl
 vdi.meppel.nl
 vdi.rijswijk.nl
 vdi.rotterdam.nl
-vdi.schagen.nl
 vdi.westerkwartier.nl
 vdi.westmaasenwaal.nl
 vdi8.amersfoort.nl
