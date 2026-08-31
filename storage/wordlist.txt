@@ -6066,8 +6066,11 @@ squitxo-test
 cmsflash
 flash
 mijnafspraak
+mijninwonerportaal
+preprod-mijninwonerportaal
 probeer-cjg
 simcms-cjg
+spzvpn
 test-cmsflash
 test-flash
 aform

@@ -5,6 +5,7 @@ cjg.scherpenzeel.nl
 cmsflash.scherpenzeel.nl
 digikoppeling.scherpenzeel.nl
 drop.scherpenzeel.nl
+edienstenburgerzaken-test.scherpenzeel.nl
 edienstenburgerzaken.scherpenzeel.nl
 felix.scherpenzeel.nl
 filetransfer.scherpenzeel.nl
@@ -12,7 +13,9 @@ flash.scherpenzeel.nl
 mijn.scherpenzeel.nl
 mijnafspraak.scherpenzeel.nl
 mijndesktop.scherpenzeel.nl
+mijninwonerportaal.scherpenzeel.nl
 omgevingsvisie.scherpenzeel.nl
+preprod-mijninwonerportaal.scherpenzeel.nl
 preproductie.scherpenzeel.nl
 probeer-cjg.scherpenzeel.nl
 probeer.scherpenzeel.nl
@@ -20,6 +23,7 @@ scherpenzeel.nl
 simcms-cjg.scherpenzeel.nl
 simcms.scherpenzeel.nl
 simsite.scherpenzeel.nl
+spzvpn.scherpenzeel.nl
 test-cmsflash.scherpenzeel.nl
 test-flash.scherpenzeel.nl
 waarmerk.scherpenzeel.nl

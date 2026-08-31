@@ -322,6 +322,7 @@ http://cardsonline.acc.intra.amsterdam.nl
 http://cardsonline.intra.amsterdam.nl
 http://centrumbegroot.amsterdam.nl
 http://centrumimpuls.geldrop-mierlo.nl
+http://cjg.scherpenzeel.nl
 http://cloudflare.amsterdam.nl
 http://cms-internoss-test.oss.nl
 http://cms-internoss.test.oss.nl
@@ -534,6 +535,7 @@ http://preproductie.cranendonck.nl
 http://preproductie.dalfsen.nl
 http://preproductie.ooststellingwerf.nl
 http://preproductie.reuseldemierden.nl
+http://preproductie.scherpenzeel.nl
 http://preproductie.voorschoten.nl
 http://preproductie.winterswijk.nl
 http://prod-surveys3.ggd.amsterdam.nl
@@ -555,11 +557,11 @@ http://ruimtelijkerfgoed.deventer.nl
 http://rxlaunchbroker-preprod.heuvelrug.nl
 http://saaedepot-storage.amsterdam.nl
 http://samen.s-hertogenbosch.nl
+http://scherpenzeel.nl
 http://schoondoenwegewoon.acc.denhaag.nl
 http://secure.dalfsen.nl
 http://sem.kampen.nl
 http://simcms-armoedepact.westerkwartier.nl
-http://simcms-cjg.scherpenzeel.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
@@ -2614,7 +2616,6 @@ https://civicintegration.zaanstad.nl
 https://civision.werkeninkomen.amsterdam.nl
 https://cjg.denhaag.nl
 https://cjg.olst-wijhe.nl
-https://cjg.scherpenzeel.nl
 https://classifai.meppel.nl
 https://clickprotection.haarlem.nl
 https://clicks.helmond.nl
@@ -3320,6 +3321,7 @@ https://edienstenburgerzaken-test.rijswijk.nl
 https://edienstenburgerzaken-test.roerdalen.nl
 https://edienstenburgerzaken-test.rotterdam.nl
 https://edienstenburgerzaken-test.rucphen.nl
+https://edienstenburgerzaken-test.scherpenzeel.nl
 https://edienstenburgerzaken-test.schiedam.nl
 https://edienstenburgerzaken-test.schouwen-duiveland.nl
 https://edienstenburgerzaken-test.sint-michielsgestel.nl
@@ -3447,6 +3449,7 @@ https://edienstenburgerzaken.rijswijk.nl
 https://edienstenburgerzaken.roerdalen.nl
 https://edienstenburgerzaken.rotterdam.nl
 https://edienstenburgerzaken.rucphen.nl
+https://edienstenburgerzaken.scherpenzeel.nl
 https://edienstenburgerzaken.schiedam.nl
 https://edienstenburgerzaken.schouwen-duiveland.nl
 https://edienstenburgerzaken.sint-michielsgestel.nl
@@ -5861,6 +5864,7 @@ https://mijninkomen.texel.nl
 https://mijninkomen.venray.nl
 https://mijnintranet.haaksbergen.nl
 https://mijnintranet.heerlen.nl
+https://mijninwonerportaal.scherpenzeel.nl
 https://mijnjgz.ggd.groningen.nl
 https://mijnkaart.deurne.nl
 https://mijnkbr.rotterdam.nl
@@ -6965,6 +6969,7 @@ https://preprod-mijninkomen.gemeentehw.nl
 https://preprod-mijninkomen.goeree-overflakkee.nl
 https://preprod-mijninkomen.gouda.nl
 https://preprod-mijninkomen.terneuzen.nl
+https://preprod-mijninwonerportaal.scherpenzeel.nl
 https://preprod-mijnoverzicht.purmerend.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
 https://preprod-mijnplan.winterswijk.nl
@@ -7063,7 +7068,6 @@ https://preproductie.mookenmiddelaar.nl
 https://preproductie.oirschot.nl
 https://preproductie.opmeer.nl
 https://preproductie.pijnacker-nootdorp.nl
-https://preproductie.scherpenzeel.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.t-diel.nl
 https://preproductie.valkenswaard.nl

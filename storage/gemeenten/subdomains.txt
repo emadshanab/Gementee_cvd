@@ -4952,6 +4952,7 @@ edienstenburgerzaken-test.rijswijk.nl
 edienstenburgerzaken-test.roerdalen.nl
 edienstenburgerzaken-test.rotterdam.nl
 edienstenburgerzaken-test.rucphen.nl
+edienstenburgerzaken-test.scherpenzeel.nl
 edienstenburgerzaken-test.schiedam.nl
 edienstenburgerzaken-test.schouwen-duiveland.nl
 edienstenburgerzaken-test.sint-michielsgestel.nl
@@ -9230,6 +9231,7 @@ mijninkomen.texel.nl
 mijninkomen.venray.nl
 mijnintranet.haaksbergen.nl
 mijnintranet.heerlen.nl
+mijninwonerportaal.scherpenzeel.nl
 mijnjgz.ggd.groningen.nl
 mijnkaart.deurne.nl
 mijnkaarten.ovh.gemeentebeek.nl
@@ -11112,6 +11114,7 @@ preprod-mijninkomen.oss.nl
 preprod-mijninkomen.terneuzen.nl
 preprod-mijninkomen.texel.nl
 preprod-mijninkomen.venray.nl
+preprod-mijninwonerportaal.scherpenzeel.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnoverzicht.purmerend.nl
 preprod-mijnoverzicht.sint-michielsgestel.nl
@@ -12806,6 +12809,7 @@ sportverhuur.amsterdam.nl
 sportverhuur.emmen.nl
 spotler.mailing.landvancuijk.nl
 spyke-stw.alkmaar.nl
+spzvpn.scherpenzeel.nl
 sql-hglmijnhengelo.hengelo.nl
 squit2020.acceptatie.drechterland.nl
 squit2020.acceptatie.gemeentebeek.nl
