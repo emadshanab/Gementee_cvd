@@ -6287,8 +6287,6 @@ geovisia.harlingen.nl
 geovisia.sudwestfryslan.nl
 geovisia.t-diel.nl
 geovisiaonline.gemert-bakel.nl
-geovisiaonline.schiedam.nl
-geovisiaonlinetest.schiedam.nl
 geovisiatest.sudwestfryslan.nl
 geoweb.haarlemmermeer.nl
 geoweb.oldenzaal.nl
@@ -6534,7 +6532,6 @@ guestportal.gemeentewestland.nl
 guido.asten.nl
 guisweg.zaanstad.nl
 gulpen-wittem.nl
-gvo.schiedam.nl
 gvonline.hilversum.nl
 gvonline.westmaasenwaal.nl
 gvt.haarlemmermeer.nl

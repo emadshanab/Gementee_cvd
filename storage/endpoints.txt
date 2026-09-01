@@ -2544,7 +2544,6 @@ https://brp.dp-o.azure.amsterdam.nl
 https://brs.winterswijk.nl
 https://brummen.nl
 https://brunssum.nl
-https://brz1-sm100.schiedam.nl
 https://buitencollectie.tilburg.nl
 https://buitendienst-app.krimpenerwaard.nl
 https://buitendienst-dashboard.krimpenerwaard.nl
@@ -4218,7 +4217,6 @@ https://geoservices.test.denhaag.nl
 https://geotest.goirle.nl
 https://geovisia.harlingen.nl
 https://geovisia.sudwestfryslan.nl
-https://geovisiaonline.schiedam.nl
 https://geoweb.haarlemmermeer.nl
 https://geoweb.vught.nl
 https://geuzenstatenkwartierfietst.denhaag.nl
@@ -4336,7 +4334,6 @@ https://growinggreencities.almere.nl
 https://guido.asten.nl
 https://guisweg.zaanstad.nl
 https://gulpen-wittem.nl
-https://gvo.schiedam.nl
 https://gvonline.hilversum.nl
 https://gwo.lopik.nl
 https://gwo.westmaasenwaal.nl
@@ -7658,7 +7655,6 @@ https://sliedrecht-checker.sliedrecht.nl
 https://sliedrecht.nl
 https://slimgesprek.peelenmaas.nl
 https://slotwijziging.rijswijk.nl
-https://sm1-sec.schiedam.nl
 https://smallingerland.nl
 https://smap.almere.nl
 https://smartaim-test.haarlemmermeer.nl

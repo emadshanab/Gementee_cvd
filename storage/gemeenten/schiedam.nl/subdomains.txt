@@ -13,9 +13,6 @@ edienstenburgerzaken-prod.schiedam.nl
 edienstenburgerzaken-test.schiedam.nl
 edienstenburgerzaken.schiedam.nl
 fallback.webserver.schiedam.nl
-geovisiaonline.schiedam.nl
-geovisiaonlinetest.schiedam.nl
-gvo.schiedam.nl
 jnetcc01p.schiedam.nl
 jnetcc01t.schiedam.nl
 mijn.schiedam.nl

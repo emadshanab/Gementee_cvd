@@ -1084,7 +1084,6 @@ apigateway
 apigateway2
 mailgate
 securetest
-geovisiaonline
 _citrixreceiver._tcp
 login-test-ipa
 belastingen-test
@@ -3619,6 +3618,7 @@ gb-wls-04
 gb-wls-05
 gemgbl-wls-gb-1
 gemgbl-wls-gb-2
+geovisiaonline
 malengo-cms
 malengo-test
 malengo-testcms
@@ -6078,8 +6078,6 @@ appl03
 boeken
 brz1-sm100
 fallback.webserver
-geovisiaonlinetest
-gvo
 jnetcc01p
 jnetcc01t
 ns1.webserver
