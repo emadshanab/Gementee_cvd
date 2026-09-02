@@ -387,6 +387,7 @@ http://felix.eemnes.nl
 http://felix.harlingen.nl
 http://felix.lingewaard.nl
 http://felix.renswoude.nl
+http://felix.schiermonnikoog.nl
 http://felix.sonenbreugel.nl
 http://felix.staphorst.nl
 http://felix.t-diel.nl
@@ -558,6 +559,7 @@ http://rxlaunchbroker-preprod.heuvelrug.nl
 http://saaedepot-storage.amsterdam.nl
 http://samen.s-hertogenbosch.nl
 http://scherpenzeel.nl
+http://schiermonnikoog.nl
 http://schoondoenwegewoon.acc.denhaag.nl
 http://secure.dalfsen.nl
 http://sem.kampen.nl
@@ -582,7 +584,6 @@ http://simcms.halderberge.nl
 http://simcms.lingewaard.nl
 http://simcms.reuseldemierden.nl
 http://simcms.roerdalen.nl
-http://simcms.schiermonnikoog.nl
 http://simcms.urk.nl
 http://simcms.vlissingen.nl
 http://simcms.woensdrecht.nl
@@ -7572,6 +7573,7 @@ https://simcms.opmeer.nl
 https://simcms.overbetuwe.nl
 https://simcms.renswoude.nl
 https://simcms.scherpenzeel.nl
+https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.valkenswaard.nl
@@ -9258,6 +9260,7 @@ https://www.samen.midden-groningen.nl
 https://www.samen.rijswijk.nl
 https://www.schagen.nl
 https://www.schiedam.nl
+https://www.schiermonnikoog.nl
 https://www.schouwen-duiveland.nl
 https://www.shops.landvancuijk.nl
 https://www.sint-michielsgestel.nl
