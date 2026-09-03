@@ -9,7 +9,6 @@ edienstenburgerzaken-test.schouwen-duiveland.nl
 edienstenburgerzaken.schouwen-duiveland.nl
 flowmailer-tracking.schouwen-duiveland.nl
 gast.schouwen-duiveland.nl
-ijz.schouwen-duiveland.nl
 intranet.schouwen-duiveland.nl
 link.schouwen-duiveland.nl
 mail.schouwen-duiveland.nl
@@ -25,8 +24,6 @@ stuf3zstest.schouwen-duiveland.nl
 stufddsprod.schouwen-duiveland.nl
 stufddstest.schouwen-duiveland.nl
 werkenbij.schouwen-duiveland.nl
-wup.schouwen-duiveland.nl
 www.schouwen-duiveland.nl
 www.werkenbij.schouwen-duiveland.nl
-zaaksysteem-accept.schouwen-duiveland.nl
 zorgmail.schouwen-duiveland.nl

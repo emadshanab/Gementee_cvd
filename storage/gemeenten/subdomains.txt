@@ -7246,7 +7246,6 @@ iit-controle.rotterdam.nl
 ijsaeo1.ijsselstein.nl
 ijsselstein.nl
 ijvi.olst-wijhe.nl
-ijz.schouwen-duiveland.nl
 ik-acc.koggenland.nl
 ik.koggenland.nl
 ikbouwin-acc.denhaag.nl
@@ -15088,7 +15087,6 @@ wsr.groningen.nl
 wsus.overbetuwe.nl
 wsus01.gem.overbetuwe.nl
 wua.tynaarlo.nl
-wup.schouwen-duiveland.nl
 wvncmg.westvoorne.nl
 wwcs02.ad.winterswijk.nl
 wwex02.ad.winterswijk.nl
@@ -16356,7 +16354,6 @@ zaaksysteem-accept.ommen.nl
 zaaksysteem-accept.oude-ijsselstreek.nl
 zaaksysteem-accept.roosendaal.nl
 zaaksysteem-accept.schiedam.nl
-zaaksysteem-accept.schouwen-duiveland.nl
 zaaksysteem-accept.stichtsevecht.nl
 zaaksysteem-accept.tholen.nl
 zaaksysteem-accept.tilburg.nl

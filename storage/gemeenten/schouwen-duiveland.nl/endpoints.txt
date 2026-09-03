@@ -8,6 +8,7 @@ https://intranet.schouwen-duiveland.nl
 https://link.schouwen-duiveland.nl
 https://mijn.schouwen-duiveland.nl
 https://open.schouwen-duiveland.nl
+https://parkeren-acc.schouwen-duiveland.nl
 https://parkeren.schouwen-duiveland.nl
 https://pv.schouwen-duiveland.nl
 https://schouwen-duiveland.nl
@@ -15,4 +16,3 @@ https://solliciteren.schouwen-duiveland.nl
 https://werkenbij.schouwen-duiveland.nl
 https://www.schouwen-duiveland.nl
 https://www.werkenbij.schouwen-duiveland.nl
-https://zaaksysteem-accept.schouwen-duiveland.nl

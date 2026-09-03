@@ -47,8 +47,8 @@ adfs
 enterpriseenrollment
 pv
 ruimtelijkeplannen
-zaaksysteem-accept
 woningbouwkaart
+zaaksysteem-accept
 api.meldingen-acc
 meldingen-acc
 formulier
@@ -6095,13 +6095,11 @@ websrv03
 zendto
 digikoppelingwoz
 gast
-ijz
 solliciteren
 stuf3gbavzstest
 stuf3zstest
 stufddsprod
 stufddstest
-wup
 Cloudadapter
 autorisatiebeheertest
 dis4fintest

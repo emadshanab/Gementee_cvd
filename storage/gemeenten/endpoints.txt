@@ -6660,6 +6660,7 @@ https://parkeervergunning.nissewaard.nl
 https://parkeervergunningen.harlingen.nl
 https://parkeervergunningenacc.harlingen.nl
 https://parkeren-acc.katwijk.nl
+https://parkeren-acc.schouwen-duiveland.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
@@ -9456,7 +9457,6 @@ https://zaaksysteem-accept.noordwijk.nl
 https://zaaksysteem-accept.ommen.nl
 https://zaaksysteem-accept.oude-ijsselstreek.nl
 https://zaaksysteem-accept.schiedam.nl
-https://zaaksysteem-accept.schouwen-duiveland.nl
 https://zaaksysteem-accept.stichtsevecht.nl
 https://zaaksysteem-accept.tholen.nl
 https://zaaksysteem-accept.tilburg.nl
