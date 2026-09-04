@@ -4,8 +4,8 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-mijn
 edienstenburgerzaken-test
+mijn
 intranet
 webmail
 simsite
@@ -99,6 +99,7 @@ notificaties
 cloudadapter
 klantcontact
 kaarten
+mijnzorg
 portaal
 parkeren-test
 digikoppeling.test
@@ -113,7 +114,6 @@ objecten
 objecttypen
 openklant
 openzaak
-mijnzorg
 e
 piwik
 mks
@@ -153,6 +153,7 @@ simform
 verkiezingen
 mijninkomen
 dali
+sts
 www.doemee
 gemeente
 squit2go
@@ -161,8 +162,8 @@ ftp
 web
 preprod-mijn
 preprod-mijninkomen
-sts
 micollab
+mdm
 inloggen
 contentbeheer
 begroting
@@ -171,7 +172,6 @@ izaaksuite
 snelbaliepp
 owa
 meedoen
-mdm
 cryptshare
 acc-pabc
 socialekaart
@@ -206,6 +206,7 @@ localhost
 byod
 email
 uc
+sharefile
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
@@ -228,7 +229,6 @@ www.gemeenteraad
 iarchief
 legacy
 mobile
-sharefile
 inproces.acceptatie
 outlook
 vth
@@ -259,6 +259,7 @@ jcc
 fs
 jongin
 www.jongin
+citrix
 key2gbav
 archief
 publicaties
@@ -294,9 +295,9 @@ openformulieren
 woz-portaal
 support
 data-test
+mam
 xential
 erfgoed
-citrix
 internetafspraken
 bestanden
 squit2020.acceptatie
@@ -330,10 +331,10 @@ intranetcms
 rap
 wifi
 digikoppelingtest
+cloud
 parkeervergunningen
 acc.piwik
 www.acc
-mam
 omgevingswet
 cognos
 dkdtest
@@ -392,7 +393,6 @@ mijnsociaalportaal
 uca
 esb
 aov
-cloud
 idselect
 extern
 gp
@@ -473,6 +473,7 @@ mbg1
 elokettest
 wmo
 wozloket
+mijnzorg-test
 jcccloud
 belastingportaal-test
 matomo
@@ -528,6 +529,7 @@ preprod-mijnsociaaldomein
 rds
 wmoloket
 acceptatie-intranet
+aaa
 neuron
 nieuwsbrieven
 open-formulieren
@@ -614,7 +616,6 @@ digid-parkeervergunningen
 simcms-duurzaam
 testformulieren
 automator
-mijnzorg-test
 rx-mission-publiceren
 preprod-mijnoverzicht
 inkomensondersteuning
@@ -734,7 +735,6 @@ e.doemee
 www.kaarten
 www.mdm
 www.sharefile
-aaa
 preprod-belastingportaal
 magazines
 online
@@ -1317,6 +1317,7 @@ reject.dmarc
 stswigo4it-acc
 stswigo4it
 www.rekenkamer
+adproxy
 dis4fin
 secure-t
 camera
@@ -6101,11 +6102,14 @@ stuf3zstest
 stufddsprod
 stufddstest
 Cloudadapter
+appcontroller
 autorisatiebeheertest
 dis4fintest
+k2d
 key2fin
 key2fintest
 pkicertificaat2017
+xms
 Belastingportaal
 vind
 draadloos
@@ -6844,7 +6848,6 @@ www.ansvwl2016
 www.ansvwl2903
 www.anwebintwl2008
 www.mis
-adproxy
 awmail
 geoportal
 klicwion
