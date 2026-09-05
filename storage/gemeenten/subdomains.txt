@@ -2544,6 +2544,7 @@ belasting.kampen.nl
 belastingbalie-acc.amsterdam.nl
 belastingbalie-acc.hilversum.nl
 belastingbalie-acc.noordoostpolder.nl
+belastingbalie-acc.sint-michielsgestel.nl
 belastingbalie-acc.wijdemeren.nl
 belastingbalie-prepod.gooisemeren.nl
 belastingbalie-test.almere.nl
@@ -2585,6 +2586,7 @@ belastingbalie.pijnacker-nootdorp.nl
 belastingbalie.rhenen.nl
 belastingbalie.rijswijk.nl
 belastingbalie.roerdalen.nl
+belastingbalie.sint-michielsgestel.nl
 belastingbalie.smallingerland.nl
 belastingbalie.veenendaal.nl
 belastingbalie.veldhoven.nl
@@ -15005,6 +15007,7 @@ woningbouwkaart.oirschot.nl
 woningbouwkaart.oisterwijk.nl
 woningbouwkaart.peelenmaas.nl
 woningbouwkaart.reuseldemierden.nl
+woningbouwkaart.sint-michielsgestel.nl
 woningbouwkaart.sonenbreugel.nl
 woningbouwkaart.tynaarlo.nl
 woningbouwkaart.valkenswaard.nl

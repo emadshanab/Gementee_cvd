@@ -1,4 +1,6 @@
 https://Belastingportaal.sint-michielsgestel.nl
+https://belastingbalie-acc.sint-michielsgestel.nl
+https://belastingbalie.sint-michielsgestel.nl
 https://belastingportaal-test.sint-michielsgestel.nl
 https://belastingportaal.sint-michielsgestel.nl
 https://edienstenburgerzaken-test.sint-michielsgestel.nl
@@ -9,4 +11,5 @@ https://open.sint-michielsgestel.nl
 https://praatmee.sint-michielsgestel.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
 https://sint-michielsgestel.nl
+https://woningbouwkaart.sint-michielsgestel.nl
 https://www.sint-michielsgestel.nl

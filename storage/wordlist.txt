@@ -45,18 +45,18 @@ gemeenteraad
 testeloket
 adfs
 enterpriseenrollment
+woningbouwkaart
 pv
 ruimtelijkeplannen
-woningbouwkaart
 zaaksysteem-accept
 api.meldingen-acc
 meldingen-acc
+belastingbalie
 formulier
 dacceptatiemidoffice
 dloket
 data
 openpdc
-belastingbalie
 dacceptatieloket
 openpub
 enterpriseregistration
@@ -375,6 +375,7 @@ ns
 wion
 atlas
 beheer
+belastingbalie-acc
 belastingbalie.acc
 parkeervergunning
 aanmelden
@@ -448,7 +449,6 @@ zaakloket
 2secure
 aovpn
 assets
-belastingbalie-acc
 cms.openstad
 dev
 moh-acc

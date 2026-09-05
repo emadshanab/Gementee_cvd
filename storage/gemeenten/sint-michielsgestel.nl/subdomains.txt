@@ -1,5 +1,7 @@
 Belastingportaal.sint-michielsgestel.nl
 acceptatie.sint-michielsgestel.nl
+belastingbalie-acc.sint-michielsgestel.nl
+belastingbalie.sint-michielsgestel.nl
 belastingportaal-test.sint-michielsgestel.nl
 belastingportaal.sint-michielsgestel.nl
 digikoppeling.sint-michielsgestel.nl
@@ -14,4 +16,5 @@ sint-michielsgestel.nl
 test-digikoppeling.sint-michielsgestel.nl
 test.sint-michielsgestel.nl
 vind.sint-michielsgestel.nl
+woningbouwkaart.sint-michielsgestel.nl
 www.sint-michielsgestel.nl

@@ -2121,6 +2121,7 @@ https://belasting-test.kampen.nl
 https://belasting.kampen.nl
 https://belastingbalie-acc.hilversum.nl
 https://belastingbalie-acc.noordoostpolder.nl
+https://belastingbalie-acc.sint-michielsgestel.nl
 https://belastingbalie-acc.wijdemeren.nl
 https://belastingbalie-prepod.gooisemeren.nl
 https://belastingbalie-test.almere.nl
@@ -2159,6 +2160,7 @@ https://belastingbalie.noordoostpolder.nl
 https://belastingbalie.pijnacker-nootdorp.nl
 https://belastingbalie.rhenen.nl
 https://belastingbalie.rijswijk.nl
+https://belastingbalie.sint-michielsgestel.nl
 https://belastingbalie.smallingerland.nl
 https://belastingbalie.veenendaal.nl
 https://belastingbalie.veldhoven.nl
@@ -8794,6 +8796,7 @@ https://woningbouwkaart.oirschot.nl
 https://woningbouwkaart.oisterwijk.nl
 https://woningbouwkaart.peelenmaas.nl
 https://woningbouwkaart.reuseldemierden.nl
+https://woningbouwkaart.sint-michielsgestel.nl
 https://woningbouwkaart.sonenbreugel.nl
 https://woningbouwkaart.tynaarlo.nl
 https://woningbouwkaart.valkenswaard.nl
