@@ -300,6 +300,7 @@ http://belastingen.almere.nl
 http://bergeijk.nl
 http://bermod2-acc.amsterdam.nl
 http://beverwijk.nl
+http://bezoekersparkeren-acc.sittard-geleen.nl
 http://bezoekersparkeren.zwolle.nl
 http://bi-sociaal.ft.amsterdam.nl
 http://bikecity.amsterdam.nl
@@ -370,6 +371,7 @@ http://dmb.amsterdam.nl
 http://dmnstudio-zgw.denhaag.nl
 http://docgen-tst.amsterdam.nl
 http://docwerker.amsterdam.nl
+http://draadloos.sittard-geleen.nl
 http://duurzaam.woensdrecht.nl
 http://e.papendrecht.nl
 http://ediensten.gemeentehw.nl
@@ -448,7 +450,6 @@ http://klimaatraad.deventer.nl
 http://laren.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
-http://login.sittard-geleen.nl
 http://loket.gemeentewestland.nl
 http://lopik.nl
 http://lvs.denhaag.nl
@@ -484,6 +485,7 @@ http://nijkerk.eu
 http://nuenen.nl
 http://objecten-zgw.test.denhaag.nl
 http://objecttypen.rotterdam.nl
+http://obsurv-t.sittard-geleen.nl
 http://octopus-webdav.amsterdam.nl
 http://octopus.denhaag.nl
 http://old-dbmanager.test.denhaag.nl
@@ -655,7 +657,6 @@ http://topdesk.ggd.amsterdam.nl
 http://transform.deventer.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://tvm.acc.amsterdam.nl
-http://uitvaartplanner.sittard-geleen.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
 http://vergunningintaker.overbetuwe.nl
@@ -1847,6 +1848,7 @@ https://apv-broker.heuvelrug.nl
 https://apv-broker.preprod.heuvelrug.nl
 https://arbo-kwaliteit.rotterdam.nl
 https://arcgis.groningen.nl
+https://arcgishub.sittard-geleen.nl
 https://archeologie-acc.denhaag.nl
 https://archeologie.acc.denhaag.nl
 https://archeologie.denhaag.nl
@@ -3116,7 +3118,6 @@ https://dongen.nl
 https://dora.rotterdam.nl
 https://dordrecht.nl
 https://dpt.purmerend.nl
-https://draadloos.sittard-geleen.nl
 https://drechterland.nl
 https://drempelsweg.utrecht.nl
 https://drimmelen.nl
@@ -3961,6 +3962,7 @@ https://formulier.oostgelre.nl
 https://formulier.roermond.nl
 https://formulier.rotterdam.nl
 https://formulier.s-hertogenbosch.nl
+https://formulier.sittard-geleen.nl
 https://formulier.zwolle.nl
 https://formulieracc.breda.nl
 https://formulieren-intern.hoorn.nl
@@ -4172,6 +4174,7 @@ https://geo.montferland.info
 https://geo.nunspeet.nl
 https://geo.raalte.nl
 https://geo.renkum.nl
+https://geo.sittard-geleen.nl
 https://geo.vught.nl
 https://geo.wijkbijduurstede.nl
 https://geo.zeewolde.nl
@@ -4352,6 +4355,7 @@ https://halbox.halderberge.nl
 https://halderberge.nl
 https://halnet.halderberge.nl
 https://handboekdibor.ede.nl
+https://handboekgemeenteraad.sittard-geleen.nl
 https://handleiding.nunspeet.nl
 https://haps.landvancuijk.nl
 https://hardenberg.nl
@@ -4704,6 +4708,7 @@ https://idbroker.stedebroec.nl
 https://idbroker.tynaarlo.nl
 https://idee.roosendaal.nl
 https://ideevoordakrand.haarlemmermeer.nl
+https://identity-preprod.sittard-geleen.nl
 https://identity-test.huizen.nl
 https://identity.huizen.nl
 https://identity.sudwestfryslan.nl
@@ -5347,6 +5352,7 @@ https://login.denkmee.tilburg.nl
 https://login.groningen.nl
 https://login.mookenmiddelaar.nl
 https://login.nijkerk.eu
+https://login.sittard-geleen.nl
 https://login.subsidie.leiden.nl
 https://login.veere.nl
 https://login.waterland.nl
@@ -5470,6 +5476,7 @@ https://mail.bloemendaal.nl
 https://mail.ede.nl
 https://mail.eijsden-margraten.nl
 https://mail.gennep.nl
+https://mail.haven.acc.sittard-geleen.nl
 https://mail.heemstede.nl
 https://mail.lopik.nl
 https://mail.peelenmaas.nl
@@ -6229,7 +6236,6 @@ https://objecttypen.oldenzaal.nl
 https://objecttypen.oostgelre.nl
 https://objecttypen.roermond.nl
 https://objecttypen.zwolle.nl
-https://obsurv-t.sittard-geleen.nl
 https://obsurv.heerde.nl
 https://obsurv.loonopzand.nl
 https://obsurv.sittard-geleen.nl
@@ -6296,6 +6302,7 @@ https://ombudsman.nijmegen.nl
 https://omgevingsdocumenten.rijssen-holten.nl
 https://omgevingsloket-acc.hoorn.nl
 https://omgevingsloket.hoorn.nl
+https://omgevingsplein.sittard-geleen.nl
 https://omgevingsvergunningen.accp.rotterdam.nl
 https://omgevingsvergunningen.rotterdam.nl
 https://omgevingsvisie.almelo.nl
@@ -6617,6 +6624,7 @@ https://outbound.waalwijk.nl
 https://outlook.deventer.nl
 https://outlook.dewolden.nl
 https://outlook.hoogeveen.nl
+https://outlook.sittard-geleen.nl
 https://outlook.wageningen.nl
 https://overloon.landvancuijk.nl
 https://owa.nieuwegein.nl
@@ -6644,7 +6652,6 @@ https://parkeeracties.zwijndrecht.nl
 https://parkeerapp.apeldoorn.nl
 https://parkeerbalie-test.wageningen.nl
 https://parkeerbalie.wageningen.nl
-https://parkeerloket.sittard-geleen.nl
 https://parkeerloket.weert.nl
 https://parkeerloket.zwolle.nl
 https://parkeernorm.valkenswaard.nl
@@ -6668,6 +6675,7 @@ https://parkeervergunningen.harlingen.nl
 https://parkeervergunningenacc.harlingen.nl
 https://parkeren-acc.katwijk.nl
 https://parkeren-acc.schouwen-duiveland.nl
+https://parkeren-acc.sittard-geleen.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
@@ -7215,7 +7223,6 @@ https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.kaagenbraassem.nl
 https://qr.tubbergen.nl
 https://qr.zaanstad.nl
-https://quarantaine.sittard-geleen.nl
 https://raad.acceptatie.asten.nl
 https://raad.acceptatie.someren.nl
 https://raad.alblasserdam.nl
@@ -7998,7 +8005,6 @@ https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.gemeentebeek.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.meierijstad.nl
-https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
@@ -8301,6 +8307,7 @@ https://uitvaartagenda-dev.apeldoorn.nl
 https://uitvaartagenda-staging.apeldoorn.nl
 https://uitvaartagenda-test.apeldoorn.nl
 https://uitvaartagenda.apeldoorn.nl
+https://uitvaartplanner.sittard-geleen.nl
 https://uitwisseling.drimmelen.nl
 https://unesco.landvancuijk.nl
 https://unjunk.krimpenerwaard.nl
@@ -8735,6 +8742,9 @@ https://wilbertoord.landvancuijk.nl
 https://wildcard.doemee.heemstede.nl
 https://wildcard.evenementen.nijmegen.nl
 https://wildcard.financielestukken.ouder-amstel.nl
+https://wildcard.haven.acc.sittard-geleen.nl
+https://wildcard.haven.sittard-geleen.nl
+https://wildcard.haven.tst.sittard-geleen.nl
 https://wildcard.hellevoetsluis.nl
 https://wildcard.olst-wijhe.nl
 https://wildcard.pekela.nl
@@ -9063,6 +9073,7 @@ https://www.harderwijk.nl
 https://www.hardinxveld-giessendam.nl
 https://www.harlingen.nl
 https://www.hattem.nl
+https://www.haven.acc.sittard-geleen.nl
 https://www.heemskerk.nl
 https://www.heemstede.nl
 https://www.heerde.nl
