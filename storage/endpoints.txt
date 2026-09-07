@@ -340,7 +340,9 @@ http://connect.acceptatie.dordrecht.nl
 http://connect.acceptatie.goirle.nl
 http://connect.acceptatie.hardinxveld-giessendam.nl
 http://connect.acceptatie.papendrecht.nl
+http://connect.acceptatie.sliedrecht.nl
 http://connect.papendrecht.nl
+http://connect.sliedrecht.nl
 http://consul.midden-groningen.nl
 http://contactregistratie.acc.amsterdam.nl
 http://contactregistratie.amsterdam.nl
@@ -665,7 +667,6 @@ http://verkiezingen.deventer.nl
 http://viertfietsen.deventer.nl
 http://vitaalplatteland.deventer.nl
 http://vsp.terneuzen.nl
-http://vvb.sliedrecht.nl
 http://wassenaar.nl
 http://web01.deventer.nl
 http://webmail.gooisemeren.nl
@@ -2583,7 +2584,6 @@ https://buurtbudgetzuidoost.amsterdam.nl
 https://bwgn2.oldebroek.nl
 https://bzg1-acc.hellevoetsluis.nl
 https://cairo.rotterdam.nl
-https://camera.sliedrecht.nl
 https://campus.groningen.nl
 https://campus.purmerend.nl
 https://camunda-zgw.acc.denhaag.nl

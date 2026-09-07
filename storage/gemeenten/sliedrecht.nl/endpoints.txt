@@ -1,9 +1,9 @@
 http://autodiscover.sliedrecht.nl
-http://vvb.sliedrecht.nl
+http://connect.acceptatie.sliedrecht.nl
+http://connect.sliedrecht.nl
 https://afvalkalender.sliedrecht.nl
 https://api.betalen.sliedrecht.nl
 https://betalen.sliedrecht.nl
-https://camera.sliedrecht.nl
 https://college.sliedrecht.nl
 https://edienstenburgerzaken-test.sliedrecht.nl
 https://edienstenburgerzaken.sliedrecht.nl

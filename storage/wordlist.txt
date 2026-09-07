@@ -81,8 +81,8 @@ simcms-open
 _autodiscover._tcp
 zaken
 hybrid
-podiumd-logs
 connect
+podiumd-logs
 acc-broker
 acc-formulier
 acc-keycloak-admin
@@ -131,6 +131,7 @@ apps
 bgt
 ita
 extranet
+connect.acceptatie
 cmsintranet
 subsidies
 snelbalie
@@ -139,7 +140,6 @@ bastion365
 fmreturn
 govroam
 test-intranet
-connect.acceptatie
 belastingportaal
 vergunningintaker
 osbacc
@@ -1319,7 +1319,6 @@ www.rekenkamer
 adproxy
 dis4fin
 secure-t
-camera
 qmanage
 prefill-test
 digitalebelastingbalie-test
@@ -6194,6 +6193,7 @@ algemenediensten
 bhv
 bruggen
 bynder
+camera
 carel1900p-clientpki
 carel1900p
 carel1900t-clientpki

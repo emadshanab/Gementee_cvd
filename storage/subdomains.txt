@@ -978,6 +978,7 @@ acceptatie.rijswijk.nl
 acceptatie.schagen.nl
 acceptatie.simpelveld.nl
 acceptatie.sint-michielsgestel.nl
+acceptatie.sliedrecht.nl
 acceptatie.smallingerland.nl
 acceptatie.someren.nl
 acceptatie.stadskanaal.nl
@@ -3223,7 +3224,6 @@ cag.gemeentemaasgouw.nl
 cairo.rotterdam.nl
 camera-mkr.heerlen.nl
 camera-sport.alkmaar.nl
-camera.sliedrecht.nl
 camera.sudwestfryslan.nl
 camerabuitendienst.voerendaal.nl
 campagne.haarlem.nl
@@ -3598,6 +3598,7 @@ connect.acceptatie.oldenzaal.nl
 connect.acceptatie.overbetuwe.nl
 connect.acceptatie.papendrecht.nl
 connect.acceptatie.peelenmaas.nl
+connect.acceptatie.sliedrecht.nl
 connect.acceptatie.steenwijkerland.nl
 connect.acceptatie.winterswijk.nl
 connect.acceptatie.zutphen.nl
@@ -3617,6 +3618,7 @@ connect.overbetuwe.nl
 connect.papendrecht.nl
 connect.peelenmaas.nl
 connect.pekela.nl
+connect.sliedrecht.nl
 connect.smallingerland.nl
 connect.staging.overbetuwe.nl
 connect.steenwijkerland.nl
