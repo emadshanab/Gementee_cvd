@@ -330,6 +330,8 @@ http://cms-internoss.test.oss.nl
 http://cms.werkenbij.amsterdam.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
+http://cmsids-test.smallingerland.nl
+http://cmsids.smallingerland.nl
 http://cmsintranet.etten-leur.nl
 http://cmsintranet.peelenmaas.nl
 http://cmsjip.vijfheerenlanden.nl
@@ -425,6 +427,8 @@ http://htb-test.gemeente-steenbergen.nl
 http://hybrid.dalfsen.nl
 http://id-subsidies-login.acceptatie.ede.nl
 http://id-subsidies-login.ede.nl
+http://ids-test.smallingerland.nl
+http://ids.smallingerland.nl
 http://iko-zgw.denhaag.nl
 http://im.opmeer.nl
 http://inloggen.mookenmiddelaar.nl
@@ -2664,8 +2668,6 @@ https://cmsdok.dronten.nl
 https://cmshofnet.coevorden.nl
 https://cmshuisnet.nieuwegein.nl
 https://cmshuisnettest.nieuwegein.nl
-https://cmsids-test.smallingerland.nl
-https://cmsids.smallingerland.nl
 https://cmsinternet-acc.wijdemeren.nl
 https://cmsintranet-acc.wijdemeren.nl
 https://cmsintranet.gemeentebeek.nl
@@ -4652,7 +4654,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.smallingerland.nl
 https://ibzpink.someren.nl
 https://ibzpink.sonenbreugel.nl
 https://ibzpink.staphorst.nl
@@ -4715,8 +4716,6 @@ https://identity.sudwestfryslan.nl
 https://idiensten-contract.rotterdam.nl
 https://idinloggen.oosterhout.nl
 https://idinloggenpre.oosterhout.nl
-https://ids-test.smallingerland.nl
-https://ids.smallingerland.nl
 https://idselect-preprod.bloemendaal.nl
 https://idselect-preprod.heemstede.nl
 https://idselect-test.veenendaal.nl
@@ -6676,6 +6675,7 @@ https://parkeervergunningenacc.harlingen.nl
 https://parkeren-acc.katwijk.nl
 https://parkeren-acc.schouwen-duiveland.nl
 https://parkeren-acc.sittard-geleen.nl
+https://parkeren-acc.smallingerland.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
