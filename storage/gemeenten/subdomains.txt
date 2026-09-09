@@ -10195,6 +10195,7 @@ open.roerdalen.nl
 open.roosendaal.nl
 open.schouwen-duiveland.nl
 open.sint-michielsgestel.nl
+open.soest.nl
 open.sonenbreugel.nl
 open.staphorst.nl
 open.stichtsevecht.nl
@@ -16296,6 +16297,7 @@ www.zorgloket.druten.nl
 www.zorgloket.groningen.nl
 www.zorgplein.doetinchem.nl
 www.zorgwijzer.nunspeet.nl
+www.zorgzaam.soest.nl
 www.zuidplas.nl
 www.zuidwestopznbest.denhaag.nl
 www.zundert.nl

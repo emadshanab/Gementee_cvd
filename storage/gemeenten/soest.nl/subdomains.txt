@@ -23,6 +23,7 @@ kcc.soest.nl
 mijn.soest.nl
 mijnbbsuo.soest.nl
 msteamsbellen.soest.nl
+open.soest.nl
 prefill.soest.nl
 preprod-belastingen.soest.nl
 snelbaliebbsuo.soest.nl
@@ -33,5 +34,6 @@ verhuursport.soest.nl
 www.begroting.soest.nl
 www.gemeenteraad.soest.nl
 www.soest.nl
+www.zorgzaam.soest.nl
 zaaksysteem.soest.nl
 zorgzaam.soest.nl

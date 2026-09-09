@@ -6450,6 +6450,7 @@ https://open.rhenen.nl
 https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
+https://open.soest.nl
 https://open.stichtsevecht.nl
 https://open.teylingen.nl
 https://open.tilburg.nl
@@ -9416,6 +9417,7 @@ https://www.zeist.nl
 https://www.zevenaar.nl
 https://www.zkd.denhaag.nl
 https://www.zoeterwoude.nl
+https://www.zorgzaam.soest.nl
 https://www.zundert.nl
 https://www.zutphen.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
