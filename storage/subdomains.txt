@@ -4396,6 +4396,7 @@ djuma-mks-tst.velsen.nl
 djuma.beesel.nl
 djuma.gemeentehulst.nl
 djuma.haarlemmermeer.nl
+djuma.someren.nl
 djuma.veldhoven.nl
 djumamks.meerssen.nl
 djumaproxy.brunssum.nl
@@ -8645,7 +8646,6 @@ mail.schagen.nl
 mail.schouwen-duiveland.nl
 mail.sittard-geleen.nl
 mail.smallingerland.nl
-mail.someren.nl
 mail.stadskanaal.nl
 mail.veendam.nl
 mail.veenendaal.nl
@@ -14816,6 +14816,7 @@ werkplek.rucphen.nl
 werkplek.schagen.nl
 werkplek.schiedam.nl
 werkplek.smallingerland.nl
+werkplek.someren.nl
 werkplek.staphorst.nl
 werkplek.sudwestfryslan.nl
 werkplek.tholen.nl
@@ -15023,6 +15024,7 @@ woningbouwkaart.oisterwijk.nl
 woningbouwkaart.peelenmaas.nl
 woningbouwkaart.reuseldemierden.nl
 woningbouwkaart.sint-michielsgestel.nl
+woningbouwkaart.someren.nl
 woningbouwkaart.sonenbreugel.nl
 woningbouwkaart.tynaarlo.nl
 woningbouwkaart.valkenswaard.nl

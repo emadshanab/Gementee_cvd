@@ -44,8 +44,8 @@ werkenbij
 gemeenteraad
 testeloket
 adfs
-enterpriseenrollment
 woningbouwkaart
+enterpriseenrollment
 pv
 ruimtelijkeplannen
 zaaksysteem-accept
@@ -390,6 +390,7 @@ test-podiumd-logs
 plannen
 bestemmingsplannen
 nhr
+djuma
 mijnsociaalportaal
 uca
 esb
@@ -461,7 +462,6 @@ test-openklant
 test-openzaak
 kaartviewer
 personeelsplanning
-djuma
 klimaatplein
 live
 mijnsociaalportaal-acc

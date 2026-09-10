@@ -45,6 +45,7 @@ http://afspraken.dalfsen.nl
 http://afspraken.gemeente-oldambt.nl
 http://afspraken.huizen.nl
 http://afspraken.reimerswaal.nl
+http://afspraken.someren.nl
 http://afspraken.vaals.nl
 http://afspraken.zwartewaterland.nl
 http://aip.amsterdam.nl
@@ -526,7 +527,6 @@ http://panel.almere.nl
 http://pb-yutpa.rnd.amsterdam.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
-http://plannen.someren.nl
 http://podiumd-logs.rotterdam.nl
 http://pop.deventer.nl
 http://postcodezoektool.rotterdam.nl
@@ -1519,7 +1519,6 @@ https://afspraken.olst-wijhe.nl
 https://afspraken.pekela.nl
 https://afspraken.purmerend.nl
 https://afspraken.raalte.nl
-https://afspraken.someren.nl
 https://afspraken.tholen.nl
 https://afspraken.tynaarlo.nl
 https://afspraken.veendam.nl
@@ -1978,7 +1977,6 @@ https://awtunnel.nederweert.nl
 https://awtunnel.roermond.nl
 https://awtunnel.venlo.nl
 https://awtunnel.weert.nl
-https://awvpn.someren.nl
 https://az-acc.mijn.amsterdam.nl
 https://baarle-nassau.nl
 https://backend-dvg.acc.rotterdam.nl
@@ -4654,7 +4652,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.someren.nl
 https://ibzpink.sonenbreugel.nl
 https://ibzpink.staphorst.nl
 https://ibzpink.stichtsevecht.nl
@@ -6238,7 +6235,6 @@ https://objecttypen.zwolle.nl
 https://obsurv.heerde.nl
 https://obsurv.loonopzand.nl
 https://obsurv.sittard-geleen.nl
-https://obsurv.someren.nl
 https://oco.eindhoven.nl
 https://octobox-anonimiseren.utrecht.nl
 https://octobox.utrecht.nl
@@ -6786,6 +6782,7 @@ https://pki.helmond.nl
 https://pki.olst-wijhe.nl
 https://pki.rotterdam.nl
 https://plannen.horstaandemaas.nl
+https://plannen.someren.nl
 https://plannen.venray.nl
 https://planningencontrol.haarlemmermeer.nl
 https://planningsmanagement.amsterdam.nl
@@ -8691,6 +8688,7 @@ https://werkplek.roosendaal.nl
 https://werkplek.schagen.nl
 https://werkplek.schiedam.nl
 https://werkplek.smallingerland.nl
+https://werkplek.someren.nl
 https://werkplek.sudwestfryslan.nl
 https://werkplek.tholen.nl
 https://werkplek.vlaardingen.nl
@@ -8808,6 +8806,7 @@ https://woningbouwkaart.oisterwijk.nl
 https://woningbouwkaart.peelenmaas.nl
 https://woningbouwkaart.reuseldemierden.nl
 https://woningbouwkaart.sint-michielsgestel.nl
+https://woningbouwkaart.someren.nl
 https://woningbouwkaart.sonenbreugel.nl
 https://woningbouwkaart.tynaarlo.nl
 https://woningbouwkaart.valkenswaard.nl
