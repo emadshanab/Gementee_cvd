@@ -395,7 +395,6 @@ http://felix.harlingen.nl
 http://felix.lingewaard.nl
 http://felix.renswoude.nl
 http://felix.schiermonnikoog.nl
-http://felix.sonenbreugel.nl
 http://felix.staphorst.nl
 http://felix.t-diel.nl
 http://felix.vlieland.nl
@@ -506,7 +505,6 @@ http://open.gemeentebeek.nl
 http://open.lingewaard.nl
 http://open.oirschot.nl
 http://open.roerdalen.nl
-http://open.sonenbreugel.nl
 http://open.staphorst.nl
 http://open.wierden.nl
 http://openklant.groningen.nl
@@ -563,6 +561,7 @@ http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://rp.beverwijk.nl
 http://ruimtelijkeplannen.nuenen.nl
+http://ruimtelijkeplannen.sonenbreugel.nl
 http://ruimtelijkerfgoed.deventer.nl
 http://rxlaunchbroker-preprod.heuvelrug.nl
 http://saaedepot-storage.amsterdam.nl
@@ -728,6 +727,7 @@ http://www.samen.harlingen.nl
 http://www.samenmet.beesel.nl
 http://www.scheveningen.denhaag.nl
 http://www.sip.hellevoetsluis.nl
+http://www.sonenbreugel.nl
 http://www.stadspas.apeldoorn.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.toerisme.groningen.nl
@@ -4652,7 +4652,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.sonenbreugel.nl
 https://ibzpink.staphorst.nl
 https://ibzpink.stichtsevecht.nl
 https://ibzpink.t-diel.nl
@@ -6447,6 +6446,7 @@ https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
 https://open.soest.nl
+https://open.sonenbreugel.nl
 https://open.stichtsevecht.nl
 https://open.teylingen.nl
 https://open.tilburg.nl
@@ -7587,6 +7587,7 @@ https://simcms.overbetuwe.nl
 https://simcms.renswoude.nl
 https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
+https://simcms.sonenbreugel.nl
 https://simcms.staphorst.nl
 https://simcms.valkenswaard.nl
 https://simcms.veere.nl
@@ -7745,6 +7746,7 @@ https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
 https://solliciterenbij.maassluis.nl
 https://someren.nl
+https://sonenbreugel.nl
 https://sow.olst-wijhe.nl
 https://sp.brielle.nl
 https://spa4.tst.amsterdam.nl
@@ -9294,7 +9296,6 @@ https://www.socialekaart.echt-susteren.nl
 https://www.socialekaart.westbetuwe.nl
 https://www.soest.nl
 https://www.someren.nl
-https://www.sonenbreugel.nl
 https://www.sport.nijmegen.nl
 https://www.sportencultuur.gorinchem.nl
 https://www.sportloket.landvancuijk.nl
