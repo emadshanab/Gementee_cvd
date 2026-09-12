@@ -2737,6 +2737,7 @@ berichten.leusden.nl
 berichten.noordoostpolder.nl
 berichten.ommen.nl
 berichten.soest.nl
+berichten.stadskanaal.nl
 berichten.sudwestfryslan.nl
 berichten.uitgeest.nl
 berichten.valkenswaard.nl
@@ -6128,7 +6129,6 @@ gemeenteraad.rheden.nl
 gemeenteraad.rijssen-holten.nl
 gemeenteraad.rotterdam.nl
 gemeenteraad.soest.nl
-gemeenteraad.stadskanaal.nl
 gemeenteraad.venlo.nl
 gemeenteraad.vlissingen.nl
 gemeenteraad.vught.nl
@@ -11630,7 +11630,6 @@ raad.roosendaal.nl
 raad.schagen.nl
 raad.sliedrecht.nl
 raad.someren.nl
-raad.stadskanaal.nl
 raad.t-diel.nl
 raad.terneuzen.nl
 raad.tiel.nl
@@ -13273,7 +13272,6 @@ teamurenplanninggezondheidmilieu.rotterdam.nl
 techniek.landvancuijk.nl
 tekst.emmen.nl
 tekst.gemeentenoordenveld.nl
-telefonie.stadskanaal.nl
 telefoon.gemeentehw.nl
 telefoon.staphorst.nl
 teleweb.heerlen.nl
@@ -14101,6 +14099,7 @@ veiligmailen.haaksbergen.nl
 veiligmailen.koggenland.nl
 veiligmailen.medemblik.nl
 veiligmailen.opmeer.nl
+veiligmailen.stadskanaal.nl
 veiligmailen.sudwestfryslan.nl
 veiligthuishaaglanden.acc.denhaag.nl
 veldhoven.nl

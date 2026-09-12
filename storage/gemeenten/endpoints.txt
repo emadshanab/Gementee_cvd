@@ -2291,6 +2291,7 @@ https://berichten.leusden.nl
 https://berichten.noordoostpolder.nl
 https://berichten.ommen.nl
 https://berichten.soest.nl
+https://berichten.stadskanaal.nl
 https://berichten.uitgeest.nl
 https://berichten.valkenswaard.nl
 https://berichten.zoetermeer.nl
@@ -4132,7 +4133,6 @@ https://gemeenteraad.rheden.nl
 https://gemeenteraad.rijssen-holten.nl
 https://gemeenteraad.rotterdam.nl
 https://gemeenteraad.soest.nl
-https://gemeenteraad.stadskanaal.nl
 https://gemeenteraad.venlo.nl
 https://gemeenteraad.vlissingen.nl
 https://gemeenteraad.vught.nl
@@ -7250,7 +7250,6 @@ https://raad.roosendaal.nl
 https://raad.schagen.nl
 https://raad.sliedrecht.nl
 https://raad.someren.nl
-https://raad.stadskanaal.nl
 https://raad.t-diel.nl
 https://raad.tiel.nl
 https://raad.tynaarlo.nl
@@ -7983,7 +7982,6 @@ https://taxivergunning.rotterdam.nl
 https://taxivooriedereen.rijssen-holten.nl
 https://teamplan.huizen.nl
 https://techniek.landvancuijk.nl
-https://telefonie.stadskanaal.nl
 https://telewerken.hellevoetsluis.nl
 https://telewerken.nederbetuwe.nl
 https://telewerken.stichtsevecht.nl
@@ -8357,6 +8355,7 @@ https://veiligmailen.beverwijk.nl
 https://veiligmailen.koggenland.nl
 https://veiligmailen.medemblik.nl
 https://veiligmailen.opmeer.nl
+https://veiligmailen.stadskanaal.nl
 https://veiligthuishaaglanden.acc.denhaag.nl
 https://veldhoven.nl
 https://velp.landvancuijk.nl

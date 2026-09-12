@@ -33,16 +33,16 @@ meldingen
 portal
 afspraak
 api.meldingen
-raad
 geo
+raad
 parkeren
 iparticipatie
 test-ipa
 belastingen
 vpn
 werkenbij
-gemeenteraad
 testeloket
+gemeenteraad
 adfs
 woningbouwkaart
 enterpriseenrollment
@@ -59,10 +59,10 @@ data
 openpdc
 dacceptatieloket
 openpub
+berichten
 enterpriseregistration
 remote
 dmidoffice
-berichten
 cmsoo
 loket.acceptatie
 omgevingsvisie
@@ -243,6 +243,7 @@ wachtwoord
 subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
+veiligmailen
 thuiswerken
 website
 mail2
@@ -276,7 +277,6 @@ handhaving
 mijnzorg-acc
 documenten
 vergunningintaker-preprod
-veiligmailen
 academie
 melddesk
 cms
@@ -6165,7 +6165,6 @@ raadsarchief
 shantou
 stan-acc
 stan
-telefonie
 wenen
 xential-prod
 epos
