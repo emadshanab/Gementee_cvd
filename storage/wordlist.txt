@@ -169,6 +169,7 @@ contentbeheer
 begroting
 en
 izaaksuite
+veiligdelen
 snelbaliepp
 owa
 meedoen
@@ -176,7 +177,6 @@ cryptshare
 acc-pabc
 socialekaart
 gisib
-veiligdelen
 bis
 formulieren-test
 vdi

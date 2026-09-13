@@ -382,7 +382,6 @@ http://e.papendrecht.nl
 http://ediensten.gemeentehw.nl
 http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
-http://epos.staphorst.nl
 http://es.hengelo.nl
 http://felix.beekdaelen.nl
 http://felix.bergendal.nl
@@ -395,7 +394,6 @@ http://felix.harlingen.nl
 http://felix.lingewaard.nl
 http://felix.renswoude.nl
 http://felix.schiermonnikoog.nl
-http://felix.staphorst.nl
 http://felix.t-diel.nl
 http://felix.vlieland.nl
 http://felix.waalwijk.nl
@@ -578,6 +576,7 @@ http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-omgevingswet.bronckhorst.nl
 http://simcms-open.meerssen.nl
+http://simcms-open.staphorst.nl
 http://simcms-open.wierden.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-werkenbij.nijkerk.eu
@@ -4652,7 +4651,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.staphorst.nl
 https://ibzpink.stichtsevecht.nl
 https://ibzpink.t-diel.nl
 https://ibzpink.texel.nl
@@ -7510,6 +7508,7 @@ https://simcms-centrum.heerlen.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.waalwijk.nl
+https://simcms-epos.staphorst.nl
 https://simcms-kunstencultuur.harlingen.nl
 https://simcms-ontmoetingscentra.opmeer.nl
 https://simcms-open.beverwijk.nl
@@ -7527,7 +7526,6 @@ https://simcms-open.middendelfland.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.oirschot.nl
 https://simcms-open.roerdalen.nl
-https://simcms-open.staphorst.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-open.zwartewaterland.nl
@@ -7587,7 +7585,6 @@ https://simcms.renswoude.nl
 https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.sonenbreugel.nl
-https://simcms.staphorst.nl
 https://simcms.valkenswaard.nl
 https://simcms.veere.nl
 https://simcms.vlieland.nl
@@ -7641,7 +7638,6 @@ https://simsite.pekela.nl
 https://simsite.pijnacker-nootdorp.nl
 https://simsite.reuseldemierden.nl
 https://simsite.scherpenzeel.nl
-https://simsite.staphorst.nl
 https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
@@ -7818,7 +7814,6 @@ https://staging2.olst-wijhe.nl
 https://stan-acc.stadskanaal.nl
 https://stan.stadskanaal.nl
 https://standplaatsen.heerenveen.nl
-https://staphorst.nl
 https://stappenteller.rotterdam.nl
 https://start.almelo.nl
 https://start.beverwijk.nl
@@ -8348,6 +8343,7 @@ https://veiligdelen.meppel.nl
 https://veiligdelen.montferland.info
 https://veiligdelen.s-hertogenbosch.nl
 https://veiligdelen.schagen.nl
+https://veiligdelen.staphorst.nl
 https://veiligdelen.stichtsevecht.nl
 https://veiligdelen.zeist.nl
 https://veiligmailen.almelo.nl
@@ -9307,6 +9303,7 @@ https://www.stadskrant.denhaag.nl
 https://www.stadspas.venlo.nl
 https://www.staging.deventer.nl
 https://www.staging.olst-wijhe.nl
+https://www.staphorst.nl
 https://www.stationsdistrict.nijmegen.nl
 https://www.stedebroec.nl
 https://www.steenwijkerland.nl

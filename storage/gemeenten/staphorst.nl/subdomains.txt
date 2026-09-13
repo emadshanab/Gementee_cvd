@@ -22,5 +22,6 @@ sso.staphorst.nl
 staphorst.nl
 telefoon.staphorst.nl
 thuiswerken.staphorst.nl
+veiligdelen.staphorst.nl
 werkplek.staphorst.nl
 www.staphorst.nl

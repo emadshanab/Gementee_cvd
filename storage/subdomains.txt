@@ -14091,6 +14091,7 @@ veiligdelen.meppel.nl
 veiligdelen.montferland.info
 veiligdelen.s-hertogenbosch.nl
 veiligdelen.schagen.nl
+veiligdelen.staphorst.nl
 veiligdelen.stichtsevecht.nl
 veiligdelen.zeist.nl
 veiligmailen.almelo.nl
