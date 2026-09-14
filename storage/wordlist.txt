@@ -41,8 +41,8 @@ test-ipa
 belastingen
 vpn
 werkenbij
-testeloket
 gemeenteraad
+testeloket
 adfs
 woningbouwkaart
 enterpriseenrollment
@@ -51,8 +51,8 @@ ruimtelijkeplannen
 zaaksysteem-accept
 api.meldingen-acc
 meldingen-acc
-formulier
 belastingbalie
+formulier
 dacceptatiemidoffice
 dloket
 data
@@ -191,6 +191,7 @@ bor
 inproces
 mta-sts
 acceptatie-open
+www.samen
 geoportaal
 college
 geodata
@@ -212,9 +213,9 @@ contentbeheer.acceptatie
 zaken.acceptatie
 transfer
 bestuur
-www.samen
 zaaksysteem
 simform-preproductie
+veiligmailen
 belastingbalie-test
 gemeentearchief
 onderzoek
@@ -243,7 +244,6 @@ wachtwoord
 subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
-veiligmailen
 thuiswerken
 website
 mail2
@@ -318,6 +318,7 @@ belastingen-acc
 evenementen
 mozard
 api
+belastingbalie.acc
 mijngeldzaken
 www.openstad
 ns1
@@ -376,7 +377,6 @@ wion
 atlas
 beheer
 belastingbalie-acc
-belastingbalie.acc
 parkeervergunning
 aanmelden
 rooster
@@ -6170,6 +6170,7 @@ xential-prod
 epos
 probeer-epos
 simcms-epos
+email.samen
 openpdckb
 openpubkb
 bsp02

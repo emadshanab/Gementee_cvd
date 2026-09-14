@@ -1,8 +1,12 @@
 AutoDiscover.stedebroec.nl
 acc.stedebroec.nl
 autodiscover.stedebroec.nl
+belastingbalie.acc.stedebroec.nl
+belastingbalie.stedebroec.nl
 edienstenburgerzaken-test.stedebroec.nl
 edienstenburgerzaken.stedebroec.nl
+email.samen.stedebroec.nl
+gemeenteraad.stedebroec.nl
 idbroker.stedebroec.nl
 klantportaal.acc.stedebroec.nl
 klantportaal.stedebroec.nl
@@ -19,4 +23,6 @@ prod.stedebroec.nl
 samen.stedebroec.nl
 stedebroec.nl
 transfer.stedebroec.nl
+veiligmailen.stedebroec.nl
+www.samen.stedebroec.nl
 www.stedebroec.nl

@@ -1,7 +1,11 @@
 http://AutoDiscover.stedebroec.nl
 http://autodiscover.stedebroec.nl
+https://belastingbalie.acc.stedebroec.nl
+https://belastingbalie.stedebroec.nl
 https://edienstenburgerzaken-test.stedebroec.nl
 https://edienstenburgerzaken.stedebroec.nl
+https://email.samen.stedebroec.nl
+https://gemeenteraad.stedebroec.nl
 https://idbroker.stedebroec.nl
 https://klantportaal.acc.stedebroec.nl
 https://klantportaal.stedebroec.nl
@@ -13,5 +17,5 @@ https://openpubkb.stedebroec.nl
 https://preprodidbroker.stedebroec.nl
 https://samen.stedebroec.nl
 https://stedebroec.nl
-https://transfer.stedebroec.nl
+https://veiligmailen.stedebroec.nl
 https://www.stedebroec.nl
