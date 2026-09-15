@@ -2740,6 +2740,7 @@ berichten.noordoostpolder.nl
 berichten.ommen.nl
 berichten.soest.nl
 berichten.stadskanaal.nl
+berichten.steenwijkerland.nl
 berichten.sudwestfryslan.nl
 berichten.uitgeest.nl
 berichten.valkenswaard.nl
@@ -3481,7 +3482,6 @@ cmsintranet.heuvelrug.nl
 cmsintranet.meierijstad.nl
 cmsintranet.peelenmaas.nl
 cmsintranet.sittard-geleen.nl
-cmsintranet.steenwijkerland.nl
 cmsintranet.sudwestfryslan.nl
 cmsintranet.velsen.nl
 cmsintranet.wageningen.nl
@@ -7579,7 +7579,6 @@ intranet.zeist.nl
 intranet.zoeterwoude.nl
 intranet.zwartewaterland.nl
 intranet2.gulpen-wittem.nl
-intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacc.weert.nl
 intranetacceptatie.kampen.nl
@@ -9514,6 +9513,7 @@ monumentenregister.rotterdam.nl
 mookenmiddelaar.nl
 mor-tst.groningen.nl
 mor.brunssum.nl
+mor.steenwijkerland.nl
 morgen.venlo.nl
 move010.rotterdam.nl
 mozard.ameland.nl
@@ -13322,7 +13322,6 @@ test-cmsintranet.groningen.nl
 test-cmsintranet.heuvelrug.nl
 test-cmsintranet.meierijstad.nl
 test-cmsintranet.sittard-geleen.nl
-test-cmsintranet.steenwijkerland.nl
 test-cmsintranet.sudwestfryslan.nl
 test-cmsintranet.velsen.nl
 test-cmsintranet.wageningen.nl
@@ -13381,7 +13380,6 @@ test-intranet.heuvelrug.nl
 test-intranet.meierijstad.nl
 test-intranet.midden-groningen.nl
 test-intranet.sittard-geleen.nl
-test-intranet.steenwijkerland.nl
 test-intranet.sudwestfryslan.nl
 test-intranet.velsen.nl
 test-intranet.wageningen.nl

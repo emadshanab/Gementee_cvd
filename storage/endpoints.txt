@@ -2293,6 +2293,7 @@ https://berichten.noordoostpolder.nl
 https://berichten.ommen.nl
 https://berichten.soest.nl
 https://berichten.stadskanaal.nl
+https://berichten.steenwijkerland.nl
 https://berichten.uitgeest.nl
 https://berichten.valkenswaard.nl
 https://berichten.zoetermeer.nl
@@ -2677,7 +2678,6 @@ https://cmsintranet.groningen.nl
 https://cmsintranet.heuvelrug.nl
 https://cmsintranet.meierijstad.nl
 https://cmsintranet.sittard-geleen.nl
-https://cmsintranet.steenwijkerland.nl
 https://cmsintranet.sudwestfryslan.nl
 https://cmsintranet.velsen.nl
 https://cmsintranet.wageningen.nl
@@ -4915,7 +4915,6 @@ https://intranet.woensdrecht.nl
 https://intranet.woerden.nl
 https://intranet.zeist.nl
 https://intranet2.gulpen-wittem.nl
-https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
 https://intranetacc.weert.nl
 https://intranetcms-acc.bergendal.nl
@@ -6032,6 +6031,7 @@ https://monopoly.landvancuijk.nl
 https://montferland.info
 https://montfoort.nl
 https://monumentenregister.rotterdam.nl
+https://mor.steenwijkerland.nl
 https://morgen.venlo.nl
 https://move010.rotterdam.nl
 https://mozard.ameland.nl
@@ -8002,7 +8002,6 @@ https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.gemeentebeek.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.meierijstad.nl
-https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
 https://test-cmsintranet.wageningen.nl

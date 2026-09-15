@@ -57,9 +57,9 @@ dacceptatiemidoffice
 dloket
 data
 openpdc
+berichten
 dacceptatieloket
 openpub
-berichten
 enterpriseregistration
 remote
 dmidoffice
@@ -132,20 +132,20 @@ bgt
 ita
 extranet
 connect.acceptatie
-cmsintranet
 subsidies
 snelbalie
 duurzaam
 bastion365
 fmreturn
 govroam
-test-intranet
+cmsintranet
 belastingportaal
 vergunningintaker
 osbacc
 afvalkalender
 preprod
 qr
+test-intranet
 www.webmail
 filecap
 dtestmidoffice
@@ -157,7 +157,6 @@ sts
 www.doemee
 gemeente
 squit2go
-test-cmsintranet
 ftp
 web
 preprod-mijn
@@ -166,6 +165,7 @@ micollab
 mdm
 inloggen
 contentbeheer
+test-cmsintranet
 begroting
 en
 izaaksuite
@@ -947,6 +947,7 @@ afspraken-test
 edienstenburgerzaken-prod
 ggk
 key2datadistributie-prod
+mor
 navigus
 nedbrowser
 ngdw
@@ -1123,7 +1124,6 @@ www.mijn
 www.stemvan
 www.toerisme
 corsanxt
-intranet2
 secure1
 mijnintranet
 depot
@@ -2419,7 +2419,6 @@ databridge
 jcc-afspraken
 key2bag-test
 loo-tv
-mor
 nedbrk
 nedbrkinleesservice
 nedgeoservices
@@ -4009,6 +4008,7 @@ geo-key2inf
 gwmor008
 gwmor009
 gwmwb012
+intranet2
 mymeeting-ris
 mymeeting20
 streetsmart
