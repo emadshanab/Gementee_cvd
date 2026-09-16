@@ -43,9 +43,9 @@ vpn
 werkenbij
 gemeenteraad
 testeloket
+enterpriseenrollment
 adfs
 woningbouwkaart
-enterpriseenrollment
 pv
 ruimtelijkeplannen
 zaaksysteem-accept
@@ -409,7 +409,6 @@ suite4burgerzaken-test
 medewerkers
 pdc
 preprod-formulieren
-clicksfm
 www.afspraak
 connect.test
 contentbeheer.test
@@ -483,6 +482,7 @@ djumaproxy
 suite4burgerzaken
 sync
 uitwijk
+clicksfm
 testmijn
 download
 parkeren-siam-test
@@ -1316,6 +1316,8 @@ reject.dmarc
 stswigo4it-acc
 stswigo4it
 www.rekenkamer
+mijninwonerportaal
+preprod-mijninwonerportaal
 adproxy
 dis4fin
 secure-t
@@ -6066,8 +6068,6 @@ squitxo-test
 cmsflash
 flash
 mijnafspraak
-mijninwonerportaal
-preprod-mijninwonerportaal
 probeer-cjg
 simcms-cjg
 spzvpn

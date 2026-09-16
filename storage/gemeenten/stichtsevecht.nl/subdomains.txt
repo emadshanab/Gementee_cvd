@@ -2,16 +2,17 @@ acceptatie-open.stichtsevecht.nl
 alwayson.stichtsevecht.nl
 autodiscover.stichtsevecht.nl
 broker.stichtsevecht.nl
-clicksfm.stichtsevecht.nl
 cmssamenatwork.stichtsevecht.nl
 dkd.stichtsevecht.nl
 e.stichtsevecht.nl
 eformulieren-test.stichtsevecht.nl
 eformulieren.stichtsevecht.nl
+enterpriseenrollment.stichtsevecht.nl
 iburgerzaken.stichtsevecht.nl
 ibzpink.stichtsevecht.nl
 kaarten.stichtsevecht.nl
 mijn.stichtsevecht.nl
+mijninwonerportaal.stichtsevecht.nl
 nieuwsbrief.stichtsevecht.nl
 octopus-acc.stichtsevecht.nl
 octopus-webdav-acc.stichtsevecht.nl
@@ -22,6 +23,7 @@ osb.stichtsevecht.nl
 osbacc.stichtsevecht.nl
 peoplesync.stichtsevecht.nl
 persberichten.stichtsevecht.nl
+preprod-mijninwonerportaal.stichtsevecht.nl
 preprodbroker.stichtsevecht.nl
 raadsinformatie.stichtsevecht.nl
 ruimtevoorwerken.stichtsevecht.nl

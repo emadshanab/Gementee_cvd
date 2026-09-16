@@ -2638,7 +2638,6 @@ https://clicksfm.nieuws.lansingerland.nl
 https://clicksfm.nieuwsbrief.goeree-overflakkee.nl
 https://clicksfm.noordoostpolder.nl
 https://clicksfm.persberichten.lansingerland.nl
-https://clicksfm.stichtsevecht.nl
 https://cloud.nieuwsbrief.amsterdam.nl
 https://cloud.wageningen.nl
 https://cloudadapter-acc.waterland.nl
@@ -3691,6 +3690,7 @@ https://enterpriseenrollment.oss.nl
 https://enterpriseenrollment.rheden.nl
 https://enterpriseenrollment.roosendaal.nl
 https://enterpriseenrollment.schiermonnikoog.nl
+https://enterpriseenrollment.stichtsevecht.nl
 https://enterpriseenrollment.terschelling.nl
 https://enterpriseenrollment.tholen.nl
 https://enterpriseenrollment.veenendaal.nl
@@ -4655,7 +4655,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.stichtsevecht.nl
 https://ibzpink.t-diel.nl
 https://ibzpink.texel.nl
 https://ibzpink.tholen.nl
@@ -5871,6 +5870,7 @@ https://mijninkomen.venray.nl
 https://mijnintranet.haaksbergen.nl
 https://mijnintranet.heerlen.nl
 https://mijninwonerportaal.scherpenzeel.nl
+https://mijninwonerportaal.stichtsevecht.nl
 https://mijnjgz.ggd.groningen.nl
 https://mijnkaart.deurne.nl
 https://mijnkbr.rotterdam.nl
@@ -6763,7 +6763,6 @@ https://peelenmaas.nl
 https://pekela.nl
 https://pencportaal.gemeentehw.nl
 https://pencportal.ede.nl
-https://peoplesync.stichtsevecht.nl
 https://persberichten.lansingerland.nl
 https://persberichten.stichtsevecht.nl
 https://personeelsvereniging.helmond.nl
@@ -6984,6 +6983,7 @@ https://preprod-mijninkomen.goeree-overflakkee.nl
 https://preprod-mijninkomen.gouda.nl
 https://preprod-mijninkomen.terneuzen.nl
 https://preprod-mijninwonerportaal.scherpenzeel.nl
+https://preprod-mijninwonerportaal.stichtsevecht.nl
 https://preprod-mijnoverzicht.purmerend.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
 https://preprod-mijnplan.winterswijk.nl
@@ -8580,7 +8580,6 @@ https://webmail.opsterland.nl
 https://webmail.purmerend.nl
 https://webmail.schiedam.nl
 https://webmail.sittard-geleen.nl
-https://webmail.stichtsevecht.nl
 https://webmail.terneuzen.nl
 https://webmail.tynaarlo.nl
 https://webmail.valkenburg.nl

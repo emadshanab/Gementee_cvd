@@ -3344,7 +3344,6 @@ clicksfm.nieuws.lansingerland.nl
 clicksfm.nieuwsbrief.goeree-overflakkee.nl
 clicksfm.noordoostpolder.nl
 clicksfm.persberichten.lansingerland.nl
-clicksfm.stichtsevecht.nl
 client.rotterdam.nl
 clientcert-prd.groningen.nl
 clientcert-tst.groningen.nl
@@ -5378,6 +5377,7 @@ enterpriseenrollment.oss.nl
 enterpriseenrollment.rheden.nl
 enterpriseenrollment.roosendaal.nl
 enterpriseenrollment.schiermonnikoog.nl
+enterpriseenrollment.stichtsevecht.nl
 enterpriseenrollment.terschelling.nl
 enterpriseenrollment.tholen.nl
 enterpriseenrollment.veenendaal.nl
@@ -9251,6 +9251,7 @@ mijninkomen.venray.nl
 mijnintranet.haaksbergen.nl
 mijnintranet.heerlen.nl
 mijninwonerportaal.scherpenzeel.nl
+mijninwonerportaal.stichtsevecht.nl
 mijnjgz.ggd.groningen.nl
 mijnkaart.deurne.nl
 mijnkaarten.ovh.gemeentebeek.nl
@@ -11138,6 +11139,7 @@ preprod-mijninkomen.terneuzen.nl
 preprod-mijninkomen.texel.nl
 preprod-mijninkomen.venray.nl
 preprod-mijninwonerportaal.scherpenzeel.nl
+preprod-mijninwonerportaal.stichtsevecht.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnoverzicht.purmerend.nl
 preprod-mijnoverzicht.sint-michielsgestel.nl
