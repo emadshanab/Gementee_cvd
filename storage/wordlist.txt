@@ -215,6 +215,7 @@ transfer
 bestuur
 zaaksysteem
 simform-preproductie
+subsidie
 veiligmailen
 belastingbalie-test
 gemeentearchief
@@ -241,7 +242,6 @@ www.denkmee
 kennisbank
 praatmee
 wachtwoord
-subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
 thuiswerken
@@ -729,7 +729,6 @@ hotspot
 ketenportaal.acceptatie
 www.login
 post
-www.parkeren
 testafspraken
 berichtenverkeer
 e.doemee
@@ -1073,6 +1072,7 @@ webvpn
 www.djuma
 www.eloket
 www.parkeren-test
+www.parkeren
 www.webvpn
 ediensten
 pip-preproductie
@@ -1257,6 +1257,7 @@ mform
 mijnafval
 mstat
 smtp01
+apigw
 qr-test
 mijnhulp
 ggk-koppeling
@@ -4953,7 +4954,6 @@ gs01msn
 mks01msn
 ned03msn
 www.gs01msn
-apigw
 laar-ollandseweg
 link.socialewegwijzer
 mx11
@@ -6187,10 +6187,13 @@ rvw
 samenatwork
 test-cmssamenatwork
 test-samenatwork
+acceptatie.subsidie
+acceptatie.subsidieapplicatie
 acctsjinstbus
 adfs01
 adobeupdates
 algemenediensten
+apigw-test
 bhv
 bruggen
 bynder
@@ -6209,7 +6212,6 @@ dataland
 datalandprod
 datalandtest
 devtest
-download.webmail
 enterpriseregistration.adfs01
 evmail
 geborgenverleden
@@ -6231,6 +6233,7 @@ mijnhr
 mijnswf
 natuurnetwerken-prod
 natuurnetwerken-test
+nautobot
 openzksesba001
 opsview
 ota-kodision-cli
@@ -6248,6 +6251,7 @@ scrum
 selfservice
 sportdag
 stuf-topicus
+subsidieapplicatie
 survey
 tab0751
 tbp.diginetwerk
@@ -6278,6 +6282,7 @@ www.datagit
 www.dataland-prod
 www.dataland-test
 www.dataland
+www.dev
 www.devtest
 www.evmail
 www.formulieren
@@ -6285,6 +6290,7 @@ www.gbi
 www.geovisiatest
 www.ihandhaving
 www.iidb
+www.intranet-prod
 www.joost
 www.k2fin
 www.kodision-prod
@@ -6302,6 +6308,7 @@ www.opsview
 www.ota-kodision-cli
 www.ota-test
 www.pdc.test
+www.personeelsplanning
 www.prefill-test
 www.prefill
 www.preprod-belastingen
@@ -6320,6 +6327,7 @@ www.token
 www.topicus
 www.tstmijnswf
 www.vroegsignalering
+www.wastexl
 www.wepresent
 www.youp
 www.zorgaanbod

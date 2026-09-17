@@ -432,7 +432,6 @@ http://im.opmeer.nl
 http://inloggen.mookenmiddelaar.nl
 http://internoss-test.oss.nl
 http://intranet-acc.waalwijk.nl
-http://intranet-prod.sudwestfryslan.nl
 http://intranet-test.nissewaard.nl
 http://intranet.edam-volendam.nl
 http://intranet.leudal.nl
@@ -646,6 +645,7 @@ http://test-intranet.heuvelrug.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sittard-geleen.nl
+http://test-intranet.sudwestfryslan.nl
 http://test-intranet.wageningen.nl
 http://test-intranet.zeist.nl
 http://test-jip.vijfheerenlanden.nl
@@ -1379,6 +1379,8 @@ https://acceptatie.rijswijk.nl
 https://acceptatie.schagen.nl
 https://acceptatie.someren.nl
 https://acceptatie.stadskanaal.nl
+https://acceptatie.subsidie.sudwestfryslan.nl
+https://acceptatie.subsidieapplicatie.sudwestfryslan.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
 https://acceptatie.velsen.nl
@@ -3922,7 +3924,6 @@ https://fmreturn.zundert.nl
 https://followyourdreams.acc.denhaag.nl
 https://followyourdreams.denhaag.nl
 https://form-gemeenteloket.gemeentemaastricht.nl
-https://form.sudwestfryslan.nl
 https://forms-test.druten.nl
 https://forms-test.wijchen.nl
 https://forms.deventer.nl
@@ -4298,7 +4299,6 @@ https://gisservice.eindhoven.nl
 https://gisservices.haarlemmermeer.nl
 https://gisservices.zwolle.nl
 https://gisservicestest.zwolle.nl
-https://git.sudwestfryslan.nl
 https://gitlab.montferland.info
 https://gitops.acc.denhaag.nl
 https://gitops.denhaag.nl
@@ -6675,6 +6675,7 @@ https://parkeren-acc.katwijk.nl
 https://parkeren-acc.schouwen-duiveland.nl
 https://parkeren-acc.sittard-geleen.nl
 https://parkeren-acc.smallingerland.nl
+https://parkeren-acc.sudwestfryslan.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
@@ -7868,7 +7869,9 @@ https://subsidie.dordrecht.nl
 https://subsidie.haarlemmermeer.nl
 https://subsidie.leiden.nl
 https://subsidie.maassluis.nl
+https://subsidie.sudwestfryslan.nl
 https://subsidie.utrecht.nl
+https://subsidieapplicatie.sudwestfryslan.nl
 https://subsidiebackoffice.acceptatie.dordrecht.nl
 https://subsidiebackoffice.dordrecht.nl
 https://subsidiebeheer.alkmaar.nl
@@ -8238,7 +8241,9 @@ https://toolbox.openstad.enschede.nl
 https://top.geertruidenberg.nl
 https://topdesk.houten.nl
 https://topdesk.sittard-geleen.nl
+https://topdesk.sudwestfryslan.nl
 https://topdesk.venlo.nl
+https://topdesktest.sudwestfryslan.nl
 https://topvorm.apeldoorn.nl
 https://tori.rotterdam.nl
 https://tra.hengelo.nl
@@ -9229,7 +9234,6 @@ https://www.oude-ijsselstreek.nl
 https://www.ouder-amstel.nl
 https://www.oudewater.nl
 https://www.papendrecht.nl
-https://www.parkeren.sudwestfryslan.nl
 https://www.participatie.roosendaal.nl
 https://www.peelenmaas.nl
 https://www.pekela.nl

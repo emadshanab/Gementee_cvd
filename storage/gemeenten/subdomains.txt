@@ -983,6 +983,8 @@ acceptatie.smallingerland.nl
 acceptatie.someren.nl
 acceptatie.stadskanaal.nl
 acceptatie.steenwijkerland.nl
+acceptatie.subsidie.sudwestfryslan.nl
+acceptatie.subsidieapplicatie.sudwestfryslan.nl
 acceptatie.subsidies-backend.ede.nl
 acceptatie.subsidies.ede.nl
 acceptatie.teylingen.nl
@@ -1732,7 +1734,9 @@ apigateway.gemeentewestland.nl
 apigateway.middendelfland.nl
 apigateway2.gemeentewestland.nl
 apigateway2.middendelfland.nl
+apigw-test.sudwestfryslan.nl
 apigw.meierijstad.nl
+apigw.sudwestfryslan.nl
 apim-gw-wpi-o.amsterdam.nl
 apim-gw-wpi-t.amsterdam.nl
 apim-hip-acc.rotterdam.nl
@@ -4649,7 +4653,6 @@ download.castricum.nl
 download.gemeentemaasgouw.nl
 download.lingewaard.nl
 download.roerdalen.nl
-download.webmail.sudwestfryslan.nl
 downloaddomain.gemeentemaashorst.nl
 downloads.kampen.nl
 dpt.purmerend.nl
@@ -9637,6 +9640,7 @@ natuur.leiden.nl
 natuurlijkgroen.mookenmiddelaar.nl
 natuurnetwerken-prod.sudwestfryslan.nl
 natuurnetwerken-test.sudwestfryslan.nl
+nautobot.sudwestfryslan.nl
 navigus.brunssum.nl
 navigus.landgraaf.nl
 navisiondestoep-acc.nissewaard.nl
@@ -13082,7 +13086,9 @@ subsidie.dordrecht.nl
 subsidie.haarlemmermeer.nl
 subsidie.leiden.nl
 subsidie.maassluis.nl
+subsidie.sudwestfryslan.nl
 subsidie.utrecht.nl
+subsidieapplicatie.sudwestfryslan.nl
 subsidiebackoffice.acceptatie.dordrecht.nl
 subsidiebackoffice.dordrecht.nl
 subsidiebeheer.alkmaar.nl
@@ -15355,6 +15361,7 @@ www.derondevenen.nl
 www.destemvan.groningen.nl
 www.desuikerzijde.groningen.nl
 www.deurne.nl
+www.dev.sudwestfryslan.nl
 www.deventer.nl
 www.devgovrs1.deventer.nl
 www.devtest.sudwestfryslan.nl
@@ -15634,6 +15641,7 @@ www.inkomensondersteuning.nijmegen.nl
 www.inproces-digeplan.overbetuwe.nl
 www.internetafspraken.gemeentebeek.nl
 www.internwifi.hellevoetsluis.nl
+www.intranet-prod.sudwestfryslan.nl
 www.intranet.echt-susteren.nl
 www.intranet.gemeentehulst.nl
 www.intranet.gemeentesluis.nl
@@ -15890,7 +15898,6 @@ www.parkeren-siam.gemeentehulst.nl
 www.parkeren-test.gemeentehulst.nl
 www.parkeren-test.zandvoort.nl
 www.parkeren.gemeentehulst.nl
-www.parkeren.sudwestfryslan.nl
 www.parkeren.waadhoeke.nl
 www.participatie.roosendaal.nl
 www.participatieconferentie.sittard-geleen.nl
@@ -15900,6 +15907,7 @@ www.pda.loonopzand.nl
 www.pdc.test.sudwestfryslan.nl
 www.peelenmaas.nl
 www.pekela.nl
+www.personeelsplanning.sudwestfryslan.nl
 www.pijnacker-nootdorp.nl
 www.pink-inproces-acc.overbetuwe.nl
 www.pip-test.emmen.nl
@@ -16192,6 +16200,7 @@ www.wandelroutes.landvancuijk.nl
 www.warenhuis.groningen.nl
 www.warmrijsenhout.haarlemmermeer.nl
 www.wassenaar.nl
+www.wastexl.sudwestfryslan.nl
 www.watdoetdegemeente.rotterdam.nl
 www.waterland.nl
 www.webkassa.sportbedrijf.oosterhout.nl

@@ -1,9 +1,13 @@
+acceptatie.subsidie.sudwestfryslan.nl
+acceptatie.subsidieapplicatie.sudwestfryslan.nl
 acctsjinstbus.sudwestfryslan.nl
 adfs01.sudwestfryslan.nl
 adobeupdates.sudwestfryslan.nl
 afspraak.sudwestfryslan.nl
 afvalkalender.sudwestfryslan.nl
 algemenediensten.sudwestfryslan.nl
+apigw-test.sudwestfryslan.nl
+apigw.sudwestfryslan.nl
 apps.sudwestfryslan.nl
 auth.sudwestfryslan.nl
 autodiscover.sudwestfryslan.nl
@@ -35,7 +39,6 @@ devtest.sudwestfryslan.nl
 digitaal.sudwestfryslan.nl
 dkd.sudwestfryslan.nl
 docs.sudwestfryslan.nl
-download.webmail.sudwestfryslan.nl
 edienstenburgerzaken-test.sudwestfryslan.nl
 edienstenburgerzaken.sudwestfryslan.nl
 eloket.sudwestfryslan.nl
@@ -78,6 +81,7 @@ mijnhr.sudwestfryslan.nl
 mijnswf.sudwestfryslan.nl
 natuurnetwerken-prod.sudwestfryslan.nl
 natuurnetwerken-test.sudwestfryslan.nl
+nautobot.sudwestfryslan.nl
 nhr.sudwestfryslan.nl
 openzksesba001.sudwestfryslan.nl
 opsview.sudwestfryslan.nl
@@ -112,6 +116,8 @@ sportdag.sudwestfryslan.nl
 sso-test.sudwestfryslan.nl
 sts.sudwestfryslan.nl
 stuf-topicus.sudwestfryslan.nl
+subsidie.sudwestfryslan.nl
+subsidieapplicatie.sudwestfryslan.nl
 subsidies.sudwestfryslan.nl
 sudwestfryslan.nl
 survey.sudwestfryslan.nl
@@ -161,6 +167,7 @@ www.datagit.sudwestfryslan.nl
 www.dataland-prod.sudwestfryslan.nl
 www.dataland-test.sudwestfryslan.nl
 www.dataland.sudwestfryslan.nl
+www.dev.sudwestfryslan.nl
 www.devtest.sudwestfryslan.nl
 www.evmail.sudwestfryslan.nl
 www.formulieren.sudwestfryslan.nl
@@ -169,6 +176,7 @@ www.geovisiatest.sudwestfryslan.nl
 www.govroam.sudwestfryslan.nl
 www.ihandhaving.sudwestfryslan.nl
 www.iidb.sudwestfryslan.nl
+www.intranet-prod.sudwestfryslan.nl
 www.joost.sudwestfryslan.nl
 www.k2fin.sudwestfryslan.nl
 www.kaarten.sudwestfryslan.nl
@@ -186,8 +194,8 @@ www.openzksesba001.sudwestfryslan.nl
 www.opsview.sudwestfryslan.nl
 www.ota-kodision-cli.sudwestfryslan.nl
 www.ota-test.sudwestfryslan.nl
-www.parkeren.sudwestfryslan.nl
 www.pdc.test.sudwestfryslan.nl
+www.personeelsplanning.sudwestfryslan.nl
 www.prefill-test.sudwestfryslan.nl
 www.prefill.sudwestfryslan.nl
 www.preprod-belastingen.sudwestfryslan.nl
@@ -211,6 +219,7 @@ www.token.sudwestfryslan.nl
 www.topicus.sudwestfryslan.nl
 www.tstmijnswf.sudwestfryslan.nl
 www.vroegsignalering.sudwestfryslan.nl
+www.wastexl.sudwestfryslan.nl
 www.wepresent.sudwestfryslan.nl
 www.youp.sudwestfryslan.nl
 www.zorgaanbod.sudwestfryslan.nl
