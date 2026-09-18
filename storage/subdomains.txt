@@ -7133,7 +7133,6 @@ ibzpink.someren.nl
 ibzpink.sonenbreugel.nl
 ibzpink.staphorst.nl
 ibzpink.stichtsevecht.nl
-ibzpink.t-diel.nl
 ibzpink.texel.nl
 ibzpink.tholen.nl
 ibzpink.tiel.nl
@@ -8344,6 +8343,7 @@ logilinkgba.emmen.nl
 login-acc.roosendaal.nl
 login-accept.maximaaljezelf.groningen.nl
 login-iparticipatie.gennep.nl
+login-iparticipatie.t-diel.nl
 login-pre.mookenmiddelaar.nl
 login-pre.nijkerk.eu
 login-test-ipa.gennep.nl
@@ -11012,6 +11012,7 @@ post.gemeentehulst.nl
 post.krimpenaandenijssel.nl
 post.westerwolde.nl
 postbus.huizen.nl
+postbus.t-diel.nl
 postbus1.huizen.nl
 postcodezoektool.rotterdam.nl
 postex-ssd-prod.landvancuijk.nl
@@ -13254,7 +13255,6 @@ talent.apeldoorn.nl
 talentcenter.almere.nl
 talentcenter2.almere.nl
 talentencoach.gemeentewestland.nl
-taskflow.t-diel.nl
 tasman375.groningen.nl
 taxa01.kerkrade.nl
 taxa02.kerkrade.nl
@@ -14422,6 +14422,7 @@ waarmerk.renkum.nl
 waarmerk.roerdalen.nl
 waarmerk.scherpenzeel.nl
 waarmerk.simpelveld.nl
+waarmerk.t-diel.nl
 waarmerk.tynaarlo.nl
 waarmerk.veendam.nl
 waarmerk.vlieland.nl
@@ -15352,7 +15353,6 @@ www.denkmee.hollandskroon.nl
 www.denkmee.nieuwkoop.nl
 www.denkmee.noord-beveland.nl
 www.denkmee.pijnacker-nootdorp.nl
-www.denkmee.t-diel.nl
 www.denkmee.tilburg.nl
 www.denkmee.veenendaal.nl
 www.denkmee.woerden.nl

@@ -22,8 +22,8 @@ open
 formulieren
 loket
 test
-eloket
 waarmerk
+eloket
 betalen
 dkd
 werkplek
@@ -238,7 +238,6 @@ testloket
 mx1
 mijn-preproductie
 drop
-www.denkmee
 kennisbank
 praatmee
 wachtwoord
@@ -274,6 +273,7 @@ mobiel
 www.portal
 cloudadapter-prod
 handhaving
+www.denkmee
 mijnzorg-acc
 documenten
 vergunningintaker-preprod
@@ -1085,6 +1085,7 @@ apigateway2
 mailgate
 securetest
 _citrixreceiver._tcp
+login-iparticipatie
 login-test-ipa
 belastingen-test
 test-meedoen
@@ -1201,6 +1202,7 @@ weblogic
 verwerkingsregister
 sociaalteam
 veilig
+postbus
 spf
 ssp
 www.cryptshare
@@ -3632,7 +3634,6 @@ www.en
 www.gb-wls-04
 www.gb-wls-05
 erfgoedmaasenniers
-login-iparticipatie
 meldpunt
 mijntalent-acc
 mijntalent
@@ -4543,7 +4544,6 @@ identity-test
 ikzoek
 inhuiz
 izrm
-postbus
 postbus1
 preprodformulieren
 sas
@@ -6336,7 +6336,6 @@ zepcam
 zorgaanbod
 afvalris
 ried
-taskflow
 webshop
 wsdl
 Snelbaliepp

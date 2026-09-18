@@ -5,9 +5,10 @@ en.t-diel.nl
 felix.t-diel.nl
 fy.t-diel.nl
 geovisia.t-diel.nl
-ibzpink.t-diel.nl
 iparticipatie.t-diel.nl
+login-iparticipatie.t-diel.nl
 portal.t-diel.nl
+postbus.t-diel.nl
 preproductie.t-diel.nl
 raad.t-diel.nl
 ried.t-diel.nl
@@ -16,10 +17,9 @@ simcms-werkenbij.t-diel.nl
 simform-preproductie.t-diel.nl
 simform.t-diel.nl
 t-diel.nl
-taskflow.t-diel.nl
 test-ipa.t-diel.nl
+waarmerk.t-diel.nl
 webshop.t-diel.nl
 werkenbij.t-diel.nl
 wsdl.t-diel.nl
-www.denkmee.t-diel.nl
 www.t-diel.nl
