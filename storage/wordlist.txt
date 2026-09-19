@@ -53,11 +53,11 @@ api.meldingen-acc
 meldingen-acc
 belastingbalie
 formulier
+berichten
 dacceptatiemidoffice
 dloket
 data
 openpdc
-berichten
 dacceptatieloket
 openpub
 enterpriseregistration
@@ -76,12 +76,12 @@ beeldbank
 denkmee
 flowmailer-tracking
 preprodbroker
+connect
 acc-podiumd-logs
 simcms-open
 _autodiscover._tcp
 zaken
 hybrid
-connect
 podiumd-logs
 acc-broker
 acc-formulier
@@ -143,7 +143,6 @@ belastingportaal
 vergunningintaker
 osbacc
 afvalkalender
-preprod
 qr
 test-intranet
 www.webmail
@@ -153,6 +152,7 @@ simform
 verkiezingen
 mijninkomen
 dali
+preprod
 sts
 www.doemee
 gemeente
@@ -6343,11 +6343,9 @@ cloudtunnel
 passbolt
 rmm
 tijdregistratie
-tnz-park-01
-tnz-park-02
+tnz-msg-01
 tnz-rad-01
 tunnel
-webservergbav
 co2monitor
 broker-mijn
 broker-preprod-mijn

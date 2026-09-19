@@ -2746,6 +2746,7 @@ berichten.soest.nl
 berichten.stadskanaal.nl
 berichten.steenwijkerland.nl
 berichten.sudwestfryslan.nl
+berichten.terneuzen.nl
 berichten.uitgeest.nl
 berichten.valkenswaard.nl
 berichten.zoetermeer.nl
@@ -3628,6 +3629,7 @@ connect.sliedrecht.nl
 connect.smallingerland.nl
 connect.staging.overbetuwe.nl
 connect.steenwijkerland.nl
+connect.terneuzen.nl
 connect.test.coevorden.nl
 connect.test.dantumadiel.frl
 connect.test.kerkrade.nl
@@ -10208,6 +10210,7 @@ open.soest.nl
 open.sonenbreugel.nl
 open.staphorst.nl
 open.stichtsevecht.nl
+open.terneuzen.nl
 open.teylingen.nl
 open.tilburg.nl
 open.tubbergen.nl
@@ -11196,7 +11199,6 @@ preprod.overbetuwe.nl
 preprod.rheden.nl
 preprod.rotterdam.nl
 preprod.smallingerland.nl
-preprod.terneuzen.nl
 preprod.tma.utrecht.nl
 preprod.vergunningen.rheden.nl
 preprod.vergunningintaker.bernheze.org
@@ -13835,8 +13837,7 @@ tma.acc.amsterdam.nl
 tma.utrecht.nl
 tmakelaar.kerkrade.nl
 tmv.peelenmaas.nl
-tnz-park-01.terneuzen.nl
-tnz-park-02.terneuzen.nl
+tnz-msg-01.terneuzen.nl
 tnz-rad-01.terneuzen.nl
 toegang.aalten.nl
 toegang.dataplatform.accp.s-hertogenbosch.nl
@@ -14663,7 +14664,6 @@ webscada.doetinchem.nl
 webserver.bergen-nh.nl
 webserver.schiedam.nl
 webserver.waalre.nl
-webservergbav.terneuzen.nl
 webservice-decosdvl.acc.amsterdam.nl
 webservice-decosdvl.amsterdam.nl
 webservices-acc.rotterdam.nl

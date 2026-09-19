@@ -3,7 +3,9 @@ Snelbaliepp.terneuzen.nl
 accept-zaaksysteem.terneuzen.nl
 autodiscover.terneuzen.nl
 beheer.terneuzen.nl
+berichten.terneuzen.nl
 cloudtunnel.terneuzen.nl
+connect.terneuzen.nl
 cryptshare.terneuzen.nl
 dkd.terneuzen.nl
 doemee.terneuzen.nl
@@ -15,9 +17,9 @@ mijn.terneuzen.nl
 mijninkomen.terneuzen.nl
 mta-sts.raad.terneuzen.nl
 mta-sts.terneuzen.nl
+open.terneuzen.nl
 passbolt.terneuzen.nl
 preprod-mijninkomen.terneuzen.nl
-preprod.terneuzen.nl
 pv.terneuzen.nl
 raad.terneuzen.nl
 rmm.terneuzen.nl
@@ -27,13 +29,11 @@ snelbalie.terneuzen.nl
 snelbaliepp.terneuzen.nl
 terneuzen.nl
 tijdregistratie.terneuzen.nl
-tnz-park-01.terneuzen.nl
-tnz-park-02.terneuzen.nl
+tnz-msg-01.terneuzen.nl
 tnz-rad-01.terneuzen.nl
 tunnel.terneuzen.nl
 vpn.terneuzen.nl
 vsp.terneuzen.nl
 webmail.terneuzen.nl
-webservergbav.terneuzen.nl
 www.doemee.terneuzen.nl
 www.terneuzen.nl

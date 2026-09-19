@@ -2296,6 +2296,7 @@ https://berichten.ommen.nl
 https://berichten.soest.nl
 https://berichten.stadskanaal.nl
 https://berichten.steenwijkerland.nl
+https://berichten.terneuzen.nl
 https://berichten.uitgeest.nl
 https://berichten.valkenswaard.nl
 https://berichten.zoetermeer.nl
@@ -2759,6 +2760,7 @@ https://connect.acceptatie.winterswijk.nl
 https://connect.almere.nl
 https://connect.goirle.nl
 https://connect.pekela.nl
+https://connect.terneuzen.nl
 https://connect.test.winterswijk.nl
 https://connect.veendam.nl
 https://connect.winterswijk.nl
@@ -6064,7 +6066,6 @@ https://mta-sts.gennep.nl
 https://mta-sts.peelenmaas.nl
 https://mta-sts.pop.deventer.nl
 https://mta-sts.raad.duiven.nl
-https://mta-sts.raad.terneuzen.nl
 https://mta-sts.raad.westervoort.nl
 https://mta-sts.raad.zevenaar.nl
 https://mta-sts.terneuzen.nl
@@ -6448,6 +6449,7 @@ https://open.sint-michielsgestel.nl
 https://open.soest.nl
 https://open.sonenbreugel.nl
 https://open.stichtsevecht.nl
+https://open.terneuzen.nl
 https://open.teylingen.nl
 https://open.tilburg.nl
 https://open.tubbergen.nl
@@ -7019,7 +7021,6 @@ https://preprod.noordwijk.nl
 https://preprod.oldebroek.nl
 https://preprod.rheden.nl
 https://preprod.smallingerland.nl
-https://preprod.terneuzen.nl
 https://preprod.tma.utrecht.nl
 https://preprod.vergunningen.rheden.nl
 https://preprod.vergunningintaker.bernheze.org
@@ -8211,7 +8212,6 @@ https://tickets.krimpenerwaard.nl
 https://tickets.landvancuijk.nl
 https://tiel.nl
 https://tijd.velsen.nl
-https://tijdregistratie.terneuzen.nl
 https://tijdschrijven.apeldoorn.nl
 https://tilburg.nl
 https://tiles.zaanstad.nl
