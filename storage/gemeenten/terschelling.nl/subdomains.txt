@@ -13,5 +13,6 @@ terschelling.nl
 test-zaakloket.terschelling.nl
 testsiam.terschelling.nl
 tim.terschelling.nl
+werkenbij.terschelling.nl
 www.terschelling.nl
 zaakloket.terschelling.nl

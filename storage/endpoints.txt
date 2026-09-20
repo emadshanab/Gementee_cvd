@@ -589,6 +589,7 @@ http://simcms.halderberge.nl
 http://simcms.lingewaard.nl
 http://simcms.reuseldemierden.nl
 http://simcms.roerdalen.nl
+http://simcms.terschelling.nl
 http://simcms.urk.nl
 http://simcms.vlissingen.nl
 http://simcms.woensdrecht.nl
@@ -626,6 +627,7 @@ http://stoepvrij.groningen.nl
 http://stroomt.deventer.nl
 http://surveys3.acc.amsterdam.nl
 http://t-diel.nl
+http://terschelling.nl
 http://test-bink.beverwijk.nl
 http://test-binnenshuis.bergen.nl
 http://test-cmsflash.scherpenzeel.nl
@@ -7989,7 +7991,6 @@ https://telewerken.stichtsevecht.nl
 https://telewerken.zaanstad.nl
 https://telewerkentest.nederbetuwe.nl
 https://terneuzen.nl
-https://terschelling.nl
 https://test-abc.enschede.nl
 https://test-abc.gemert-bakel.nl
 https://test-belastingbalie.eindhoven.nl
@@ -8648,6 +8649,7 @@ https://werkenbij.scherpenzeel.nl
 https://werkenbij.schiermonnikoog.nl
 https://werkenbij.schouwen-duiveland.nl
 https://werkenbij.sudwestfryslan.nl
+https://werkenbij.terschelling.nl
 https://werkenbij.vlieland.nl
 https://werkenbij.waadhoeke.nl
 https://werkenbij.woerden.nl
@@ -9317,6 +9319,7 @@ https://www.sync1.test.subsites.leiden.nl
 https://www.sync2.test.subsites.leiden.nl
 https://www.t-diel.nl
 https://www.terneuzen.nl
+https://www.terschelling.nl
 https://www.test.belastingportaal.opmeer.nl
 https://www.test.subsites.leiden.nl
 https://www.texel.nl
