@@ -7,7 +7,6 @@ connect.texel.nl
 digikoppeling.texel.nl
 digitalebelastingbalie-test.texel.nl
 digitalebelastingbalie.texel.nl
-drop.texel.nl
 exchange.texel.nl
 geo.texel.nl
 iburgerzaken.texel.nl
@@ -29,5 +28,6 @@ secudoc.texel.nl
 subsidiebeleidskaart.texel.nl
 test.texel.nl
 texel.nl
+waarmerk.texel.nl
 werken.texel.nl
 www.texel.nl

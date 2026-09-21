@@ -237,7 +237,6 @@ vth
 testloket
 mx1
 mijn-preproductie
-drop
 kennisbank
 praatmee
 wachtwoord
@@ -271,6 +270,7 @@ kcc
 mx2
 mobiel
 www.portal
+drop
 cloudadapter-prod
 handhaving
 www.denkmee

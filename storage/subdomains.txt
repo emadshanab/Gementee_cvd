@@ -4670,7 +4670,6 @@ drop.hilvarenbeek.nl
 drop.loonopzand.nl
 drop.rotterdam.nl
 drop.scherpenzeel.nl
-drop.texel.nl
 drop.waalwijk.nl
 drop.woensdrecht.nl
 drop.zundert.nl
@@ -14424,6 +14423,7 @@ waarmerk.roerdalen.nl
 waarmerk.scherpenzeel.nl
 waarmerk.simpelveld.nl
 waarmerk.t-diel.nl
+waarmerk.texel.nl
 waarmerk.tynaarlo.nl
 waarmerk.veendam.nl
 waarmerk.vlieland.nl
