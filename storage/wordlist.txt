@@ -229,7 +229,6 @@ preprod-mijnsociaalplein
 intranet-acc
 www.gemeenteraad
 iarchief
-legacy
 mobile
 inproces.acceptatie
 outlook
@@ -256,6 +255,7 @@ publicroam
 jccapi
 jcc
 fs
+legacy
 jongin
 www.jongin
 citrix
@@ -340,6 +340,7 @@ omgevingswet
 cognos
 dkdtest
 test-secure
+pdc
 woz-loket
 ris
 burgerloket
@@ -353,6 +354,7 @@ liquit
 radius
 beeldbankbeheer
 sbc01
+stats
 m
 bezoekersparkeren
 wildcard
@@ -407,7 +409,6 @@ key2gbavtest
 logilink
 suite4burgerzaken-test
 medewerkers
-pdc
 preprod-formulieren
 www.afspraak
 connect.test
@@ -433,7 +434,6 @@ tim
 www.werkplek
 mylex
 gateway
-stats
 mijn-acc
 access
 idp
@@ -760,10 +760,8 @@ wozportaal
 cars
 aanvragenpreprod
 aanvragenprod
-acceptatie-mobiliteitsplan
 bouwarchief
 edienstenpreprod
-mobiliteitsplan
 website.acceptatie
 my-lex
 wijkteam
@@ -777,6 +775,7 @@ digitaalloket
 baglv
 mijnsociaaldomein-acc
 lokettest
+tickets
 ews
 pda
 kadernota
@@ -1183,9 +1182,11 @@ sfbwebconf
 wlan
 return
 vinden
+acceptatie-mobiliteitsplan
 beta
 blog
 help
+mobiliteitsplan
 www.thuiswerken
 gvonline
 sportief
@@ -1222,7 +1223,6 @@ inloggen.belastingen.acc
 geocortex
 idp-test
 monitor
-tickets
 cmsembrace
 embrace
 koppelvlakken
@@ -6354,6 +6354,8 @@ mijntexeltest
 mozardproductie
 pbx
 subsidiebeleidskaart
+gemeentezaken-acceptatie
+gemeentezaken
 teylingen-checker-preprod
 ucserver
 prp

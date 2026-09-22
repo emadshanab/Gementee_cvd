@@ -1,6 +1,5 @@
 aanvragenpreprod.teylingen.nl
 aanvragenprod.teylingen.nl
-acceptatie-mobiliteitsplan.teylingen.nl
 acceptatie.teylingen.nl
 autodiscover.teylingen.nl
 bastion365.teylingen.nl
@@ -9,12 +8,15 @@ dali.teylingen.nl
 edienstenburgerzaken-test.teylingen.nl
 edienstenburgerzaken.teylingen.nl
 edienstenpreprod.teylingen.nl
-legacy.teylingen.nl
-mobiliteitsplan.teylingen.nl
+gemeentezaken-acceptatie.teylingen.nl
+gemeentezaken.teylingen.nl
 open.teylingen.nl
+pdc.teylingen.nl
+stats.teylingen.nl
 teylingen-checker-preprod.teylingen.nl
 teylingen.nl
-webmail.teylingen.nl
+tickets.teylingen.nl
+waarmerk.teylingen.nl
 website.acceptatie.teylingen.nl
 website.teylingen.nl
 www.teylingen.nl

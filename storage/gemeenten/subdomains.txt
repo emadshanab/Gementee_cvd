@@ -881,7 +881,6 @@ acceptatie-intranet.nederbetuwe.nl
 acceptatie-intranet.oosterhout.nl
 acceptatie-mobiliteitsplan.hillegom.nl
 acceptatie-mobiliteitsplan.lisse.nl
-acceptatie-mobiliteitsplan.teylingen.nl
 acceptatie-omgevingsvisie.oisterwijk.nl
 acceptatie-ontwikkelplein.hethogeland.nl
 acceptatie-open.dinkelland.nl
@@ -6154,6 +6153,8 @@ gemeentewinkel.gemeente-steenbergen.nl
 gemeentewinkel.leiderdorp.nl
 gemeentewinkel.meerssen.nl
 gemeentewinkel.veendam.nl
+gemeentezaken-acceptatie.teylingen.nl
+gemeentezaken.teylingen.nl
 gemert-bakel.nl
 gemgbl-wls-gb-1.gemert-bakel.nl
 gemgbl-wls-gb-2.gemert-bakel.nl
@@ -8254,7 +8255,6 @@ legacy.hoorn.nl
 legacy.iba.amsterdam.nl
 legacy.peelenmaas.nl
 legacy.purmerend.nl
-legacy.teylingen.nl
 legacy.utrecht.nl
 leiden.nl
 leiderdorp.nl
@@ -9486,7 +9486,6 @@ mobilemail.rheden.nl
 mobilemailtest.rheden.nl
 mobiliteitsplan.hillegom.nl
 mobiliteitsplan.lisse.nl
-mobiliteitsplan.teylingen.nl
 mobility.drimmelen.nl
 mobility.groningen.nl
 mobility.rheden.nl
@@ -10724,6 +10723,7 @@ pdc.lisse.nl
 pdc.sittard-geleen.nl
 pdc.sudwestfryslan.nl
 pdc.test.sudwestfryslan.nl
+pdc.teylingen.nl
 pdcschulddienstverlening.rotterdam.nl
 pdk.veldhoven.nl
 peelenmaas.nl
@@ -12997,6 +12997,7 @@ stats.intranet.delft.nl
 stats.intranet.oostgelre.nl
 stats.lisse.nl
 stats.purmerend.nl
+stats.teylingen.nl
 stats.utrecht.nl
 stats.vlindernet.lingewaard.nl
 status-paginas-zgw.acc.denhaag.nl
@@ -13804,6 +13805,7 @@ thuiswerken2.bronckhorst.nl
 thuiswinkelen.landvancuijk.nl
 tickets.krimpenerwaard.nl
 tickets.landvancuijk.nl
+tickets.teylingen.nl
 tiel.nl
 tijd.velsen.nl
 tijdelijk.secure.amsterdam.nl
@@ -14424,6 +14426,7 @@ waarmerk.scherpenzeel.nl
 waarmerk.simpelveld.nl
 waarmerk.t-diel.nl
 waarmerk.texel.nl
+waarmerk.teylingen.nl
 waarmerk.tynaarlo.nl
 waarmerk.veendam.nl
 waarmerk.vlieland.nl
@@ -14626,7 +14629,6 @@ webmail.stichtsevecht.nl
 webmail.sudwestfryslan.nl
 webmail.terneuzen.nl
 webmail.test.hoorn.nl
-webmail.teylingen.nl
 webmail.twenterand.nl
 webmail.tynaarlo.nl
 webmail.urk.nl

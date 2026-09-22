@@ -621,6 +621,7 @@ http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
 http://stadspas.weert.nl
 http://stats.lisse.nl
+http://stats.teylingen.nl
 http://status-paginas-zgw.test.denhaag.nl
 http://stembureaus.amsterdam.nl
 http://stoepvrij.groningen.nl
@@ -677,6 +678,7 @@ http://webmail.gooisemeren.nl
 http://webservice-decosdvl.acc.amsterdam.nl
 http://webshop.t-diel.nl
 http://website.lisse.nl
+http://website.teylingen.nl
 http://welkom.ede.nl
 http://werkenbij.t-diel.nl
 http://werkenbij.weststellingwerf.nl
@@ -1385,6 +1387,7 @@ https://acceptatie.subsidie.sudwestfryslan.nl
 https://acceptatie.subsidieapplicatie.sudwestfryslan.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
+https://acceptatie.teylingen.nl
 https://acceptatie.velsen.nl
 https://acceptatie.voorst.nl
 https://acceptatie.waadhoeke.nl
@@ -4154,6 +4157,8 @@ https://gemeentewesterveld.nl
 https://gemeentewestland.nl
 https://gemeentewinkel.gemeente-steenbergen.nl
 https://gemeentewinkel.meerssen.nl
+https://gemeentezaken-acceptatie.teylingen.nl
+https://gemeentezaken.teylingen.nl
 https://gemert-bakel.nl
 https://genealogie.oldenzaal.nl
 https://genietenzonderzorgen.landvancuijk.nl
@@ -6020,7 +6025,6 @@ https://mobielapp.zuidplas.nl
 https://mobile.doetinchem.nl
 https://mobiliteitsplan.hillegom.nl
 https://mobiliteitsplan.lisse.nl
-https://mobiliteitsplan.teylingen.nl
 https://modern.noordwijk.nl
 https://molenlanden.nl
 https://monitor.krimpenerwaard.nl
@@ -6760,6 +6764,7 @@ https://pdc.buren.nl
 https://pdc.lisse.nl
 https://pdc.sittard-geleen.nl
 https://pdc.sudwestfryslan.nl
+https://pdc.teylingen.nl
 https://peelenmaas.nl
 https://pekela.nl
 https://pencportaal.gemeentehw.nl
@@ -8210,6 +8215,7 @@ https://thuiswerken.almere.nl
 https://thuiswinkelen.landvancuijk.nl
 https://tickets.krimpenerwaard.nl
 https://tickets.landvancuijk.nl
+https://tickets.teylingen.nl
 https://tiel.nl
 https://tijd.velsen.nl
 https://tijdschrijven.apeldoorn.nl
@@ -8598,11 +8604,11 @@ https://webserver.schiedam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://webservices-ot.tilburg.nl
 https://webshopvitaloo.sudwestfryslan.nl
+https://website.acceptatie.teylingen.nl
 https://website.alphen-chaam.nl
 https://website.gilzerijen.nl
 https://website.landvancuijk.nl
 https://website.oisterwijk.nl
-https://website.teylingen.nl
 https://website.venlo.nl
 https://websitestatistiek.oude-ijsselstreek.nl
 https://websrv01.schiedam.nl
