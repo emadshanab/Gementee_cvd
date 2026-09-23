@@ -13981,7 +13981,6 @@ uca.hardenberg.nl
 ucaccess1.hellevoetsluis.nl
 ucav1.hellevoetsluis.nl
 ucconf01.hilversum.nl
-ucserver.tholen.nl
 ucweb01-ext.houten.nl
 ucweb1-ext.hellevoetsluis.nl
 ucwebcon1.hellevoetsluis.nl

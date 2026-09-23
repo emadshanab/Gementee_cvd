@@ -46,6 +46,7 @@ http://afspraken.gemeente-oldambt.nl
 http://afspraken.huizen.nl
 http://afspraken.reimerswaal.nl
 http://afspraken.someren.nl
+http://afspraken.tholen.nl
 http://afspraken.vaals.nl
 http://afspraken.zwartewaterland.nl
 http://aip.amsterdam.nl
@@ -547,6 +548,7 @@ http://prod-surveys3.ggd.amsterdam.nl
 http://publicaties.rekenkamer.amsterdam.nl
 http://pveopenbareruiomte.deventer.nl
 http://qcalendar.deventer.nl
+http://qmatic.tholen.nl
 http://raadsagenda.oirschot.nl
 http://registratie.rotterdam.nl
 http://rekenkamer.amsterdam.nl
@@ -1525,7 +1527,6 @@ https://afspraken.olst-wijhe.nl
 https://afspraken.pekela.nl
 https://afspraken.purmerend.nl
 https://afspraken.raalte.nl
-https://afspraken.tholen.nl
 https://afspraken.tynaarlo.nl
 https://afspraken.veendam.nl
 https://afspraken.weert.nl
@@ -4663,7 +4664,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.tholen.nl
 https://ibzpink.tiel.nl
 https://ibzpink.twenterand.nl
 https://ibzpink.tynaarlo.nl
@@ -7208,7 +7208,6 @@ https://pwa.barendrecht.nl
 https://pwa.ridderkerk.nl
 https://q4.venlo.nl
 https://qfact.hofvantwente.nl
-https://qmatic.tholen.nl
 https://qr-acc.capelleaandenijssel.nl
 https://qr-acc.gooisemeren.nl
 https://qr-accept.hardenberg.nl
@@ -8294,7 +8293,6 @@ https://uc.waadhoeke.nl
 https://uca.geertruidenberg.nl
 https://ucaccess1.hellevoetsluis.nl
 https://ucav1.hellevoetsluis.nl
-https://ucserver.tholen.nl
 https://ucweb1-ext.hellevoetsluis.nl
 https://ucwebcon1.hellevoetsluis.nl
 https://udp-bi-fbp.acc.denhaag.nl

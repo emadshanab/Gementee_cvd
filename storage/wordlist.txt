@@ -6357,7 +6357,6 @@ subsidiebeleidskaart
 gemeentezaken-acceptatie
 gemeentezaken
 teylingen-checker-preprod
-ucserver
 prp
 wonenwelzijnenzorg
 analytics.gis

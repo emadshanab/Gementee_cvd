@@ -12,7 +12,6 @@ mijn.tholen.nl
 qmatic.tholen.nl
 simsite.tholen.nl
 tholen.nl
-ucserver.tholen.nl
 werkplek.tholen.nl
 www.tholen.nl
 zaaksysteem-accept.tholen.nl
