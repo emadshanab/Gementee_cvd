@@ -1562,6 +1562,7 @@ api-meldingen.cg-intern.acc.utrecht.nl
 api-meldingen.cg-intern.ont.utrecht.nl
 api-meldingen.denhaag.nl
 api-pkio-acceptatie.tilburg.nl
+api-pkio.tilburg.nl
 api-portal-dev.data.leiden.nl
 api-portal.data.leiden.nl
 api-test-gemnet.losser.nl
@@ -1595,13 +1596,11 @@ api.brp.amsterdam.nl
 api.buurtbudget.amsterdam.nl
 api.buurtbudget.opdr.azure.amsterdam.nl
 api.classifai.meppel.nl
-api.darwin.tilburg.nl
 api.data.amsterdam.nl
 api.data.leiden.nl
 api.dataportaal.amsterdam.nl
 api.denhaag.nl
 api.denkmee.brummen.nl
-api.denkmee.tilburg.nl
 api.design.hoorn.nl
 api.doemee.assen.nl
 api.doemee.bloemendaal.nl
@@ -1629,6 +1628,7 @@ api.erfpachtzakelijk.amsterdam.nl
 api.hardenberg.nl
 api.heitje.heerlen.nl
 api.horstaandemaas.nl
+api.login.denkmee.tilburg.nl
 api.makkelijkemarkt.amsterdam.nl
 api.melding.acc.heerlen.nl
 api.melding.heerlen.nl
@@ -1909,7 +1909,6 @@ aut.acc.topdesk.denhaag.nl
 aut.ot.topdesk.denhaag.nl
 aut.topdesk.denhaag.nl
 auth.apeldoorn.nl
-auth.darwin.tilburg.nl
 auth.denhaag.nl
 auth.denkmee.brummen.nl
 auth.doemee.assen.nl
@@ -1923,6 +1922,7 @@ auth.gemeentewestland.nl
 auth.haarlem.nl
 auth.leeuwarden.nl
 auth.lelystad.nl
+auth.login.denkmee.tilburg.nl
 auth.meppel.nl
 auth.nijkerk.eu
 auth.openstad.amsterdam.nl
@@ -2295,6 +2295,8 @@ backend-dvg.acc.rotterdam.nl
 backend-dvg.acc.stadsarchief.rotterdam.nl
 backend-dvg.rotterdam.nl
 backend-dvg.stadsarchief.rotterdam.nl
+backend.subsidies-acceptatie.tilburg.nl
+backend.subsidies.tilburg.nl
 backoffice-parkeervergunningen-acc.beverwijk.nl
 backoffice-parkeervergunningen.beverwijk.nl
 backstage.amsterdam.nl
@@ -2906,7 +2908,6 @@ bewustwording.westerwolde.nl
 bewustwording.westvoorne.nl
 bezettinggebouwen.rotterdam.nl
 bezoek.rotterdam.nl
-bezoeker.tilburg.nl
 bezoekersparkeren-acc.hoorn.nl
 bezoekersparkeren-acc.roermond.nl
 bezoekersparkeren-acc.sittard-geleen.nl
@@ -3038,7 +3039,6 @@ bor-acc.dantumadiel.frl
 bor-acc.noardeast-fryslan.nl
 bor.dantumadiel.frl
 bor.edam-volendam.nl
-bor.extranet.tilburg.nl
 bor.hengelo.nl
 bor.hilvarenbeek.nl
 bor.noardeast-fryslan.nl
@@ -3205,7 +3205,9 @@ burgerportaal.hardenberg.nl
 burgerportaal.ommen.nl
 burgerzaken-acc.amsterdam.nl
 burgerzaken-io.amsterdam.nl
+burgerzaken-preprod.tilburg.nl
 burgerzaken.amsterdam.nl
+burgerzaken.tilburg.nl
 burgerzaken.wijkbijduurstede.nl
 busbrugdebinding.zaanstad.nl
 business.groningen.nl
@@ -3612,7 +3614,6 @@ conference.assen.nl
 config.werkeninkomen-acc.amsterdam.nl
 config.werkeninkomen.amsterdam.nl
 connect-preprod.almere.nl
-connect-with.trouwen.tilburg.nl
 connect.acceptatie.coevorden.nl
 connect.acceptatie.dantumadiel.frl
 connect.acceptatie.dordrecht.nl
@@ -3900,7 +3901,6 @@ dali.zoeterwoude.nl
 dantumadiel.frl
 dap.amsterdam.nl
 dapo.rotterdam.nl
-darwin.tilburg.nl
 dashboard-iav-api.goeree-overflakkee.nl
 dashboard-iav.goeree-overflakkee.nl
 dashboard.makkelijkemarkt.amsterdam.nl
@@ -5235,6 +5235,7 @@ ehvsubsidie.test.eindhoven.nl
 eid-acc.ede.nl
 eijsden-margraten.nl
 eikenhof.heemskerk.nl
+eindejaarsgeschenk.tilburg.nl
 eindhoven.nl
 elburg.nl
 elise.rotterdam.nl
@@ -5366,6 +5367,8 @@ energiepunt.apeldoorn.nl
 energiethuis.eba.maassluis.nl
 energiethuis.maassluis.nl
 energiethuis.scan.maassluis.nl
+energietransitie-preprod.tilburg.nl
+energietransitie.tilburg.nl
 english.almere.nl
 english.assen.nl
 english.eindhoven.nl
@@ -5790,6 +5793,7 @@ fmreturn.landvancuijk.nl
 fmreturn.medemblik.nl
 fmreturn.meerssen.nl
 fmreturn.middendrenthe.nl
+fmreturn.onderzoek.tilburg.nl
 fmreturn.opmeer.nl
 fmreturn.peelenmaas.nl
 fmreturn.vijfheerenlanden.nl
@@ -6030,7 +6034,6 @@ gasten.lansingerland.nl
 gasten.simpelveld.nl
 gasten.voerendaal.nl
 gasten.westmaasenwaal.nl
-gateway-ot.tilburg.nl
 gateway.gemeentewestland.nl
 gateway.groningen.nl
 gateway.heerenveen.nl
@@ -6377,7 +6380,6 @@ gijscms.ijsselstein.nl
 gilzerijen.nl
 girs.rotterdam.nl
 gis-analytics.haarlemmermeer.nl
-gis-test.tilburg.nl
 gis.apeldoorn.nl
 gis.assen.nl
 gis.breda.nl
@@ -7209,7 +7211,6 @@ id-subsidies-login.ede.nl
 id.barneveld.nl
 id.dalfsen.nl
 id.krimpenerwaard.nl
-id.trouwen.tilburg.nl
 idbroker.drechterland.nl
 idbroker.enkhuizen.nl
 idbroker.inlog.accp.s-hertogenbosch.nl
@@ -7438,6 +7439,7 @@ intake-preprod.geertruidenberg.nl
 intake.geertruidenberg.nl
 intake.preprod.purmerend.nl
 intake.purmerend.nl
+inte.tilburg.nl
 integralebeveiliging.tilburg.nl
 integratie-acc.leeuwarden.nl
 integratie-tst.leeuwarden.nl
@@ -7745,6 +7747,7 @@ jaarrekening.arnhem.nl
 jaarrekening2018.financieelportaal.etten-leur.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
 jaarrekening2022.financieelportaal.etten-leur.nl
+jaarstukken-2025.tilburg.nl
 jaarstukken.bronckhorst.nl
 jaarstukken.gemeente-steenbergen.nl
 jaarstukken.gemeentehw.nl
@@ -10108,7 +10111,6 @@ ondernemersportaal-acc.denhaag.nl
 ondernemersportaal.denhaag.nl
 ondernemerswinkel.rotterdam.nl
 ondersteuning.olst-wijhe.nl
-ondertekenen.trouwen.tilburg.nl
 onderzoek.amersfoort.nl
 onderzoek.breda.nl
 onderzoek.eindhoven.nl
@@ -10489,7 +10491,6 @@ oso.s-hertogenbosch.nl
 oss.nl
 ossd2-zgw.acc.denhaag.nl
 ot.denhaag.nl
-ot1.tilburg.nl
 ota-kodision-cli.sudwestfryslan.nl
 ota-test.sudwestfryslan.nl
 ota.mijn.almere.nl
@@ -11479,6 +11480,7 @@ productie.postex.heusden.nl
 prodwizraapl.nissewaard.nl
 profilemanager.schagen.nl
 programmabegroting-2026.tilburg.nl
+programmabegroting-2027.tilburg.nl
 programmabegroting.bronckhorst.nl
 programmabegroting.financien.purmerend.nl
 programmabegroting.gemeente-steenbergen.nl
@@ -11541,7 +11543,6 @@ publicaties.nissewaard.nl
 publicaties.rekenkamer.amsterdam.nl
 publicaties.s-hertogenbosch.nl
 publicaties.stadskanaal.nl
-publicaties.tilburg.nl
 publicmedia.meierijstad.nl
 publicroam.beekdaelen.nl
 publicroam.brunssum.nl
@@ -11831,7 +11832,6 @@ reserveren.oss.nl
 reserveren.vijfheerenlanden.nl
 reservering.oldenzaal.nl
 reserveringen.geertruidenberg.nl
-reserveringen.tilburg.nl
 reset.utrecht.nl
 restapi.dpmo.amsterdam.nl
 restore.wierden.nl
@@ -13153,6 +13153,7 @@ subsidies-acc.almere.nl
 subsidies-acc.breda.nl
 subsidies-acc.gemeentemaashorst.nl
 subsidies-acceptatie.gemeentewestland.nl
+subsidies-acceptatie.tilburg.nl
 subsidies-backend-acc.gemeentemaashorst.nl
 subsidies-backend-acceptatie.gemeentewestland.nl
 subsidies-backend-test.heerenveen.nl
@@ -13215,6 +13216,7 @@ subsidies.maassluis.nl
 subsidies.nijmegen.nl
 subsidies.oosterhout.nl
 subsidies.sudwestfryslan.nl
+subsidies.tilburg.nl
 subsites.leiden.nl
 sudwestfryslan.nl
 suikerkwartier.groningen.nl
@@ -15397,7 +15399,6 @@ www.denkmee.hollandskroon.nl
 www.denkmee.nieuwkoop.nl
 www.denkmee.noord-beveland.nl
 www.denkmee.pijnacker-nootdorp.nl
-www.denkmee.tilburg.nl
 www.denkmee.veenendaal.nl
 www.denkmee.woerden.nl
 www.denkmee.wormerland.nl
@@ -16459,6 +16460,7 @@ zaaksysteem-accept.voerendaal.nl
 zaaksysteem-accept.waalre.nl
 zaaksysteem-accept.zaltbommel.nl
 zaaksysteem-accept.zutphen.nl
+zaaksysteem-acceptatie.tilburg.nl
 zaaksysteem-acceptatie.venlo.nl
 zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 zaaksysteem.acc.utrecht.nl
