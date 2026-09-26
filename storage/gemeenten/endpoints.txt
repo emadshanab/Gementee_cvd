@@ -7517,7 +7517,6 @@ https://sera.horstaandemaas.nl
 https://sera.zwemmen.venlo.nl
 https://server02.oude-ijsselstreek.nl
 https://serverruimte.dinkelland.nl
-https://serverruimte.tubbergen.nl
 https://service03.eijsden-margraten.nl
 https://servicebus-t.kampen.nl
 https://servicedesk-t.hethogeland.nl

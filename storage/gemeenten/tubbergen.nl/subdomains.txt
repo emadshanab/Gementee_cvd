@@ -12,7 +12,6 @@ edienstenburgerzaken.tubbergen.nl
 open.tubbergen.nl
 preprod-sociaalportaal.tubbergen.nl
 qr.tubbergen.nl
-serverruimte.tubbergen.nl
 sociaalportaal.tubbergen.nl
 test.tubbergen.nl
 tubbergen.nl

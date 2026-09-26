@@ -8,7 +8,6 @@ https://edienstenburgerzaken.tubbergen.nl
 https://open.tubbergen.nl
 https://preprod-sociaalportaal.tubbergen.nl
 https://qr.tubbergen.nl
-https://serverruimte.tubbergen.nl
 https://sociaalportaal.tubbergen.nl
 https://tubbergen.nl
 https://www.tubbergen.nl
