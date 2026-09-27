@@ -668,6 +668,7 @@ http://topdesk.ggd.amsterdam.nl
 http://transform.deventer.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://tvm.acc.amsterdam.nl
+http://twenterand.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
 http://vergunningintaker.overbetuwe.nl
@@ -739,7 +740,6 @@ http://www.stadspas.apeldoorn.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.toerisme.groningen.nl
 http://www.trefnet.hellevoetsluis.nl
-http://www.twenterand.nl
 http://www.vlieland.nl
 http://www.vlissingen.nl
 http://www.voorschoten.nl
@@ -3851,6 +3851,7 @@ https://felix.opmeer.nl
 https://felix.overbetuwe.nl
 https://felix.reuseldemierden.nl
 https://felix.terschelling.nl
+https://felix.twenterand.nl
 https://felix.urk.nl
 https://felix.valkenswaard.nl
 https://felix.veere.nl
@@ -4687,7 +4688,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.twenterand.nl
 https://ibzpink.tynaarlo.nl
 https://ibzpink.uithoorn.nl
 https://ibzpink.vaals.nl
@@ -6140,7 +6140,6 @@ https://ndes.hethogeland.nl
 https://ndes.ot.denhaag.nl
 https://ndesapeldoorn.apeldoorn.nl
 https://nedbrk2.hoorn.nl
-https://nedbrowser.twenterand.nl
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
@@ -7631,6 +7630,7 @@ https://simcms.renswoude.nl
 https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.sonenbreugel.nl
+https://simcms.twenterand.nl
 https://simcms.valkenswaard.nl
 https://simcms.veere.nl
 https://simcms.vlieland.nl
@@ -8318,7 +8318,6 @@ https://tussenrapportage.gemeente-steenbergen.nl
 https://tv.gemeentebest.nl
 https://tve-acc.brummen.nl
 https://tve.brummen.nl
-https://twenterand.nl
 https://tynaarlo.nl
 https://uaghelm01.helmond.nl
 https://uaghelm02.helmond.nl
@@ -9000,6 +8999,7 @@ https://www.delft.nl
 https://www.denhaag.nl
 https://www.denhaagfietst.denhaag.nl
 https://www.denhelder.nl
+https://www.denkmee.twenterand.nl
 https://www.denkmee.veenendaal.nl
 https://www.denkmee.wormerland.nl
 https://www.derondevenen.nl

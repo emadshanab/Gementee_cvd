@@ -46,6 +46,7 @@ webmail3.twenterand.nl
 wifi.twenterand.nl
 wion.twenterand.nl
 www.automator2.twenterand.nl
+www.denkmee.twenterand.nl
 www.iarchief.twenterand.nl
 www.iarchieftest.twenterand.nl
 www.kofax.twenterand.nl

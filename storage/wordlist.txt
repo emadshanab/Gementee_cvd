@@ -272,6 +272,7 @@ www.portal
 drop
 cloudadapter-prod
 handhaving
+www.denkmee
 mijnzorg-acc
 documenten
 vergunningintaker-preprod
@@ -303,7 +304,6 @@ squit2020.acceptatie
 afspraakmaken
 aeolus
 mijnsociaaldomein
-www.denkmee
 midoffice
 participatie
 geovisia
