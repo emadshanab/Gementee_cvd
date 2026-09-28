@@ -1,11 +1,11 @@
 https://acc-idbroker.tynaarlo.nl
 https://afspraken.tynaarlo.nl
+https://attachments.webmail.tynaarlo.nl
 https://autodiscover.tynaarlo.nl
 https://belastingportaal.acc.tynaarlo.nl
 https://belastingportaal.tynaarlo.nl
 https://data.tynaarlo.nl
 https://iburgerzaken.tynaarlo.nl
-https://ibzpink.tynaarlo.nl
 https://idbroker.tynaarlo.nl
 https://inloggen.belastingportaal.acc.tynaarlo.nl
 https://inloggen.belastingportaal.tynaarlo.nl

@@ -1922,6 +1922,7 @@ https://atlas.breda.nl
 https://atlasacc.apeldoorn.nl
 https://atlasomgevingskwaliteit.winterswijk.nl
 https://ats360-api.groningen.nl
+https://attachments.webmail.tynaarlo.nl
 https://aut-server-suite4bz-acc.hoorn.nl
 https://aut-server-suite4bz.hoorn.nl
 https://aut.acc.topdesk.denhaag.nl
@@ -4688,7 +4689,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.tynaarlo.nl
 https://ibzpink.uithoorn.nl
 https://ibzpink.vaals.nl
 https://ibzpink.valkenswaard.nl
