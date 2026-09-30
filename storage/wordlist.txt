@@ -96,6 +96,7 @@ acc-openklant
 acc-openzaak
 keycloak
 notificaties
+api.betalen
 abc
 acc-abc
 acc-contact
@@ -112,7 +113,6 @@ mijnzorg
 portaal
 parkeren-test
 digikoppeling.test
-api.betalen
 parkeren-acc
 acc-ita
 contact
@@ -363,6 +363,7 @@ woz
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
+www.acceptatie
 raadsnet
 toegang
 zoeken
@@ -440,7 +441,6 @@ idp
 huisstijl
 mijndesktop
 www2
-www.acceptatie
 de
 servicedesk
 mijnoverzicht
@@ -498,6 +498,7 @@ smtp2
 www.open
 test.digikoppeling
 vsp
+burgerloket.acceptatie
 filr
 geodata-acc
 intra
@@ -650,7 +651,6 @@ projecten
 smartdocuments
 www.cjg
 cloudadapter-t
-burgerloket.acceptatie
 oig
 acc-podiumd-abc
 acc-podiumd-contact
@@ -689,6 +689,7 @@ financielestukken
 gdintaker
 preprodgdintaker
 preprodscbroker
+programmabegroting2021.financielestukken
 scbroker
 www.financielestukken
 micc
@@ -1016,7 +1017,6 @@ mailings
 www.staging
 zorgaanbieders
 begraven
-programmabegroting2021.financielestukken
 programmabegroting2024.financielestukken
 gisweb
 site
@@ -1300,6 +1300,7 @@ tloket
 tsiam
 fy
 ondernemersloket.acceptatie
+programmabegroting2023.financielestukken
 mijnwerkplek
 www.auth
 mijnpost
@@ -5416,7 +5417,6 @@ server02
 toekomstvisie
 websitestatistiek
 4enieuwsbrief2022.financielestukken
-programmabegroting2023.financielestukken
 programmabegroting2025.financielestukken
 verslag
 wildcard.financielestukken
@@ -6445,6 +6445,8 @@ tyn-makelaar
 webreserveren
 wua
 zaaktest
+jaarrekening2020.financielestukken
+mail.financielestukken
 av2
 bedrijfsgrond
 cmsurknet
