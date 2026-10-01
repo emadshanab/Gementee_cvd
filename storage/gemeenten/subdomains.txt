@@ -2267,8 +2267,6 @@ autorisatiebeheer.simpelveld.nl
 autorisatiebeheer.voerendaal.nl
 autorisatiebeheertest.simpelveld.nl
 av.alkmaar.nl
-av.urk.nl
-av2.urk.nl
 avedge.zwolle.nl
 avproxy.vga.amsterdam.nl
 awg.haarlem.nl
@@ -3557,7 +3555,6 @@ cmssamenatwork.stichtsevecht.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
 cmstestintranet.westerwolde.nl
-cmsurknet.urk.nl
 cmswhatsepe.epe.nl
 cmszaanzoeker.zaanstad.nl
 cnoops.gemeentemaasgouw.nl
@@ -4147,7 +4144,6 @@ dialin.acc.amsterdam.nl
 dialin.assen.nl
 dialin.haarlem.nl
 dialin.peelenmaas.nl
-dialin.urk.nl
 dialin.zwolle.nl
 dicos-test.nissewaard.nl
 dict.amsterdam.nl
@@ -8565,7 +8561,6 @@ lyncdiscover.hellevoetsluis.nl
 lyncdiscover.kerkrade.nl
 lyncdiscover.landgraaf.nl
 lyncdiscover.oostzaan.nl
-lyncdiscover.urk.nl
 lyncdiscover.wormerland.nl
 lyncweb.haarlem.nl
 lyncweb.haarlemmermeer.nl
@@ -8886,7 +8881,6 @@ meet.assen.nl
 meet.ede.nl
 meet.haarlem.nl
 meet.peelenmaas.nl
-meet.urk.nl
 meet.zwolle.nl
 meet2.hethogeland.nl
 meierijstad.nl
@@ -10166,8 +10160,6 @@ onzestijl.rotterdam.nl
 oober-acc.amsterdam.nl
 oogst.groningen.nl
 oorlogenvrede.landvancuijk.nl
-oos.urk.nl
-oos2.urk.nl
 oosterhout.nl
 oostgelre.nl
 ooststellingwerf.nl
@@ -10254,6 +10246,7 @@ open.terneuzen.nl
 open.teylingen.nl
 open.tilburg.nl
 open.tubbergen.nl
+open.urk.nl
 open.utrecht.nl
 open.westmaasenwaal.nl
 open.wierden.nl
@@ -10804,10 +10797,8 @@ pip-preproductie.gemeentehw.nl
 pip-preproductie.vlaardingen.nl
 pip-test.emmen.nl
 pip-test.haarlemmermeer.nl
-pip-test.urk.nl
 pip.gemeentehw.nl
 pip.haarlemmermeer.nl
-pip.urk.nl
 pip.vlaardingen.nl
 piptest.waddinxveen.nl
 pit.ede.nl
@@ -11457,7 +11448,6 @@ probeer.simpelveld.nl
 probeer.sonenbreugel.nl
 probeer.staphorst.nl
 probeer.twenterand.nl
-probeer.urk.nl
 probeer.valkenswaard.nl
 probeer.vlissingen.nl
 probeer.waddinxveen.nl
@@ -12300,7 +12290,6 @@ services.mookenmiddelaar.nl
 services.nijmegen.nl
 servicestore.doetinchem.nl
 sfaccounts.haarlemmermeer.nl
-sfb.urk.nl
 sfb2.urk.nl
 sfbaccess.heusden.nl
 sfbaccess.houten.nl
@@ -12400,6 +12389,7 @@ simcms-open.oirschot.nl
 simcms-open.roerdalen.nl
 simcms-open.sonenbreugel.nl
 simcms-open.staphorst.nl
+simcms-open.urk.nl
 simcms-open.westmaasenwaal.nl
 simcms-open.wierden.nl
 simcms-open.zoetermeer.nl
@@ -12661,7 +12651,6 @@ sip.landgraaf.nl
 sip.oostzaan.nl
 sip.urk.nl
 sip.wormerland.nl
-sip2.urk.nl
 siraskalot.delft.nl
 sisa.rotterdam.nl
 site.dijkenwaard.nl
@@ -13391,7 +13380,6 @@ test-cmsnopnet.noordoostpolder.nl
 test-cmssamenatwork.stichtsevecht.nl
 test-cmssocial.montferland.info
 test-cmssocialintranet.middendelfland.nl
-test-cmsurknet.urk.nl
 test-cmszaanzoeker.zaanstad.nl
 test-contact.assen.nl
 test-contact.enschede.nl
@@ -13577,7 +13565,6 @@ test-topdesk.venlo.nl
 test-topicus.sudwestfryslan.nl
 test-topvorm.apeldoorn.nl
 test-trefpunt.deurne.nl
-test-urknet.urk.nl
 test-vergoedingen.nijmegen.nl
 test-website-westland.gemeentewestland.nl
 test-wiz.zaanstad.nl
@@ -13869,7 +13856,6 @@ tim-app.veere.nl
 tim.gemeentebest.nl
 tim.maassluis.nl
 tim.terschelling.nl
-tim.urk.nl
 tim.woensdrecht.nl
 time.leeuwarden.nl
 timetell.rijssen-holten.nl
@@ -14084,7 +14070,6 @@ upk.afs.acc.amsterdam.nl
 ureka.utrecht.nl
 uren-tst.groningen.nl
 urk.nl
-urknet.urk.nl
 uswolk.sudwestfryslan.nl
 utm.nunspeet.nl
 utrecht.nl
@@ -14518,7 +14503,6 @@ warenhuis.groningen.nl
 warmrijsenhout.haarlemmermeer.nl
 warmtenet.acc.nijmegen.nl
 warmteprogramma.molenlanden.nl
-warmtetransitie.urk.nl
 warp.gulpen-wittem.nl
 was010-stedin.rotterdam.nl
 was010-vrr.rotterdam.nl
@@ -14529,7 +14513,6 @@ watdoetdegemeente.rotterdam.nl
 water.deventer.nl
 waterberging.valkenswaard.nl
 waterland.nl
-waterloket.urk.nl
 waterweb.waterland.nl
 watten.groningen.nl
 waz.rotterdam.nl
@@ -14549,13 +14532,11 @@ web.moerdijk.nl
 web.renswoude.nl
 web.roosendaal.nl
 web.sliedrecht.nl
-web.urk.nl
 web.vlaardingen.nl
 web.zwijndrecht.nl
 web001.waterland.nl
 web01.deventer.nl
 web02.deventer.nl
-web2.urk.nl
 web2print.assen.nl
 web4biz251.doetinchem.nl
 webaccess.drimmelen.nl
@@ -14680,7 +14661,6 @@ webmail.terneuzen.nl
 webmail.test.hoorn.nl
 webmail.twenterand.nl
 webmail.tynaarlo.nl
-webmail.urk.nl
 webmail.utrecht.nl
 webmail.vaals.nl
 webmail.valkenburg.nl

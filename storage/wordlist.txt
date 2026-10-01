@@ -17,8 +17,8 @@ simcms
 acceptatie
 secure
 felix
-probeer
 open
+probeer
 formulieren
 loket
 test
@@ -76,10 +76,10 @@ beeldbank
 denkmee
 flowmailer-tracking
 acc-podiumd-logs
+simcms-open
 preprodbroker
 connect
 podiumd-logs
-simcms-open
 _autodiscover._tcp
 zaken
 hybrid
@@ -158,7 +158,6 @@ www.doemee
 gemeente
 squit2go
 ftp
-web
 preprod-mijn
 preprod-mijninkomen
 micollab
@@ -169,6 +168,7 @@ test-cmsintranet
 acc-pabc
 begroting
 en
+web
 izaaksuite
 veiligdelen
 snelbaliepp
@@ -223,7 +223,6 @@ onderzoek
 werkenvoor
 admin.openstad
 nieuwsbrief
-lyncdiscover
 mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
@@ -249,6 +248,7 @@ auth.openstad
 desktop
 openstad
 opendata
+lyncdiscover
 test-mijn
 guest
 publicroam
@@ -323,7 +323,6 @@ mijngeldzaken
 www.openstad
 ns1
 sslvpn
-meet
 awmag
 beeldbank-bo
 geoserver
@@ -383,8 +382,8 @@ belastingbalie-acc
 parkeervergunning
 aanmelden
 rooster
-dialin
 media
+meet
 test-formulier
 test-notificaties
 test-objecten
@@ -431,7 +430,6 @@ formulier-acc
 raadsinformatie
 e.openstad
 ibabs
-tim
 www.werkplek
 mylex
 gateway
@@ -454,6 +452,7 @@ dev
 moh-acc
 moh
 werk
+dialin
 test-abc
 test-keycloak-admin
 test-keycloak
@@ -523,7 +522,7 @@ gemeentewinkel
 mijnmobiel
 secudoc
 authenticatie
-pip
+tim
 www.mail
 prtg
 preprod-mijnsociaaldomein
@@ -718,7 +717,6 @@ www.belastingbalie
 burgerportaal
 flex
 geotest
-pip-test
 www.gemeente
 www.mobile
 zwemmen
@@ -731,6 +729,7 @@ hotspot
 ketenportaal.acceptatie
 www.login
 post
+pip
 testafspraken
 berichtenverkeer
 e.doemee
@@ -788,7 +787,6 @@ regelgeving
 autodiscover.raad
 edienstenburgerzaken.test
 aanvragen
-av
 datalab
 ldap
 notubiz
@@ -1046,6 +1044,7 @@ bijeenkomsten
 cmsoo.gemeente
 key2bag
 mijnsdv
+pip-test
 tekst
 www.zwemmen
 afspraakmakentest
@@ -1363,6 +1362,7 @@ artiance
 autorisatie
 autorisatie01
 autorisatie02
+av
 berichtenverkeer.authenticatie
 camera-sport
 digimedia
@@ -6447,22 +6447,10 @@ wua
 zaaktest
 jaarrekening2020.financielestukken
 mail.financielestukken
-av2
 bedrijfsgrond
-cmsurknet
 gov
 idocumenten
-oos
-oos2
-sfb
 sfb2
-sip2
-test-cmsurknet
-test-urknet
-urknet
-warmtetransitie
-waterloket
-web2
 Mijnsubsidie-acc
 a-eformsmidoffice
 aanpakdrugscriminaliteit

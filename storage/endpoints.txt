@@ -505,6 +505,7 @@ http://open.lingewaard.nl
 http://open.oirschot.nl
 http://open.roerdalen.nl
 http://open.staphorst.nl
+http://open.urk.nl
 http://open.wierden.nl
 http://openklant.groningen.nl
 http://opennotificaties-zgw.acc.denhaag.nl
@@ -593,7 +594,6 @@ http://simcms.lingewaard.nl
 http://simcms.reuseldemierden.nl
 http://simcms.roerdalen.nl
 http://simcms.terschelling.nl
-http://simcms.urk.nl
 http://simcms.vlissingen.nl
 http://simcms.woensdrecht.nl
 http://simcms.zwartewaterland.nl
@@ -669,7 +669,6 @@ http://transform.deventer.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://tvm.acc.amsterdam.nl
 http://twenterand.nl
-http://urk.nl
 http://vergunningintaker.bernheze.org
 http://vergunningintaker.overbetuwe.nl
 http://verkiezingen.acc.topdesk.denhaag.nl
@@ -2749,7 +2748,6 @@ https://cmsoo.zevenaar.nl
 https://cmsoo.zwolle.nl
 https://cmssamenatwork.stichtsevecht.nl
 https://cmstestintranet.westerwolde.nl
-https://cmsurknet.urk.nl
 https://cmswhatsepe.epe.nl
 https://cmszaanzoeker.zaanstad.nl
 https://cnoops.gemeentemaasgouw.nl
@@ -3853,7 +3851,6 @@ https://felix.overbetuwe.nl
 https://felix.reuseldemierden.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
-https://felix.urk.nl
 https://felix.valkenswaard.nl
 https://felix.veere.nl
 https://felix.voorschoten.nl
@@ -6813,9 +6810,7 @@ https://pform.schiedam.nl
 https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pijnacker-nootdorp.nl
 https://pilot-digitaleplannen.apeldoorn.nl
-https://pip-test.urk.nl
 https://pip.gemeentehw.nl
-https://pip.urk.nl
 https://pip.vlaardingen.nl
 https://piwik.ede.nl
 https://piwik.krimpenerwaard.nl
@@ -7573,6 +7568,7 @@ https://simcms-open.middendelfland.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.oirschot.nl
 https://simcms-open.roerdalen.nl
+https://simcms-open.urk.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-open.zwartewaterland.nl
@@ -7634,6 +7630,7 @@ https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.sonenbreugel.nl
 https://simcms.twenterand.nl
+https://simcms.urk.nl
 https://simcms.valkenswaard.nl
 https://simcms.veere.nl
 https://simcms.vlieland.nl
@@ -7801,7 +7798,6 @@ https://spelenapp.loonopzand.nl
 https://speleninoost.amsterdam.nl
 https://spf-wind.asten.nl
 https://spf-wind.someren.nl
-https://spf.urk.nl
 https://spinajaar.haarlemmermeer.nl
 https://spivoorjaar.haarlemmermeer.nl
 https://splunk-controlroom.denhaag.nl
@@ -8355,7 +8351,6 @@ https://unesco.landvancuijk.nl
 https://unjunk.krimpenerwaard.nl
 https://upk.afs.acc.amsterdam.nl
 https://ureka.utrecht.nl
-https://urknet.urk.nl
 https://utrecht.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
 https://uwmening.denhaag.nl
@@ -8572,7 +8567,6 @@ https://wanroij.landvancuijk.nl
 https://warmrijsenhout.haarlemmermeer.nl
 https://warmtenet.acc.nijmegen.nl
 https://warmteprogramma.molenlanden.nl
-https://warmtetransitie.urk.nl
 https://warp.gulpen-wittem.nl
 https://water.deventer.nl
 https://waterberging.valkenswaard.nl
@@ -9377,6 +9371,7 @@ https://www.tuinen.groningen.nl
 https://www.tynaarlo.nl
 https://www.uitgeest.nl
 https://www.uithoorn.nl
+https://www.urk.nl
 https://www.utrecht.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.vaals.nl
