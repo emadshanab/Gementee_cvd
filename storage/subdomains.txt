@@ -6642,8 +6642,6 @@ haven.tst.sittard-geleen.nl
 haven.wageningen.nl
 havenkwartieraanzet.denhaag.nl
 hcr.vlaardingen.nl
-hcs01.vaals.nl
-hcs02.vaals.nl
 hdb-msg-01.hardenberg.nl
 healthyurbanliving.utrecht.nl
 heemskerk.nl

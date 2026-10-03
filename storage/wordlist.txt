@@ -6638,8 +6638,6 @@ zac.cg-intern
 zorgprofessionals
 digid-prod
 digilevering
-hcs01
-hcs02
 kgs01
 webpublishing
 as
