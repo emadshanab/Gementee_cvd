@@ -494,6 +494,7 @@ acc-office-addin.rotterdam.nl
 acc-office-addin.tiel.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
+acc-open.valkenburg.nl
 acc-openbeheer.rotterdam.nl
 acc-openformulieren.assen.nl
 acc-openformulieren.gemert-bakel.nl
@@ -10242,6 +10243,7 @@ open.tilburg.nl
 open.tubbergen.nl
 open.urk.nl
 open.utrecht.nl
+open.valkenburg.nl
 open.westmaasenwaal.nl
 open.wierden.nl
 open.woo.tiel.nl

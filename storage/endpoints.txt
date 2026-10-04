@@ -571,6 +571,7 @@ http://scherpenzeel.nl
 http://schiermonnikoog.nl
 http://schoondoenwegewoon.acc.denhaag.nl
 http://secure.dalfsen.nl
+http://secure.valkenburg.nl
 http://sem.kampen.nl
 http://simcms-armoedepact.westerkwartier.nl
 http://simcms-data.westerkwartier.nl
@@ -612,6 +613,7 @@ http://simsite.opmeer.nl
 http://simsite.renswoude.nl
 http://simsite.simpelveld.nl
 http://simsite.twenterand.nl
+http://simsite.valkenburg.nl
 http://slim.rotterdam.nl
 http://sluiskwartier.deventer.nl
 http://snow-license.amsterdam.nl
@@ -1103,6 +1105,7 @@ https://acc-office-addin.roermond.nl
 https://acc-office-addin.rotterdam.nl
 https://acc-office-addin.tiel.nl
 https://acc-office-addin.zwolle.nl
+https://acc-open.valkenburg.nl
 https://acc-openbeheer.rotterdam.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
@@ -6484,6 +6487,7 @@ https://open.teylingen.nl
 https://open.tilburg.nl
 https://open.tubbergen.nl
 https://open.utrecht.nl
+https://open.valkenburg.nl
 https://open.woo.tiel.nl
 https://open.zaanstad.nl
 https://open.zoetermeer.nl
@@ -7498,7 +7502,6 @@ https://secure.gemeentestein.nl
 https://secure.pekela.nl
 https://secure.pijnacker-nootdorp.nl
 https://secure.sittard-geleen.nl
-https://secure.valkenburg.nl
 https://secure.veendam.nl
 https://secure1.weert.nl
 https://secure1ev.weert.nl
@@ -7685,7 +7688,6 @@ https://simsite.pekela.nl
 https://simsite.pijnacker-nootdorp.nl
 https://simsite.reuseldemierden.nl
 https://simsite.scherpenzeel.nl
-https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
 https://simsite.veere.nl
