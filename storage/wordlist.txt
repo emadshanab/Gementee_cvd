@@ -183,6 +183,7 @@ auth
 bag
 obsurv
 gasten
+email
 smtp
 AutoDiscover
 jaarstukken
@@ -206,7 +207,6 @@ sip
 test-digikoppeling
 localhost
 byod
-email
 uc
 sharefile
 ro

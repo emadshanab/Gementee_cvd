@@ -3663,6 +3663,7 @@ https://email.samen.stedebroec.nl
 https://email.samenveiligwerken.alphenaandenrijn.nl
 https://email.security.haarlemmermeer.nl
 https://email.security.veldhoven.nl
+https://email.valkenswaard.nl
 https://email.veiligwerken.edam-volendam.nl
 https://email.westvoorne.nl
 https://email.wijkteam-bewustwording.amersfoort.nl
@@ -4693,7 +4694,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.valkenswaard.nl
 https://ibzpink.veere.nl
 https://ibzpink.velsen.nl
 https://ibzpink.venlo.nl

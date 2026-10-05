@@ -1,9 +1,9 @@
 http://autodiscover.valkenswaard.nl
 https://WOZ-loket.valkenswaard.nl
 https://berichten.valkenswaard.nl
+https://email.valkenswaard.nl
 https://felix.valkenswaard.nl
 https://iburgerzaken.valkenswaard.nl
-https://ibzpink.valkenswaard.nl
 https://klantcontact.valkenswaard.nl
 https://ons.valkenswaard.nl
 https://parkeeracties.valkenswaard.nl

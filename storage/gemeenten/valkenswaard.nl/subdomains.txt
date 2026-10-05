@@ -5,6 +5,7 @@ autodiscover.valkenswaard.nl
 berichten.valkenswaard.nl
 digikoppeling-test.valkenswaard.nl
 digikoppeling.valkenswaard.nl
+email.valkenswaard.nl
 extranet.valkenswaard.nl
 felix.valkenswaard.nl
 geo.valkenswaard.nl
