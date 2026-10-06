@@ -38,6 +38,7 @@ http://aeos.acc.amsterdam.nl
 http://aeos.amsterdam.nl
 http://afs.acc.amsterdam.nl
 http://afspraak.bergendal.nl
+http://afspraak.veendam.nl
 http://afspraakmaken.renkum.nl
 http://afspraken.beverwijk.nl
 http://afspraken.brunssum.nl
@@ -2416,6 +2417,7 @@ https://betalen.tiel.nl
 https://betalen.uitgeest.nl
 https://betalen.uithoorn.nl
 https://betalen.valkenburg.nl
+https://betalen.veendam.nl
 https://betalen.veldhoven.nl
 https://betalen.venray.nl
 https://betalen.wijdemeren.nl
@@ -4086,6 +4088,7 @@ https://ftp.achtkarspelen.nl
 https://ftp.bodegraven-reeuwijk.nl
 https://ftp.castricum.nl
 https://ftp.sudwestfryslan.nl
+https://ftp.veendam.nl
 https://ftrust.veere.nl
 https://funderingen.zaanstad.nl
 https://funderingsloket.rotterdam.nl
@@ -4272,6 +4275,7 @@ https://geovisia.harlingen.nl
 https://geovisia.sudwestfryslan.nl
 https://geoweb.haarlemmermeer.nl
 https://geoweb.vught.nl
+https://gereformeerdekerk.veendam.nl
 https://geuzenstatenkwartierfietst.denhaag.nl
 https://gezinscoach.deventer.nl
 https://gezondheid.landvancuijk.nl
@@ -8545,7 +8549,6 @@ https://waarmerk.baarle-nassau.nl
 https://waarmerk.brielle.nl
 https://waarmerk.gemeentebest.nl
 https://waarmerk.hellevoetsluis.nl
-https://waarmerk.veendam.nl
 https://waarmerk.waterland.nl
 https://waarmerk.westerwolde.nl
 https://waarmerk.westvoorne.nl

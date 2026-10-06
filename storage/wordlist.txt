@@ -148,6 +148,7 @@ test-intranet
 www.webmail
 filecap
 dtestmidoffice
+ftp
 simform
 verkiezingen
 mijninkomen
@@ -157,7 +158,6 @@ sts
 www.doemee
 gemeente
 squit2go
-ftp
 preprod-mijn
 preprod-mijninkomen
 micollab
@@ -6649,6 +6649,7 @@ snelbalievergunningen-test
 waterberging
 bag-vvee21
 dds-vvee21
+gereformeerdekerk
 iis-vvee01
 iis-vvee21
 intranetdekompanjie

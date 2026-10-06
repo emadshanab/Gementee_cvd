@@ -2886,6 +2886,7 @@ betalen.tiel.nl
 betalen.uitgeest.nl
 betalen.uithoorn.nl
 betalen.valkenburg.nl
+betalen.veendam.nl
 betalen.veldhoven.nl
 betalen.venray.nl
 betalen.wijdemeren.nl
@@ -6005,6 +6006,7 @@ ftp.nijmegen.nl
 ftp.rp.heerlen.nl
 ftp.sudwestfryslan.nl
 ftp.tilburg.nl
+ftp.veendam.nl
 ftp.venlo.nl
 ftp.venray.nl
 ftpes.westmaasenwaal.nl
@@ -6350,6 +6352,7 @@ geowebinttest.haarlemmermeer.nl
 geowebtest.haarlemmermeer.nl
 geoxchange-prod.woerden.nl
 geoxchange-test.woerden.nl
+gereformeerdekerk.veendam.nl
 gerrian.peelenmaas.nl
 geuzenstatenkwartierfietst.denhaag.nl
 gewoonnijmegen.nijmegen.nl

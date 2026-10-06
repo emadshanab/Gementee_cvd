@@ -1,11 +1,15 @@
+http://afspraak.veendam.nl
 http://autodiscover.veendam.nl
 https://afspraken.veendam.nl
 https://bag-vvee21.veendam.nl
+https://betalen.veendam.nl
 https://connect.veendam.nl
 https://contentbeheer.veendam.nl
 https://dacceptatieloket.veendam.nl
 https://dloket.veendam.nl
 https://duo.veendam.nl
+https://ftp.veendam.nl
+https://gereformeerdekerk.veendam.nl
 https://iis-vvee01.veendam.nl
 https://inproces.veendam.nl
 https://intranetdekompanjie.veendam.nl
@@ -19,7 +23,6 @@ https://portal.veendam.nl
 https://secure.veendam.nl
 https://simsite.veendam.nl
 https://veendam.nl
-https://waarmerk.veendam.nl
 https://www.afspraken.veendam.nl
 https://www.veendam.nl
 https://www.xentialtest.veendam.nl

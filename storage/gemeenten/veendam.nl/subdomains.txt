@@ -4,6 +4,7 @@ afspraken.veendam.nl
 autodiscover.veendam.nl
 bag-vvee21.veendam.nl
 besluitvorming.veendam.nl
+betalen.veendam.nl
 cca-acc.veendam.nl
 cca.veendam.nl
 connect.veendam.nl
@@ -14,8 +15,10 @@ dds-vvee21.veendam.nl
 dloket.veendam.nl
 dmidoffice.veendam.nl
 duo.veendam.nl
+ftp.veendam.nl
 gemeente.veendam.nl
 gemeentewinkel.veendam.nl
+gereformeerdekerk.veendam.nl
 iis-vvee01.veendam.nl
 iis-vvee21.veendam.nl
 inproces.veendam.nl
