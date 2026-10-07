@@ -4,8 +4,8 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-mijn
 edienstenburgerzaken-test
+mijn
 intranet
 webmail
 simsite
@@ -395,6 +395,7 @@ nhr
 djuma
 mijnsociaalportaal
 uca
+zorg
 esb
 aov
 idselect
@@ -464,7 +465,6 @@ klimaatplein
 live
 mijnsociaalportaal-acc
 wij
-zorg
 preprod.vergunningintaker
 csc
 mbg1
@@ -581,6 +581,7 @@ energieloket
 acc.meldingen
 api.acc.meldingen
 app
+bi
 bouwdossiers
 burgerzaken
 dataportaal
@@ -842,7 +843,6 @@ api.v2.openstad
 auth.v2.openstad
 autodiscover.ggd
 berichtverkeer
-bi
 brp
 buurtbudget
 centrum
@@ -6675,6 +6675,7 @@ vdtm
 wmonedtest
 wmonedversie
 www.raadsakkoord
+zorg-test
 brokersignicat-preprod-x509
 brokersignicat-preprod
 brokersignicat-x509

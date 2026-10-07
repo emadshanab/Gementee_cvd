@@ -3,6 +3,7 @@ afspraken-burgerserviceloket.veenendaal.nl
 autodiscover.veenendaal.nl
 belastingbalie-test.veenendaal.nl
 belastingbalie.veenendaal.nl
+bi.veenendaal.nl
 bijveen-acc.veenendaal.nl
 bijveen.veenendaal.nl
 bijveencms-acc.veenendaal.nl
@@ -10,11 +11,14 @@ bijveencms.veenendaal.nl
 denkmee.veenendaal.nl
 digikoppeling.test.veenendaal.nl
 digikoppeling.veenendaal.nl
+edienstenburgerzaken-test.veenendaal.nl
+edienstenburgerzaken.veenendaal.nl
 enterpriseenrollment.veenendaal.nl
 enterpriseregistration.veenendaal.nl
 gemeentearchief.veenendaal.nl
 gemnet.digikoppeling.test.veenendaal.nl
 gemnet.digikoppeling.veenendaal.nl
+geo.veenendaal.nl
 idselect-test.veenendaal.nl
 idselect.veenendaal.nl
 internetprod.veenendaal.nl
@@ -39,9 +43,12 @@ toekomst.veenendaal.nl
 vdtm.veenendaal.nl
 veenendaal.nl
 veilig.veenendaal.nl
+waarmerk.veenendaal.nl
 wmo.veenendaal.nl
 wmonedtest.veenendaal.nl
 wmonedversie.veenendaal.nl
 www.denkmee.veenendaal.nl
 www.raadsakkoord.veenendaal.nl
 www.veenendaal.nl
+zorg-test.veenendaal.nl
+zorg.veenendaal.nl
