@@ -476,7 +476,6 @@ http://melddesk-test.renkum.nl
 http://melddesk.renkum.nl
 http://mijn-preproductie.goeree-overflakkee.nl
 http://mijn.heemskerk.nl
-http://mijn.veere.nl
 http://mijn.voorschoten.nl
 http://mijn.wassenaar.nl
 http://mijn.zoetermeer.nl
@@ -598,6 +597,7 @@ http://simcms.lingewaard.nl
 http://simcms.reuseldemierden.nl
 http://simcms.roerdalen.nl
 http://simcms.terschelling.nl
+http://simcms.veere.nl
 http://simcms.vlissingen.nl
 http://simcms.woensdrecht.nl
 http://simcms.zwartewaterland.nl
@@ -617,6 +617,7 @@ http://simsite.renswoude.nl
 http://simsite.simpelveld.nl
 http://simsite.twenterand.nl
 http://simsite.valkenburg.nl
+http://simsite.veere.nl
 http://slim.rotterdam.nl
 http://sluiskwartier.deventer.nl
 http://snow-license.amsterdam.nl
@@ -2003,7 +2004,6 @@ https://autodiscover.peelenmaas.nl
 https://autodiscover.sittard-geleen.nl
 https://autodiscover.tynaarlo.nl
 https://autodiscover.valkenburg.nl
-https://autodiscover.veere.nl
 https://autodiscover.wij.groningen.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
@@ -2343,7 +2343,6 @@ https://besluitvorming.doetinchem.nl
 https://besluitvorming.purmerend.nl
 https://bestand.gemeentebest.nl
 https://bestanden.dongen.nl
-https://bestanden.veere.nl
 https://bestanden.venray.nl
 https://bestandenverzenden.harlingen.nl
 https://bestandverzenden.leeuwarden.nl
@@ -3864,7 +3863,6 @@ https://felix.reuseldemierden.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.valkenswaard.nl
-https://felix.veere.nl
 https://felix.voorschoten.nl
 https://felix.wassenaar.nl
 https://felix.weststellingwerf.nl
@@ -4010,10 +4008,10 @@ https://formulier.rotterdam.nl
 https://formulier.s-hertogenbosch.nl
 https://formulier.sittard-geleen.nl
 https://formulier.tiel.nl
+https://formulier.veere.nl
 https://formulier.zwolle.nl
 https://formulieracc.breda.nl
 https://formulieren-intern.hoorn.nl
-https://formulieren-preprod.veere.nl
 https://formulieren-test.almelo.nl
 https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
@@ -4063,7 +4061,6 @@ https://formulieren.purmerend.nl
 https://formulieren.stadskanaal.nl
 https://formulieren.test.oss.nl
 https://formulieren.tiel.nl
-https://formulieren.veere.nl
 https://formulieren.veldhoven.nl
 https://formulieren.venlo.nl
 https://formulieren.vlaardingen.nl
@@ -4700,7 +4697,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.veere.nl
 https://ibzpink.velsen.nl
 https://ibzpink.venlo.nl
 https://ibzpink.venray.nl
@@ -5376,7 +5372,6 @@ https://live.zuidplas.nl
 https://liveblog.ede.nl
 https://lliam-test.zoetermeer.nl
 https://lliam.zoetermeer.nl
-https://lms.veere.nl
 https://lochem.nl
 https://logilink001.waterland.nl
 https://login-pre.mookenmiddelaar.nl
@@ -5388,7 +5383,6 @@ https://login.mookenmiddelaar.nl
 https://login.nijkerk.eu
 https://login.sittard-geleen.nl
 https://login.subsidie.leiden.nl
-https://login.veere.nl
 https://login.waterland.nl
 https://lois-acc.losser.nl
 https://lois.losser.nl
@@ -5714,7 +5708,6 @@ https://micollab.hellendoorn.nl
 https://micollab.huizen.nl
 https://micollab.roermond.nl
 https://micollab.rucphen.nl
-https://micollab.veere.nl
 https://micollab.weert.nl
 https://micontentstore.lansingerland.nl
 https://midden-groningen.nl
@@ -5845,6 +5838,7 @@ https://mijn.tholen.nl
 https://mijn.tiel.nl
 https://mijn.urk.nl
 https://mijn.veenendaal.nl
+https://mijn.veere.nl
 https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
@@ -6669,7 +6663,6 @@ https://outlook.wageningen.nl
 https://overloon.landvancuijk.nl
 https://owa.nieuwegein.nl
 https://owa.valkenburg.nl
-https://owa.veere.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
 https://ows-emssapi-test.groningen.nl
@@ -6720,6 +6713,7 @@ https://parkeren-acc.schouwen-duiveland.nl
 https://parkeren-acc.sittard-geleen.nl
 https://parkeren-acc.smallingerland.nl
 https://parkeren-acc.sudwestfryslan.nl
+https://parkeren-acc.veere.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
@@ -7642,7 +7636,6 @@ https://simcms.sonenbreugel.nl
 https://simcms.twenterand.nl
 https://simcms.urk.nl
 https://simcms.valkenswaard.nl
-https://simcms.veere.nl
 https://simcms.vlieland.nl
 https://simcms.voorschoten.nl
 https://simcms.waalwijk.nl
@@ -7696,7 +7689,6 @@ https://simsite.reuseldemierden.nl
 https://simsite.scherpenzeel.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
-https://simsite.veere.nl
 https://simsite.westerkwartier.nl
 https://simsite.weststellingwerf.nl
 https://simsite.wierden.nl
@@ -8014,7 +8006,6 @@ https://summit.amsterdam.nl
 https://support.bergen-nh.nl
 https://support.helmond.nl
 https://support.nieuwegein.nl
-https://support.veere.nl
 https://survey.sudwestfryslan.nl
 https://svhsd-ot.berichtenverkeer.tilburg.nl
 https://svhsd.berichtenverkeer.tilburg.nl
@@ -8219,6 +8210,7 @@ https://testeloket.wierden.nl
 https://testeloket.winterswijk.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
+https://testformulieren.veere.nl
 https://testformulieren.veldhoven.nl
 https://testinloggen.haarlemmermeer.nl
 https://testintranet.helmond.nl
@@ -8269,7 +8261,6 @@ https://tijd.velsen.nl
 https://tijdschrijven.apeldoorn.nl
 https://tilburg.nl
 https://tiles.zaanstad.nl
-https://tim-app.veere.nl
 https://tim.maassluis.nl
 https://tim.woensdrecht.nl
 https://tjooner.gulpen-wittem.nl
@@ -8389,6 +8380,7 @@ https://vdi.rotterdam.nl
 https://vdi.westmaasenwaal.nl
 https://veendam.nl
 https://veenendaal.nl
+https://veere.nl
 https://veilig.houten.nl
 https://veilig.veenendaal.nl
 https://veiligdelen.alkmaar.nl

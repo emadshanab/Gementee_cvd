@@ -12,8 +12,8 @@ simsite
 mail
 digikoppeling
 preproductie
-afspraken
 simcms
+afspraken
 acceptatie
 secure
 felix
@@ -21,8 +21,8 @@ open
 probeer
 formulieren
 loket
-test
 waarmerk
+test
 eloket
 betalen
 dkd
@@ -65,8 +65,8 @@ remote
 dmidoffice
 cmsoo
 loket.acceptatie
-omgevingsvisie
 osb
+omgevingsvisie
 kaart
 doemee
 cloudadapter-test
@@ -157,12 +157,12 @@ preprod
 sts
 www.doemee
 gemeente
-squit2go
 preprod-mijn
 preprod-mijninkomen
 micollab
 mdm
 inloggen
+squit2go
 contentbeheer
 test-cmsintranet
 acc-pabc
@@ -303,6 +303,7 @@ bestanden
 squit2020.acceptatie
 afspraakmaken
 aeolus
+radius
 mijnsociaaldomein
 m
 midoffice
@@ -351,7 +352,6 @@ vergunningen
 squit2020publiceren
 stemvan
 liquit
-radius
 beeldbankbeheer
 sbc01
 stats
@@ -470,6 +470,7 @@ csc
 mbg1
 elokettest
 wmo
+testformulieren
 wozloket
 mijnzorg-test
 jcccloud
@@ -492,6 +493,7 @@ edison
 klantportaal
 mfa
 mijnsubsidie
+smartdocuments
 smtp1
 smtp2
 www.open
@@ -617,7 +619,6 @@ intranet-stats
 testcms-intranet
 digid-parkeervergunningen
 simcms-duurzaam
-testformulieren
 automator
 rx-mission-publiceren
 preprod-mijnoverzicht
@@ -648,7 +649,6 @@ lvs
 octopus-acc
 octopus
 projecten
-smartdocuments
 www.cjg
 cloudadapter-t
 oig
@@ -1002,7 +1002,6 @@ www.ombudsman
 www.werkenvoor
 accept-zaaksysteem
 cloudadapter-p
-alwaysonvpn
 selector1._domainkey
 testmijnzaken
 sbc
@@ -2971,6 +2970,7 @@ reprotransfer
 vm156
 vpn365
 www.ingesprek
+alwaysonvpn
 financialstest
 sammy-acc
 sammy
@@ -6680,13 +6680,14 @@ brokersignicat-preprod-x509
 brokersignicat-preprod
 brokersignicat-x509
 brokersignicat
-formulieren-preprod
 ftrust
 gplan-app
 lms
+mivoig
 srv4587
 testmks
 tim-app
+timapp
 vpsweb
 Fmiskoppeling-prod
 Fmiskoppeling-test

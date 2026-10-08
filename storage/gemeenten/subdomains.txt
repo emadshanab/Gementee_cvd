@@ -1321,7 +1321,6 @@ afspraken.tynaarlo.nl
 afspraken.vaals.nl
 afspraken.valkenswaard.nl
 afspraken.veendam.nl
-afspraken.veere.nl
 afspraken.velsen.nl
 afspraken.voerendaal.nl
 afspraken.waterland.nl
@@ -1465,7 +1464,6 @@ altlas.dbi.amsterdam.nl
 alwayson.lopik.nl
 alwayson.stichtsevecht.nl
 alwaysonvpn.derondevenen.nl
-alwaysonvpn.veere.nl
 am-dev.rotterdam.nl
 am-preprod.rotterdam.nl
 am-preprodinternal.rotterdam.nl
@@ -5867,12 +5865,12 @@ formulier.rotterdam.nl
 formulier.s-hertogenbosch.nl
 formulier.sittard-geleen.nl
 formulier.tiel.nl
+formulier.veere.nl
 formulier.zwolle.nl
 formulieracc.breda.nl
 formulieren-g4-acc.utrecht.nl
 formulieren-g4.utrecht.nl
 formulieren-intern.hoorn.nl
-formulieren-preprod.veere.nl
 formulieren-preproductie.vlaardingen.nl
 formulieren-test.almelo.nl
 formulieren-test.bronckhorst.nl
@@ -5942,7 +5940,6 @@ formulieren.stadskanaal.nl
 formulieren.sudwestfryslan.nl
 formulieren.test.oss.nl
 formulieren.tiel.nl
-formulieren.veere.nl
 formulieren.veldhoven.nl
 formulieren.venlo.nl
 formulieren.vlaardingen.nl
@@ -9453,6 +9450,7 @@ misentry.roerdalen.nl
 misentry2.roerdalen.nl
 mitel.voorst.nl
 mivbxsrvr.gorinchem.nl
+mivoig.veere.nl
 mk01.hellevoetsluis.nl
 mks-prod.oostgelre.nl
 mks.amsterdam.nl
@@ -10471,6 +10469,7 @@ osb.roosendaal.nl
 osb.stedebroec.nl
 osb.stichtsevecht.nl
 osb.tiel.nl
+osb.veere.nl
 osb.woerden.nl
 osbacc.alkmaar.nl
 osbacc.almere.nl
@@ -11725,6 +11724,7 @@ radius.gemeenteberkelland.nl
 radius.kampen.nl
 radius.oostgelre.nl
 radius.overbetuwe.nl
+radius.veere.nl
 radius.woerden.nl
 radius.zwolle.nl
 rads.rotterdam.nl
@@ -12707,6 +12707,7 @@ smartdocuments-zgw.test.denhaag.nl
 smartdocuments.denhaag.nl
 smartdocuments.drimmelen.nl
 smartdocuments.nissewaard.nl
+smartdocuments.veere.nl
 smartdocumentsacc.drimmelen.nl
 smartdocwvn.westvoorne.nl
 smartdocwvnacc.westvoorne.nl
@@ -12927,7 +12928,6 @@ squit2go.oldenzaal.nl
 squit2go.purmerend.nl
 squit2go.twenterand.nl
 squit2go.valkenburg.nl
-squit2go.veere.nl
 squit2go.wijdemeren.nl
 squit2goprod.gemeentehw.nl
 squit2gotest-backoffice.enschede.nl
@@ -13748,6 +13748,7 @@ testembrace.nunspeet.nl
 testextsec.purmerend.nl
 testformulieren.bodegraven-reeuwijk.nl
 testformulieren.haarlemmermeer.nl
+testformulieren.veere.nl
 testformulieren.veldhoven.nl
 testinhuiz.huizen.nl
 testinloggen.haarlemmermeer.nl
@@ -13862,6 +13863,7 @@ tim.gemeentebest.nl
 tim.maassluis.nl
 tim.terschelling.nl
 tim.woensdrecht.nl
+timapp.veere.nl
 time.leeuwarden.nl
 timetell.rijssen-holten.nl
 timprod.heuvelrug.nl
@@ -14469,6 +14471,7 @@ waarmerk.teylingen.nl
 waarmerk.tynaarlo.nl
 waarmerk.veendam.nl
 waarmerk.veenendaal.nl
+waarmerk.veere.nl
 waarmerk.vlieland.nl
 waarmerk.waadhoeke.nl
 waarmerk.waterland.nl
