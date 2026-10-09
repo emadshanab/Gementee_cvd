@@ -264,6 +264,7 @@ http://autodiscover.twenterand.nl
 http://autodiscover.valkenswaard.nl
 http://autodiscover.veendam.nl
 http://autodiscover.veenendaal.nl
+http://autodiscover.veldhoven.nl
 http://autodiscover.venlo.nl
 http://autodiscover.venray.nl
 http://autodiscover.vijfheerenlanden.nl
@@ -6098,6 +6099,7 @@ https://mta-sts.raad.zevenaar.nl
 https://mta-sts.terneuzen.nl
 https://mta-sts.vaals.nl
 https://mta-sts.veenendaal.nl
+https://mta-sts.veldhoven.nl
 https://mta-sts.vught.nl
 https://mta-sts.westervoort.nl
 https://mta-sts.woudenberg.nl
@@ -8797,7 +8799,6 @@ https://winkelsteeg.acc.nijmegen.nl
 https://winkelsteeg.nijmegen.nl
 https://winterswijk.nl
 https://wirekentool.rotterdam.nl
-https://witgoed.veldhoven.nl
 https://wiz.zaanstad.nl
 https://wizportaal.noord-beveland.nl
 https://wizportaal.reimerswaal.nl

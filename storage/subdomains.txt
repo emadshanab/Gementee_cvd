@@ -2211,6 +2211,7 @@ autodiscover.valkenswaard.nl
 autodiscover.veendam.nl
 autodiscover.veenendaal.nl
 autodiscover.veere.nl
+autodiscover.veldhoven.nl
 autodiscover.venlo.nl
 autodiscover.venray.nl
 autodiscover.vijfheerenlanden.nl
@@ -3742,6 +3743,7 @@ corsa.ad.ede.nl
 corsa.ede.nl
 corsa.montferland.info
 corsa.rhenen.nl
+corsa.veldhoven.nl
 corsa01.rhenen.nl
 corsa2022.gulpen-wittem.nl
 corsa2022tst.gulpen-wittem.nl
@@ -9591,6 +9593,7 @@ mta-sts.raad.zevenaar.nl
 mta-sts.terneuzen.nl
 mta-sts.vaals.nl
 mta-sts.veenendaal.nl
+mta-sts.veldhoven.nl
 mta-sts.vught.nl
 mta-sts.westervoort.nl
 mta-sts.woudenberg.nl
@@ -10767,7 +10770,6 @@ pdc.sudwestfryslan.nl
 pdc.test.sudwestfryslan.nl
 pdc.teylingen.nl
 pdcschulddienstverlening.rotterdam.nl
-pdk.veldhoven.nl
 peelenmaas.nl
 pekela.nl
 penc-notes.rotterdam.nl
@@ -12235,6 +12237,7 @@ securetest.gemeentewestland.nl
 securetest.roermond.nl
 secureweb.landgraaf.nl
 securewifi.hethogeland.nl
+security.veldhoven.nl
 sedep0089.ede.nl
 seg.leudal.nl
 selector1._domainkey.derondevenen.nl
@@ -13324,7 +13327,6 @@ tcoda.kerkrade.nl
 tcorsa.kerkrade.nl
 tcorsa.landgraaf.nl
 td.gemeentehulst.nl
-tdk.veldhoven.nl
 teamplan.huizen.nl
 teams.middendrenthe.nl
 teams.zwolle.nl
@@ -14244,7 +14246,6 @@ vibe.rhenen.nl
 vicky-stats.veldhoven.nl
 vicky-tv.veldhoven.nl
 vicky.veldhoven.nl
-vicky2.veldhoven.nl
 vicrea.heuvelrug.nl
 victor.amsterdam.nl
 video.landvancuijk.nl
@@ -14343,6 +14344,7 @@ vpn.rucphen.nl
 vpn.sittard-geleen.nl
 vpn.sudwestfryslan.nl
 vpn.terneuzen.nl
+vpn.veldhoven.nl
 vpn.voorschoten.nl
 vpn.waalre.nl
 vpn.wassenaar.nl
@@ -15001,7 +15003,6 @@ wirekentool.rotterdam.nl
 wireless.peelenmaas.nl
 wise-accept.bibliotheek.rotterdam.nl
 wise-web.bibliotheek.rotterdam.nl
-witgoed.veldhoven.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
 wizportaal.noord-beveland.nl
