@@ -1780,6 +1780,7 @@ app.landvancuijk.nl
 app.meedoen.venray.nl
 app.meldingen.amsterdam.nl
 app.overbetuwe.nl
+app.velsen.nl
 app.woo.tiel.nl
 app1-test.nijmegen.nl
 app1.nijmegen.nl
@@ -3078,6 +3079,7 @@ bppl.denhaag.nl
 bptl.cg-intern.acc.utrecht.nl
 bptl.cg-intern.ont.utrecht.nl
 bptl.ot.denhaag.nl
+brak.velsen.nl
 brakkefort.acc.nijmegen.nl
 brandportal.gorinchem.nl
 brandweer.almelo.nl
@@ -7245,6 +7247,7 @@ idp.krimpenerwaard.nl
 idp.lochem.nl
 idp.overbetuwe.nl
 idp.pijnacker-nootdorp.nl
+idp.velsen.nl
 idrac1.ovh.gemeentebeek.nl
 idrac10.ovh.gemeentebeek.nl
 idrac2.ovh.gemeentebeek.nl
@@ -9878,9 +9881,7 @@ nunspeet.nl
 nuthmksprd.ovh.gemeentebeek.nl
 nw.haarlemmermeer.nl
 nwk-djm02.nieuwkoop.nl
-nwro.velsen.nl
 nwro.voerendaal.nl
-nwro2.velsen.nl
 o-apps.utrecht.nl
 o1.afspraak.leiden.nl
 o1.ptr1802.bodegraven-reeuwijk.nl
@@ -15874,7 +15875,6 @@ www.noordwijk.nl
 www.nu.venlo.nl
 www.nuenen.nl
 www.nunspeet.nl
-www.nwro.velsen.nl
 www.oco.eindhoven.nl
 www.oefen.heusden.nl
 www.oefenenmetstemmen.denhaag.nl

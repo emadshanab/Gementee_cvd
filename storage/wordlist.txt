@@ -357,6 +357,7 @@ sbc01
 stats
 bezoekersparkeren
 wildcard
+idp
 www.afspraken
 woz
 belastingportaal.acc
@@ -436,7 +437,6 @@ mylex
 gateway
 mijn-acc
 access
-idp
 huisstijl
 mijndesktop
 www2
@@ -447,6 +447,7 @@ test-zaakloket
 zaakloket
 2secure
 aovpn
+app
 assets
 cms.openstad
 dev
@@ -583,7 +584,6 @@ crl
 energieloket
 acc.meldingen
 api.acc.meldingen
-app
 bi
 bouwdossiers
 burgerzaken
@@ -1326,7 +1326,6 @@ qmatic
 zaaksysteem-acceptatie
 kofax
 egemeente
-nwro
 szc
 content
 wsn-mail
@@ -6698,17 +6697,16 @@ security
 vicky-stats
 vicky-tv
 vicky
+brak
 djuma-mks-prd
 djuma-mks-tst
 midofficeacc
 midofficeprd
 midofficetst
-nwro2
 tijd
 vlspmks
 vlstmks
 vsnwutg
-www.nwro
 acc.intern
 api.zwemmen
 buurtbudget-centrumnoord
@@ -6788,6 +6786,7 @@ bi.zorgned
 camerabuitendienst
 key2financien
 notubiz-recorder
+nwro
 vdlpki
 ctb
 geobeheer

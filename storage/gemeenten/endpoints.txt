@@ -2513,6 +2513,7 @@ https://bouwtekeningen.heemstede.nl
 https://boxmeer.landvancuijk.nl
 https://boxtel.nl
 https://bp.data.amsterdam.nl
+https://brak.velsen.nl
 https://brakkefort.acc.nijmegen.nl
 https://brandportal.gorinchem.nl
 https://brandweer.olst-wijhe.nl
@@ -4698,7 +4699,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.velsen.nl
 https://ibzpink.venlo.nl
 https://ibzpink.venray.nl
 https://ibzpink.vlissingen.nl
@@ -6214,8 +6214,6 @@ https://nu.venlo.nl
 https://nunspeet-checker-preprod.nunspeet.nl
 https://nunspeet-checker.nunspeet.nl
 https://nunspeet.nl
-https://nwro.velsen.nl
-https://nwro2.velsen.nl
 https://o-apps.utrecht.nl
 https://oauth.denhaag.nl
 https://oauth.openstad.alphenaandenrijn.nl
@@ -8071,7 +8069,6 @@ https://test-formulier.enschede.nl
 https://test-formulier.gemert-bakel.nl
 https://test-hofnet.coevorden.nl
 https://test-intra.gooisemeren.nl
-https://test-intranet.velsen.nl
 https://test-ita.enschede.nl
 https://test-jip.hofvantwente.nl
 https://test-kaartviewer.hoorn.nl
@@ -9241,7 +9238,6 @@ https://www.noordwijk.nl
 https://www.nu.venlo.nl
 https://www.nuenen.nl
 https://www.nunspeet.nl
-https://www.nwro.velsen.nl
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl

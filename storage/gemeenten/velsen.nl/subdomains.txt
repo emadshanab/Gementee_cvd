@@ -1,5 +1,7 @@
 acceptatie.velsen.nl
 afspraken.velsen.nl
+app.velsen.nl
+brak.velsen.nl
 cmsintranet.velsen.nl
 cmsoo.velsen.nl
 dacceptatieloket.velsen.nl
@@ -17,14 +19,13 @@ gbionlinetest.velsen.nl
 gt-loket.velsen.nl
 iburgerzaken.velsen.nl
 ibzpink.velsen.nl
+idp.velsen.nl
 intranet.velsen.nl
 iparticipatie.velsen.nl
 midofficeacc.velsen.nl
 midofficeprd.velsen.nl
 midofficetst.velsen.nl
 mks.velsen.nl
-nwro.velsen.nl
-nwro2.velsen.nl
 raad.velsen.nl
 szc.velsen.nl
 test-cmsintranet.velsen.nl
@@ -39,5 +40,4 @@ vlspmks.velsen.nl
 vlstmks.velsen.nl
 vsnwutg.velsen.nl
 webmail.velsen.nl
-www.nwro.velsen.nl
 www.velsen.nl
