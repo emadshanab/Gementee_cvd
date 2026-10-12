@@ -842,6 +842,7 @@ https://abc.oostgelre.nl
 https://abc.roermond.nl
 https://abc.rotterdam.nl
 https://abc.tiel.nl
+https://abc.venray.nl
 https://abc.zwolle.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
@@ -868,6 +869,7 @@ https://acc-abc.oostgelre.nl
 https://acc-abc.roermond.nl
 https://acc-abc.rotterdam.nl
 https://acc-abc.tiel.nl
+https://acc-abc.venray.nl
 https://acc-afvalkalender.goes.nl
 https://acc-beeldbank.leiden.nl
 https://acc-broker.assen.nl
@@ -911,6 +913,7 @@ https://acc-contact.oldenzaal.nl
 https://acc-contact.oostgelre.nl
 https://acc-contact.roermond.nl
 https://acc-contact.tiel.nl
+https://acc-contact.venray.nl
 https://acc-contact.zwolle.nl
 https://acc-datamigratie.rotterdam.nl
 https://acc-digiforms.heerlen.nl
@@ -961,6 +964,7 @@ https://acc-ita.oldenzaal.nl
 https://acc-ita.oostgelre.nl
 https://acc-ita.roermond.nl
 https://acc-ita.tiel.nl
+https://acc-ita.venray.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
 https://acc-keycloak-admin.emmen.nl
@@ -1050,6 +1054,7 @@ https://acc-notificaties.oostgelre.nl
 https://acc-notificaties.roermond.nl
 https://acc-notificaties.rotterdam.nl
 https://acc-notificaties.tiel.nl
+https://acc-notificaties.venray.nl
 https://acc-notificaties.zwolle.nl
 https://acc-objecten.assen.nl
 https://acc-objecten.borger-odoorn.nl
@@ -1072,6 +1077,7 @@ https://acc-objecten.oostgelre.nl
 https://acc-objecten.roermond.nl
 https://acc-objecten.rotterdam.nl
 https://acc-objecten.tiel.nl
+https://acc-objecten.venray.nl
 https://acc-objecten.zwolle.nl
 https://acc-objecttypen.assen.nl
 https://acc-objecttypen.borger-odoorn.nl
@@ -1115,6 +1121,7 @@ https://acc-office-addin.oostgelre.nl
 https://acc-office-addin.roermond.nl
 https://acc-office-addin.rotterdam.nl
 https://acc-office-addin.tiel.nl
+https://acc-office-addin.venray.nl
 https://acc-office-addin.zwolle.nl
 https://acc-open.valkenburg.nl
 https://acc-openbeheer.rotterdam.nl
@@ -1139,6 +1146,7 @@ https://acc-openklant.oostgelre.nl
 https://acc-openklant.roermond.nl
 https://acc-openklant.rotterdam.nl
 https://acc-openklant.tiel.nl
+https://acc-openklant.venray.nl
 https://acc-openklant.zwolle.nl
 https://acc-openwave.beverwijk.nl
 https://acc-openwave.hollandskroon.nl
@@ -1163,6 +1171,7 @@ https://acc-openzaak.oostgelre.nl
 https://acc-openzaak.roermond.nl
 https://acc-openzaak.rotterdam.nl
 https://acc-openzaak.tiel.nl
+https://acc-openzaak.venray.nl
 https://acc-openzaak.zwolle.nl
 https://acc-pabc.emmen.nl
 https://acc-pabc.enschede.nl
@@ -1177,6 +1186,7 @@ https://acc-pabc.oldenzaal.nl
 https://acc-pabc.oostgelre.nl
 https://acc-pabc.roermond.nl
 https://acc-pabc.tiel.nl
+https://acc-pabc.venray.nl
 https://acc-podiumd-abc.deventer.nl
 https://acc-podiumd-abc.olst-wijhe.nl
 https://acc-podiumd-abc.raalte.nl
@@ -1219,6 +1229,7 @@ https://acc-podiumd-logs.raalte.nl
 https://acc-podiumd-logs.roermond.nl
 https://acc-podiumd-logs.rotterdam.nl
 https://acc-podiumd-logs.tiel.nl
+https://acc-podiumd-logs.venray.nl
 https://acc-podiumd-logs.zwolle.nl
 https://acc-podiumd-mijn.deventer.nl
 https://acc-podiumd-mijn.olst-wijhe.nl
@@ -1273,6 +1284,7 @@ https://acc-zac.oldenzaal.nl
 https://acc-zac.oostgelre.nl
 https://acc-zac.roermond.nl
 https://acc-zac.tiel.nl
+https://acc-zac.venray.nl
 https://acc-zac.zwolle.nl
 https://acc.admin.v2.openstad.amsterdam.nl
 https://acc.adus.amsterdam.nl
@@ -2827,6 +2839,7 @@ https://contact.oldenzaal.nl
 https://contact.oostgelre.nl
 https://contact.roermond.nl
 https://contact.tiel.nl
+https://contact.venray.nl
 https://contact.zwolle.nl
 https://contactregistratie-ft.amsterdam.nl
 https://containers.amsterdam.nl
@@ -4021,6 +4034,7 @@ https://formulier.s-hertogenbosch.nl
 https://formulier.sittard-geleen.nl
 https://formulier.tiel.nl
 https://formulier.veere.nl
+https://formulier.venray.nl
 https://formulier.zwolle.nl
 https://formulieracc.breda.nl
 https://formulieren-intern.hoorn.nl
@@ -4710,7 +4724,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.venray.nl
 https://ibzpink.vlissingen.nl
 https://ibzpink.voorschoten.nl
 https://ibzpink.vught.nl
@@ -5010,6 +5023,7 @@ https://ita.oldenzaal.nl
 https://ita.oostgelre.nl
 https://ita.roermond.nl
 https://ita.tiel.nl
+https://ita.venray.nl
 https://ivor.veenendaal.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -5232,6 +5246,7 @@ https://keycloak-admin.oostgelre.nl
 https://keycloak-admin.roermond.nl
 https://keycloak-admin.rotterdam.nl
 https://keycloak-admin.tiel.nl
+https://keycloak-admin.venray.nl
 https://keycloak-admin.zwolle.nl
 https://keycloak.assen.nl
 https://keycloak.borger-odoorn.nl
@@ -5252,6 +5267,7 @@ https://keycloak.oostgelre.nl
 https://keycloak.roermond.nl
 https://keycloak.rotterdam.nl
 https://keycloak.tiel.nl
+https://keycloak.venray.nl
 https://keycloak.zwolle.nl
 https://keyhub.hofvantwente.nl
 https://keyhub.urk.nl
@@ -5850,6 +5866,7 @@ https://mijn.tiel.nl
 https://mijn.urk.nl
 https://mijn.veenendaal.nl
 https://mijn.veere.nl
+https://mijn.venray.nl
 https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
@@ -6216,6 +6233,7 @@ https://notificaties.oldenzaal.nl
 https://notificaties.oostgelre.nl
 https://notificaties.roermond.nl
 https://notificaties.tiel.nl
+https://notificaties.venray.nl
 https://notificaties.zwolle.nl
 https://nrobsubsidies.rotterdam.nl
 https://ns1.webserver.schiedam.nl
@@ -6248,6 +6266,7 @@ https://objecten.oostgelre.nl
 https://objecten.roermond.nl
 https://objecten.rotterdam.nl
 https://objecten.tiel.nl
+https://objecten.venray.nl
 https://objecten.zwolle.nl
 https://objecttypen-zgw.acc.denhaag.nl
 https://objecttypen-zgw.denhaag.nl
@@ -6269,6 +6288,7 @@ https://objecttypen.oldenzaal.nl
 https://objecttypen.oostgelre.nl
 https://objecttypen.roermond.nl
 https://objecttypen.tiel.nl
+https://objecttypen.venray.nl
 https://objecttypen.zwolle.nl
 https://obsurv.heerde.nl
 https://obsurv.loonopzand.nl
@@ -6317,6 +6337,7 @@ https://office-addin.oostgelre.nl
 https://office-addin.roermond.nl
 https://office-addin.rotterdam.nl
 https://office-addin.tiel.nl
+https://office-addin.venray.nl
 https://ogt.rotterdam.nl
 https://oig.deurne.nl
 https://ois.accp.s-hertogenbosch.nl
@@ -6442,7 +6463,6 @@ https://open-formulieren-test.leeuwarden.nl
 https://open-formulieren-test.venray.nl
 https://open-formulieren.groningen.nl
 https://open-formulieren.horstaandemaas.nl
-https://open-formulieren.venray.nl
 https://open-hub-acceptatie.tilburg.nl
 https://open-hub.tilburg.nl
 https://open-test.nijmegen.nl
@@ -6551,6 +6571,7 @@ https://openklant.oostgelre.nl
 https://openklant.roermond.nl
 https://openklant.rotterdam.nl
 https://openklant.tiel.nl
+https://openklant.venray.nl
 https://openklant.zwolle.nl
 https://opennotificaties-zgw.denhaag.nl
 https://opennotificaties-zgw.test.denhaag.nl
@@ -6680,6 +6701,7 @@ https://p.amsterdam.nl
 https://pabc.oostgelre.nl
 https://pabc.roermond.nl
 https://pabc.tiel.nl
+https://pabc.venray.nl
 https://pages.commonground.utrecht.nl
 https://pam.rotterdam.nl
 https://papendrecht-checker-preprod.papendrecht.nl
@@ -6893,6 +6915,7 @@ https://podiumd-logs.oostgelre.nl
 https://podiumd-logs.raalte.nl
 https://podiumd-logs.roermond.nl
 https://podiumd-logs.tiel.nl
+https://podiumd-logs.venray.nl
 https://podiumd-logs.zwolle.nl
 https://podiumd-mijn.deventer.nl
 https://podiumd-mijn.olst-wijhe.nl
