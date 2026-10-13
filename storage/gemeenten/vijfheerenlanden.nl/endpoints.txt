@@ -13,9 +13,7 @@ https://fmreturn.vijfheerenlanden.nl
 https://gis.vijfheerenlanden.nl
 https://jip.vijfheerenlanden.nl
 https://mijn.vijfheerenlanden.nl
-https://omgevingsvisie.vijfheerenlanden.nl
 https://pki-test.vijfheerenlanden.nl
 https://reserveren.vijfheerenlanden.nl
 https://vijfheerenlanden.nl
 https://www.vijfheerenlanden.nl
-https://zaaksysteem-ontwikkeling.vijfheerenlanden.nl

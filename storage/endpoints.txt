@@ -6389,7 +6389,6 @@ https://omgevingsvisie.scherpenzeel.nl
 https://omgevingsvisie.utrecht.nl
 https://omgevingsvisie.veendam.nl
 https://omgevingsvisie.venray.nl
-https://omgevingsvisie.vijfheerenlanden.nl
 https://omgevingswet.bronckhorst.nl
 https://omgevingswet.gemeentemaashorst.nl
 https://omgevingswet.zaanstad.nl
@@ -9571,7 +9570,6 @@ https://zaaksysteem-accept.zaltbommel.nl
 https://zaaksysteem-accept.zutphen.nl
 https://zaaksysteem-acceptatie.tilburg.nl
 https://zaaksysteem-acceptatie.venlo.nl
-https://zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 https://zaaksysteem.acc.utrecht.nl
 https://zaaksysteem.acceptatie.houten.nl
 https://zaaksysteem.ede.nl
