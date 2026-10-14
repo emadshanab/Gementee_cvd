@@ -33,6 +33,8 @@ http://acc.openstad.amsterdam.nl
 http://acc.schoon.amsterdam.nl
 http://acc.ton.amsterdam.nl
 http://achtkarspelen.nl
+http://adlibcollections.vlaardingen.nl
+http://adlibcollectionstest.vlaardingen.nl
 http://admin.bereikbaarheid.amsterdam.nl
 http://aeos.acc.amsterdam.nl
 http://aeos.amsterdam.nl
@@ -4038,6 +4040,7 @@ https://formulier.venray.nl
 https://formulier.zwolle.nl
 https://formulieracc.breda.nl
 https://formulieren-intern.hoorn.nl
+https://formulieren-preproductie.vlaardingen.nl
 https://formulieren-test.almelo.nl
 https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
@@ -6071,7 +6074,6 @@ https://mk01.hellevoetsluis.nl
 https://mks.amsterdam.nl
 https://mks.test.amsterdam.nl
 https://mmc.formulieren.acc.amsterdam.nl
-https://mobiel.vlaardingen.nl
 https://mobielapp.zuidplas.nl
 https://mobile.doetinchem.nl
 https://mobiliteitsplan.hillegom.nl
@@ -6843,6 +6845,7 @@ https://pform.schiedam.nl
 https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pijnacker-nootdorp.nl
 https://pilot-digitaleplannen.apeldoorn.nl
+https://pip-preproductie.vlaardingen.nl
 https://pip.gemeentehw.nl
 https://pip.vlaardingen.nl
 https://piwik.ede.nl

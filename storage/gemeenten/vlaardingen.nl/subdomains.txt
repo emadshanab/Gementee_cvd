@@ -1,3 +1,5 @@
+adlibcollections.vlaardingen.nl
+adlibcollectionstest.vlaardingen.nl
 afspraak.vlaardingen.nl
 authmfa.vlaardingen.nl
 authportal.vlaardingen.nl
@@ -30,6 +32,7 @@ simform-preproductie.vlaardingen.nl
 simform.vlaardingen.nl
 sophos.vlaardingen.nl
 test.mijnloket.vlaardingen.nl
+test.vlaardingen.nl
 vlaardingen.nl
 wachtwoord.vlaardingen.nl
 web.vlaardingen.nl

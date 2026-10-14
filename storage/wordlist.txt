@@ -21,8 +21,8 @@ open
 probeer
 formulieren
 loket
-waarmerk
 test
+waarmerk
 eloket
 betalen
 dkd
@@ -6779,6 +6779,8 @@ dmarc
 none.dmarc
 pki-test
 test-cmsjip
+adlibcollections
+adlibcollectionstest
 authmfa
 authportal
 bagonline

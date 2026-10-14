@@ -1115,6 +1115,8 @@ adfs01.sudwestfryslan.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 adir.lingewaard.nl
+adlibcollections.vlaardingen.nl
+adlibcollectionstest.vlaardingen.nl
 adm.afts-test.amsterdam.nl
 adm.afts.amsterdam.nl
 admanager.zaaksysteem.eindhoven.nl
@@ -13714,6 +13716,7 @@ test.veendam.nl
 test.veere.nl
 test.venlo.nl
 test.vijfheerenlanden.nl
+test.vlaardingen.nl
 test.voerendaal.nl
 test.waalre.nl
 test.waalwijk.nl
