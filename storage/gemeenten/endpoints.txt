@@ -404,7 +404,6 @@ http://felix.harlingen.nl
 http://felix.lingewaard.nl
 http://felix.renswoude.nl
 http://felix.schiermonnikoog.nl
-http://felix.vlieland.nl
 http://felix.waalwijk.nl
 http://felix.winterswijk.nl
 http://felix.woensdrecht.nl
@@ -689,6 +688,7 @@ http://verkiezingen.acc.topdesk.denhaag.nl
 http://verkiezingen.deventer.nl
 http://viertfietsen.deventer.nl
 http://vitaalplatteland.deventer.nl
+http://vlieland.nl
 http://vsp.terneuzen.nl
 http://wassenaar.nl
 http://web01.deventer.nl
@@ -754,7 +754,6 @@ http://www.stadspas.apeldoorn.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.toerisme.groningen.nl
 http://www.trefnet.hellevoetsluis.nl
-http://www.vlieland.nl
 http://www.vlissingen.nl
 http://www.voorschoten.nl
 http://www.waddsup.waddinxveen.nl
@@ -8519,7 +8518,6 @@ https://visnet.vlissingen.nl
 https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://vlaardingen.nl
-https://vlieland.nl
 https://vlissingen.nl
 https://vluchtelingen.zaanstad.nl
 https://vm156.denhelder.nl
@@ -9435,6 +9433,7 @@ https://www.venlo.nl
 https://www.venray.nl
 https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
+https://www.vlieland.nl
 https://www.voerendaal.nl
 https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl

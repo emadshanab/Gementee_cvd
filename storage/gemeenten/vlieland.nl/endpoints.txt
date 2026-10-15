@@ -1,6 +1,5 @@
 http://autodiscover.vlieland.nl
-http://felix.vlieland.nl
-http://www.vlieland.nl
+http://vlieland.nl
 https://digitalebelastingbalie-test.vlieland.nl
 https://digitalebelastingbalie.vlieland.nl
 https://enterpriseenrollment.vlieland.nl
@@ -10,6 +9,6 @@ https://siam.vlieland.nl
 https://simcms.vlieland.nl
 https://test-zaakloket.vlieland.nl
 https://testsiam.vlieland.nl
-https://vlieland.nl
 https://werkenbij.vlieland.nl
+https://www.vlieland.nl
 https://zaakloket.vlieland.nl
