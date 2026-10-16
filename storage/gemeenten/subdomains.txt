@@ -1381,6 +1381,7 @@ afvalris.t-diel.nl
 afvalscheiden.zaanstad.nl
 afvalwijzer.arnhem.nl
 afvalwijzer.lingewaard.nl
+afvalwijzer.vlissingen.nl
 agbi.apeldoorn.nl
 agenda.landvancuijk.nl
 agile-bi-dashboard.denhaag.nl
@@ -7621,7 +7622,6 @@ intranet.valkenswaard.nl
 intranet.veere.nl
 intranet.velsen.nl
 intranet.venlo.nl
-intranet.vlissingen.nl
 intranet.voerendaal.nl
 intranet.waadhoeke.nl
 intranet.waalwijk.nl
@@ -9297,8 +9297,10 @@ mijngemeente.waddinxveen.nl
 mijngkb.groningen.nl
 mijngkb.midden-groningen.nl
 mijnhr.sudwestfryslan.nl
+mijnhulp-acc.vlissingen.nl
 mijnhulp-test.zaltbommel.nl
 mijnhulp.meppel.nl
+mijnhulp.vlissingen.nl
 mijnhulp.zaltbommel.nl
 mijnhulpvraag.rijswijk.nl
 mijnict.almere.nl
@@ -11396,6 +11398,7 @@ preproductie.urk.nl
 preproductie.valkenburg.nl
 preproductie.valkenswaard.nl
 preproductie.venlo.nl
+preproductie.vlissingen.nl
 preproductie.voorschoten.nl
 preproductie.waddinxveen.nl
 preproductie.wassenaar.nl
@@ -11941,7 +11944,6 @@ ro.leiden.nl
 ro.lelystad.nl
 ro.olst-wijhe.nl
 ro.valkenburg.nl
-ro.vlissingen.nl
 ro.winterswijk.nl
 ro.zwolle.nl
 roadi.rotterdam.nl
@@ -12451,6 +12453,7 @@ simcms-preproductie.beuningen.nl
 simcms-preproductie.bladel.nl
 simcms-preproductie.kerkrade.nl
 simcms-preproductie.venlo.nl
+simcms-preproductie.vlissingen.nl
 simcms-preproductie.winterswijk.nl
 simcms-preproductie.woensdrecht.nl
 simcms-raad.zoetermeer.nl
@@ -15489,7 +15492,6 @@ www.doemee.papendrecht.nl
 www.doemee.peelenmaas.nl
 www.doemee.raalte.nl
 www.doemee.terneuzen.nl
-www.doemee.vlissingen.nl
 www.doemee.zwolle.nl
 www.doesburg.nl
 www.doetinchem.nl

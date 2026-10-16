@@ -155,11 +155,11 @@ mijninkomen
 dali
 preprod
 sts
-www.doemee
 gemeente
 acc-pabc
 preprod-mijn
 preprod-mijninkomen
+www.doemee
 micollab
 mdm
 inloggen
@@ -209,7 +209,6 @@ localhost
 byod
 uc
 sharefile
-ro
 contentbeheer.acceptatie
 zaken.acceptatie
 transfer
@@ -228,6 +227,7 @@ intranet-acc
 www.gemeenteraad
 iarchief
 mobile
+ro
 inproces.acceptatie
 outlook
 vth
@@ -253,6 +253,7 @@ lyncdiscover
 test-mijn
 guest
 publicroam
+simcms-preproductie
 jccapi
 jcc
 fs
@@ -292,7 +293,6 @@ auth.doemee
 img.doemee
 openformulieren
 woz-portaal
-simcms-preproductie
 support
 data-test
 mam
@@ -599,6 +599,7 @@ gpa
 parkeerapp
 smartdoc
 stadspas
+afvalwijzer
 digid
 bedrijfsafval
 test-contact
@@ -781,6 +782,7 @@ lokettest
 tickets
 ews
 pda
+mijnhulp
 kadernota
 raadzaam
 digitalebelastingbalie
@@ -867,7 +869,6 @@ octobox
 tijdschrijven
 uitvaartagenda
 www.stadspas
-afvalwijzer
 digikoppelingtst
 leerplein
 nieuwkomers
@@ -1260,7 +1261,6 @@ mstat
 smtp01
 apigw
 qr-test
-mijnhulp
 ggk-koppeling
 regieportaal
 zorg-acc
@@ -6795,6 +6795,7 @@ rproxy4
 test.mijnloket
 woningzoeken
 zoekpersoon
+mijnhulp-acc
 probeer-gemeenteraad
 simcms-gemeenteraad
 statistieken

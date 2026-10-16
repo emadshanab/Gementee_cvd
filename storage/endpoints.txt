@@ -583,13 +583,13 @@ http://sem.kampen.nl
 http://simcms-armoedepact.westerkwartier.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-duurzaam.woensdrecht.nl
-http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-morgen.venlo.nl
 http://simcms-omgevingswet.bronckhorst.nl
 http://simcms-open.meerssen.nl
 http://simcms-open.staphorst.nl
 http://simcms-open.wierden.nl
+http://simcms-preproductie.vlissingen.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-werkenbij.nijkerk.eu
 http://simcms-werkenvoor.westerkwartier.nl
@@ -605,7 +605,6 @@ http://simcms.roerdalen.nl
 http://simcms.terschelling.nl
 http://simcms.veere.nl
 http://simcms.venlo.nl
-http://simcms.vlissingen.nl
 http://simcms.woensdrecht.nl
 http://simcms.zwartewaterland.nl
 http://simform-preproductie.t-diel.nl
@@ -720,7 +719,6 @@ http://www.denkmee.hollandskroon.nl
 http://www.denkmee.woerden.nl
 http://www.devgovrs1.deventer.nl
 http://www.doemee.denhaag.nl
-http://www.doemee.vlissingen.nl
 http://www.economie.groningen.nl
 http://www.erfgoed.groningen.nl
 http://www.geldrop-mierlo.nl
@@ -1604,6 +1602,7 @@ https://afvalmelding.denhaag.nl
 https://afvalscheiden.zaanstad.nl
 https://afvalwijzer.arnhem.nl
 https://afvalwijzer.lingewaard.nl
+https://afvalwijzer.vlissingen.nl
 https://agbi.apeldoorn.nl
 https://agenda.landvancuijk.nl
 https://agile-bi-dashboard.denhaag.nl
@@ -3889,6 +3888,7 @@ https://felix.reuseldemierden.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.valkenswaard.nl
+https://felix.vlissingen.nl
 https://felix.voorschoten.nl
 https://felix.wassenaar.nl
 https://felix.weststellingwerf.nl
@@ -4207,7 +4207,6 @@ https://gemeenteraad.rotterdam.nl
 https://gemeenteraad.soest.nl
 https://gemeenteraad.stedebroec.nl
 https://gemeenteraad.venlo.nl
-https://gemeenteraad.vlissingen.nl
 https://gemeenteraad.vught.nl
 https://gemeenteraad.weert.nl
 https://gemeenteraad.westbetuwe.nl
@@ -4686,7 +4685,6 @@ https://iburgerzaken.veere.nl
 https://iburgerzaken.velsen.nl
 https://iburgerzaken.venlo.nl
 https://iburgerzaken.venray.nl
-https://iburgerzaken.vlissingen.nl
 https://iburgerzaken.voorschoten.nl
 https://iburgerzaken.vught.nl
 https://iburgerzaken.waalre.nl
@@ -4726,7 +4724,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.vlissingen.nl
 https://ibzpink.voorschoten.nl
 https://ibzpink.vught.nl
 https://ibzpink.waalre.nl
@@ -4960,7 +4957,6 @@ https://intranet.utrecht.nl
 https://intranet.valkenburg.nl
 https://intranet.velsen.nl
 https://intranet.venlo.nl
-https://intranet.vlissingen.nl
 https://intranet.waalwijk.nl
 https://intranet.wageningen.nl
 https://intranet.waterland.nl
@@ -5911,8 +5907,10 @@ https://mijngeldzaken.nijmegen.nl
 https://mijngemeente.waddinxveen.nl
 https://mijngkb.groningen.nl
 https://mijngkb.midden-groningen.nl
+https://mijnhulp-acc.vlissingen.nl
 https://mijnhulp-test.zaltbommel.nl
 https://mijnhulp.meppel.nl
+https://mijnhulp.vlissingen.nl
 https://mijnhulp.zaltbommel.nl
 https://mijnhulpvraag.rijswijk.nl
 https://mijnict.almere.nl
@@ -6745,6 +6743,7 @@ https://parkeren-acc.sittard-geleen.nl
 https://parkeren-acc.smallingerland.nl
 https://parkeren-acc.sudwestfryslan.nl
 https://parkeren-acc.veere.nl
+https://parkeren-acc.vlissingen.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
@@ -7160,6 +7159,7 @@ https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.t-diel.nl
 https://preproductie.valkenswaard.nl
+https://preproductie.vlissingen.nl
 https://preproductie.westerkwartier.nl
 https://preproductie.wierden.nl
 https://preproductie.woensdrecht.nl
@@ -7420,7 +7420,6 @@ https://ro.emmen.nl
 https://ro.gemeenteberkelland.nl
 https://ro.olst-wijhe.nl
 https://ro.valkenburg.nl
-https://ro.vlissingen.nl
 https://ro.winterswijk.nl
 https://roadi.rotterdam.nl
 https://roemte.hethogeland.nl
@@ -7592,6 +7591,7 @@ https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.waalwijk.nl
 https://simcms-epos.staphorst.nl
+https://simcms-gemeenteraad.vlissingen.nl
 https://simcms-kunstencultuur.harlingen.nl
 https://simcms-ontmoetingscentra.opmeer.nl
 https://simcms-open.beverwijk.nl
@@ -7676,6 +7676,7 @@ https://simcms.twenterand.nl
 https://simcms.urk.nl
 https://simcms.valkenswaard.nl
 https://simcms.vlieland.nl
+https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
 https://simcms.waalwijk.nl
 https://simcms.wassenaar.nl
