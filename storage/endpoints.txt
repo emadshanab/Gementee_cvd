@@ -271,6 +271,7 @@ http://autodiscover.venlo.nl
 http://autodiscover.venray.nl
 http://autodiscover.vijfheerenlanden.nl
 http://autodiscover.vlieland.nl
+http://autodiscover.voerendaal.nl
 http://autodiscover.voorschoten.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
@@ -1471,7 +1472,6 @@ https://adfs.hellendoorn.nl
 https://adfs.landgraaf.nl
 https://adfs.leudal.nl
 https://adfs.simpelveld.nl
-https://adfs.voerendaal.nl
 https://adfslogin.defryskemarren.nl
 https://adm.afts-test.amsterdam.nl
 https://admin.acc.v2.meldingen.amsterdam.nl
@@ -6688,6 +6688,7 @@ https://outlook.dewolden.nl
 https://outlook.hoogeveen.nl
 https://outlook.sittard-geleen.nl
 https://outlook.wageningen.nl
+https://outsite.voerendaal.nl
 https://overloon.landvancuijk.nl
 https://owa.nieuwegein.nl
 https://owa.valkenburg.nl
@@ -9529,10 +9530,12 @@ https://yivi.nijmegen.nl
 https://youpp.westerwolde.nl
 https://zaak-acc.barneveld.nl
 https://zaak-acc.leeuwarden.nl
+https://zaak-acc.voerendaal.nl
 https://zaak-dev.barneveld.nl
 https://zaak.barneveld.nl
 https://zaak.leeuwarden.nl
 https://zaak.tynaarlo.nl
+https://zaak.voerendaal.nl
 https://zaakloket.ameland.nl
 https://zaakloket.schiermonnikoog.nl
 https://zaakloket.terschelling.nl

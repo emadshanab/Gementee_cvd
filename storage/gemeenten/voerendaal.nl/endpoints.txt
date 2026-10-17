@@ -1,9 +1,12 @@
+http://autodiscover.voerendaal.nl
 https://acc.zorg.voerendaal.nl
-https://adfs.voerendaal.nl
 https://edienstenburgerzaken-test.voerendaal.nl
 https://edienstenburgerzaken.voerendaal.nl
 https://mijn.voerendaal.nl
+https://outsite.voerendaal.nl
 https://voerendaal.nl
 https://www.voerendaal.nl
+https://zaak-acc.voerendaal.nl
+https://zaak.voerendaal.nl
 https://zaaksysteem-accept.voerendaal.nl
 https://zorg.voerendaal.nl
