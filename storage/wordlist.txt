@@ -79,10 +79,10 @@ preprodbroker
 flowmailer-tracking
 podiumd-logs
 simcms-open
+hybrid
 connect
 _autodiscover._tcp
 zaken
-hybrid
 acc-notificaties
 acc-objecten
 acc-office-addin
@@ -157,6 +157,7 @@ preprod
 sts
 gemeente
 acc-pabc
+en
 preprod-mijn
 preprod-mijninkomen
 www.doemee
@@ -167,7 +168,6 @@ squit2go
 contentbeheer
 test-cmsintranet
 begroting
-en
 web
 izaaksuite
 veiligdelen
@@ -176,6 +176,7 @@ owa
 meedoen
 mta-sts
 cryptshare
+zaaksysteem
 socialekaart
 bis
 formulieren-test
@@ -192,7 +193,6 @@ bor
 inproces
 acceptatie-open
 www.samen
-zaaksysteem
 geoportaal
 college
 gisib
@@ -208,6 +208,7 @@ test-digikoppeling
 localhost
 byod
 uc
+iarchief
 sharefile
 contentbeheer.acceptatie
 zaken.acceptatie
@@ -225,7 +226,6 @@ mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
 www.gemeenteraad
-iarchief
 mobile
 ro
 inproces.acceptatie
@@ -1263,6 +1263,7 @@ mstat
 smtp01
 apigw
 qr-test
+zaaksysteem-acc
 ggk-koppeling
 regieportaal
 zorg-acc
@@ -4981,7 +4982,6 @@ speciaal
 sportaccommodatieverhuur
 vergunningentoets
 wie
-zaaksysteem-acc
 najaarsbrief
 regieportaal-test
 samenwerkingbelastingen-test

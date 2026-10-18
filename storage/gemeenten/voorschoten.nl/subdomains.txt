@@ -2,7 +2,10 @@ afvalkalender.voorschoten.nl
 autodiscover.voorschoten.nl
 content.voorschoten.nl
 dali.voorschoten.nl
+en.voorschoten.nl
 felix.voorschoten.nl
+hybrid.voorschoten.nl
+iarchief.voorschoten.nl
 iburgerzaken.voorschoten.nl
 ibzpink.voorschoten.nl
 mail.voorschoten.nl
@@ -18,3 +21,5 @@ voorschoten.nl
 vpn.voorschoten.nl
 wsn-mail.voorschoten.nl
 www.voorschoten.nl
+zaaksysteem-acc.voorschoten.nl
+zaaksysteem.voorschoten.nl
