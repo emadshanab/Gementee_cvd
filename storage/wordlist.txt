@@ -133,6 +133,7 @@ apps
 bgt
 extranet
 connect.acceptatie
+vergunningintaker
 snelbalie
 duurzaam
 bastion365
@@ -140,7 +141,6 @@ fmreturn
 govroam
 cmsintranet
 belastingportaal
-vergunningintaker
 osbacc
 afvalkalender
 qr
@@ -276,6 +276,7 @@ cloudadapter-prod
 handhaving
 www.denkmee
 mijnzorg-acc
+www.acceptatie
 documenten
 vergunningintaker-preprod
 academie
@@ -309,7 +310,6 @@ mijnsociaaldomein
 m
 midoffice
 participatie
-www.acceptatie
 geovisia
 gisib-test
 gisibapi-test
@@ -399,6 +399,7 @@ mijnsociaalportaal
 uca
 zorg
 esb
+preprod.vergunningintaker
 aov
 idselect
 extern
@@ -468,7 +469,6 @@ klimaatplein
 live
 mijnsociaalportaal-acc
 wij
-preprod.vergunningintaker
 csc
 mbg1
 elokettest
@@ -1097,6 +1097,7 @@ trobit
 xential-test
 klantgeleiding
 verhuursport
+wp.open
 begroting2017
 begroting2018
 begroting2020
@@ -3717,7 +3718,6 @@ publiek-id
 vis
 webcams
 webgba
-wp.open
 aag-corsa
 aanmelding-voormelding
 aanvraagparkeren
@@ -6851,6 +6851,10 @@ sl
 sltest
 smartdoctest
 test.mijn.sociaal
+voorst-checker-preprod
+voorst-checker
+wildcard.acceptatie
+www.wildcard.acceptatie
 zsnl
 cmsoo.wegwijsplus
 geodb

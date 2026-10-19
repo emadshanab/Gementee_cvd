@@ -19,6 +19,8 @@ mijn-accept.voorst.nl
 mijn.sociaal.voorst.nl
 mijn.voorst.nl
 mitel.voorst.nl
+open.voorst.nl
+preprod.vergunningintaker.voorst.nl
 preprodbroker.voorst.nl
 prtg.voorst.nl
 shift2.voorst.nl
@@ -27,7 +29,14 @@ sltest.voorst.nl
 smartdoc.voorst.nl
 smartdoctest.voorst.nl
 test.mijn.sociaal.voorst.nl
+vergunningintaker.voorst.nl
+voorst-checker-preprod.voorst.nl
+voorst-checker.voorst.nl
 voorst.nl
 webmail.voorst.nl
+wildcard.acceptatie.voorst.nl
+wp.open.voorst.nl
+www.acceptatie.voorst.nl
 www.voorst.nl
+www.wildcard.acceptatie.voorst.nl
 zsnl.voorst.nl

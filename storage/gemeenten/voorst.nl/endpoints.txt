@@ -6,6 +6,16 @@ https://m.voorst.nl
 https://mijn-accept.voorst.nl
 https://mijn.sociaal.voorst.nl
 https://mijn.voorst.nl
+https://open.voorst.nl
+https://preprod.vergunningintaker.voorst.nl
 https://preprodbroker.voorst.nl
+https://test.mijn.sociaal.voorst.nl
+https://vergunningintaker.voorst.nl
+https://voorst-checker-preprod.voorst.nl
+https://voorst-checker.voorst.nl
 https://voorst.nl
+https://wildcard.acceptatie.voorst.nl
+https://wp.open.voorst.nl
+https://www.acceptatie.voorst.nl
 https://www.voorst.nl
+https://www.wildcard.acceptatie.voorst.nl
