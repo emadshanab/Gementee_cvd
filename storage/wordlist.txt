@@ -27,8 +27,8 @@ eloket
 betalen
 dkd
 werkplek
-acc
 broker
+acc
 meldingen
 api.meldingen
 portal
@@ -46,9 +46,9 @@ testeloket
 enterpriseenrollment
 adfs
 woningbouwkaart
+formulier
 pv
 ruimtelijkeplannen
-formulier
 api.meldingen-acc
 meldingen-acc
 zaaksysteem-accept
@@ -69,20 +69,18 @@ osb
 omgevingsvisie
 kaart
 doemee
+acc-podiumd-logs
 cloudadapter-test
 digikoppeling-test
 login
 beeldbank
-acc-podiumd-logs
+podiumd-logs
 denkmee
 preprodbroker
 flowmailer-tracking
-podiumd-logs
 simcms-open
 hybrid
 connect
-_autodiscover._tcp
-zaken
 acc-notificaties
 acc-objecten
 acc-office-addin
@@ -90,6 +88,8 @@ acc-openklant
 acc-openzaak
 keycloak
 notificaties
+_autodiscover._tcp
+zaken
 abc
 acc-abc
 acc-broker
@@ -104,11 +104,13 @@ keycloak-admin
 objecten
 objecttypen
 openklant
-api.betalen
 acc-ita
 contact
 office-addin
 openzaak
+api.betalen
+ita
+zac
 cloudadapter
 klantcontact
 kaarten
@@ -118,8 +120,6 @@ portaal
 parkeren-test
 digikoppeling.test
 parkeren-acc
-ita
-zac
 piwik
 mks
 belastingloket
@@ -148,6 +148,7 @@ test-intranet
 www.webmail
 filecap
 dtestmidoffice
+acc-pabc
 ftp
 simform
 verkiezingen
@@ -156,7 +157,6 @@ dali
 preprod
 sts
 gemeente
-acc-pabc
 en
 preprod-mijn
 preprod-mijninkomen
@@ -198,6 +198,7 @@ college
 gisib
 geodata
 subsidies-backend
+veiligmailen
 maps
 api.openstad
 mailing
@@ -216,7 +217,6 @@ transfer
 bestuur
 simform-preproductie
 subsidie
-veiligmailen
 belastingbalie-test
 gemeentearchief
 onderzoek
@@ -439,6 +439,7 @@ mylex
 mijn-acc
 access
 huisstijl
+pabc
 mijndesktop
 www2
 de
@@ -546,6 +547,7 @@ gemeentebestuur
 lyncweb
 servicegateway
 geoweb
+onboarden
 testdigikoppeling
 www.vpn
 ons
@@ -562,7 +564,6 @@ hta
 wonen
 reserveren
 awtunnel
-pabc
 service
 prefill
 loket.test
@@ -752,7 +753,6 @@ autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
 gisservices
-onboarden
 portaltest
 sera
 anyconnect
@@ -1292,7 +1292,6 @@ wizportaal
 wizportaaltest
 eformulieren-test
 helpmij
-test.open-formulieren
 gem
 robuust
 docs
@@ -5272,6 +5271,7 @@ pm
 sharenet
 test-cmsnopnet
 test-nopnet
+test.open-formulieren
 tportal
 zs
 zst
@@ -6857,6 +6857,7 @@ wildcard.acceptatie
 www.wildcard.acceptatie
 zsnl
 cmsoo.wegwijsplus
+file
 geodb
 mailptr
 mijnbelastingen

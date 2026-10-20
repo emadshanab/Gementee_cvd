@@ -202,6 +202,7 @@ abc.roermond.nl
 abc.rotterdam.nl
 abc.tiel.nl
 abc.venray.nl
+abc.vught.nl
 abc.zwolle.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
@@ -235,6 +236,7 @@ acc-abc.roermond.nl
 acc-abc.rotterdam.nl
 acc-abc.tiel.nl
 acc-abc.venray.nl
+acc-abc.vught.nl
 acc-afvalkalender.goes.nl
 acc-beeldbank.leiden.nl
 acc-broker.assen.nl
@@ -256,6 +258,7 @@ acc-broker.oostgelre.nl
 acc-broker.raalte.nl
 acc-broker.roermond.nl
 acc-broker.rotterdam.nl
+acc-broker.vught.nl
 acc-broker.waterland.nl
 acc-broker.zwolle.nl
 acc-contact.assen.nl
@@ -280,6 +283,7 @@ acc-contact.oostgelre.nl
 acc-contact.roermond.nl
 acc-contact.tiel.nl
 acc-contact.venray.nl
+acc-contact.vught.nl
 acc-contact.zwolle.nl
 acc-datamigratie.rotterdam.nl
 acc-digiforms.heerlen.nl
@@ -306,6 +310,7 @@ acc-formulier.oostgelre.nl
 acc-formulier.roermond.nl
 acc-formulier.rotterdam.nl
 acc-formulier.tiel.nl
+acc-formulier.vught.nl
 acc-formulier.zwolle.nl
 acc-formulieren.losser.nl
 acc-gpp-app.assen.nl
@@ -333,6 +338,7 @@ acc-ita.oostgelre.nl
 acc-ita.roermond.nl
 acc-ita.tiel.nl
 acc-ita.venray.nl
+acc-ita.vught.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -354,6 +360,7 @@ acc-keycloak-admin.oostgelre.nl
 acc-keycloak-admin.roermond.nl
 acc-keycloak-admin.rotterdam.nl
 acc-keycloak-admin.tiel.nl
+acc-keycloak-admin.vught.nl
 acc-keycloak-admin.zwolle.nl
 acc-keycloak.assen.nl
 acc-keycloak.borger-odoorn.nl
@@ -377,6 +384,7 @@ acc-keycloak.oostgelre.nl
 acc-keycloak.roermond.nl
 acc-keycloak.rotterdam.nl
 acc-keycloak.tiel.nl
+acc-keycloak.vught.nl
 acc-keycloak.zwolle.nl
 acc-loket.zaanstad.nl
 acc-maps.almere.nl
@@ -404,6 +412,7 @@ acc-mijn.oostgelre.nl
 acc-mijn.roermond.nl
 acc-mijn.rotterdam.nl
 acc-mijn.tiel.nl
+acc-mijn.vught.nl
 acc-mijn.zwolle.nl
 acc-mijnloket.rotterdam.nl
 acc-nieuwsbrief.amsterdam.nl
@@ -431,6 +440,7 @@ acc-notificaties.roermond.nl
 acc-notificaties.rotterdam.nl
 acc-notificaties.tiel.nl
 acc-notificaties.venray.nl
+acc-notificaties.vught.nl
 acc-notificaties.zwolle.nl
 acc-objecten.assen.nl
 acc-objecten.borger-odoorn.nl
@@ -455,6 +465,7 @@ acc-objecten.roermond.nl
 acc-objecten.rotterdam.nl
 acc-objecten.tiel.nl
 acc-objecten.venray.nl
+acc-objecten.vught.nl
 acc-objecten.zwolle.nl
 acc-objecttypen.assen.nl
 acc-objecttypen.borger-odoorn.nl
@@ -478,6 +489,7 @@ acc-objecttypen.oostgelre.nl
 acc-objecttypen.roermond.nl
 acc-objecttypen.rotterdam.nl
 acc-objecttypen.tiel.nl
+acc-objecttypen.vught.nl
 acc-objecttypen.zwolle.nl
 acc-office-addin.assen.nl
 acc-office-addin.borger-odoorn.nl
@@ -500,6 +512,7 @@ acc-office-addin.roermond.nl
 acc-office-addin.rotterdam.nl
 acc-office-addin.tiel.nl
 acc-office-addin.venray.nl
+acc-office-addin.vught.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-open.valkenburg.nl
@@ -529,6 +542,7 @@ acc-openklant.roermond.nl
 acc-openklant.rotterdam.nl
 acc-openklant.tiel.nl
 acc-openklant.venray.nl
+acc-openklant.vught.nl
 acc-openklant.zwolle.nl
 acc-openwave.beverwijk.nl
 acc-openwave.hollandskroon.nl
@@ -555,6 +569,7 @@ acc-openzaak.roermond.nl
 acc-openzaak.rotterdam.nl
 acc-openzaak.tiel.nl
 acc-openzaak.venray.nl
+acc-openzaak.vught.nl
 acc-openzaak.zwolle.nl
 acc-pabc.emmen.nl
 acc-pabc.enschede.nl
@@ -570,6 +585,7 @@ acc-pabc.oostgelre.nl
 acc-pabc.roermond.nl
 acc-pabc.tiel.nl
 acc-pabc.venray.nl
+acc-pabc.vught.nl
 acc-podiumd-abc.deventer.nl
 acc-podiumd-abc.olst-wijhe.nl
 acc-podiumd-abc.raalte.nl
@@ -614,6 +630,7 @@ acc-podiumd-logs.roermond.nl
 acc-podiumd-logs.rotterdam.nl
 acc-podiumd-logs.tiel.nl
 acc-podiumd-logs.venray.nl
+acc-podiumd-logs.vught.nl
 acc-podiumd-logs.zwolle.nl
 acc-podiumd-mijn.deventer.nl
 acc-podiumd-mijn.olst-wijhe.nl
@@ -672,6 +689,7 @@ acc-zac.oostgelre.nl
 acc-zac.roermond.nl
 acc-zac.tiel.nl
 acc-zac.venray.nl
+acc-zac.vught.nl
 acc-zac.zwolle.nl
 acc.admin.bereikbaarheid.amsterdam.nl
 acc.admin.data.amsterdam.nl
@@ -2238,6 +2256,7 @@ autodiscover.voerendaal.nl
 autodiscover.voorschoten.nl
 autodiscover.voorst.nl
 autodiscover.vsp.nijmegen.nl
+autodiscover.vught.nl
 autodiscover.vvd.haarlemmermeer.nl
 autodiscover.vvd.mookenmiddelaar.nl
 autodiscover.vvd.nijmegen.nl
@@ -3169,6 +3188,7 @@ broker.test.purmerend.nl
 broker.venlo.nl
 broker.venray.nl
 broker.voorst.nl
+broker.vught.nl
 broker.waterland.nl
 broker.westerkwartier.nl
 broker.westervoort.nl
@@ -3711,6 +3731,7 @@ contact.oostgelre.nl
 contact.roermond.nl
 contact.tiel.nl
 contact.venray.nl
+contact.vught.nl
 contact.zwolle.nl
 contactregistratie-fa.amsterdam.nl
 contactregistratie-ft.amsterdam.nl
@@ -5047,7 +5068,6 @@ edienstenburgerzaken-test.veenendaal.nl
 edienstenburgerzaken-test.veldhoven.nl
 edienstenburgerzaken-test.vijfheerenlanden.nl
 edienstenburgerzaken-test.voerendaal.nl
-edienstenburgerzaken-test.vught.nl
 edienstenburgerzaken-test.waadhoeke.nl
 edienstenburgerzaken-test.waalre.nl
 edienstenburgerzaken-test.wageningen.nl
@@ -5186,7 +5206,6 @@ edienstenburgerzaken.veenendaal.nl
 edienstenburgerzaken.veldhoven.nl
 edienstenburgerzaken.vijfheerenlanden.nl
 edienstenburgerzaken.voerendaal.nl
-edienstenburgerzaken.vught.nl
 edienstenburgerzaken.waadhoeke.nl
 edienstenburgerzaken.waalre.nl
 edienstenburgerzaken.wageningen.nl
@@ -5708,6 +5727,7 @@ fietsen.groningen.nl
 fietshandhaaf.rotterdam.nl
 fietskalender.landvancuijk.nl
 fietsroutes.landvancuijk.nl
+file.vught.nl
 filecap.breda.nl
 filecap.bronckhorst.nl
 filecap.drimmelen.nl
@@ -5905,6 +5925,7 @@ formulier.sittard-geleen.nl
 formulier.tiel.nl
 formulier.veere.nl
 formulier.venray.nl
+formulier.vught.nl
 formulier.zwolle.nl
 formulieracc.breda.nl
 formulieren-g4-acc.utrecht.nl
@@ -5982,7 +6003,6 @@ formulieren.tiel.nl
 formulieren.veldhoven.nl
 formulieren.venlo.nl
 formulieren.vlaardingen.nl
-formulieren.vught.nl
 formulieren.westbetuwe.nl
 formulieren.westerkwartier.nl
 formulieren.westervoort.nl
@@ -7778,6 +7798,7 @@ ita.oostgelre.nl
 ita.roermond.nl
 ita.tiel.nl
 ita.venray.nl
+ita.vught.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -8152,6 +8173,7 @@ keycloak-admin.roermond.nl
 keycloak-admin.rotterdam.nl
 keycloak-admin.tiel.nl
 keycloak-admin.venray.nl
+keycloak-admin.vught.nl
 keycloak-admin.zwolle.nl
 keycloak.assen.nl
 keycloak.borger-odoorn.nl
@@ -8174,6 +8196,7 @@ keycloak.roermond.nl
 keycloak.rotterdam.nl
 keycloak.tiel.nl
 keycloak.venray.nl
+keycloak.vught.nl
 keycloak.zwolle.nl
 keycloakacpt.haarlem.nl
 keyhub.hofvantwente.nl
@@ -9260,6 +9283,7 @@ mijn.vlaardingen.nl
 mijn.voerendaal.nl
 mijn.voorschoten.nl
 mijn.voorst.nl
+mijn.vught.nl
 mijn.waalre.nl
 mijn.waddinxveen.nl
 mijn.wassenaar.nl
@@ -9879,6 +9903,7 @@ notificaties.roermond.nl
 notificaties.rotterdam.nl
 notificaties.tiel.nl
 notificaties.venray.nl
+notificaties.vught.nl
 notificaties.zwolle.nl
 notubiz-recorder.voerendaal.nl
 notubiz.alkmaar.nl
@@ -9964,6 +9989,7 @@ objecten.roermond.nl
 objecten.rotterdam.nl
 objecten.tiel.nl
 objecten.venray.nl
+objecten.vught.nl
 objecten.zwolle.nl
 objectenregistratie-api.almelo.nl
 objectenregistratie.almelo.nl
@@ -9992,6 +10018,7 @@ objecttypen.roermond.nl
 objecttypen.rotterdam.nl
 objecttypen.tiel.nl
 objecttypen.venray.nl
+objecttypen.vught.nl
 objecttypen.zwolle.nl
 objecttypes.cg-intern.acc.utrecht.nl
 objecttypes.cg-intern.ont.utrecht.nl
@@ -10064,6 +10091,7 @@ office-addin.roermond.nl
 office-addin.rotterdam.nl
 office-addin.tiel.nl
 office-addin.venray.nl
+office-addin.vught.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -10144,6 +10172,7 @@ ona.rotterdam.nl
 onboarden.haarlemmermeer.nl
 onboarden.houten.nl
 onboarden.meppel.nl
+onboarden.vught.nl
 onboardingambulancezorg.denhaag.nl
 onderhoud.zaanstad.nl
 ondernemen.ede.nl
@@ -10373,6 +10402,7 @@ openklant.roermond.nl
 openklant.rotterdam.nl
 openklant.tiel.nl
 openklant.venray.nl
+openklant.vught.nl
 openklant.zwolle.nl
 openmonumentendag.zwolle.nl
 opennotificaties-zgw.acc.denhaag.nl
@@ -10476,6 +10506,7 @@ openzaak.oostgelre.nl
 openzaak.roermond.nl
 openzaak.rotterdam.nl
 openzaak.tiel.nl
+openzaak.vught.nl
 openzaak.zwolle.nl
 openzaakbrug-zgw.acc.denhaag.nl
 openzaakbrug-zgw.denhaag.nl
@@ -10618,6 +10649,7 @@ pabc.oostgelre.nl
 pabc.roermond.nl
 pabc.tiel.nl
 pabc.venray.nl
+pabc.vught.nl
 packages.sudwestfryslan.nl
 pages.commonground.utrecht.nl
 pakketvergunning.peelenmaas.nl
@@ -10995,6 +11027,7 @@ podiumd-logs.roermond.nl
 podiumd-logs.rotterdam.nl
 podiumd-logs.tiel.nl
 podiumd-logs.venray.nl
+podiumd-logs.vught.nl
 podiumd-logs.zwolle.nl
 podiumd-mijn.deventer.nl
 podiumd-mijn.olst-wijhe.nl
@@ -13722,7 +13755,6 @@ test.nuenen.nl
 test.oegstgeest.nl
 test.oosterhout.nl
 test.open-formulieren.noordoostpolder.nl
-test.open-formulieren.vught.nl
 test.oss.nl
 test.ouder-amstel.nl
 test.peelenmaas.nl
@@ -14241,6 +14273,7 @@ veiligmailen.opmeer.nl
 veiligmailen.stadskanaal.nl
 veiligmailen.stedebroec.nl
 veiligmailen.sudwestfryslan.nl
+veiligmailen.vught.nl
 veiligthuishaaglanden.acc.denhaag.nl
 veldhoven.nl
 velp.landvancuijk.nl
@@ -16618,6 +16651,7 @@ zac.oldenzaal.nl
 zac.oostgelre.nl
 zac.roermond.nl
 zac.tiel.nl
+zac.vught.nl
 zac.zwolle.nl
 zaken.acceptatie.coevorden.nl
 zaken.acceptatie.dantumadiel.frl
