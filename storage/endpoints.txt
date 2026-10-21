@@ -2211,6 +2211,7 @@ https://belastingbalie-test.rijswijk.nl
 https://belastingbalie-test.smallingerland.nl
 https://belastingbalie-test.veenendaal.nl
 https://belastingbalie-test.veldhoven.nl
+https://belastingbalie-test.waadhoeke.nl
 https://belastingbalie.acc.drechterland.nl
 https://belastingbalie.acc.enkhuizen.nl
 https://belastingbalie.acc.nissewaard.nl
@@ -2243,6 +2244,7 @@ https://belastingbalie.sint-michielsgestel.nl
 https://belastingbalie.smallingerland.nl
 https://belastingbalie.stedebroec.nl
 https://belastingbalie.veldhoven.nl
+https://belastingbalie.waadhoeke.nl
 https://belastingbalie.wijdemeren.nl
 https://belastingbalietest.capelleaandenijssel.nl
 https://belastingen-acc.arnhem.nl
@@ -2457,6 +2459,7 @@ https://betalen.valkenburg.nl
 https://betalen.veendam.nl
 https://betalen.veldhoven.nl
 https://betalen.venray.nl
+https://betalen.waadhoeke.nl
 https://betalen.wijdemeren.nl
 https://betalen.zeewolde.nl
 https://betalen.zundert.nl
@@ -6769,6 +6772,7 @@ https://parkeren-acc.smallingerland.nl
 https://parkeren-acc.sudwestfryslan.nl
 https://parkeren-acc.veere.nl
 https://parkeren-acc.vlissingen.nl
+https://parkeren-acc.waadhoeke.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.culemborg.nl
@@ -9025,6 +9029,7 @@ https://www.beeldbank.landvancuijk.nl
 https://www.beesel.nl
 https://www.begroting.soest.nl
 https://www.belastingbalie.ede.nl
+https://www.belastingbalie.waadhoeke.nl
 https://www.belastingloket.lingewaard.nl
 https://www.belastingloket.overbetuwe.nl
 https://www.belastingportaal.opmeer.nl

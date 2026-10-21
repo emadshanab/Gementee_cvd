@@ -2,6 +2,9 @@ acceptatie.waadhoeke.nl
 api.meldingen-a.waadhoeke.nl
 api.meldingen.waadhoeke.nl
 autodiscover.waadhoeke.nl
+belastingbalie-test.waadhoeke.nl
+belastingbalie.waadhoeke.nl
+betalen.waadhoeke.nl
 csc.waadhoeke.nl
 edienstenburgerzaken-test.waadhoeke.nl
 edienstenburgerzaken.waadhoeke.nl
@@ -26,5 +29,6 @@ waadhoeke.nl
 waarmerk.waadhoeke.nl
 werkenbij.waadhoeke.nl
 werknemersportaal.waadhoeke.nl
+www.belastingbalie.waadhoeke.nl
 www.parkeren.waadhoeke.nl
 www.waadhoeke.nl

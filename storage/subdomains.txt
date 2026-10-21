@@ -2622,6 +2622,7 @@ belastingbalie-test.rijswijk.nl
 belastingbalie-test.smallingerland.nl
 belastingbalie-test.veenendaal.nl
 belastingbalie-test.veldhoven.nl
+belastingbalie-test.waadhoeke.nl
 belastingbalie.acc.amsterdam.nl
 belastingbalie.acc.drechterland.nl
 belastingbalie.acc.enkhuizen.nl
@@ -2660,6 +2661,7 @@ belastingbalie.veenendaal.nl
 belastingbalie.veldhoven.nl
 belastingbalie.venlo.nl
 belastingbalie.vlieland.nl
+belastingbalie.waadhoeke.nl
 belastingbalie.wijdemeren.nl
 belastingbalietest.capelleaandenijssel.nl
 belastingen-acc.almere.nl
@@ -2928,6 +2930,7 @@ betalen.valkenburg.nl
 betalen.veendam.nl
 betalen.veldhoven.nl
 betalen.venray.nl
+betalen.waadhoeke.nl
 betalen.wijdemeren.nl
 betalen.zeewolde.nl
 betalen.zundert.nl
@@ -15417,6 +15420,7 @@ www.belastingbalie.acc.rhenen.nl
 www.belastingbalie.ede.nl
 www.belastingbalie.gemeentewestland.nl
 www.belastingbalie.rhenen.nl
+www.belastingbalie.waadhoeke.nl
 www.belastingen.roermond.nl
 www.belastingloket.lingewaard.nl
 www.belastingloket.overbetuwe.nl

@@ -23,8 +23,8 @@ formulieren
 loket
 test
 waarmerk
-eloket
 betalen
+eloket
 dkd
 werkplek
 broker
@@ -199,6 +199,7 @@ gisib
 geodata
 subsidies-backend
 veiligmailen
+belastingbalie-test
 maps
 api.openstad
 mailing
@@ -217,7 +218,6 @@ transfer
 bestuur
 simform-preproductie
 subsidie
-belastingbalie-test
 gemeentearchief
 onderzoek
 werkenvoor
@@ -518,6 +518,7 @@ edge
 gt-loket
 corsa
 ondernemen
+www.belastingbalie
 fme
 duo
 mijnuitkering
@@ -720,7 +721,6 @@ authenticatiedienst.preprod
 vergunningintaker.preprod
 www.piwik
 welkom
-www.belastingbalie
 burgerportaal
 flex
 geotest
