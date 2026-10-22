@@ -1277,6 +1277,7 @@ https://acc-podiumd.sschosting.nl.assen.nl
 https://acc-referentielijsten.rotterdam.nl
 https://acc-subsidie.delft.nl
 https://acc-subsidiebeheer.delft.nl
+https://acc-woo.waalre.nl
 https://acc-zaanlink.zaanstad.nl
 https://acc-zaanlinkcms.zaanstad.nl
 https://acc-zac.assen.nl
@@ -3561,7 +3562,6 @@ https://edienstenburgerzaken.veldhoven.nl
 https://edienstenburgerzaken.vijfheerenlanden.nl
 https://edienstenburgerzaken.voerendaal.nl
 https://edienstenburgerzaken.waadhoeke.nl
-https://edienstenburgerzaken.waalre.nl
 https://edienstenburgerzaken.waterland.nl
 https://edienstenburgerzaken.westervoort.nl
 https://edienstenburgerzaken.westerwolde.nl
@@ -4705,7 +4705,6 @@ https://iburgerzaken.velsen.nl
 https://iburgerzaken.venlo.nl
 https://iburgerzaken.venray.nl
 https://iburgerzaken.voorschoten.nl
-https://iburgerzaken.waalre.nl
 https://iburgerzaken.waalwijk.nl
 https://iburgerzaken.waddinxveen.nl
 https://iburgerzaken.wageningen.nl
@@ -4742,7 +4741,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.waalre.nl
 https://ibzpink.waalwijk.nl
 https://ibzpink.waddinxveen.nl
 https://ibzpink.wageningen.nl
@@ -4922,6 +4920,7 @@ https://intranet-oud.gemeentewestland.nl
 https://intranet-stats.bernheze.org
 https://intranet-stats.gulpen-wittem.nl
 https://intranet-stats.valkenburg.nl
+https://intranet-tv.waalre.nl
 https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
 https://intranet.bernheze.org
@@ -4973,6 +4972,7 @@ https://intranet.utrecht.nl
 https://intranet.valkenburg.nl
 https://intranet.velsen.nl
 https://intranet.venlo.nl
+https://intranet.waalre.nl
 https://intranet.waalwijk.nl
 https://intranet.wageningen.nl
 https://intranet.waterland.nl
@@ -6339,6 +6339,7 @@ https://oeffelt.landvancuijk.nl
 https://oegstgeest.nl
 https://oekraine.zaanstad.nl
 https://oens.almere.nl
+https://offboard.waalre.nl
 https://office-addin.assen.nl
 https://office-addin.borger-odoorn.nl
 https://office-addin.emmen.nl
@@ -6415,6 +6416,7 @@ https://omgevingswet.gemeentemaashorst.nl
 https://omgevingswet.zaanstad.nl
 https://ommen.nl
 https://ona.rotterdam.nl
+https://onboard.waalre.nl
 https://onboarden.haarlemmermeer.nl
 https://onboarden.houten.nl
 https://onboarden.meppel.nl
@@ -8942,6 +8944,7 @@ https://woo.krimpenerwaard.nl
 https://woo.laarbeek.nl
 https://woo.nunspeet.nl
 https://woo.rheden.nl
+https://woo.waalre.nl
 https://wooloket.bernheze.org
 https://wootest.helmond.nl
 https://wordpress-zgw.acc.denhaag.nl

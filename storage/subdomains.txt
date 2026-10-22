@@ -666,6 +666,7 @@ acc-subsidiebeheer.delft.nl
 acc-tripleforms.heerlen.nl
 acc-waardepapieren-balie.hoorn.nl
 acc-waardepapieren.hoorn.nl
+acc-woo.waalre.nl
 acc-zaanlink.zaanstad.nl
 acc-zaanlinkcms.zaanstad.nl
 acc-zac.assen.nl
@@ -1594,6 +1595,7 @@ api-meldingen.almelo.nl
 api-meldingen.cg-intern.acc.utrecht.nl
 api-meldingen.cg-intern.ont.utrecht.nl
 api-meldingen.denhaag.nl
+api-n2k.waalre.nl
 api-pkio-acceptatie.tilburg.nl
 api-pkio.tilburg.nl
 api-portal-dev.data.leiden.nl
@@ -5747,6 +5749,7 @@ filecap.renswoude.nl
 filecap.rozendaal.nl
 filecap.wierden.nl
 filecapacc.breda.nl
+filepacker-api-n2k.waalre.nl
 files.kampen.nl
 files.soeb.tst.amsterdam.nl
 fileshare.westerkwartier.nl
@@ -7565,6 +7568,7 @@ intranet-stats.bernheze.org
 intranet-stats.gulpen-wittem.nl
 intranet-stats.valkenburg.nl
 intranet-test.nissewaard.nl
+intranet-tv.waalre.nl
 intranet.aalten.nl
 intranet.albrandswaard.nl
 intranet.alphenaandenrijn.nl
@@ -7665,6 +7669,7 @@ intranet.velsen.nl
 intranet.venlo.nl
 intranet.voerendaal.nl
 intranet.waadhoeke.nl
+intranet.waalre.nl
 intranet.waalwijk.nl
 intranet.waddinxveen.nl
 intranet.wageningen.nl
@@ -10074,6 +10079,7 @@ oeffelt.landvancuijk.nl
 oegstgeest.nl
 oekraine.zaanstad.nl
 oens.almere.nl
+offboard.waalre.nl
 office-addin.assen.nl
 office-addin.borger-odoorn.nl
 office-addin.emmen.nl
@@ -10172,6 +10178,7 @@ omgevingswet.meierijstad.nl
 omgevingswet.zaanstad.nl
 ommen.nl
 ona.rotterdam.nl
+onboard.waalre.nl
 onboarden.haarlemmermeer.nl
 onboarden.houten.nl
 onboarden.meppel.nl
@@ -14163,6 +14170,7 @@ udp-rstudio-acc.denhaag.nl
 udp-rstudio.denhaag.nl
 uem.oss.nl
 uem.test.oss.nl
+ui-n2k.waalre.nl
 uipath-orchestrator.heerlen.nl
 uit.groningen.nl
 uitelkaarmetkinderen.eindhoven.nl
@@ -14638,6 +14646,7 @@ warmrijsenhout.haarlemmermeer.nl
 warmtenet.acc.nijmegen.nl
 warmteprogramma.molenlanden.nl
 warp.gulpen-wittem.nl
+warp.waalre.nl
 was010-stedin.rotterdam.nl
 was010-vrr.rotterdam.nl
 was010.rotterdam.nl
@@ -15227,6 +15236,7 @@ woo.krimpenerwaard.nl
 woo.laarbeek.nl
 woo.nunspeet.nl
 woo.rheden.nl
+woo.waalre.nl
 woo.westerkwartier.nl
 wooloket.bernheze.org
 wooninstrumenten.almelo.nl
@@ -16715,6 +16725,7 @@ zgw3.denhaag.nl
 zkd.denhaag.nl
 zmm.druten.nl
 zmm.rhenen.nl
+zoek-n2k.waalre.nl
 zoek.epe.nl
 zoek.gilzerijen.nl
 zoeken.acc.woo.tiel.nl
