@@ -2,6 +2,7 @@ aanvraag.waalwijk.nl
 aanvraagstaging.waalwijk.nl
 acc.belastingloket.waalwijk.nl
 acceptatie.waalwijk.nl
+afspraak.waalwijk.nl
 autodiscover.waalwijk.nl
 beeldbank.waalwijk.nl
 beeldbankbeheer.waalwijk.nl
@@ -15,7 +16,6 @@ e-loket.waalwijk.nl
 felix.waalwijk.nl
 fs.waalwijk.nl
 geoportaal.waalwijk.nl
-geoserver.waalwijk.nl
 hta.waalwijk.nl
 iburgerzaken.waalwijk.nl
 ibzpink.waalwijk.nl
@@ -23,8 +23,8 @@ intranet-acc.waalwijk.nl
 intranet.waalwijk.nl
 intranetcms-acc.waalwijk.nl
 intranetcms.waalwijk.nl
-loket.waalwijk.nl
 mail.waalwijk.nl
+mail2.waalwijk.nl
 meedoen.waalwijk.nl
 micollab.waalwijk.nl
 mijnzorg.waalwijk.nl
@@ -37,6 +37,7 @@ paswijzer.waalwijk.nl
 pre-mijnzorg.waalwijk.nl
 rds.waalwijk.nl
 remote.waalwijk.nl
+satellite.waalwijk.nl
 sharefile.waalwijk.nl
 simcms-duurzaam.waalwijk.nl
 simcms.waalwijk.nl

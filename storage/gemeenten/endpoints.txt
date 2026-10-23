@@ -406,7 +406,6 @@ http://felix.harlingen.nl
 http://felix.lingewaard.nl
 http://felix.renswoude.nl
 http://felix.schiermonnikoog.nl
-http://felix.waalwijk.nl
 http://felix.winterswijk.nl
 http://felix.woensdrecht.nl
 http://felix.zuidplas.nl
@@ -439,7 +438,6 @@ http://iko-zgw.denhaag.nl
 http://im.opmeer.nl
 http://inloggen.mookenmiddelaar.nl
 http://internoss-test.oss.nl
-http://intranet-acc.waalwijk.nl
 http://intranet-test.nissewaard.nl
 http://intranet.edam-volendam.nl
 http://intranet.leudal.nl
@@ -2701,7 +2699,6 @@ https://cimot.almelo.nl
 https://circulairopdreef.waddinxveen.nl
 https://citrix.brielle.nl
 https://citrix.gulpen-wittem.nl
-https://citrix.waalwijk.nl
 https://civicintegration.zaanstad.nl
 https://civision.werkeninkomen.amsterdam.nl
 https://cjg.denhaag.nl
@@ -3235,6 +3232,7 @@ https://duurzaam.meppel.nl
 https://duurzaam.molenlanden.nl
 https://duurzaam.olst-wijhe.nl
 https://duurzaam.purmerend.nl
+https://duurzaam.waalwijk.nl
 https://duurzaambouwen.gooisemeren.nl
 https://duurzaamondernemen.amsterdam.nl
 https://duurzaamwonen.amsterdam.nl
@@ -3909,6 +3907,7 @@ https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.valkenswaard.nl
 https://felix.vlissingen.nl
+https://felix.waalwijk.nl
 https://felix.wassenaar.nl
 https://felix.weststellingwerf.nl
 https://felix.wierden.nl
@@ -4128,7 +4127,6 @@ https://fraudemelding.rotterdam.nl
 https://fs.beverwijk.nl
 https://fs.halderberge.nl
 https://fs.maassluis.nl
-https://fs.waalwijk.nl
 https://fs001.leudal.nl
 https://ftp.achtkarspelen.nl
 https://ftp.bodegraven-reeuwijk.nl
@@ -4310,7 +4308,6 @@ https://geoserver-signalen.almere.nl
 https://geoserver.haarlemmermeer.nl
 https://geoserver.hoorn.nl
 https://geoserver.nieuwegein.nl
-https://geoserver.waalwijk.nl
 https://geoserveradmin-acc.hoorn.nl
 https://geoserveradmin.hoorn.nl
 https://geoservices.denhaag.nl
@@ -4516,7 +4513,6 @@ https://houtwijkbegroot.denhaag.nl
 https://hpdm.purmerend.nl
 https://hrplus.rotterdam.nl
 https://hrpr.dev.denhaag.nl
-https://hta.waalwijk.nl
 https://htb-prod.gemeente-steenbergen.nl
 https://hub.gemeentemaastricht.nl
 https://huishoudboekje.acc.utrecht.nl
@@ -4741,7 +4737,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.waalwijk.nl
 https://ibzpink.waddinxveen.nl
 https://ibzpink.wageningen.nl
 https://ibzpink.wassenaar.nl
@@ -5500,7 +5495,6 @@ https://loket.uithoorn.nl
 https://loket.veendam.nl
 https://loket.veenendaal.nl
 https://loket.waadhoeke.nl
-https://loket.waalwijk.nl
 https://loket.westervoort.nl
 https://loket.zaanstad.nl
 https://loket.zevenaar.nl
@@ -7622,7 +7616,6 @@ https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-centrum.heerlen.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-duurzaam.beverwijk.nl
-https://simcms-duurzaam.waalwijk.nl
 https://simcms-epos.staphorst.nl
 https://simcms-gemeenteraad.vlissingen.nl
 https://simcms-kunstencultuur.harlingen.nl
@@ -8613,6 +8606,7 @@ https://waadhoeke.nl
 https://waalre.nl
 https://waalsprong.acc.nijmegen.nl
 https://waalsprong.nijmegen.nl
+https://waalwijk.nl
 https://waardwijzer.krimpenerwaard.nl
 https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
@@ -8703,7 +8697,6 @@ https://webmail.sittard-geleen.nl
 https://webmail.terneuzen.nl
 https://webmail.tynaarlo.nl
 https://webmail.valkenburg.nl
-https://webmail.waalwijk.nl
 https://webmail.waterland.nl
 https://webmail.weststellingwerf.nl
 https://webmail.westvoorne.nl
@@ -9486,6 +9479,7 @@ https://www.vught.nl
 https://www.vvv.deventer.nl
 https://www.waadhoeke.nl
 https://www.waalre.nl
+https://www.waalwijk.nl
 https://www.waddinxveen.nl
 https://www.wageningen.nl
 https://www.wandelroutes.landvancuijk.nl

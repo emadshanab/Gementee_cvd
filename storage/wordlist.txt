@@ -20,9 +20,9 @@ felix
 open
 probeer
 formulieren
-loket
 test
 waarmerk
+loket
 betalen
 eloket
 dkd
@@ -30,9 +30,9 @@ werkplek
 broker
 acc
 meldingen
+afspraak
 api.meldingen
 portal
-afspraak
 geo
 raad
 parkeren
@@ -219,6 +219,7 @@ bestuur
 simform-preproductie
 subsidie
 gemeentearchief
+mail2
 onderzoek
 werkenvoor
 admin.openstad
@@ -241,7 +242,6 @@ subsidies-backend.acceptatie
 subsidies.acceptatie
 thuiswerken
 website
-mail2
 _dmarc
 afval
 auth.openstad
@@ -329,7 +329,6 @@ ns1
 sslvpn
 awmag
 beeldbank-bo
-geoserver
 intranetcms
 rap
 wifi
@@ -393,6 +392,7 @@ test-objecttypen
 test-podiumd-logs
 plannen
 bestemmingsplannen
+geoserver
 nhr
 djuma
 mijnsociaalportaal
@@ -6886,6 +6886,7 @@ acc.belastingloket
 outbound
 paswijzer
 pre-mijnzorg
+satellite
 sporten
 test-paswijzer
 circulairopdreef

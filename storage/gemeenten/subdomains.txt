@@ -1253,6 +1253,7 @@ afspraak.veendam.nl
 afspraak.veenendaal.nl
 afspraak.vijfheerenlanden.nl
 afspraak.vlaardingen.nl
+afspraak.waalwijk.nl
 afspraak.wageningen.nl
 afspraak.wijdemeren.nl
 afspraak.woudenberg.nl
@@ -6391,7 +6392,6 @@ geoserver.haarlemmermeer.nl
 geoserver.hoorn.nl
 geoserver.nieuwegein.nl
 geoserver.soest.nl
-geoserver.waalwijk.nl
 geoserveradmin-acc.hoorn.nl
 geoserveradmin.hoorn.nl
 geoservertest.haarlemmermeer.nl
@@ -8593,7 +8593,6 @@ loket.veendam.nl
 loket.veenendaal.nl
 loket.veere.nl
 loket.waadhoeke.nl
-loket.waalwijk.nl
 loket.westervoort.nl
 loket.winterswijk.nl
 loket.zaanstad.nl
@@ -8805,6 +8804,7 @@ mail2.sittard-geleen.nl
 mail2.smallingerland.nl
 mail2.tilburg.nl
 mail2.vught.nl
+mail2.waalwijk.nl
 mail2.winterswijk.nl
 mail21.utrecht.nl
 mail22.utrecht.nl
@@ -12177,6 +12177,7 @@ sandbox.hillegom.nl
 sap01.gem.overbetuwe.nl
 sas.huizen.nl
 sat.woudenberg.nl
+satellite.waalwijk.nl
 sb.drechterland.nl
 sbc-01.haarlemmermeer.nl
 sbc-ata01.haarlemmermeer.nl
