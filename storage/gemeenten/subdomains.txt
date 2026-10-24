@@ -2361,7 +2361,6 @@ bag.etten-leur.nl
 bag.haarlemmermeer.nl
 bag.montferland.info
 bag.soest.nl
-bag.waddinxveen.nl
 bag.weert.nl
 bag.zwolle.nl
 bag1.gemeentemaasgouw.nl
@@ -7315,6 +7314,7 @@ idp.lochem.nl
 idp.overbetuwe.nl
 idp.pijnacker-nootdorp.nl
 idp.velsen.nl
+idp.waddinxveen.nl
 idrac1.ovh.gemeentebeek.nl
 idrac10.ovh.gemeentebeek.nl
 idrac2.ovh.gemeentebeek.nl
@@ -15493,6 +15493,7 @@ www.cars.heuvelrug.nl
 www.castricum.nl
 www.centrum.amsterdam.nl
 www.centrumbegroot.alphenaandenrijn.nl
+www.circulairopdreef.waddinxveen.nl
 www.citrix.gemeentebeek.nl
 www.citytrip.groningen.nl
 www.cjg.denhaag.nl
@@ -16226,6 +16227,7 @@ www.sinterklaas.groningen.nl
 www.sip.hellevoetsluis.nl
 www.sisa.rotterdam.nl
 www.sittard-geleen.nl
+www.sleutelkwartier.waddinxveen.nl
 www.sliedrecht.nl
 www.slimbereikbaar.assen.nl
 www.smallingerland.nl
@@ -16334,6 +16336,7 @@ www.trefnet.hellevoetsluis.nl
 www.tstmijnswf.sudwestfryslan.nl
 www.tstwi141.tst.groningen.nl
 www.tstwi184.tst.groningen.nl
+www.tsuyt.waddinxveen.nl
 www.tubbergen.nl
 www.tuinen.groningen.nl
 www.twenterand.nl
@@ -16395,7 +16398,6 @@ www.waalwijk.nl
 www.wadden.groningen.nl
 www.waddenland.groningen.nl
 www.waddinxveen.nl
-www.waddsup.waddinxveen.nl
 www.wageningen.nl
 www.wandelen.groningen.nl
 www.wandelroutes.landvancuijk.nl

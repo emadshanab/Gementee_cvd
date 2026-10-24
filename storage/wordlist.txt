@@ -183,7 +183,6 @@ formulieren-test
 vdi
 auth
 woo
-bag
 obsurv
 gasten
 email
@@ -205,6 +204,7 @@ maps
 api.openstad
 mailing
 gis
+bag
 sip
 test-digikoppeling
 localhost
@@ -308,6 +308,7 @@ aeolus
 radius
 mijnsociaaldomein
 m
+idp
 midoffice
 participatie
 geovisia
@@ -358,7 +359,6 @@ sbc01
 stats
 bezoekersparkeren
 wildcard
-idp
 www.afspraken
 woz
 belastingportaal.acc
@@ -6901,7 +6901,9 @@ wadelse
 wadelsecms-acc
 wadelsecms
 wdvggm
-www.waddsup
+www.circulairopdreef
+www.sleutelkwartier
+www.tsuyt
 appconnect
 bereikbaar
 intranetprod

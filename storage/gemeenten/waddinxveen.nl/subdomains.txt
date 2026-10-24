@@ -1,5 +1,4 @@
 apps.waddinxveen.nl
-bag.waddinxveen.nl
 bgt.waddinxveen.nl
 circulairopdreef.waddinxveen.nl
 dali.waddinxveen.nl
@@ -8,6 +7,7 @@ enterpriseregistration.waddinxveen.nl
 filetransfer.waddinxveen.nl
 iburgerzaken.waddinxveen.nl
 ibzpink.waddinxveen.nl
+idp.waddinxveen.nl
 intranet.waddinxveen.nl
 iparticipatie.waddinxveen.nl
 mijn.waddinxveen.nl
@@ -34,5 +34,7 @@ wadelse.waddinxveen.nl
 wadelsecms-acc.waddinxveen.nl
 wadelsecms.waddinxveen.nl
 wdvggm.waddinxveen.nl
+www.circulairopdreef.waddinxveen.nl
+www.sleutelkwartier.waddinxveen.nl
+www.tsuyt.waddinxveen.nl
 www.waddinxveen.nl
-www.waddsup.waddinxveen.nl

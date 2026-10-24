@@ -687,6 +687,7 @@ http://viertfietsen.deventer.nl
 http://vitaalplatteland.deventer.nl
 http://vlieland.nl
 http://vsp.terneuzen.nl
+http://wadelse-acc.waddinxveen.nl
 http://wassenaar.nl
 http://web01.deventer.nl
 http://webmail.gooisemeren.nl
@@ -751,7 +752,6 @@ http://www.telewerken.hellevoetsluis.nl
 http://www.toerisme.groningen.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.vlissingen.nl
-http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.weststellingwerf.nl
 http://www.winkelen.deventer.nl
@@ -2696,7 +2696,6 @@ https://chat.amsterdam.nl
 https://chat.midden-groningen.nl
 https://checklist.rotterdam.nl
 https://cimot.almelo.nl
-https://circulairopdreef.waddinxveen.nl
 https://citrix.brielle.nl
 https://citrix.gulpen-wittem.nl
 https://civicintegration.zaanstad.nl
@@ -4737,7 +4736,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.waddinxveen.nl
 https://ibzpink.wageningen.nl
 https://ibzpink.wassenaar.nl
 https://ibzpink.weert.nl
@@ -8629,7 +8627,6 @@ https://wachtwoordvergeten.nederbetuwe.nl
 https://waddenland.groningen.nl
 https://waddinxveen.nl
 https://waddsup.waddinxveen.nl
-https://wadelse-acc.waddinxveen.nl
 https://wadelse.waddinxveen.nl
 https://wadelsecms-acc.waddinxveen.nl
 https://wadelsecms.waddinxveen.nl
@@ -9402,6 +9399,7 @@ https://www.shops.landvancuijk.nl
 https://www.sint-michielsgestel.nl
 https://www.sinterklaas.groningen.nl
 https://www.sittard-geleen.nl
+https://www.sleutelkwartier.waddinxveen.nl
 https://www.sliedrecht.nl
 https://www.smallingerland.nl
 https://www.smartatsea.denhaag.nl
@@ -9446,6 +9444,7 @@ https://www.thuiswinkelen.landvancuijk.nl
 https://www.tiel.nl
 https://www.tilburg.nl
 https://www.toegankelijk.enschede.nl
+https://www.tsuyt.waddinxveen.nl
 https://www.tubbergen.nl
 https://www.tuinen.groningen.nl
 https://www.tynaarlo.nl
