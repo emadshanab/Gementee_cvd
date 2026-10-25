@@ -662,7 +662,6 @@ http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sittard-geleen.nl
 http://test-intranet.sudwestfryslan.nl
-http://test-intranet.wageningen.nl
 http://test-intranet.zeist.nl
 http://test-jip.vijfheerenlanden.nl
 http://test-keycloak-admin.rotterdam.nl
@@ -1916,6 +1915,7 @@ https://apps.utrecht.nl
 https://apps.vught.nl
 https://apps.waalre.nl
 https://apps.waddinxveen.nl
+https://apps.wageningen.nl
 https://apps.zuidplas.nl
 https://apv-broker.heuvelrug.nl
 https://apv-broker.preprod.heuvelrug.nl
@@ -2715,7 +2715,6 @@ https://clicksfm.nieuwsbrief.goeree-overflakkee.nl
 https://clicksfm.noordoostpolder.nl
 https://clicksfm.persberichten.lansingerland.nl
 https://cloud.nieuwsbrief.amsterdam.nl
-https://cloud.wageningen.nl
 https://cloudadapter-acc.waterland.nl
 https://cloudadapter-prd.waterland.nl
 https://cloudadapter-test.meppel.nl
@@ -2755,7 +2754,6 @@ https://cmsintranet.meierijstad.nl
 https://cmsintranet.sittard-geleen.nl
 https://cmsintranet.sudwestfryslan.nl
 https://cmsintranet.velsen.nl
-https://cmsintranet.wageningen.nl
 https://cmsintranet.westerwolde.nl
 https://cmsintranet.wijdemeren.nl
 https://cmsintranet.zeist.nl
@@ -3429,7 +3427,6 @@ https://edienstenburgerzaken-test.vijfheerenlanden.nl
 https://edienstenburgerzaken-test.voerendaal.nl
 https://edienstenburgerzaken-test.waadhoeke.nl
 https://edienstenburgerzaken-test.waalre.nl
-https://edienstenburgerzaken-test.wageningen.nl
 https://edienstenburgerzaken-test.waterland.nl
 https://edienstenburgerzaken-test.westervoort.nl
 https://edienstenburgerzaken-test.westerwolde.nl
@@ -4702,7 +4699,6 @@ https://iburgerzaken.venray.nl
 https://iburgerzaken.voorschoten.nl
 https://iburgerzaken.waalwijk.nl
 https://iburgerzaken.waddinxveen.nl
-https://iburgerzaken.wageningen.nl
 https://iburgerzaken.wassenaar.nl
 https://iburgerzaken.weert.nl
 https://iburgerzaken.westbetuwe.nl
@@ -4736,7 +4732,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.wageningen.nl
 https://ibzpink.wassenaar.nl
 https://ibzpink.weert.nl
 https://ibzpink.westbetuwe.nl
@@ -4967,7 +4962,6 @@ https://intranet.velsen.nl
 https://intranet.venlo.nl
 https://intranet.waalre.nl
 https://intranet.waalwijk.nl
-https://intranet.wageningen.nl
 https://intranet.waterland.nl
 https://intranet.weert.nl
 https://intranet.westerwolde.nl
@@ -4987,7 +4981,6 @@ https://intranetcms.midden-groningen.nl
 https://intranetcms.nissewaard.nl
 https://intranetcms.waalwijk.nl
 https://intranetdekompanjie.veendam.nl
-https://intranetprod.wageningen.nl
 https://intraweb.nederbetuwe.nl
 https://intro-acc.roermond.nl
 https://intro.roermond.nl
@@ -6707,7 +6700,6 @@ https://outlook.deventer.nl
 https://outlook.dewolden.nl
 https://outlook.hoogeveen.nl
 https://outlook.sittard-geleen.nl
-https://outlook.wageningen.nl
 https://outsite.voerendaal.nl
 https://overloon.landvancuijk.nl
 https://owa.nieuwegein.nl
@@ -6729,14 +6721,12 @@ https://papendrecht-checker.papendrecht.nl
 https://papendrecht.nl
 https://parkeerabonnementen.breda.nl
 https://parkeeracties-test.dijkenwaard.nl
-https://parkeeracties-test.wageningen.nl
 https://parkeeracties-test.zwijndrecht.nl
 https://parkeeracties.dijkenwaard.nl
 https://parkeeracties.valkenswaard.nl
 https://parkeeracties.wageningen.nl
 https://parkeeracties.zwijndrecht.nl
 https://parkeerapp.apeldoorn.nl
-https://parkeerbalie-test.wageningen.nl
 https://parkeerbalie.wageningen.nl
 https://parkeerloket.weert.nl
 https://parkeerloket.zwolle.nl
@@ -6840,6 +6830,7 @@ https://participatie.roosendaal.nl
 https://participatietool-acc.nijmegen.nl
 https://participatietool.nijmegen.nl
 https://passbolt.terneuzen.nl
+https://passbolt.wageningen.nl
 https://password.almere.nl
 https://passwordreset.almere.nl
 https://paswijzer.waalwijk.nl
@@ -7552,6 +7543,7 @@ https://secudoc.gemeentebeek.nl
 https://secudoc.montfoort.nl
 https://secudoc.nederbetuwe.nl
 https://secudoc.texel.nl
+https://secudoc.wageningen.nl
 https://secumailer.maasdriel.nl
 https://secure-t.sittard-geleen.nl
 https://secure-test.almere.nl
@@ -7594,7 +7586,6 @@ https://sharepoint.dalfsen.nl
 https://sherlock-fa.amsterdam.nl
 https://shop.heitje.heerlen.nl
 https://shops.landvancuijk.nl
-https://siam-test.wageningen.nl
 https://siam.ameland.nl
 https://siam.bunnik.nl
 https://siam.rhenen.nl
@@ -7884,6 +7875,7 @@ https://sportencultuur.gorinchem.nl
 https://sportief.hilversum.nl
 https://sportief.middendrenthe.nl
 https://sportlocaties.nieuwegein.nl
+https://sportlocatieverhuur.wageningen.nl
 https://sportloket.landvancuijk.nl
 https://sportsupport.almere.nl
 https://sportverhuur.emmen.nl
@@ -8116,7 +8108,6 @@ https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
-https://test-cmsintranet.wageningen.nl
 https://test-cmsintranet.zeist.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssamenatwork.stichtsevecht.nl

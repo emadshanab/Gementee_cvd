@@ -1860,6 +1860,7 @@ apps.utrecht.nl
 apps.vught.nl
 apps.waalre.nl
 apps.waddinxveen.nl
+apps.wageningen.nl
 apps.zuidplas.nl
 apv-broker.heuvelrug.nl
 apv-broker.preprod.heuvelrug.nl
@@ -3564,7 +3565,6 @@ cmsintranet.peelenmaas.nl
 cmsintranet.sittard-geleen.nl
 cmsintranet.sudwestfryslan.nl
 cmsintranet.velsen.nl
-cmsintranet.wageningen.nl
 cmsintranet.westerwolde.nl
 cmsintranet.wijdemeren.nl
 cmsintranet.zeist.nl
@@ -5075,7 +5075,6 @@ edienstenburgerzaken-test.vijfheerenlanden.nl
 edienstenburgerzaken-test.voerendaal.nl
 edienstenburgerzaken-test.waadhoeke.nl
 edienstenburgerzaken-test.waalre.nl
-edienstenburgerzaken-test.wageningen.nl
 edienstenburgerzaken-test.waterland.nl
 edienstenburgerzaken-test.westervoort.nl
 edienstenburgerzaken-test.westerwolde.nl
@@ -5213,7 +5212,6 @@ edienstenburgerzaken.vijfheerenlanden.nl
 edienstenburgerzaken.voerendaal.nl
 edienstenburgerzaken.waadhoeke.nl
 edienstenburgerzaken.waalre.nl
-edienstenburgerzaken.wageningen.nl
 edienstenburgerzaken.waterland.nl
 edienstenburgerzaken.westervoort.nl
 edienstenburgerzaken.westerwolde.nl
@@ -7672,7 +7670,6 @@ intranet.waadhoeke.nl
 intranet.waalre.nl
 intranet.waalwijk.nl
 intranet.waddinxveen.nl
-intranet.wageningen.nl
 intranet.waterland.nl
 intranet.weert.nl
 intranet.westerwolde.nl
@@ -10611,7 +10608,6 @@ outlook.kaagenbraassem.nl
 outlook.meerssen.nl
 outlook.roerdalen.nl
 outlook.sittard-geleen.nl
-outlook.wageningen.nl
 outlook2.kaagenbraassem.nl
 outlook3.denhaag.nl
 outsite.voerendaal.nl
@@ -10839,6 +10835,7 @@ participatiewebshop-test.emmen.nl
 participatiewebshop.emmen.nl
 partijvoordedieren.nijmegen.nl
 passbolt.terneuzen.nl
+passbolt.wageningen.nl
 passion.groningen.nl
 password.almere.nl
 passwordreset.almere.nl
@@ -12249,6 +12246,7 @@ secudoc.gemeentebeek.nl
 secudoc.montfoort.nl
 secudoc.nederbetuwe.nl
 secudoc.texel.nl
+secudoc.wageningen.nl
 secumailer.maasdriel.nl
 secure-t.sittard-geleen.nl
 secure-test.almere.nl
@@ -13006,6 +13004,7 @@ sportencultuur.gorinchem.nl
 sportief.hilversum.nl
 sportief.middendrenthe.nl
 sportlocaties.nieuwegein.nl
+sportlocatieverhuur.wageningen.nl
 sportloket.landvancuijk.nl
 sportsupport.almere.nl
 sportverhuur.amsterdam.nl
@@ -13505,7 +13504,6 @@ test-cmsintranet.meierijstad.nl
 test-cmsintranet.sittard-geleen.nl
 test-cmsintranet.sudwestfryslan.nl
 test-cmsintranet.velsen.nl
-test-cmsintranet.wageningen.nl
 test-cmsintranet.zeist.nl
 test-cmsjip.vijfheerenlanden.nl
 test-cmsnopnet.noordoostpolder.nl
@@ -13562,7 +13560,6 @@ test-intranet.midden-groningen.nl
 test-intranet.sittard-geleen.nl
 test-intranet.sudwestfryslan.nl
 test-intranet.velsen.nl
-test-intranet.wageningen.nl
 test-intranet.zeist.nl
 test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
@@ -14478,6 +14475,7 @@ vpn.terneuzen.nl
 vpn.veldhoven.nl
 vpn.voorschoten.nl
 vpn.waalre.nl
+vpn.wageningen.nl
 vpn.wassenaar.nl
 vpn.zoetermeer.nl
 vpn.zuid.amsterdam.nl

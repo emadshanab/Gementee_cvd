@@ -121,6 +121,7 @@ parkeren-test
 digikoppeling.test
 parkeren-acc
 piwik
+apps
 mks
 belastingloket
 samen
@@ -129,7 +130,6 @@ dtestloket
 subsidies
 siam
 financien
-apps
 bgt
 extranet
 connect.acceptatie
@@ -139,15 +139,14 @@ duurzaam
 bastion365
 fmreturn
 govroam
-cmsintranet
 belastingportaal
 osbacc
 afvalkalender
 qr
-test-intranet
 www.webmail
 filecap
 dtestmidoffice
+cmsintranet
 acc-pabc
 ftp
 simform
@@ -157,6 +156,7 @@ dali
 preprod
 sts
 gemeente
+test-intranet
 en
 preprod-mijn
 preprod-mijninkomen
@@ -166,7 +166,6 @@ mdm
 inloggen
 squit2go
 contentbeheer
-test-cmsintranet
 begroting
 web
 izaaksuite
@@ -176,6 +175,7 @@ owa
 meedoen
 mta-sts
 cryptshare
+test-cmsintranet
 zaaksysteem
 socialekaart
 bis
@@ -230,7 +230,6 @@ www.gemeenteraad
 mobile
 ro
 inproces.acceptatie
-outlook
 vth
 testloket
 mx1
@@ -264,6 +263,7 @@ citrix
 key2gbav
 archief
 topdesk
+outlook
 squit2020
 telewerken
 www.intranet
@@ -434,6 +434,7 @@ formulier-acc
 raadsinformatie
 e.openstad
 ibabs
+secudoc
 www.werkplek
 mylex
 mijn-acc
@@ -530,7 +531,6 @@ corsa-test
 gemeentewinkel
 hotspot
 mijnmobiel
-secudoc
 authenticatie
 tim
 testafspraken
@@ -1329,6 +1329,7 @@ adproxy
 dis4fin
 qmanage
 prefill-test
+passbolt
 digitalebelastingbalie-test
 qmatic
 zaaksysteem-acceptatie
@@ -6340,7 +6341,6 @@ webshop
 wsdl
 Snelbaliepp
 cloudtunnel
-passbolt
 rmm
 tijdregistratie
 tnz-msg-01
@@ -6910,6 +6910,7 @@ intranetprod
 parkeerbalie-test
 parkeerbalie
 siam-test
+sportlocatieverhuur
 test-belastingen
 ansvwl2015
 ansvwl2016
