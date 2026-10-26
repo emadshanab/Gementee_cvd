@@ -4,6 +4,8 @@ dali.wassenaar.nl
 en.wassenaar.nl
 felix.wassenaar.nl
 gemeentearchief.wassenaar.nl
+hybrid.wassenaar.nl
+iarchief.wassenaar.nl
 iburgerzaken.wassenaar.nl
 ibzpink.wassenaar.nl
 mail.wassenaar.nl
@@ -16,5 +18,8 @@ simform-preproductie.wassenaar.nl
 simform.wassenaar.nl
 vpn.wassenaar.nl
 wassenaar.nl
+woningbouwkaart.wassenaar.nl
 wsn-mail.wassenaar.nl
 www.wassenaar.nl
+zaaksysteem-acc.wassenaar.nl
+zaaksysteem.wassenaar.nl

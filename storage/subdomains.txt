@@ -6864,6 +6864,7 @@ hybrid.purmerend.nl
 hybrid.s-hertogenbosch.nl
 hybrid.sittard-geleen.nl
 hybrid.voorschoten.nl
+hybrid.wassenaar.nl
 hybrid.westmaasenwaal.nl
 hybrid.zwolle.nl
 hybrid1.ijsselstein.nl
@@ -6889,6 +6890,7 @@ iarchief.lochem.nl
 iarchief.noordwijk.nl
 iarchief.twenterand.nl
 iarchief.voorschoten.nl
+iarchief.wassenaar.nl
 iarchief.zutphen.nl
 iarchieftest.twenterand.nl
 ib.kampen.nl
@@ -15220,6 +15222,7 @@ woningbouwkaart.valkenswaard.nl
 woningbouwkaart.veldhoven.nl
 woningbouwkaart.vught.nl
 woningbouwkaart.waalre.nl
+woningbouwkaart.wassenaar.nl
 woningbouwkaart.weert.nl
 woningdossier.assen.nl
 woningzoeken.vlaardingen.nl
@@ -16588,6 +16591,7 @@ zaakloket.terschelling.nl
 zaakloket.vlieland.nl
 zaaksysteem-acc.meppel.nl
 zaaksysteem-acc.voorschoten.nl
+zaaksysteem-acc.wassenaar.nl
 zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl
 zaaksysteem-accept.beuningen.nl
@@ -16639,6 +16643,7 @@ zaaksysteem.tilburg.nl
 zaaksysteem.utrecht.nl
 zaaksysteem.venlo.nl
 zaaksysteem.voorschoten.nl
+zaaksysteem.wassenaar.nl
 zaaktest.tynaarlo.nl
 zaalhuur.borne.nl
 zaanlink.zaanstad.nl

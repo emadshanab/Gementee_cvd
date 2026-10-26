@@ -43,9 +43,9 @@ werkenbij
 belastingen
 gemeenteraad
 testeloket
+woningbouwkaart
 enterpriseenrollment
 adfs
-woningbouwkaart
 formulier
 pv
 ruimtelijkeplannen
@@ -78,8 +78,8 @@ podiumd-logs
 denkmee
 preprodbroker
 flowmailer-tracking
-simcms-open
 hybrid
+simcms-open
 connect
 acc-notificaties
 acc-objecten
@@ -166,6 +166,7 @@ mdm
 inloggen
 squit2go
 contentbeheer
+zaaksysteem
 begroting
 web
 izaaksuite
@@ -176,7 +177,6 @@ meedoen
 mta-sts
 cryptshare
 test-cmsintranet
-zaaksysteem
 socialekaart
 bis
 formulieren-test
@@ -186,6 +186,7 @@ woo
 obsurv
 gasten
 email
+iarchief
 smtp
 AutoDiscover
 jaarstukken
@@ -210,7 +211,6 @@ test-digikoppeling
 localhost
 byod
 uc
-iarchief
 sharefile
 contentbeheer.acceptatie
 zaken.acceptatie
@@ -784,6 +784,7 @@ tickets
 ews
 pda
 mijnhulp
+zaaksysteem-acc
 kadernota
 raadzaam
 digitalebelastingbalie
@@ -1265,7 +1266,6 @@ mstat
 smtp01
 apigw
 qr-test
-zaaksysteem-acc
 ggk-koppeling
 regieportaal
 zorg-acc
