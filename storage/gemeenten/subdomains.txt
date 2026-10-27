@@ -1,6 +1,7 @@
 1.hoorn.nl
 1221.hilversum.nl
 123-nonexistant-dnsjedi-456.voerendaal.nl
+123-nonexistant-dnsjedi-456.waterland.nl
 193-203-220-7.heerlen.nl
 193-203-220-9.heerlen.nl
 1etussenrapportage2019.financien.purmerend.nl
@@ -1371,6 +1372,7 @@ afspraken.zuidplas.nl
 afspraken.zwartewaterland.nl
 afspraken.zwolle.nl
 afspraken2.gorinchem.nl
+afsprakeng.waterland.nl
 afval.acc.denhaag.nl
 afval.amsterdam.nl
 afval.assen.nl
@@ -1556,6 +1558,7 @@ antix.overbetuwe.nl
 anva.vga.amsterdam.nl
 anvatest.vga.amsterdam.nl
 anwebintwl2008.waterland.nl
+anwebintwl2008m.waterland.nl
 any2info.deurne.nl
 anyconnect.heemskerk.nl
 anyconnect.leiden.nl
@@ -3363,6 +3366,7 @@ cca.veendam.nl
 cca.westerwolde.nl
 cctst.apeldoorn.nl
 cda.nijmegen.nl
+cda.waterland.nl
 cdn.oude-ijsselstreek.nl
 cdn1.tilburg.nl
 centraal-wonen.deventer.nl
@@ -3603,6 +3607,7 @@ cmsoo.westbetuwe.nl
 cmsoo.westervoort.nl
 cmsoo.zevenaar.nl
 cmsoo.zwolle.nl
+cmsoom.waterland.nl
 cmssamenatwork.stichtsevecht.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
@@ -3906,6 +3911,7 @@ dacceptatieloket.velsen.nl
 dacceptatieloket.waterland.nl
 dacceptatieloket.westvoorne.nl
 dacceptatieloket.zwolle.nl
+dacceptatieloketk.waterland.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -3937,6 +3943,7 @@ dacceptatiemidoffice.velsen.nl
 dacceptatiemidoffice.waterland.nl
 dacceptatiemidoffice.westvoorne.nl
 dacceptatiemidoffice.zwolle.nl
+dacceptatiemidoffices.waterland.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -4131,6 +4138,7 @@ denkmee.twenterand.nl
 denkmee.utrecht.nl
 denkmee.veenendaal.nl
 denkmee.venray.nl
+denkmee.waterland.nl
 denkmee.woerden.nl
 denkmee.wormerland.nl
 depot.haarlem.nl
@@ -4398,6 +4406,7 @@ digikoppelingentest.steenwijkerland.nl
 digikoppelingjnet-test.gemeentewesterveld.nl
 digikoppelingjnet.gemeentewesterveld.nl
 digikoppelingjnet.leeuwarden.nl
+digikoppelingm.waterland.nl
 digikoppelingtest.bernheze.org
 digikoppelingtest.heemskerk.nl
 digikoppelingtest.helmond.nl
@@ -4408,6 +4417,7 @@ digikoppelingtst.arnhem.nl
 digikoppelingtst.rheden.nl
 digikoppelingwl.test.waterland.nl
 digikoppelingwl.waterland.nl
+digikoppelingwly.waterland.nl
 digikoppelingwoz.schouwen-duiveland.nl
 digilevering-portaal.zwolle.nl
 digilevering.vaals.nl
@@ -4609,6 +4619,7 @@ dloket.velsen.nl
 dloket.waterland.nl
 dloket.westvoorne.nl
 dloket.zwolle.nl
+dloket7.waterland.nl
 dlokettest.capelleaandenijssel.nl
 dlokettest.krimpenaandenijssel.nl
 dm-tst.groningen.nl
@@ -4795,6 +4806,7 @@ dtestmidoffice.twenterand.nl
 dtestmidoffice.waterland.nl
 dtestmidoffice.westvoorne.nl
 dtestmidoffice.zwolle.nl
+dtestmidoffices.waterland.nl
 dtr-test.zutphen.nl
 dts-preprod.rotterdam.nl
 dts.rotterdam.nl
@@ -5090,6 +5102,7 @@ edienstenburgerzaken-test.zevenaar.nl
 edienstenburgerzaken-test.zoeterwoude.nl
 edienstenburgerzaken-test.zwijndrecht.nl
 edienstenburgerzaken-test3.voerendaal.nl
+edienstenburgerzaken-test3.waterland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -5227,6 +5240,8 @@ edienstenburgerzaken.zevenaar.nl
 edienstenburgerzaken.zoeterwoude.nl
 edienstenburgerzaken.zwijndrecht.nl
 edienstenburgerzaken3.voerendaal.nl
+edienstenburgerzaken3.waterland.nl
+edienstenburgerzakens.waterland.nl
 edienstenburgerzakenw.voerendaal.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
 edienstenmijninkomen-acceptatie.barendrecht.nl
@@ -5386,6 +5401,7 @@ email.heeze-leende.nl
 email.hellevoetsluis.nl
 email.mail.denkmee.amstelveen.nl
 email.mail.denkmee.kaagenbraassem.nl
+email.mail.denkmee.waterland.nl
 email.mail.doemee.gemeentebest.nl
 email.mail.participatie.aalsmeer.nl
 email.mail.samen.noordwijk.nl
@@ -6597,11 +6613,17 @@ gplan-app.veere.nl
 gplan.renkum.nl
 gplan.rheden.nl
 gpp-app-acc.woo-accp.rotterdam.nl
+gpp-app.acc.waterland.nl
 gpp-app.groningen.nl
+gpp-app.waterland.nl
 gpp-app.zaanstad.nl
+gpp-publicatiebank.acc.waterland.nl
 gpp-publicatiebank.groningen.nl
+gpp-publicatiebank.waterland.nl
 gpp-publicatiebank.zaanstad.nl
+gpp-zoeken.acc.waterland.nl
 gpp-zoeken.groningen.nl
+gpp-zoeken.waterland.nl
 gpp-zoeken.zaanstad.nl
 gps.apeldoorn.nl
 gpt.apeldoorn.nl
@@ -6634,6 +6656,7 @@ groningen.nl
 grooster.dalfsen.nl
 grooster.hoogeveen.nl
 grooster.oldebroek.nl
+groot.waterland.nl
 grootklooster.doemee.heemstede.nl
 growinggreencities.almere.nl
 gs01msn.meerssen.nl
@@ -8655,6 +8678,7 @@ m.lochem.nl
 m.nieuwkoop.nl
 m.utrecht.nl
 m.voorst.nl
+m.waterland.nl
 m1.delft.nl
 m1.rijswijk.nl
 m2.delft.nl
@@ -9532,6 +9556,7 @@ mirror.kampen.nl
 mis.waterland.nl
 misentry.roerdalen.nl
 misentry2.roerdalen.nl
+miss.waterland.nl
 mitel.voorst.nl
 mivbxsrvr.gorinchem.nl
 mivoig.veere.nl
@@ -10277,6 +10302,7 @@ open-test.nijmegen.nl
 open-zaak.cg-intern.acc.utrecht.nl
 open-zaak.cg-intern.ont.utrecht.nl
 open-zaak.ot.denhaag.nl
+open.acc.waterland.nl
 open.acc.woo.tiel.nl
 open.arnhem.nl
 open.baarn.nl
@@ -10344,6 +10370,7 @@ open.urk.nl
 open.utrecht.nl
 open.valkenburg.nl
 open.voorst.nl
+open.waterland.nl
 open.westmaasenwaal.nl
 open.wierden.nl
 open.woo.tiel.nl
@@ -11989,6 +12016,7 @@ ris.delft.nl
 ris.meerssen.nl
 ris.nieuwegein.nl
 ris.venlo.nl
+ris.waterland.nl
 ris.zundert.nl
 riv.apeldoorn.nl
 riviewer.apeldoorn.nl
@@ -15114,6 +15142,7 @@ wildcard.nijkerk.eu
 wildcard.nissewaard.nl
 wildcard.olst-wijhe.nl
 wildcard.pekela.nl
+wildcard.waterland.nl
 wilkommen.groningen.nl
 willkommen.groningen.nl
 wim2-acc.borne.nl
@@ -15587,6 +15616,7 @@ www.doemee.zwolle.nl
 www.doesburg.nl
 www.doetinchem.nl
 www.doewatmoet-acc.denhaag.nl
+www.domain-admin.waterland.nl
 www.dongen.nl
 www.dordrecht.nl
 www.drechterland.nl
@@ -15927,6 +15957,7 @@ www.lisse.nl
 www.live.groningen.nl
 www.lochem.nl
 www.logilink.peelenmaas.nl
+www.logilink001.waterland.nl
 www.login.gemeentebeek.nl
 www.login.haarlemmermeer.nl
 www.login.meerssen.nl
@@ -15936,6 +15967,7 @@ www.loketacpt.haarlem.nl
 www.loonopzand.nl
 www.lopik.nl
 www.losser.nl
+www.m.waterland.nl
 www.maasdriel.nl
 www.maassluis.nl
 www.mail.gemeentemaasgouw.nl
@@ -16173,6 +16205,7 @@ www.rhenen.nl
 www.ridderkerk.nl
 www.rijssen-holten.nl
 www.rijswijk.nl
+www.ris.waterland.nl
 www.roerdalen.nl
 www.roermond.nl
 www.rondkomen.test.subsites.leiden.nl
@@ -16476,6 +16509,7 @@ www.wijkbudgetypenburg.denhaag.nl
 www.wijkparkdelftlanden.emmen.nl
 www.wijkprofiel.rotterdam.nl
 www.wildcard.acceptatie.voorst.nl
+www.wildcard.waterland.nl
 www.wilkommen.groningen.nl
 www.willkommen.groningen.nl
 www.windopland.haarlemmermeer.nl
@@ -16483,6 +16517,7 @@ www.winkelen.deventer.nl
 www.winkelsteeg.nijmegen.nl
 www.winterswijk.nl
 www.wireless.peelenmaas.nl
+www.wlc01.waterland.nl
 www.wmoloket.heuvelrug.nl
 www.wmw-vvc02.westmaasenwaal.nl
 www.wob.denhaag.nl
@@ -16497,6 +16532,8 @@ www.woz-portaal-eemnes.baarn.nl
 www.woz-portaal.baarn.nl
 www.woz.kampen.nl
 www.woz.overbetuwe.nl
+www.www.m.waterland.nl
+www.www.www.m.waterland.nl
 www.www2.formulieren.haarlemmermeer.nl
 www.www2.testformulieren.haarlemmermeer.nl
 www.xential.haarlemmermeer.nl
@@ -16539,6 +16576,7 @@ www2.haarlemmermeer.nl
 www2.heusden.nl
 www2.noordoostpolder.nl
 www2.testformulieren.haarlemmermeer.nl
+www7.mis.waterland.nl
 wwwt.apeldoorn.nl
 wwwtest.beuningen.nl
 wwww.nijkerk.eu
