@@ -1799,6 +1799,7 @@ https://api.meldingen-acc.raalte.nl
 https://api.meldingen-acc.roermond.nl
 https://api.meldingen-acc.tiel.nl
 https://api.meldingen-acc.urk.nl
+https://api.meldingen-acc.weert.nl
 https://api.meldingen-acc.woensdrecht.nl
 https://api.meldingen-acc.zaanstad.nl
 https://api.meldingen-acc.zoeterwoude.nl
@@ -1849,6 +1850,7 @@ https://api.meldingen.tiel.nl
 https://api.meldingen.urk.nl
 https://api.meldingen.utrecht.nl
 https://api.meldingen.waadhoeke.nl
+https://api.meldingen.weert.nl
 https://api.meldingen.woensdrecht.nl
 https://api.meldingen.zaanstad.nl
 https://api.meldingen.zoeterwoude.nl
@@ -2045,6 +2047,7 @@ https://autodiscover.wij.groningen.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
 https://awmag.venlo.nl
+https://awmag.weert.nl
 https://awtunnel.nederweert.nl
 https://awtunnel.roermond.nl
 https://awtunnel.venlo.nl
@@ -4010,6 +4013,7 @@ https://fmreturn.onderzoek.tilburg.nl
 https://fmreturn.opmeer.nl
 https://fmreturn.peelenmaas.nl
 https://fmreturn.vijfheerenlanden.nl
+https://fmreturn.weert.nl
 https://fmreturn.westerwolde.nl
 https://fmreturn.zevenaar.nl
 https://fmreturn.zundert.nl
@@ -4752,7 +4756,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.weert.nl
 https://ibzpink.westbetuwe.nl
 https://ibzpink.westerkwartier.nl
 https://ibzpink.weststellingwerf.nl
@@ -5673,6 +5676,7 @@ https://meldingen-acc.raalte.nl
 https://meldingen-acc.roermond.nl
 https://meldingen-acc.tiel.nl
 https://meldingen-acc.urk.nl
+https://meldingen-acc.weert.nl
 https://meldingen-acc.woensdrecht.nl
 https://meldingen-acc.zaanstad.nl
 https://meldingen-acc.zoeterwoude.nl
@@ -5728,6 +5732,7 @@ https://meldingen.tiel.nl
 https://meldingen.urk.nl
 https://meldingen.utrecht.nl
 https://meldingen.waadhoeke.nl
+https://meldingen.weert.nl
 https://meldingen.woensdrecht.nl
 https://meldingen.zaanstad.nl
 https://meldingen.zoeterwoude.nl
@@ -7583,7 +7588,6 @@ https://secure.pijnacker-nootdorp.nl
 https://secure.sittard-geleen.nl
 https://secure.veendam.nl
 https://secure1.weert.nl
-https://secure1ev.weert.nl
 https://secure1t.weert.nl
 https://securenetwork.nijkerk.eu
 https://securetest.gemeentewestland.nl
@@ -7955,6 +7959,7 @@ https://stationsdistrict.acc.nijmegen.nl
 https://stationsdistrict.nijmegen.nl
 https://statistieken-intranet.enschede.nl
 https://statistieken.vlissingen.nl
+https://statistieken.weert.nl
 https://stats.intranet.delft.nl
 https://stats.purmerend.nl
 https://stats.utrecht.nl
@@ -8528,6 +8533,7 @@ https://verhalenroute.hollandskroon.nl
 https://verhuur.gemeente-oldambt.nl
 https://verhuur.heerlen.nl
 https://verhuur.pijnacker-nootdorp.nl
+https://verhuur.weert.nl
 https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
 https://verkeersbesluiten.denhaag.nl
@@ -8819,6 +8825,7 @@ https://werkplek.sudwestfryslan.nl
 https://werkplek.tholen.nl
 https://werkplek.venlo.nl
 https://werkplek.vlaardingen.nl
+https://werkplek.weert.nl
 https://werkplek.wierden.nl
 https://werkplek.wijdemeren.nl
 https://werkplek01.derondevenen.nl

@@ -25,13 +25,13 @@ waarmerk
 loket
 betalen
 eloket
-dkd
 werkplek
+dkd
 broker
 acc
 meldingen
-afspraak
 api.meldingen
+afspraak
 portal
 geo
 raad
@@ -47,10 +47,10 @@ woningbouwkaart
 enterpriseenrollment
 adfs
 formulier
-pv
-ruimtelijkeplannen
 api.meldingen-acc
 meldingen-acc
+pv
+ruimtelijkeplannen
 zaaksysteem-accept
 belastingbalie
 berichten
@@ -132,12 +132,12 @@ siam
 financien
 bgt
 extranet
+fmreturn
 connect.acceptatie
 vergunningintaker
 snelbalie
 duurzaam
 bastion365
-fmreturn
 govroam
 belastingportaal
 osbacc
@@ -309,6 +309,7 @@ afspraakmaken
 aeolus
 radius
 mijnsociaaldomein
+gateway
 wildcard
 idp
 midoffice
@@ -355,7 +356,6 @@ squit2020publiceren
 stemvan
 liquit
 beeldbankbeheer
-gateway
 sbc01
 stats
 bezoekersparkeren
@@ -526,6 +526,7 @@ mijnuitkering
 gbionline
 cca-acc
 cca
+verhuur
 corsa-prod
 corsa-test
 gemeentewinkel
@@ -732,7 +733,6 @@ gbionlinetest
 geoportaaltest
 squit2gotest
 geo-secure
-verhuur
 ketenportaal.acceptatie
 www.login
 post
@@ -1337,6 +1337,7 @@ zaaksysteem-acceptatie
 kofax
 egemeente
 szc
+statistieken
 123-nonexistant-dnsjedi-456
 edienstenburgerzaken-test3
 edienstenburgerzaken3
@@ -6801,7 +6802,6 @@ zoekpersoon
 mijnhulp-acc
 probeer-gemeenteraad
 simcms-gemeenteraad
-statistieken
 visnet-acc
 visnet
 acc.zorg

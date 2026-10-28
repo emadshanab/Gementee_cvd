@@ -1704,6 +1704,7 @@ api.meldingen-acc.raalte.nl
 api.meldingen-acc.roermond.nl
 api.meldingen-acc.tiel.nl
 api.meldingen-acc.urk.nl
+api.meldingen-acc.weert.nl
 api.meldingen-acc.woensdrecht.nl
 api.meldingen-acc.zaanstad.nl
 api.meldingen-acc.zoeterwoude.nl
@@ -1756,6 +1757,7 @@ api.meldingen.tiel.nl
 api.meldingen.urk.nl
 api.meldingen.utrecht.nl
 api.meldingen.waadhoeke.nl
+api.meldingen.weert.nl
 api.meldingen.woensdrecht.nl
 api.meldingen.zaanstad.nl
 api.meldingen.zoeterwoude.nl
@@ -5879,6 +5881,7 @@ fmreturn.onderzoek.tilburg.nl
 fmreturn.opmeer.nl
 fmreturn.peelenmaas.nl
 fmreturn.vijfheerenlanden.nl
+fmreturn.weert.nl
 fmreturn.westerwolde.nl
 fmreturn.zevenaar.nl
 fmreturn.zundert.nl
@@ -6124,6 +6127,7 @@ gateway.heerenveen.nl
 gateway.middendelfland.nl
 gateway.nederweert.nl
 gateway.venlo.nl
+gateway.weert.nl
 gb-app05.gemeenteberkelland.nl
 gb-servers.intra.gemert-bakel.nl
 gb-wls-04.gemert-bakel.nl
@@ -9038,6 +9042,7 @@ meldingen-acc.raalte.nl
 meldingen-acc.roermond.nl
 meldingen-acc.tiel.nl
 meldingen-acc.urk.nl
+meldingen-acc.weert.nl
 meldingen-acc.woensdrecht.nl
 meldingen-acc.zaanstad.nl
 meldingen-acc.zoeterwoude.nl
@@ -9098,6 +9103,7 @@ meldingen.tiel.nl
 meldingen.urk.nl
 meldingen.utrecht.nl
 meldingen.waadhoeke.nl
+meldingen.weert.nl
 meldingen.woensdrecht.nl
 meldingen.zaanstad.nl
 meldingen.zoeterwoude.nl
@@ -13188,6 +13194,7 @@ stationsdistrict.acc.nijmegen.nl
 stationsdistrict.nijmegen.nl
 statistieken-intranet.enschede.nl
 statistieken.vlissingen.nl
+statistieken.weert.nl
 stats.gorinchem.nl
 stats.hillegom.nl
 stats.intranet.delft.nl
@@ -14370,6 +14377,7 @@ verhuisformulieren.amsterdam.nl
 verhuur.gemeente-oldambt.nl
 verhuur.heerlen.nl
 verhuur.pijnacker-nootdorp.nl
+verhuur.weert.nl
 verhuursport.gorinchem.nl
 verhuursport.soest.nl
 verkeersbesluiten.denhaag.nl
@@ -15042,6 +15050,7 @@ werkplek.veldhoven.nl
 werkplek.venlo.nl
 werkplek.vlaardingen.nl
 werkplek.waalre.nl
+werkplek.weert.nl
 werkplek.wierden.nl
 werkplek.wijdemeren.nl
 werkplek.zwolle.nl
