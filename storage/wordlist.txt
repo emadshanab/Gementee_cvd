@@ -36,9 +36,9 @@ portal
 geo
 raad
 parkeren
+vpn
 iparticipatie
 test-ipa
-vpn
 werkenbij
 belastingen
 gemeenteraad
@@ -244,7 +244,6 @@ website
 _dmarc
 afval
 auth.openstad
-desktop
 openstad
 nieuwsbrief
 opendata
@@ -287,6 +286,7 @@ exchange
 mozardtest
 www.test
 applicaties
+desktop
 e-loket
 img.openstad
 admin.doemee
@@ -330,7 +330,6 @@ belastingbalie.acc
 mijngeldzaken
 www.openstad
 ns1
-sslvpn
 awmag
 beeldbank-bo
 intranetcms
@@ -384,6 +383,7 @@ belastingbalie-acc
 parkeervergunning
 aanmelden
 rooster
+sslvpn
 media
 meet
 test-formulier
@@ -782,7 +782,6 @@ hybrid1
 hybrid2
 digitaalloket
 baglv
-mijnsociaaldomein-acc
 lokettest
 tickets
 ews
@@ -1044,7 +1043,6 @@ meldingen.acceptatie
 vragenlijst
 mx
 allegro
-bijeenkomsten
 cmsoo.gemeente
 key2bag
 mijnsdv
@@ -1222,6 +1220,7 @@ tkoppelcorsa
 HTA
 belastingen.acc
 inloggen.belastingen.acc
+mijnsociaaldomein-acc
 geocortex
 idp-test
 monitor
@@ -3259,6 +3258,7 @@ api.participatiewebshop
 bars
 belastingloket.acc
 belastingloketacc
+bijeenkomsten
 digipoort
 doemee-test
 gbav
@@ -6968,9 +6968,10 @@ secure1t
 adviesraad
 fmreturn.kto
 www.adviesraad
-acceptatie.notarisportaal
 armoedepact
+dialup
 fileshare
+mijnwonen
 notarisportaal
 potjeswijzer
 selfserviceportal

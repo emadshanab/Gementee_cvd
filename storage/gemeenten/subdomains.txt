@@ -1025,7 +1025,6 @@ acceptatie.molenlanden.nl
 acceptatie.nederbetuwe.nl
 acceptatie.noardeast-fryslan.nl
 acceptatie.noordoostpolder.nl
-acceptatie.notarisportaal.westerkwartier.nl
 acceptatie.nunspeet.nl
 acceptatie.oegstgeest.nl
 acceptatie.oisterwijk.nl
@@ -3035,7 +3034,6 @@ biebaqua.utrecht.nl
 biebcgi.utrecht.nl
 bijeen.heusden.nl
 bijeenkomsten.emmen.nl
-bijeenkomsten.westerkwartier.nl
 bijlage.rucphen.nl
 bijmijindebuurt.gemeentewestland.nl
 bijveen-acc.veenendaal.nl
@@ -4183,7 +4181,6 @@ desktop.denhaag.nl
 desktop.lelystad.nl
 desktop.rucphen.nl
 desktop.tilburg.nl
-desktop.westerkwartier.nl
 desktop.winterswijk.nl
 desktop5.denhaag.nl
 destemvan.groningen.nl
@@ -4233,6 +4230,7 @@ dialin.assen.nl
 dialin.haarlem.nl
 dialin.peelenmaas.nl
 dialin.zwolle.nl
+dialup.westerkwartier.nl
 dicos-test.nissewaard.nl
 dict.amsterdam.nl
 diemen.nl
@@ -9483,7 +9481,6 @@ mijnsdv.zwolle.nl
 mijnshv.coevorden.nl
 mijnsociaaldomein-acc.koggenland.nl
 mijnsociaaldomein-acc.opmeer.nl
-mijnsociaaldomein-acc.westerkwartier.nl
 mijnsociaaldomein-test.losser.nl
 mijnsociaaldomein.gemeentesluis.nl
 mijnsociaaldomein.heerenveen.nl
@@ -9541,6 +9538,7 @@ mijnwijk.zwolle.nl
 mijnwijkteam.schagen.nl
 mijnwiz-test.geertruidenberg.nl
 mijnwiz.geertruidenberg.nl
+mijnwonen.westerkwartier.nl
 mijnwoonomgeving.deventer.nl
 mijnzaken-test.hengelo.nl
 mijnzaken.derondevenen.nl
@@ -11881,6 +11879,7 @@ raad.tiel.nl
 raad.tynaarlo.nl
 raad.velsen.nl
 raad.vijfheerenlanden.nl
+raad.westerkwartier.nl
 raad.westervoort.nl
 raad.wijkbijduurstede.nl
 raad.zevenaar.nl
@@ -13168,7 +13167,6 @@ sslvpn.arnhem.nl
 sslvpn.geertruidenberg.nl
 sslvpn.haarlem.nl
 sslvpn.houten.nl
-sslvpn.westerkwartier.nl
 sslvpn.wijchen.nl
 sslvpn2.ede.nl
 sso-sharefile.ede.nl
@@ -14558,6 +14556,7 @@ vpn.voorschoten.nl
 vpn.waalre.nl
 vpn.wageningen.nl
 vpn.wassenaar.nl
+vpn.westerkwartier.nl
 vpn.zoetermeer.nl
 vpn.zuid.amsterdam.nl
 vpn.zwartewaterland.nl
