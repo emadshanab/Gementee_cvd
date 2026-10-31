@@ -1,6 +1,6 @@
+http://acceptatiebelastingen.westervoort.nl
 http://autodiscover.westervoort.nl
-http://rosmolen.westervoort.nl
-https://acceptatiebelastingen.westervoort.nl
+https://acceptatiemijnzorg.westervoort.nl
 https://acceptatievergunningen.westervoort.nl
 https://beekenoord.westervoort.nl
 https://belastingen.westervoort.nl
@@ -12,6 +12,7 @@ https://formulieren-test.westervoort.nl
 https://formulieren.westervoort.nl
 https://kaarten.westervoort.nl
 https://loket.westervoort.nl
+https://mijnzorg.westervoort.nl
 https://mta-sts.raad.westervoort.nl
 https://mta-sts.westervoort.nl
 https://preprodbroker.westervoort.nl

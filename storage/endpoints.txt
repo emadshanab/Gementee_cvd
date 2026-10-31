@@ -32,6 +32,7 @@ http://acc.meldingen.amsterdam.nl
 http://acc.openstad.amsterdam.nl
 http://acc.schoon.amsterdam.nl
 http://acc.ton.amsterdam.nl
+http://acceptatiebelastingen.westervoort.nl
 http://achtkarspelen.nl
 http://adlibcollections.vlaardingen.nl
 http://adlibcollectionstest.vlaardingen.nl
@@ -564,7 +565,6 @@ http://renswoude.nl
 http://revoke.hilversum.nl
 http://rnm010.rotterdam.nl
 http://ro.brunssum.nl
-http://rosmolen.westervoort.nl
 http://rp.beverwijk.nl
 http://ruimtelijkeplannen.nuenen.nl
 http://ruimtelijkeplannen.sonenbreugel.nl
@@ -1472,9 +1472,9 @@ https://acceptatie.winterswijk.nl
 https://acceptatie.zoeterwoude.nl
 https://acceptatie.zundert.nl
 https://acceptatiebelastingen.duiven.nl
-https://acceptatiebelastingen.westervoort.nl
 https://acceptatiebelastingen.zevenaar.nl
 https://acceptatiemijnzorg.duiven.nl
+https://acceptatiemijnzorg.westervoort.nl
 https://acceptatievergunningen.duiven.nl
 https://acceptatievergunningen.westervoort.nl
 https://access.hethogeland.nl
@@ -6112,6 +6112,7 @@ https://mijnzorg.s-hertogenbosch.nl
 https://mijnzorg.simpelveld.nl
 https://mijnzorg.utrecht.nl
 https://mijnzorg.waalwijk.nl
+https://mijnzorg.westervoort.nl
 https://mijnzorg.wormerland.nl
 https://mijnzorgacc.oostzaan.nl
 https://mijnzorgacc.wormerland.nl

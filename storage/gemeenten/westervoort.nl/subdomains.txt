@@ -1,4 +1,5 @@
 acceptatiebelastingen.westervoort.nl
+acceptatiemijnzorg.westervoort.nl
 acceptatievergunningen.westervoort.nl
 afspraken.westervoort.nl
 ambacht.westervoort.nl
@@ -15,6 +16,7 @@ geerken.westervoort.nl
 hamersestraat.westervoort.nl
 kaarten.westervoort.nl
 loket.westervoort.nl
+mijnzorg.westervoort.nl
 mta-sts.raad.westervoort.nl
 mta-sts.westervoort.nl
 piwik.westervoort.nl

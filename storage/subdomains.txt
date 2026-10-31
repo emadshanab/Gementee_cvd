@@ -1076,6 +1076,7 @@ acceptatieloket.borne.nl
 acceptatieloket.dinkelland.nl
 acceptatiemidoffice.coevorden.nl
 acceptatiemijnzorg.duiven.nl
+acceptatiemijnzorg.westervoort.nl
 acceptatievergunningen.duiven.nl
 acceptatievergunningen.westervoort.nl
 access.hethogeland.nl
@@ -9579,6 +9580,7 @@ mijnzorg.s-hertogenbosch.nl
 mijnzorg.simpelveld.nl
 mijnzorg.utrecht.nl
 mijnzorg.waalwijk.nl
+mijnzorg.westervoort.nl
 mijnzorg.wormerland.nl
 mijnzorgacc.oostzaan.nl
 mijnzorgacc.wormerland.nl

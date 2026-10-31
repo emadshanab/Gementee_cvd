@@ -110,11 +110,11 @@ office-addin
 openzaak
 ita
 zac
+mijnzorg
 api.betalen
 cloudadapter
 klantcontact
 kaarten
-mijnzorg
 e
 portaal
 parkeren-test
@@ -1031,6 +1031,7 @@ forms-test
 www.remote
 www.zorgloket
 zmm
+acceptatiemijnzorg
 acceptatievergunningen
 www.acc.piwik
 betaal
@@ -3141,7 +3142,6 @@ test-dok
 test.afspraakmaken
 test.services
 kcv
-acceptatiemijnzorg
 duiven-checker-preprod
 duiven-checker
 clv
