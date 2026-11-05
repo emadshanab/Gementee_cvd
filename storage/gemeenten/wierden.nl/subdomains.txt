@@ -1,10 +1,11 @@
-dmz003024.wierden.nl
+autodiscover.wierden.nl
 eloket.wierden.nl
 felix.wierden.nl
 filecap.wierden.nl
 gemeentearchief.wierden.nl
 iburgerzaken.wierden.nl
 ibzpink.wierden.nl
+idp.wierden.nl
 intranet.wierden.nl
 iparticipatie.wierden.nl
 klantcontact.wierden.nl
@@ -16,8 +17,8 @@ preproductie.wierden.nl
 probeer.wierden.nl
 restore.wierden.nl
 simcms-open.wierden.nl
+simcms.wierden.nl
 simsite.wierden.nl
-sync.wierden.nl
 test-ipa.wierden.nl
 testeloket.wierden.nl
 werkplek.wierden.nl

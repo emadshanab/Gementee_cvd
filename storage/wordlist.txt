@@ -276,6 +276,7 @@ drop
 cloudadapter-prod
 handhaving
 m
+idp
 www.denkmee
 mijnzorg-acc
 www.acceptatie
@@ -311,7 +312,6 @@ aeolus
 radius
 mijnsociaaldomein
 gateway
-idp
 www.afspraken
 midoffice
 participatie
@@ -487,7 +487,6 @@ autorisatiebeheer-test
 djumaproxy
 kassaservice
 suite4burgerzaken
-sync
 uitwijk
 clicksfm
 testmijn
@@ -642,6 +641,7 @@ mycorsanxt
 ro-onlineprod
 adsync
 ssd
+sync
 test-eloket
 www.omgevingsvisie
 mbg
@@ -7182,7 +7182,6 @@ wvncmg
 www.smartdoc-wvn
 www.smartdoc-wvnacc
 www.test-digikoppeling
-dmz003024
 restore
 wrd131001
 cmsinternet-acc

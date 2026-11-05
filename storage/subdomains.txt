@@ -2342,6 +2342,7 @@ autodiscover.westerwolde.nl
 autodiscover.westmaasenwaal.nl
 autodiscover.weststellingwerf.nl
 autodiscover.westvoorne.nl
+autodiscover.wierden.nl
 autodiscover.wij.groningen.nl
 autodiscover.wijchen.nl
 autodiscover.wijdemeren.nl
@@ -4752,7 +4753,6 @@ dms.openzaak-ont.amsterdam.nl
 dms.openzaak-tst.amsterdam.nl
 dmst.noordoostpolder.nl
 dmz-websrv.achtkarspelen.nl
-dmz003024.wierden.nl
 dmzsvr02.winterswijk.nl
 dni.fa.smartdocuments.amsterdam.nl
 dni.smartdocuments.amsterdam.nl
@@ -7460,6 +7460,7 @@ idp.overbetuwe.nl
 idp.pijnacker-nootdorp.nl
 idp.velsen.nl
 idp.waddinxveen.nl
+idp.wierden.nl
 idrac1.ovh.gemeentebeek.nl
 idrac10.ovh.gemeentebeek.nl
 idrac2.ovh.gemeentebeek.nl
@@ -12847,6 +12848,7 @@ simcms.westerkwartier.nl
 simcms.westmaasenwaal.nl
 simcms.weststellingwerf.nl
 simcms.westvoorne.nl
+simcms.wierden.nl
 simcms.wijchen.nl
 simcms.winterswijk.nl
 simcms.woensdrecht.nl
@@ -13628,7 +13630,6 @@ swt.zaanstad.nl
 sync.brunssum.nl
 sync.landgraaf.nl
 sync.nederbetuwe.nl
-sync.wierden.nl
 sync01.oa.amsterdam.nl
 sync1.test.subsites.leiden.nl
 sync2.test.subsites.leiden.nl
