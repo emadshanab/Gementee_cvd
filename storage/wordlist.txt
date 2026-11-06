@@ -267,6 +267,7 @@ topdesk
 outlook
 squit2020
 telewerken
+afspraakmaken
 www.intranet
 kcc
 mx2
@@ -307,7 +308,6 @@ publicaties
 internetafspraken
 bestanden
 squit2020.acceptatie
-afspraakmaken
 aeolus
 radius
 mijnsociaaldomein
@@ -378,6 +378,7 @@ mail1
 ns
 wion
 atlas
+app
 beheer
 belastingbalie-acc
 parkeervergunning
@@ -451,7 +452,6 @@ test-zaakloket
 zaakloket
 2secure
 aovpn
-app
 assets
 cms.openstad
 dev

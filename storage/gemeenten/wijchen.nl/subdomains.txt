@@ -1,3 +1,5 @@
+afspraakmaken.wijchen.nl
+app.wijchen.nl
 autodiscover.wijchen.nl
 data-test.wijchen.nl
 data.wijchen.nl

@@ -1611,6 +1611,7 @@ https://afspraakmaken.dronten.nl
 https://afspraakmaken.enschede.nl
 https://afspraakmaken.losser.nl
 https://afspraakmaken.rheden.nl
+https://afspraakmaken.wijchen.nl
 https://afspraakmakenenschede.losser.nl
 https://afspraakmakenenschedetest.losser.nl
 https://afspraakmakentest.enschede.nl
@@ -4829,6 +4830,7 @@ https://iburgerzaken.westbetuwe.nl
 https://iburgerzaken.westerkwartier.nl
 https://iburgerzaken.weststellingwerf.nl
 https://iburgerzaken.wierden.nl
+https://iburgerzaken.wijchen.nl
 https://iburgerzaken.wijdemeren.nl
 https://iburgerzaken.woensdrecht.nl
 https://iburgerzaken.zaltbommel.nl

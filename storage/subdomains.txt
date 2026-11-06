@@ -1323,6 +1323,7 @@ afspraakmaken.gemert-bakel.nl
 afspraakmaken.losser.nl
 afspraakmaken.renkum.nl
 afspraakmaken.rheden.nl
+afspraakmaken.wijchen.nl
 afspraakmaken.zoetermeer.nl
 afspraakmakenenschede.losser.nl
 afspraakmakenenschedetest.losser.nl
@@ -1884,6 +1885,7 @@ app.meedoen.venray.nl
 app.meldingen.amsterdam.nl
 app.overbetuwe.nl
 app.velsen.nl
+app.wijchen.nl
 app.woo.tiel.nl
 app.woo.westbetuwe.nl
 app1-test.nijmegen.nl
