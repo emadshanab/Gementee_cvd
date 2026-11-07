@@ -1,4 +1,4 @@
-afspraak.wijdemeren.nl
+ad.wijdemeren.nl
 api.betalen.wijdemeren.nl
 autodiscover.wijdemeren.nl
 belastingbalie-acc.wijdemeren.nl
@@ -6,7 +6,6 @@ belastingbalie.wijdemeren.nl
 betalen.wijdemeren.nl
 broker.wijdemeren.nl
 cloudconnector.wijdemeren.nl
-cmsinternet-acc.wijdemeren.nl
 cmsintranet-acc.wijdemeren.nl
 cmsintranet.wijdemeren.nl
 digikoppeling.wijdemeren.nl
@@ -19,11 +18,14 @@ intranet.wijdemeren.nl
 kennisbank.wijdemeren.nl
 mail.wijdemeren.nl
 mailings.wijdemeren.nl
+meldingen-acc.wijdemeren.nl
+meldingen.wijdemeren.nl
 ontheffingen.wijdemeren.nl
 preprod-formulieren.wijdemeren.nl
 preprodbroker.wijdemeren.nl
-squit2go.wijdemeren.nl
+remote.wijdemeren.nl
 support.wijdemeren.nl
+wdm-geo1.ad.wijdemeren.nl
 werkplek.wijdemeren.nl
 wijdemeren.nl
 www.wijdemeren.nl

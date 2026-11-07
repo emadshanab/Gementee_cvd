@@ -543,6 +543,7 @@ http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://pre-simform.houten.nl
 http://preprod-broker.buren.nl
+http://preprodbroker.wijdemeren.nl
 http://preproductie.beekdaelen.nl
 http://preproductie.beuningen.nl
 http://preproductie.cranendonck.nl
@@ -2817,8 +2818,6 @@ https://cmsdok.dronten.nl
 https://cmshofnet.coevorden.nl
 https://cmshuisnet.nieuwegein.nl
 https://cmshuisnettest.nieuwegein.nl
-https://cmsinternet-acc.wijdemeren.nl
-https://cmsintranet-acc.wijdemeren.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsintranet.gemeentestein.nl
 https://cmsintranet.gooisemeren.nl
@@ -4858,7 +4857,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.wijdemeren.nl
 https://ibzpink.woensdrecht.nl
 https://ibzpink.zaltbommel.nl
 https://ibzpink.zeist.nl
@@ -5020,7 +5018,6 @@ https://intranet-acc.delft.nl
 https://intranet-acc.hoorn.nl
 https://intranet-acc.landvancuijk.nl
 https://intranet-acc.terneuzen.nl
-https://intranet-acc.wijdemeren.nl
 https://intranet-cms.bernheze.org
 https://intranet-ot.tilburg.nl
 https://intranet-oud.gemeentewestland.nl
@@ -5793,6 +5790,7 @@ https://meldingen-acc.tiel.nl
 https://meldingen-acc.urk.nl
 https://meldingen-acc.weert.nl
 https://meldingen-acc.westbetuwe.nl
+https://meldingen-acc.wijdemeren.nl
 https://meldingen-acc.woensdrecht.nl
 https://meldingen-acc.zaanstad.nl
 https://meldingen-acc.zoeterwoude.nl
@@ -5850,6 +5848,7 @@ https://meldingen.utrecht.nl
 https://meldingen.waadhoeke.nl
 https://meldingen.weert.nl
 https://meldingen.westbetuwe.nl
+https://meldingen.wijdemeren.nl
 https://meldingen.woensdrecht.nl
 https://meldingen.zaanstad.nl
 https://meldingen.zoeterwoude.nl
@@ -7308,7 +7307,6 @@ https://preprodbroker.venray.nl
 https://preprodbroker.voorst.nl
 https://preprodbroker.westerkwartier.nl
 https://preprodbroker.westervoort.nl
-https://preprodbroker.wijdemeren.nl
 https://preprodbroker.zevenaar.nl
 https://preproddigidmachtigen.nissewaard.nl
 https://preprodformulieren.huizen.nl
@@ -8074,7 +8072,6 @@ https://squit2020.test.winterswijk.nl
 https://squit2020.winterswijk.nl
 https://squit2020publiceren.winterswijk.nl
 https://squit2go.valkenburg.nl
-https://squit2go.wijdemeren.nl
 https://squitxo-test.schagen.nl
 https://squitxo.schagen.nl
 https://ssdbeheer-acc.hoorn.nl

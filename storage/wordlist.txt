@@ -31,8 +31,8 @@ meldingen
 broker
 acc
 api.meldingen
-afspraak
 portal
+afspraak
 geo
 raad
 parkeren
@@ -43,12 +43,12 @@ werkenbij
 belastingen
 gemeenteraad
 testeloket
+meldingen-acc
 woningbouwkaart
 enterpriseenrollment
 formulier
 adfs
 api.meldingen-acc
-meldingen-acc
 pv
 ruimtelijkeplannen
 zaaksysteem-accept
@@ -58,10 +58,10 @@ dacceptatiemidoffice
 dloket
 data
 openpdc
+remote
 dacceptatieloket
 openpub
 enterpriseregistration
-remote
 dmidoffice
 cmsoo
 loket.acceptatie
@@ -165,7 +165,6 @@ www.doemee
 micollab
 mdm
 inloggen
-squit2go
 contentbeheer
 zaaksysteem
 begroting
@@ -174,6 +173,7 @@ izaaksuite
 snelbaliepp
 owa
 meedoen
+squit2go
 mta-sts
 cryptshare
 test-cmsintranet
@@ -7184,8 +7184,9 @@ www.smartdoc-wvnacc
 www.test-digikoppeling
 restore
 wrd131001
-cmsinternet-acc
+ad
 cmsintranet-acc
+wdm-geo1.ad
 plek
 vmjboss01.gem-dom
 Squit2020publiceren

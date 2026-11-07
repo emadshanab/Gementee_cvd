@@ -1142,6 +1142,7 @@ activesync.amersfoort.nl
 activesync.rhenen.nl
 activesync.sittard-geleen.nl
 activiteiten.amsterdam.nl
+ad.wijdemeren.nl
 ad4m6ajpu5f1nhb69kp4gnaomel3gffl.westvoorne.nl
 adccallback.ovh.gemeentebeek.nl
 addin.schrijfkader.extranet.montferland.info
@@ -1311,7 +1312,6 @@ afspraak.vijfheerenlanden.nl
 afspraak.vlaardingen.nl
 afspraak.waalwijk.nl
 afspraak.wageningen.nl
-afspraak.wijdemeren.nl
 afspraak.woudenberg.nl
 afspraak.zaltbommel.nl
 afspraak.zandvoort.nl
@@ -3635,7 +3635,6 @@ cmshuisnettest.nieuwegein.nl
 cmsids-test.smallingerland.nl
 cmsids.smallingerland.nl
 cmsinhuiz.huizen.nl
-cmsinternet-acc.wijdemeren.nl
 cmsintranet-acc.wijdemeren.nl
 cmsintranet.edam-volendam.nl
 cmsintranet.etten-leur.nl
@@ -9185,6 +9184,7 @@ meldingen-acc.tiel.nl
 meldingen-acc.urk.nl
 meldingen-acc.weert.nl
 meldingen-acc.westbetuwe.nl
+meldingen-acc.wijdemeren.nl
 meldingen-acc.woensdrecht.nl
 meldingen-acc.zaanstad.nl
 meldingen-acc.zoeterwoude.nl
@@ -9247,6 +9247,7 @@ meldingen.utrecht.nl
 meldingen.waadhoeke.nl
 meldingen.weert.nl
 meldingen.westbetuwe.nl
+meldingen.wijdemeren.nl
 meldingen.woensdrecht.nl
 meldingen.zaanstad.nl
 meldingen.zoeterwoude.nl
@@ -12147,6 +12148,7 @@ remote.schagen.nl
 remote.waalwijk.nl
 remote.westmaasenwaal.nl
 remote.westvoorne.nl
+remote.wijdemeren.nl
 remote.winterswijk.nl
 remote.zaanstad.nl
 remote.zoetermeer.nl
@@ -13282,7 +13284,6 @@ squit2go.oldenzaal.nl
 squit2go.purmerend.nl
 squit2go.twenterand.nl
 squit2go.valkenburg.nl
-squit2go.wijdemeren.nl
 squit2goprod.gemeentehw.nl
 squit2gotest-backoffice.enschede.nl
 squit2gotest.enschede.nl
@@ -14902,6 +14903,7 @@ wbs003.assen.nl
 wbs004.assen.nl
 wcf.middendelfland.nl
 wcs.amersfoort.nl
+wdm-geo1.ad.wijdemeren.nl
 wdm01.gooisemeren.nl
 wdvggm.waddinxveen.nl
 web.alblasserdam.nl
