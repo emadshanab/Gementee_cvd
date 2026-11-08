@@ -2348,6 +2348,7 @@ autodiscover.wierden.nl
 autodiscover.wij.groningen.nl
 autodiscover.wijchen.nl
 autodiscover.wijdemeren.nl
+autodiscover.wijkbijduurstede.nl
 autodiscover.winterswijk.nl
 autodiscover.zaltbommel.nl
 autodiscover.zeist.nl
@@ -6283,6 +6284,7 @@ geldwijzer.zaanstad.nl
 geldzaken.leiden.nl
 geldzaken.loonopzand.nl
 gelukkignieuwjaar.zwolle.nl
+gem-dom.wijkbijduurstede.nl
 gem.nunspeet.nl
 gem.overbetuwe.nl
 gemalen.smallingerland.nl
@@ -16902,6 +16904,7 @@ zaaksysteem-accept.tilburg.nl
 zaaksysteem-accept.vlaardingen.nl
 zaaksysteem-accept.voerendaal.nl
 zaaksysteem-accept.waalre.nl
+zaaksysteem-accept.wijkbijduurstede.nl
 zaaksysteem-accept.zaltbommel.nl
 zaaksysteem-accept.zutphen.nl
 zaaksysteem-acceptatie.tilburg.nl

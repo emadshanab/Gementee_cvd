@@ -292,6 +292,7 @@ http://autodiscover.westvoorne.nl
 http://autodiscover.wierden.nl
 http://autodiscover.wijchen.nl
 http://autodiscover.wijdemeren.nl
+http://autodiscover.wijkbijduurstede.nl
 http://autodiscover.winterswijk.nl
 http://autodiscover.zaltbommel.nl
 http://autodiscover.zeist.nl
@@ -9817,6 +9818,7 @@ https://zaaksysteem-accept.tilburg.nl
 https://zaaksysteem-accept.vlaardingen.nl
 https://zaaksysteem-accept.voerendaal.nl
 https://zaaksysteem-accept.waalre.nl
+https://zaaksysteem-accept.wijkbijduurstede.nl
 https://zaaksysteem-accept.zaltbommel.nl
 https://zaaksysteem-accept.zutphen.nl
 https://zaaksysteem-acceptatie.tilburg.nl

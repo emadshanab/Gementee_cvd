@@ -1,7 +1,9 @@
 _autodiscover._tcp.wijkbijduurstede.nl
+autodiscover.wijkbijduurstede.nl
 burgerzaken.wijkbijduurstede.nl
 edienstenburgerzaken-test.wijkbijduurstede.nl
 edienstenburgerzaken.wijkbijduurstede.nl
+gem-dom.wijkbijduurstede.nl
 geo.wijkbijduurstede.nl
 intranet.wijkbijduurstede.nl
 makelaar.wijkbijduurstede.nl
@@ -14,3 +16,4 @@ waarmerk.wijkbijduurstede.nl
 webmail.wijkbijduurstede.nl
 wijkbijduurstede.nl
 www.wijkbijduurstede.nl
+zaaksysteem-accept.wijkbijduurstede.nl
