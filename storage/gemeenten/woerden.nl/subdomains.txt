@@ -1,4 +1,6 @@
 access.woerden.nl
+afasoutsite.woerden.nl
+autodiscover.woerden.nl
 belastingloket.woerden.nl
 denkmee.woerden.nl
 edienstenburgerzaken-test.woerden.nl
@@ -8,6 +10,7 @@ geoportaal.woerden.nl
 geoxchange-prod.woerden.nl
 geoxchange-test.woerden.nl
 intranet.woerden.nl
+open.woerden.nl
 osb.woerden.nl
 osbacc.woerden.nl
 qr.woerden.nl
@@ -15,8 +18,11 @@ radius.woerden.nl
 relay.woerden.nl
 relay2.woerden.nl
 snelbalie.woerden.nl
+vpn.woerden.nl
+waarmerk.woerden.nl
 werk.woerden.nl
 werkenbij.woerden.nl
+woerden-rg-pinkepad.woerden.nl
 woerden.nl
-www.denkmee.woerden.nl
+www.werkenbij.woerden.nl
 www.woerden.nl

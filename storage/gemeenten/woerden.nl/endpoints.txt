@@ -1,10 +1,12 @@
-http://www.denkmee.woerden.nl
+http://autodiscover.woerden.nl
+https://afasoutsite.woerden.nl
 https://belastingloket.woerden.nl
-https://denkmee.woerden.nl
 https://edienstenburgerzaken-test.woerden.nl
 https://edienstenburgerzaken.woerden.nl
 https://gemeenteraad.woerden.nl
 https://intranet.woerden.nl
+https://open.woerden.nl
 https://werkenbij.woerden.nl
 https://woerden.nl
+https://www.werkenbij.woerden.nl
 https://www.woerden.nl

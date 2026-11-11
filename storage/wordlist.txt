@@ -20,8 +20,8 @@ felix
 open
 probeer
 test
-formulieren
 waarmerk
+formulieren
 loket
 betalen
 eloket
@@ -278,12 +278,12 @@ cloudadapter-prod
 handhaving
 m
 idp
-www.denkmee
 www.afspraken
 mijnzorg-acc
 www.acceptatie
 documenten
 vergunningintaker-preprod
+www.werkenbij
 academie
 melddesk
 cms
@@ -313,6 +313,7 @@ aeolus
 radius
 mijnsociaaldomein
 gateway
+www.denkmee
 midoffice
 participatie
 geovisia
@@ -321,7 +322,6 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
-www.werkenbij
 makelaar
 belastingen-acc
 evenementen
@@ -7253,9 +7253,11 @@ zakeny.acceptatie
 PKIoverheid
 goedendag
 site2008
+afasoutsite
 geoxchange-prod
 geoxchange-test
 relay2
+woerden-rg-pinkepad
 sat
 uat
 acc-loket
