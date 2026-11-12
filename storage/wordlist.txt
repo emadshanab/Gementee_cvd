@@ -173,6 +173,7 @@ izaaksuite
 snelbaliepp
 owa
 meedoen
+smtp
 squit2go
 mta-sts
 cryptshare
@@ -187,7 +188,6 @@ obsurv
 gasten
 email
 iarchief
-smtp
 AutoDiscover
 jaarstukken
 bor
@@ -580,6 +580,7 @@ edienstverlening-preprod
 edienstverlening
 subsidiebeheer
 subsidieloket
+brandweer
 mijn-test
 3d
 english
@@ -806,7 +807,6 @@ test-subsidiebeheer
 test-subsidieloket
 api-meldingen.acc
 api-meldingen
-brandweer
 enquete
 ids
 join

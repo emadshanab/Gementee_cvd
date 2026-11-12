@@ -1,4 +1,5 @@
 afspraken.wormerland.nl
+brandweer.wormerland.nl
 denkmee.wormerland.nl
 digikoppeling-test.wormerland.nl
 digikoppeling.wormerland.nl
@@ -12,6 +13,7 @@ mijnzorgacc.wormerland.nl
 opentunnel.wormerland.nl
 psiam.wormerland.nl
 sip.wormerland.nl
+smtp.wormerland.nl
 tloket.wormerland.nl
 tsiam.wormerland.nl
 wormerland.nl
