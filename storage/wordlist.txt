@@ -67,12 +67,12 @@ cmsoo
 loket.acceptatie
 osb
 acc-podiumd-logs
+denkmee
 omgevingsvisie
 kaart
 doemee
 podiumd-logs
 cloudadapter-test
-denkmee
 digikoppeling-test
 login
 beeldbank
@@ -128,6 +128,7 @@ samen
 pki
 dtestloket
 subsidies
+duurzaam
 siam
 financien
 bgt
@@ -136,7 +137,6 @@ fmreturn
 connect.acceptatie
 vergunningintaker
 snelbalie
-duurzaam
 bastion365
 govroam
 www.webmail
@@ -278,6 +278,7 @@ cloudadapter-prod
 handhaving
 m
 idp
+www.denkmee
 www.afspraken
 mijnzorg-acc
 www.acceptatie
@@ -313,7 +314,6 @@ aeolus
 radius
 mijnsociaaldomein
 gateway
-www.denkmee
 midoffice
 participatie
 geovisia
