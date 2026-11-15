@@ -264,6 +264,7 @@ www.jongin
 citrix
 key2gbav
 archief
+publicaties
 topdesk
 outlook
 squit2020
@@ -305,7 +306,6 @@ data-test
 mam
 xential
 ris
-publicaties
 internetafspraken
 bestanden
 squit2020.acceptatie
@@ -1261,6 +1261,7 @@ alwayson
 gwo
 welstandsnota
 testwebsite
+secumailer
 cloudconnector.prod
 fw
 uitvaart
@@ -4952,7 +4953,6 @@ api-test-gemnet
 lois-acc
 lois
 mijnsociaaldomein-test
-secumailer
 byspy
 cloudconnector.acc
 energiethuis.eba
@@ -7300,6 +7300,7 @@ zamo-beheer
 zamo
 ceo
 mijnhulp-test
+secufiler
 bam
 bouwdossier
 code.intern

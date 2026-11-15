@@ -338,6 +338,7 @@ http://cardsonline.acc.intra.amsterdam.nl
 http://cardsonline.intra.amsterdam.nl
 http://centrumbegroot.amsterdam.nl
 http://centrumimpuls.geldrop-mierlo.nl
+http://ceo.zaltbommel.nl
 http://cjg.scherpenzeel.nl
 http://cloudflare.amsterdam.nl
 http://cms-internoss-test.oss.nl
@@ -4868,7 +4869,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.zaltbommel.nl
 https://ibzpink.zeist.nl
 https://ibzpink.zoetermeer.nl
 https://ibzpink.zundert.nl
@@ -7422,6 +7422,7 @@ https://publicaties.maasdriel.nl
 https://publicaties.nissewaard.nl
 https://publicaties.s-hertogenbosch.nl
 https://publicaties.stadskanaal.nl
+https://publicaties.zaltbommel.nl
 https://publicmedia.meierijstad.nl
 https://publiek-id-test.gouda.nl
 https://publiek-id.gouda.nl
@@ -7731,7 +7732,9 @@ https://secudoc.montfoort.nl
 https://secudoc.nederbetuwe.nl
 https://secudoc.texel.nl
 https://secudoc.wageningen.nl
+https://secufiler.zaltbommel.nl
 https://secumailer.maasdriel.nl
+https://secumailer.zaltbommel.nl
 https://secure-t.sittard-geleen.nl
 https://secure-test.almere.nl
 https://secure.acc.denhaag.nl

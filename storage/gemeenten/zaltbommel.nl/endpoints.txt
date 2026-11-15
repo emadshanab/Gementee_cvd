@@ -1,11 +1,14 @@
 http://autodiscover.zaltbommel.nl
+http://ceo.zaltbommel.nl
 https://iburgerzaken.zaltbommel.nl
-https://ibzpink.zaltbommel.nl
 https://mijn.zaltbommel.nl
 https://mijnhulp-test.zaltbommel.nl
 https://mijnhulp.zaltbommel.nl
 https://prefill-test.zaltbommel.nl
 https://prefill.zaltbommel.nl
+https://publicaties.zaltbommel.nl
+https://secufiler.zaltbommel.nl
+https://secumailer.zaltbommel.nl
 https://www.zaltbommel.nl
 https://zaaksysteem-accept.zaltbommel.nl
 https://zaltbommel.nl

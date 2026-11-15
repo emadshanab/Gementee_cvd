@@ -11881,6 +11881,7 @@ publicaties.nissewaard.nl
 publicaties.rekenkamer.amsterdam.nl
 publicaties.s-hertogenbosch.nl
 publicaties.stadskanaal.nl
+publicaties.zaltbommel.nl
 publicmedia.meierijstad.nl
 publicroam.beekdaelen.nl
 publicroam.brunssum.nl
@@ -12488,7 +12489,9 @@ secudoc.montfoort.nl
 secudoc.nederbetuwe.nl
 secudoc.texel.nl
 secudoc.wageningen.nl
+secufiler.zaltbommel.nl
 secumailer.maasdriel.nl
+secumailer.zaltbommel.nl
 secure-t.sittard-geleen.nl
 secure-test.almere.nl
 secure-test.delft.nl
@@ -12577,6 +12580,7 @@ secure.waalre.nl
 secure.weert.nl
 secure.westmaasenwaal.nl
 secure.westvoorne.nl
+secure.zaltbommel.nl
 secure.zwartewaterland.nl
 secure1.gulpen-wittem.nl
 secure1.weert.nl
