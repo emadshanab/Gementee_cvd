@@ -5798,6 +5798,7 @@ https://meldingen-acc.westbetuwe.nl
 https://meldingen-acc.wijdemeren.nl
 https://meldingen-acc.woensdrecht.nl
 https://meldingen-acc.zaanstad.nl
+https://meldingen-acc.zandvoort.nl
 https://meldingen-acc.zoeterwoude.nl
 https://meldingen-acc.zundert.nl
 https://meldingen.aaenhunze.nl
@@ -5856,6 +5857,7 @@ https://meldingen.westbetuwe.nl
 https://meldingen.wijdemeren.nl
 https://meldingen.woensdrecht.nl
 https://meldingen.zaanstad.nl
+https://meldingen.zandvoort.nl
 https://meldingen.zoeterwoude.nl
 https://meldingen.zundert.nl
 https://meldingenkust.acc.denhaag.nl
