@@ -786,6 +786,7 @@ hybrid1
 hybrid2
 digitaalloket
 baglv
+liber
 lokettest
 tickets
 wonen
@@ -1062,6 +1063,7 @@ afspraakmakentest
 mijn-acceptatie
 parkeervergunningtest
 zoek
+onlinedorpsgesprek
 financieelportaal
 intake
 digiforms
@@ -1220,7 +1222,6 @@ brk
 servicegatewayt
 www.woz
 parkeernormen
-liber
 pcorsa
 pkoppelcorsa
 squit2020.test
@@ -3337,7 +3338,6 @@ dktstdn
 sstpvpn
 whatsepe
 www.filecap
-onlinedorpsgesprek
 Edienstenburgerzaken-test
 Edienstenburgerzaken
 archief-yell-cms
@@ -7349,6 +7349,8 @@ www.docu
 www.handhaving
 www.owncloud
 www.thuis
+mycorsanxt-prod
+mycorsanxt-test
 acctest
 zs-accept
 aiz

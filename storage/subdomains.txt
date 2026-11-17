@@ -1440,7 +1440,6 @@ afspraken.westervoort.nl
 afspraken.westerwolde.nl
 afspraken.winterswijk.nl
 afspraken.wormerland.nl
-afspraken.zeewolde.nl
 afspraken.zevenaar.nl
 afspraken.zuidplas.nl
 afspraken.zwartewaterland.nl
@@ -8603,6 +8602,7 @@ lgfpki.landgraaf.nl
 liber-test.kerkrade.nl
 liber.kerkrade.nl
 liber.landgraaf.nl
+liber.zeewolde.nl
 liberaal.nijmegen.nl
 liberportaalprod.kerkrade.nl
 liberportaaltest.kerkrade.nl
@@ -9934,6 +9934,8 @@ mx3.valkenburg.nl
 my-lex.hofvantwente.nl
 my-lex.horstaandemaas.nl
 my-lex.venray.nl
+mycorsanxt-prod.zeewolde.nl
+mycorsanxt-test.zeewolde.nl
 mycorsanxt.brielle.nl
 mycorsanxt.derondevenen.nl
 mycorsanxt.nissewaard.nl
@@ -10452,6 +10454,7 @@ online.gooisemeren.nl
 online.leiden.nl
 online.nijmegen.nl
 onlinedorpsgesprek.ermelo.nl
+onlinedorpsgesprek.zeewolde.nl
 onlineregelen.alphenaandenrijn.nl
 onlineregelen.kaagenbraassem.nl
 onlineregelenstaging.alphenaandenrijn.nl

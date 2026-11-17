@@ -1653,7 +1653,6 @@ https://afspraken.veendam.nl
 https://afspraken.weert.nl
 https://afspraken.westerwolde.nl
 https://afspraken.winterswijk.nl
-https://afspraken.zeewolde.nl
 https://afspraken.zevenaar.nl
 https://afspraken.zwolle.nl
 https://afspraken2.gorinchem.nl
@@ -5518,6 +5517,7 @@ https://leudal-checker.leudal.nl
 https://leudal.nl
 https://leusden.nl
 https://leverancier.gemeenteberkelland.nl
+https://liber.zeewolde.nl
 https://life.landvancuijk.nl
 https://lifecoolsquare.groningen.nl
 https://linden.landvancuijk.nl
@@ -6292,6 +6292,8 @@ https://mx01.haarlem.nl
 https://my-lex.hofvantwente.nl
 https://my-lex.horstaandemaas.nl
 https://my-lex.venray.nl
+https://mycorsanxt-prod.zeewolde.nl
+https://mycorsanxt-test.zeewolde.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mylex.gemeentesluis.nl
@@ -6599,6 +6601,7 @@ https://online.gooisemeren.nl
 https://online.leiden.nl
 https://online.nijmegen.nl
 https://onlinedorpsgesprek.ermelo.nl
+https://onlinedorpsgesprek.zeewolde.nl
 https://onlineregelen.alphenaandenrijn.nl
 https://onlineregelen.kaagenbraassem.nl
 https://onlineregelenstaging.alphenaandenrijn.nl
