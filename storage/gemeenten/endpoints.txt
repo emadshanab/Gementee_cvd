@@ -669,7 +669,6 @@ http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sittard-geleen.nl
 http://test-intranet.sudwestfryslan.nl
-http://test-intranet.zeist.nl
 http://test-jip.vijfheerenlanden.nl
 http://test-keycloak-admin.rotterdam.nl
 http://test-topvorm.apeldoorn.nl
@@ -1986,6 +1985,7 @@ https://apps.vught.nl
 https://apps.waalre.nl
 https://apps.waddinxveen.nl
 https://apps.wageningen.nl
+https://apps.zeist.nl
 https://apps.zuidplas.nl
 https://apv-broker.heuvelrug.nl
 https://apv-broker.preprod.heuvelrug.nl
@@ -2178,7 +2178,6 @@ https://beeldbank-bo.goirle.nl
 https://beeldbank-bo.leeuwarden.nl
 https://beeldbank-bo.rotterdam.nl
 https://beeldbank-bo.zaanstad.nl
-https://beeldbank-bo.zeist.nl
 https://beeldbank.amstelveen.nl
 https://beeldbank.baarn.nl
 https://beeldbank.breda.nl
@@ -2202,7 +2201,6 @@ https://beeldbank.tilburg.nl
 https://beeldbank.veldhoven.nl
 https://beeldbank.waalwijk.nl
 https://beeldbank.zaanstad.nl
-https://beeldbank.zeist.nl
 https://beeldbankbeheer.gemeentebest.nl
 https://beeldbankbeheer.haarlemmermeer.nl
 https://beeldbankbeheer.loonopzand.nl
@@ -3673,7 +3671,6 @@ https://edienstenburgerzaken.wormerland.nl
 https://edienstenburgerzaken.woudenberg.nl
 https://edienstenburgerzaken.zaanstad.nl
 https://edienstenburgerzaken.zeewolde.nl
-https://edienstenburgerzaken.zeist.nl
 https://edienstenburgerzaken.zevenaar.nl
 https://edienstenburgerzaken.zoeterwoude.nl
 https://edienstenburgerzaken.zwijndrecht.nl
@@ -4406,7 +4403,6 @@ https://geoinformatie.denhaag.nl
 https://geoinformatie.dongen.nl
 https://geoinformatie.test.denhaag.nl
 https://geoloket.heumen.nl
-https://geoloket.zeist.nl
 https://geoplaza.noordoostpolder.nl
 https://geopoort.zwolle.nl
 https://geoportaal.enschede.nl
@@ -4868,7 +4864,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.zeist.nl
 https://ibzpink.zoetermeer.nl
 https://ibzpink.zundert.nl
 https://ibzpink.zutphen.nl
@@ -8660,7 +8655,6 @@ https://veiligdelen.schagen.nl
 https://veiligdelen.staphorst.nl
 https://veiligdelen.stichtsevecht.nl
 https://veiligdelen.westmaasenwaal.nl
-https://veiligdelen.zeist.nl
 https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://veiligmailen.koggenland.nl

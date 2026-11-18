@@ -1946,6 +1946,7 @@ apps.vught.nl
 apps.waalre.nl
 apps.waddinxveen.nl
 apps.wageningen.nl
+apps.zeist.nl
 apps.zuidplas.nl
 apv-broker.heuvelrug.nl
 apv-broker.preprod.heuvelrug.nl
@@ -2591,7 +2592,6 @@ beeldbank-bo.goirle.nl
 beeldbank-bo.leeuwarden.nl
 beeldbank-bo.rotterdam.nl
 beeldbank-bo.zaanstad.nl
-beeldbank-bo.zeist.nl
 beeldbank.amstelveen.nl
 beeldbank.baarn.nl
 beeldbank.breda.nl
@@ -2617,7 +2617,6 @@ beeldbank.tilburg.nl
 beeldbank.veldhoven.nl
 beeldbank.waalwijk.nl
 beeldbank.zaanstad.nl
-beeldbank.zeist.nl
 beeldbankbeheer.gemeentebest.nl
 beeldbankbeheer.haarlemmermeer.nl
 beeldbankbeheer.loonopzand.nl
@@ -6527,7 +6526,6 @@ geokoppeling-t.soest.nl
 geokoppeling.debilt.nl
 geokoppeling.soest.nl
 geoloket.heumen.nl
-geoloket.zeist.nl
 geoplaza.noordoostpolder.nl
 geopoort.zwolle.nl
 geoportaal.enschede.nl
@@ -12073,6 +12071,7 @@ raad.vijfheerenlanden.nl
 raad.westerkwartier.nl
 raad.westervoort.nl
 raad.wijkbijduurstede.nl
+raad.zeist.nl
 raad.zevenaar.nl
 raad.zoetermeer.nl
 raad.zutphen.nl
@@ -14571,7 +14570,6 @@ veiligdelen.schagen.nl
 veiligdelen.staphorst.nl
 veiligdelen.stichtsevecht.nl
 veiligdelen.westmaasenwaal.nl
-veiligdelen.zeist.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
