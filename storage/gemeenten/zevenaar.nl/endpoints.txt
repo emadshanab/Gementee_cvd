@@ -1,7 +1,6 @@
 http://autodiscover.raad.zevenaar.nl
 http://autodiscover.zevenaar.nl
 https://acceptatiebelastingen.zevenaar.nl
-https://afspraken.zevenaar.nl
 https://belastingen.zevenaar.nl
 https://broker.zevenaar.nl
 https://cmsoo.zevenaar.nl

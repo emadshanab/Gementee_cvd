@@ -1652,7 +1652,6 @@ https://afspraken.veendam.nl
 https://afspraken.weert.nl
 https://afspraken.westerwolde.nl
 https://afspraken.winterswijk.nl
-https://afspraken.zevenaar.nl
 https://afspraken.zwolle.nl
 https://afspraken2.gorinchem.nl
 https://afsprakeng.waterland.nl
