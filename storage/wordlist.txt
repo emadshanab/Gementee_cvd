@@ -228,7 +228,6 @@ mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
 www.gemeenteraad
-mobile
 ro
 inproces.acceptatie
 vth
@@ -259,6 +258,7 @@ jccapi
 jcc
 fs
 legacy
+mobile
 jongin
 www.jongin
 citrix
@@ -270,7 +270,6 @@ outlook
 squit2020
 afspraakmaken
 www.intranet
-kcc
 mx2
 mobiel
 drop
@@ -311,6 +310,7 @@ bestanden
 squit2020.acceptatie
 telewerken
 vergunningen
+kcc
 aeolus
 radius
 mijnsociaaldomein
@@ -1357,6 +1357,7 @@ egemeente
 acc-open
 szc
 intern
+test-topdesk
 statistieken
 edienstenburgerzaken3
 content
@@ -6756,7 +6757,6 @@ simcms-vitaal
 staging.archief
 staging.buurtbudget-buurt
 staging.buurtbudget
-test-topdesk
 vitaal
 welstand
 werkplein
@@ -7353,8 +7353,11 @@ mycorsanxt-prod
 mycorsanxt-test
 acctest
 zs-accept
+aanvragenbijstand-preprod
+aanvragenbijstand
 aiz
 beeldbellen
+bo
 enzo
 enzobeheer
 horizon
@@ -7362,12 +7365,19 @@ inwonerportaal-test
 inwonerportaal
 inwonersportaal-preprod
 inwonersportaal
+jvs2
+jvstest
 lliam-test
 lliam
 opendata-contrast
+postex-dkd
+postex-dkdtest
+simaccess
+simcms-bo
 simcms-raad
 stadsatlas-contrast
 stadsatlas
+test.horizon
 ddsaansluiting
 gbaservices
 medewerkersportal

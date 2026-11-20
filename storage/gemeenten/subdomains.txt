@@ -220,6 +220,8 @@ aanvraagparkerenacc.groningen.nl
 aanvraagstaging.waalwijk.nl
 aanvragen.alkmaar.nl
 aanvragen.zoetermeer.nl
+aanvragenbijstand-preprod.zoetermeer.nl
+aanvragenbijstand.zoetermeer.nl
 aanvragenpreprod.hillegom.nl
 aanvragenpreprod.lisse.nl
 aanvragenpreprod.teylingen.nl
@@ -1117,6 +1119,7 @@ acceptatie.waadhoeke.nl
 acceptatie.waalwijk.nl
 acceptatie.westbetuwe.nl
 acceptatie.winterswijk.nl
+acceptatie.zoetermeer.nl
 acceptatie.zoeterwoude.nl
 acceptatie.zundert.nl
 acceptatie.zutphen.nl
@@ -2374,6 +2377,7 @@ autodiscover.woerden.nl
 autodiscover.zaltbommel.nl
 autodiscover.zeist.nl
 autodiscover.zevenaar.nl
+autodiscover.zoetermeer.nl
 autodiscover.zoeterwoude.nl
 autodiscover.zuidplas.nl
 autodiscover.zutphen.nl
@@ -3163,6 +3167,7 @@ bo-parkeervergunningen.acc.denhaag.nl
 bo-parkeervergunningen.acc.utrecht.nl
 bo-parkeervergunningen.denhaag.nl
 bo-parkeervergunningen.utrecht.nl
+bo.zoetermeer.nl
 bo378264vt3ljb1spjutf3vjkc8gi8v4.westmaasenwaal.nl
 boa.amsterdam.nl
 boc-parkeervergunningen-acc.purmerend.nl
@@ -8151,6 +8156,8 @@ jt5ernmup8kgtd5o44mjpr95qeet7s0m.westvoorne.nl
 jvs-prod.gemeente-steenbergen.nl
 jvs-test.gemeente-steenbergen.nl
 jvs.goirle.nl
+jvs2.zoetermeer.nl
+jvstest.zoetermeer.nl
 jzd-test.hethogeland.nl
 jzd.hethogeland.nl
 k1._domainkey.bergendal.nl
@@ -8265,7 +8272,6 @@ kcc.nunspeet.nl
 kcc.oegstgeest.nl
 kcc.pijnacker-nootdorp.nl
 kcc.soest.nl
-kcc.zoetermeer.nl
 kcc.zwolle.nl
 kcsburgerzaken.nissewaard.nl
 kcslive.utrecht.nl
@@ -9811,7 +9817,6 @@ mobile.gemeentewestland.nl
 mobile.gilzerijen.nl
 mobile.huizen.nl
 mobile.lochem.nl
-mobile.zoetermeer.nl
 mobile.zwolle.nl
 mobilemail.rheden.nl
 mobilemailtest.rheden.nl
@@ -11409,6 +11414,8 @@ postbus.huizen.nl
 postbus.t-diel.nl
 postbus1.huizen.nl
 postcodezoektool.rotterdam.nl
+postex-dkd.zoetermeer.nl
+postex-dkdtest.zoetermeer.nl
 postex-ssd-prod.landvancuijk.nl
 postex-ssd-test.landvancuijk.nl
 postex.heusden.nl
@@ -12751,8 +12758,10 @@ siem2.hethogeland.nl
 sigmax-acc.zutphen.nl
 sim-prefill.doesburg.nl
 sim-preproductie.doesburg.nl
+simaccess.zoetermeer.nl
 simcms-armoedepact.westerkwartier.nl
 simcms-begraafplaatsduinrust.beverwijk.nl
+simcms-bo.zoetermeer.nl
 simcms-centrum.heerlen.nl
 simcms-centrumimpuls.geldrop-mierlo.nl
 simcms-cjg.scherpenzeel.nl
@@ -13979,6 +13988,7 @@ test-subsidiebeheer.zwolle.nl
 test-subsidieloket.alkmaar.nl
 test-subsidieloket.zwolle.nl
 test-topdesk.venlo.nl
+test-topdesk.zoetermeer.nl
 test-topicus.sudwestfryslan.nl
 test-topvorm.apeldoorn.nl
 test-trefpunt.deurne.nl
@@ -14035,6 +14045,7 @@ test.hellendoorn.nl
 test.helmond.nl
 test.heuvelrug.nl
 test.hoorn.nl
+test.horizon.zoetermeer.nl
 test.kampen.nl
 test.lab.tod.leiden.nl
 test.leiden.nl

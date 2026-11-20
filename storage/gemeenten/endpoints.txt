@@ -298,6 +298,7 @@ http://autodiscover.woerden.nl
 http://autodiscover.zaltbommel.nl
 http://autodiscover.zeist.nl
 http://autodiscover.zevenaar.nl
+http://autodiscover.zoetermeer.nl
 http://autodiscover.zoeterwoude.nl
 http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
@@ -415,6 +416,7 @@ http://felix.renswoude.nl
 http://felix.schiermonnikoog.nl
 http://felix.westmaasenwaal.nl
 http://felix.wierden.nl
+http://felix.zoetermeer.nl
 http://felix.zuidplas.nl
 http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
@@ -484,7 +486,6 @@ http://melddesk-test.renkum.nl
 http://melddesk.renkum.nl
 http://mijn-preproductie.goeree-overflakkee.nl
 http://mijn.heemskerk.nl
-http://mijn.zoetermeer.nl
 http://mijn.zwartewaterland.nl
 http://mijnafspraak.scherpenzeel.nl
 http://mijnmail.zaanstad.nl
@@ -517,6 +518,7 @@ http://open.oirschot.nl
 http://open.roerdalen.nl
 http://open.staphorst.nl
 http://open.urk.nl
+http://open.zoetermeer.nl
 http://openklant.groningen.nl
 http://opennotificaties-zgw.acc.denhaag.nl
 http://openzaakbrug-zgw.test.denhaag.nl
@@ -853,6 +855,8 @@ https://aanvraag.waalwijk.nl
 https://aanvraagparkeren.groningen.nl
 https://aanvraagparkerenacc.groningen.nl
 https://aanvraagstaging.waalwijk.nl
+https://aanvragenbijstand-preprod.zoetermeer.nl
+https://aanvragenbijstand.zoetermeer.nl
 https://aanvragenpreprod.hillegom.nl
 https://aanvragenpreprod.lisse.nl
 https://aanvragenpreprod.teylingen.nl
@@ -2593,6 +2597,7 @@ https://blik.zwolle.nl
 https://bloemendaal.nl
 https://blog.landvancuijk.nl
 https://bmidms.amsterdam.nl
+https://bo.zoetermeer.nl
 https://bodegraven-reeuwijk.nl
 https://bodemdossier-t.enschede.nl
 https://bodemdossier.enschede.nl
@@ -4016,7 +4021,6 @@ https://felix.vlissingen.nl
 https://felix.waalwijk.nl
 https://felix.weststellingwerf.nl
 https://felix.winterswijk.nl
-https://felix.zoetermeer.nl
 https://felix.zwartewaterland.nl
 https://felix3.winterswijk.nl
 https://felixv.winterswijk.nl
@@ -4863,7 +4867,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.zoetermeer.nl
 https://ibzpink.zundert.nl
 https://ibzpink.zutphen.nl
 https://ibzpink.zwartewaterland.nl
@@ -5107,7 +5110,6 @@ https://introcms.roermond.nl
 https://intunevpn.meppel.nl
 https://inwonerportaal-test.zoetermeer.nl
 https://inwonerportaal.zoetermeer.nl
-https://inwonersportaal-preprod.zoetermeer.nl
 https://inwonersportaal.zoetermeer.nl
 https://inzagecleopatra.rotterdam.nl
 https://inzamelkalender.arnhem.nl
@@ -6027,6 +6029,7 @@ https://mijn.weststellingwerf.nl
 https://mijn.wijkbijduurstede.nl
 https://mijn.zaltbommel.nl
 https://mijn.zeist.nl
+https://mijn.zoetermeer.nl
 https://mijn.zuidplas.nl
 https://mijn.zutphen.nl
 https://mijn.zwolle.nl
@@ -6693,7 +6696,6 @@ https://open.woerden.nl
 https://open.woo.tiel.nl
 https://open.woo.westbetuwe.nl
 https://open.zaanstad.nl
-https://open.zoetermeer.nl
 https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
 https://openbaarmakingen.hardenberg.nl
@@ -7791,6 +7793,7 @@ https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-begraafplaatsduinrust.beverwijk.nl
+https://simcms-bo.zoetermeer.nl
 https://simcms-centrum.heerlen.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-data.westerkwartier.nl
@@ -7940,7 +7943,6 @@ https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
 https://simsite.westmaasenwaal.nl
 https://simsite.weststellingwerf.nl
-https://simsite.zoetermeer.nl
 https://simsite.zuidplas.nl
 https://simsite9.westvoorne.nl
 https://sint-agatha.landvancuijk.nl
@@ -9776,6 +9778,7 @@ https://www.zeewolde.nl
 https://www.zeist.nl
 https://www.zevenaar.nl
 https://www.zkd.denhaag.nl
+https://www.zoetermeer.nl
 https://www.zoeterwoude.nl
 https://www.zorgzaam.soest.nl
 https://www.zundert.nl
@@ -9929,7 +9932,6 @@ https://zoeken.woo.tiel.nl
 https://zoeken.woo.westbetuwe.nl
 https://zoekengemeentearchief.gemeentehulst.nl
 https://zoekpersoon.vlaardingen.nl
-https://zoetermeer.nl
 https://zoeterwoude.nl
 https://zonneparking.doemee.bloemendaal.nl
 https://zonneparking.doemee.heemstede.nl
