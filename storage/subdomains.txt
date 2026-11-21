@@ -171,7 +171,6 @@ _dmarc.mail.rotterdam.nl
 _dmarc.nederweert.nl
 _dmarc.nieuwegein.nl
 _dmarc.vijfheerenlanden.nl
-_dmarc.zoeterwoude.nl
 _sip._tcp.lelystad.nl
 _sip._udp.lelystad.nl
 _sips._tcp.lelystad.nl
@@ -14095,6 +14094,7 @@ test.website.westland.gemeentewestland.nl
 test.westerwolde.nl
 test.winterswijk.nl
 test.zaltbommel.nl
+test.zoeterwoude.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
 testafspraken.peelenmaas.nl
