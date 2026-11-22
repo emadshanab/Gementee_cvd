@@ -235,6 +235,7 @@ testloket
 mx1
 www.portal
 mijn-preproductie
+cloudadapter-prod
 kennisbank
 praatmee
 wachtwoord
@@ -272,7 +273,6 @@ www.intranet
 mx2
 mobiel
 drop
-cloudadapter-prod
 handhaving
 m
 idp
@@ -7380,6 +7380,7 @@ stadsatlas
 test.horizon
 ddsaansluiting
 gbaservices
+indienstbij
 medewerkersportal
 melddeskapp
 mmiprod

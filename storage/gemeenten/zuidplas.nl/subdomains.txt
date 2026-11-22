@@ -2,6 +2,7 @@ afspraken.zuidplas.nl
 apps.zuidplas.nl
 autodiscover.zuidplas.nl
 berichten.zuidplas.nl
+cloudadapter-prod.zuidplas.nl
 cloudadapter-test.zuidplas.nl
 cloudadapter.zuidplas.nl
 ddsaansluiting.zuidplas.nl
@@ -9,6 +10,7 @@ felix.zuidplas.nl
 gbaservices.zuidplas.nl
 hybrid1.zuidplas.nl
 hybrid2.zuidplas.nl
+indienstbij.zuidplas.nl
 klantcontact.zuidplas.nl
 live.zuidplas.nl
 medewerkersportal.zuidplas.nl

@@ -417,7 +417,6 @@ http://felix.schiermonnikoog.nl
 http://felix.westmaasenwaal.nl
 http://felix.wierden.nl
 http://felix.zoetermeer.nl
-http://felix.zuidplas.nl
 http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
 http://felixpdc.doesburg.nl
@@ -519,6 +518,7 @@ http://open.roerdalen.nl
 http://open.staphorst.nl
 http://open.urk.nl
 http://open.zoetermeer.nl
+http://open.zuidplas.nl
 http://openklant.groningen.nl
 http://opennotificaties-zgw.acc.denhaag.nl
 http://openzaakbrug-zgw.test.denhaag.nl
@@ -778,7 +778,6 @@ http://zgw.denhaag.nl
 http://zgw3.denhaag.nl
 http://zomerprogramma070.denhaag.nl
 http://zorgloket.druten.nl
-http://zuidplas.nl
 https://03n0vk8jej1lekmloqisfpidndjnngsk.westvoorne.nl
 https://0k3j5b6q9i34f48eki81baiglnhdqp20.westvoorne.nl
 https://0om8hs0cvihhl9jhfflab00nhdt3l355.westvoorne.nl
@@ -4021,6 +4020,7 @@ https://felix.vlissingen.nl
 https://felix.waalwijk.nl
 https://felix.weststellingwerf.nl
 https://felix.winterswijk.nl
+https://felix.zuidplas.nl
 https://felix.zwartewaterland.nl
 https://felix3.winterswijk.nl
 https://felixv.winterswijk.nl
@@ -4950,6 +4950,7 @@ https://impactmeter.kampen.nl
 https://indica-acc.amsterdam.nl
 https://indienst.almere.nl
 https://indienst.wageningen.nl
+https://indienstbij.zuidplas.nl
 https://info.sudwestfryslan.nl
 https://infoopkaart.steenwijkerland.nl
 https://infoplein.oosterhout.nl
@@ -9781,6 +9782,7 @@ https://www.zkd.denhaag.nl
 https://www.zoetermeer.nl
 https://www.zoeterwoude.nl
 https://www.zorgzaam.soest.nl
+https://www.zuidplas.nl
 https://www.zundert.nl
 https://www.zutphen.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
