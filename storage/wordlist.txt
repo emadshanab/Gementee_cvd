@@ -1024,6 +1024,7 @@ binnenstad
 devapps3
 jongerenloket
 mailings
+pop
 vvv
 www.staging
 zorgaanbieders
@@ -3061,7 +3062,6 @@ openbareruimte
 oranjekwartier
 podiumd-pabc
 podiumd-podiumd-logs
-pop
 pveopenbareruimte
 pveopenbareruiomte
 qcalendar
