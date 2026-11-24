@@ -6,6 +6,8 @@ autodiscover.test.zutphen.nl
 autodiscover.zutphen.nl
 bgt.zutphen.nl
 bor.zutphen.nl
+bzg1.zutphen.nl
+cjg.zutphen.nl
 clearpass.zutphen.nl
 cloudadapter-prod.zutphen.nl
 cloudadapter-test.zutphen.nl
@@ -42,9 +44,11 @@ sjaak.test.zutphen.nl
 sjaak.zutphen.nl
 staging.zutphen.nl
 szc.zutphen.nl
+test.zutphen.nl
 voice.zutphen.nl
 webmail.zutphen.nl
 www.leestenschouwbroek.zutphen.nl
+www.openbaartoilet.zutphen.nl
 www.zutphen.nl
 zaaksysteem-accept.zutphen.nl
 zutphen.nl

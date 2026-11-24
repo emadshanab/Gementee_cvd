@@ -4867,7 +4867,6 @@ https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
 https://ibzpink.beuningen.nl
 https://ibzpink.bladel.nl
-https://ibzpink.zutphen.nl
 https://ibzpink.zwartewaterland.nl
 https://ibzpink.zwolle.nl
 https://ict.gemeentesluis.nl
@@ -6699,7 +6698,6 @@ https://open.zaanstad.nl
 https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
 https://openbaarmakingen.hardenberg.nl
-https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
 https://opendata-contrast.zoetermeer.nl
 https://opendata.arnhem.nl
@@ -9462,7 +9460,6 @@ https://www.landsmeer.nl
 https://www.landvancuijk.nl
 https://www.lansingerland.nl
 https://www.laren.nl
-https://www.leestenschouwbroek.zutphen.nl
 https://www.leeuwarden.nl
 https://www.leiderdorp.nl
 https://www.leidschendam-voorburg.nl

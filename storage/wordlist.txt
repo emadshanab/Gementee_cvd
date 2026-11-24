@@ -497,6 +497,7 @@ parkeren-siam-test
 collecties
 inproces.test
 subsidies-login.acceptatie
+cjg
 edison
 klantportaal
 mfa
@@ -557,6 +558,7 @@ www.vpn
 ons
 rxlaunch-signicat-preprod
 vthbroker
+bzg1
 digitaal
 git
 teleweb
@@ -657,7 +659,6 @@ suite4burgerzaken-prod
 buitenoporde
 preprod-mijnportaal
 storefront
-cjg
 geoinformatie
 lvs
 octopus-acc
@@ -765,7 +766,6 @@ portaltest
 sera
 anyconnect
 bzg1-acc
-bzg1
 key2datadistributie
 vacatures
 monitoring
@@ -7406,6 +7406,7 @@ sigmax-acc
 sjaak.test
 sjaak
 www.leestenschouwbroek
+www.openbaartoilet
 digik
 zwijndrecht-checker-preprod
 zwijndrecht-checker

@@ -3409,6 +3409,7 @@ bzg1-acc.twenterand.nl
 bzg1.heerlen.nl
 bzg1.hilversum.nl
 bzg1.vaals.nl
+bzg1.zutphen.nl
 c1m45rk7escl2bfp1q4va1nmfirdetks.westvoorne.nl
 c2c-tst.gemeente.groningen.nl
 c2c.gemeente.groningen.nl
@@ -3517,6 +3518,7 @@ civision.werkeninkomen.amsterdam.nl
 cjg.denhaag.nl
 cjg.olst-wijhe.nl
 cjg.scherpenzeel.nl
+cjg.zutphen.nl
 classifai.meppel.nl
 clear-tst.groningen.nl
 clear.groningen.nl
@@ -14099,6 +14101,7 @@ test.winterswijk.nl
 test.zaltbommel.nl
 test.zoeterwoude.nl
 test.zundert.nl
+test.zutphen.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
 testafspraken.peelenmaas.nl
@@ -16418,6 +16421,7 @@ www.open.denhaag.nl
 www.open.haarlem.nl
 www.open.rhenen.nl
 www.open.zandvoort.nl
+www.openbaartoilet.zutphen.nl
 www.openstad.apeldoorn.nl
 www.openstad.deventer.nl
 www.openstad.gemeentewestland.nl
