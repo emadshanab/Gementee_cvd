@@ -1,10 +1,13 @@
 afspraken.zwartewaterland.nl
+av.zwartewaterland.nl
 digik.zwartewaterland.nl
 felix.zwartewaterland.nl
 iburgerzaken.zwartewaterland.nl
 ibzpink.zwartewaterland.nl
 intranet.zwartewaterland.nl
 joinconnect.zwartewaterland.nl
+kaarten.test.zwartewaterland.nl
+kaarten.zwartewaterland.nl
 mail.zwartewaterland.nl
 mailgate.zwartewaterland.nl
 mijn.zwartewaterland.nl
@@ -19,5 +22,6 @@ simcms-open.zwartewaterland.nl
 simcms.zwartewaterland.nl
 simsite.zwartewaterland.nl
 vpn.zwartewaterland.nl
+web.zwartewaterland.nl
 www.zwartewaterland.nl
 zwartewaterland.nl

@@ -2407,6 +2407,7 @@ autorisatiebeheer.voerendaal.nl
 autorisatiebeheere.voerendaal.nl
 autorisatiebeheertest.simpelveld.nl
 av.alkmaar.nl
+av.zwartewaterland.nl
 avedge.zwolle.nl
 avproxy.vga.amsterdam.nl
 awg.haarlem.nl
@@ -8225,11 +8226,13 @@ kaarten.rijssen-holten.nl
 kaarten.sint-michielsgestel.nl
 kaarten.stichtsevecht.nl
 kaarten.sudwestfryslan.nl
+kaarten.test.zwartewaterland.nl
 kaarten.veendam.nl
 kaarten.veldhoven.nl
 kaarten.venlo.nl
 kaarten.westervoort.nl
 kaarten.zevenaar.nl
+kaarten.zwartewaterland.nl
 kaarten2.gemeentewestland.nl
 kaartlaag.rotterdam.nl
 kaartviewer.barneveld.nl
@@ -15001,6 +15004,7 @@ web.renswoude.nl
 web.roosendaal.nl
 web.sliedrecht.nl
 web.vlaardingen.nl
+web.zwartewaterland.nl
 web.zwijndrecht.nl
 web001.waterland.nl
 web01.deventer.nl
