@@ -1,4 +1,6 @@
 http://autodiscover.zwijndrecht.nl
+http://connect.acceptatie.zwijndrecht.nl
+http://connect.zwijndrecht.nl
 https://api.betalen.zwijndrecht.nl
 https://betalen.zwijndrecht.nl
 https://college.zwijndrecht.nl
@@ -12,10 +14,8 @@ https://gisibgeoserver-test.zwijndrecht.nl
 https://gisibgeoserver.zwijndrecht.nl
 https://loket.acceptatie.zwijndrecht.nl
 https://loket.zwijndrecht.nl
-https://parkeeracties-test.zwijndrecht.nl
 https://parkeeracties.zwijndrecht.nl
 https://parkeren-siam.zwijndrecht.nl
-https://parkeren-test.zwijndrecht.nl
 https://parkeren.zwijndrecht.nl
 https://raad.zwijndrecht.nl
 https://rxlaunch-signicat-preprod.zwijndrecht.nl

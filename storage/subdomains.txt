@@ -1122,6 +1122,7 @@ acceptatie.zoetermeer.nl
 acceptatie.zoeterwoude.nl
 acceptatie.zundert.nl
 acceptatie.zutphen.nl
+acceptatie.zwijndrecht.nl
 acceptatiebelastingen.duiven.nl
 acceptatiebelastingen.westervoort.nl
 acceptatiebelastingen.zevenaar.nl
@@ -3802,6 +3803,7 @@ connect.acceptatie.sliedrecht.nl
 connect.acceptatie.steenwijkerland.nl
 connect.acceptatie.winterswijk.nl
 connect.acceptatie.zutphen.nl
+connect.acceptatie.zwijndrecht.nl
 connect.almere.nl
 connect.coevorden.nl
 connect.dantumadiel.frl
@@ -3831,6 +3833,7 @@ connect.test.winterswijk.nl
 connect.texel.nl
 connect.veendam.nl
 connect.winterswijk.nl
+connect.zwijndrecht.nl
 connecte.acceptatie.winterswijk.nl
 connecto.winterswijk.nl
 connecty.test.winterswijk.nl

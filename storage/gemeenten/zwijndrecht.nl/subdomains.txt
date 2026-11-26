@@ -1,7 +1,10 @@
+acceptatie.zwijndrecht.nl
 api.betalen.zwijndrecht.nl
 autodiscover.zwijndrecht.nl
 betalen.zwijndrecht.nl
 college.zwijndrecht.nl
+connect.acceptatie.zwijndrecht.nl
+connect.zwijndrecht.nl
 edienstenburgerzaken-test.zwijndrecht.nl
 edienstenburgerzaken.zwijndrecht.nl
 gisib-test.zwijndrecht.nl

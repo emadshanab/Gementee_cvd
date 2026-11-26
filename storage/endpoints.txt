@@ -361,8 +361,10 @@ http://connect.acceptatie.goirle.nl
 http://connect.acceptatie.hardinxveld-giessendam.nl
 http://connect.acceptatie.papendrecht.nl
 http://connect.acceptatie.sliedrecht.nl
+http://connect.acceptatie.zwijndrecht.nl
 http://connect.papendrecht.nl
 http://connect.sliedrecht.nl
+http://connect.zwijndrecht.nl
 http://consul.midden-groningen.nl
 http://contactregistratie.acc.amsterdam.nl
 http://contactregistratie.amsterdam.nl
@@ -6892,7 +6894,6 @@ https://papendrecht-checker.papendrecht.nl
 https://papendrecht.nl
 https://parkeerabonnementen.breda.nl
 https://parkeeracties-test.dijkenwaard.nl
-https://parkeeracties-test.zwijndrecht.nl
 https://parkeeracties.dijkenwaard.nl
 https://parkeeracties.valkenswaard.nl
 https://parkeeracties.wageningen.nl
@@ -6946,7 +6947,6 @@ https://parkeren-test.meppel.nl
 https://parkeren-test.rijswijk.nl
 https://parkeren-test.venlo.nl
 https://parkeren-test.zaanstad.nl
-https://parkeren-test.zwijndrecht.nl
 https://parkeren.almelo.nl
 https://parkeren.apeldoorn.nl
 https://parkeren.assen.nl

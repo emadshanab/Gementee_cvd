@@ -13,8 +13,8 @@ mail
 digikoppeling
 preproductie
 simcms
-afspraken
 acceptatie
+afspraken
 secure
 felix
 open
@@ -78,6 +78,7 @@ login
 preprodbroker
 flowmailer-tracking
 hybrid
+connect
 beeldbank
 acc-notificaties
 acc-objecten
@@ -88,7 +89,6 @@ keycloak
 notificaties
 simcms-open
 _autodiscover._tcp
-connect
 abc
 acc-abc
 acc-contact
@@ -127,6 +127,7 @@ belastingloket
 samen
 pki
 dtestloket
+connect.acceptatie
 subsidies
 duurzaam
 siam
@@ -134,7 +135,6 @@ financien
 bgt
 extranet
 fmreturn
-connect.acceptatie
 vergunningintaker
 snelbalie
 bastion365
