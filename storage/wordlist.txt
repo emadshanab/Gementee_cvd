@@ -28,8 +28,8 @@ eloket
 werkplek
 meldingen
 dkd
-broker
 acc
+broker
 api.meldingen
 portal
 afspraak
@@ -121,6 +121,7 @@ parkeren-test
 digikoppeling.test
 apps
 parkeren-acc
+fmreturn
 piwik
 mks
 belastingloket
@@ -134,7 +135,6 @@ siam
 financien
 bgt
 extranet
-fmreturn
 acc-pabc
 vergunningintaker
 snelbalie
@@ -317,6 +317,7 @@ radius
 mijnsociaaldomein
 gateway
 pabc
+atlas
 midoffice
 participatie
 geovisia
@@ -376,7 +377,6 @@ testsiam
 mail1
 ns
 wion
-atlas
 app
 beheer
 belastingbalie-acc
@@ -1376,6 +1376,7 @@ waarmerkl
 opentunnel
 swt
 testbelastingen
+atlas-acc
 webapps
 email.mail.participatie
 mail.participatie

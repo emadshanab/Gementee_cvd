@@ -2,10 +2,12 @@ http://autodiscover.aaenhunze.nl
 https://aaenhunze.nl
 https://api.meldingen-acc.aaenhunze.nl
 https://api.meldingen.aaenhunze.nl
+https://atlas-acc.aaenhunze.nl
+https://atlas.aaenhunze.nl
 https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
+https://fmreturn.aaenhunze.nl
 https://iburgerzaken.aaenhunze.nl
-https://ibzpink.aaenhunze.nl
 https://inloggen.belastingportaal.aaenhunze.nl
 https://inloggen.belastingportaal.acc.aaenhunze.nl
 https://loket.aaenhunze.nl

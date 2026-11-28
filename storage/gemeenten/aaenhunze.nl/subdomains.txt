@@ -1,10 +1,15 @@
 aaenhunze.nl
+acc.aaenhunze.nl
+acceptatie.aaenhunze.nl
 api.meldingen-acc.aaenhunze.nl
 api.meldingen.aaenhunze.nl
+atlas-acc.aaenhunze.nl
+atlas.aaenhunze.nl
 autodiscover.aaenhunze.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
 digikoppeling.aaenhunze.nl
+fmreturn.aaenhunze.nl
 geo.aaenhunze.nl
 iburgerzaken.aaenhunze.nl
 ibzpink.aaenhunze.nl
